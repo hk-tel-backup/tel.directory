@@ -1,0 +1,569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML lang="zh-hk"><HEAD><TITLE>決策局 / 部門 / 有關機構之目錄 - 電話表</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<link type="text/css" rel="stylesheet" href="./css/reset.css">
+<link type="text/css" rel="stylesheet" href="./css/common.css">
+<link type="text/css" rel="stylesheet" href="./css/style.css">
+<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
+<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
+<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
+<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
+<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
+<script type="text/JavaScript" src="./js/jquery.js"></script>
+<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
+<script type="text/JavaScript" src="./js/gtd.js"></script>
+</HEAD>
+<BODY class="chi">
+<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
+<table id="tbl_header">
+<tr>
+	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
+	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
+	<td class="col_lang"><a href='index_ENG.html' title="Display In English">English</a></td>
+</tr>
+</table>   
+<TABLE id="tbl_menu_bar">
+  <TBODY>
+  <TR>
+    <td class="col_logo">
+    <IMG alt="政府資訊中心" 
+      src="images/hksar2.gif" width="45" height="41"></td>
+    <TD>
+    <div id="menu_tab">
+    <ul>
+    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title="姓名搜尋">姓名搜尋</a></li>
+    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title="查詢搜尋">查詢搜尋</a></li>
+    	<li><a href="index_CHI.html" class="active" title="電話表">電話表</a></li>
+    </ul>
+    </div>    
+    </TD>
+    <td>
+    	<div id="menu_toolbar">
+	    	<ul>
+	    		<li>
+					<div id="mycolorPos">
+						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
+						<div id="mycolorDiv">
+							<table>
+								<tr>
+									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
+									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
+									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
+									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
+								</tr>
+							</table>
+						</div>
+					</div>
+	    		</li>
+	    		<li style="margin-right:15px;">										    			
+					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
+					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
+					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
+	    		</li>
+	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title="免責聲明">免責聲明</a></li>
+	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title="版權公告">版權公告</a></li>
+	    	</ul>
+    	</div>
+    </td>    
+    </TR></TBODY>
+</TABLE>
+<div class="offscreen"><a name="skipToContent"></a></div>
+<div id="content_container">
+<TABLE id="tbl_dept_header">
+  <TBODY>
+  <TR>
+    <TD class="col1"></TD>
+    <TD class="col2"></TD>
+  </TR>
+  <TR>
+    <TD></TD>
+    <TD><span class="title">決策局 / 部門 / 有關機構 之目錄</span></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD>如果您想查看決策局 / 部門 / 
+    有關機構的電話表，請您在其名字上按滑鼠左鍵。</TD></TR>
+ 
+<!-- Merger Notices -->
+<!--
+  <TR>
+    <TD Wrap>&nbsp;</TD>
+    <TD Wrap><p><strong><font color="#FF0000"><u></u><br><br></font></strong></p>
+    <p>&nbsp;</TD></TR>
+-->
+<!-- End -->
+ 
+</TBODY>
+</TABLE>
+<div id="div_tbl_dept_list">
+<TABLE id="tbl_dept_list">
+  <TBODY>
+  <TR>
+    <TD class="list_no"><strong>1.</strong></TD>
+    <TD><strong><A 
+      href="index_CEO_CHI.html">行政長官辦公室</A></strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:17px;"></TD></TR>
+  <TR>
+    <TD><strong>2.</strong></TD>
+    <TD><strong>政府總部</strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CSPO_CHI.html">政務司司長私人辦公室</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_FSPO_CHI.html">財政司司長私人辦公室</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="0250000002_CHI.html">律政司司長辦公室</A></TD></TR>
+  <TR>
+    <TD></TD>	
+    <TD><A 
+      href="index_PICO_CHI.html">政策創新與統籌辦事處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CSO_CHI.html">政務司司長辦公室 (包括 行政署)</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CSB_CHI.html">公務員事務局 (包括 一般職系處)</A></TD></TR>      
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CEDB_CHI.html">商務及經濟發展局 (包括 創意香港、旅遊事務署 及 旅行代理商註冊處)</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CMAB_CHI.html">政制及內地事務局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_DEVB_CHI.html">發展局</A></TD></TR>      
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_EDB_CHI.html">教育局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_ENB_CHI.html">環境局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_FSO_CHI.html">財政司司長辦公室 
+      (包括 政府經濟顧問辦公室 及 稅務政策組)</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_FSTB_CHI.html">財經事務及庫務局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_FHB_CHI.html">食物及衞生局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HAB_CHI.html">民政事務局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_ITB_CHI.html">創新及科技局 (包括 創新科技署、政府資訊科技總監辦公室 及 效率促進辦公室)</A></TD></TR>	  
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LWB_CHI.html">勞工及福利局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A href="index_SB_CHI.html">保安局 
+      (包括 禁毒處)</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A href="index_THB_CHI.html">運輸及房屋局</A></TD></TR>      
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>
+  <TR>
+    <TD><strong>3.</strong></TD>
+    <TD><strong>政府各部門</strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_AFCD_CHI.html">漁農自然護理署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_ARCHSD_CHI.html">建築署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_AUDC_CHI.html">審計署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_AMS_CHI.html">醫療輔助隊</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_BD_CHI.html">屋宇署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_C&amp;SD_CHI.html">政府統計處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CAS_CHI.html">民眾安全服務處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CAD_CHI.html">民航處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CEDD_CHI.html">土木工程拓展署 (包括 礦務部)</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CR_CHI.html">公司註冊處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CSD_CHI.html">懲教署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_C&amp;ED_CHI.html">香港海關</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_DSD_CHI.html">渠務署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_EMSD_CHI.html">機電工程署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_EPD_CHI.html">環境保護署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_FSD_CHI.html">消防處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_FEHD_CHI.html">食物環境衞生署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_GFS_CHI.html">政府飛行服務隊</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_GovtLab_CHI.html">政府化驗所</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_GLD_CHI.html">政府物流服務署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_GPA_CHI.html">政府產業署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_DH_CHI.html">衞生署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HYD_CHI.html">路政署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HAD_CHI.html">民政事務總署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKMA_CHI.html">香港金融管理局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKO_CHI.html">香港天文台</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKPF_CHI.html">香港警務處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HD_CHI.html">房屋署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_IMMD_CHI.html">入境事務處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_ISD_CHI.html">政府新聞處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_IRD_CHI.html">稅務局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_IPD_CHI.html">知識產權署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_INVESTHK_CHI.html">投資推廣署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_JSSCS_CHI.html">薪諮會聯合秘書處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_DOJ_CHI.html">律政司</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LD_CHI.html">勞工處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LR_CHI.html">土地註冊處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LandsD_CHI.html">地政總署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LAD_CHI.html">法律援助署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LCSD_CHI.html">康樂及文化事務署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_MD_CHI.html">海事處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_OFCA_CHI.html">通訊事務管理局辦公室(包括電影、報刊及物品管理辦事處)</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_ORO_CHI.html">破產管理署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_PlanD_CHI.html">規劃署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_PO_CHI.html">郵政署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_RTHK_CHI.html">香港電台</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_RVD_CHI.html">差餉物業估價署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_REO_CHI.html">選舉事務處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_SCIOCS_CHI.html">截取通訊及監察事務專員秘書處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_SWD_CHI.html">社會福利署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_TID_CHI.html">工業貿易署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_TD_CHI.html">運輸署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_TRY_CHI.html">庫務署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_UGC_CHI.html">大學教育資助委員會秘書處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_WSD_CHI.html">水務署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_WFSFAA_CHI.html">在職家庭及學生資助事務處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>	  
+  <TR>
+    <TD><strong>4.</strong></TD>
+    <TD><strong><A 
+      href="index_ICAC_CHI.html">廉政公署</A></strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>
+  <TR>
+    <TD><strong>5.</strong></TD>
+    <TD><strong><A 
+      href="index_IPCC_CHI.html">獨立監察警方處理投訴委員會</A></strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>
+  <TR>
+    <TD><strong>6.</strong></TD>
+    <TD><strong><A 
+      href="index_JUD_CHI.html">司法機構</A></strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>
+  <TR>
+    <TD><strong>7.</strong></TD>
+    <TD><strong><A 
+      href="0580006966_CHI.html">前任行政長官辦公室</A></strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>	
+  <TR>
+    <TD><strong>8.</strong></TD>
+    <TD><strong><A 
+      href="index_OFOMB_CHI.html">申訴專員公署</A></strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>
+  <TR>
+    <TD><strong>9.</strong></TD>
+    <TD><strong><A 
+      href="index_PSC_CHI.html">公務員敍用委員會</A></strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD style="height:25px;"></TD></TR>
+  <TR>
+    <TD><strong>10.</strong></TD>
+    <TD><strong>有關機構</strong></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_COMPCOMM_CHI.html">競爭事務委員會</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_CC_CHI.html">消費者委員會</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_ERB_CHI.html">僱員再培訓局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_EOC_CHI.html">平等機會委員會</A></TD></TR>	  
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_EAA_CHI.html">地產代理監管局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_GB_CHI.html">監護委員會</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKADC_CHI.html">香港藝術發展局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKCAAVQ_CHI.html">香港學術及職業資歷評審局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKCSH_CHI.html">香港吸煙與健康委員會</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKETCO_CHI.html">香港經濟貿易文化辦事處(台灣)</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKECIC_CHI.html">香港出口信用保險局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKPC_CHI.html">香港生產力促進局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKSTPC_CHI.html">香港科技園公司</A></TD></TR>	  
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKSIL_CHI.html">香港體育學院有限公司</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKTB_CHI.html">香港旅遊發展局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HKTDC_CHI.html">香港貿易發展局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_HA_CHI.html">醫院管理局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LASC_CHI.html">法律援助服務局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_LCS_CHI.html">立法會秘書處</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_MPFA_CHI.html">強制性公積金計劃管理局</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_OPCPD_CHI.html">個人資料私隱專員公署</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_SFC_CHI.html">證券及期貨事務監察委員會</A></TD></TR>
+  <TR>
+    <TD></TD>
+    <TD><A 
+      href="index_VTC_CHI.html">職業訓練局</A></TD></TR>    
+  </TBODY></TABLE>
+	<div id="badges">
+		<ul id="conformance">
+			<li>
+				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
+					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
+				</a>
+			</li>
+		</ul>
+	</div>  
+  </div>    
+  </div>
+  </BODY></HTML>
+

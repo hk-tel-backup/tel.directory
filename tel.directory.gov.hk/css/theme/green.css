@@ -1,0 +1,65 @@
+body{
+	background-color:#F0E3AF;
+}
+
+a {
+	color:#006C16;	
+}
+
+a:visited {
+	color:#513321;	
+}
+
+#tbl_menu_bar{
+	background-color:#B5AC8B;
+}
+
+#menu_tab li a {background-color:#008800;}
+
+#menu_tab li a.active{background-color:#F0E3AF;}
+
+#tbl_header, #tbl_header2{
+	background-color:#008800;	
+}
+
+#tbl_footer{
+	background-color:#F0E3AF;
+}
+
+#tbl_footer td.copyright{	
+	background-color:#008800;
+}
+
+#tbl_basic_search_result tr.header,
+#tbl_adv_search_result tr.header, 
+#tbl_basic_service_result tr.header
+{
+	background-color:#008800;
+}
+
+.tbl_dept_contact_list tr.header th{
+	background-color:#008800;
+}
+.tbl_service_contact_list tr.header th{
+	background-color:#008800;
+}
+
+a.btn_return,a.btn_download{
+	background-color:#B5AC8B;	
+}
+
+/* for Fulllist */
+.tbl_dept_contact_list tr.row td{
+	background-color:#dddddd;
+}
+
+/* for iwp */
+#tbl_search_details td.field, 
+#tbl_search_details table td.field,
+.tbl_dept_contact_list tr.row td,
+.tbl_service_contact_list tr.row td, 
+#tbl_basic_search_result tr.row, 
+#tbl_adv_search_result tr.row, 
+#tbl_basic_service_result tr.row{
+	background-color:#dddddd;
+}

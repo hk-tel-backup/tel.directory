@@ -1,0 +1,186 @@
+#content_container{
+	padding:15px;
+	font-size:1.6em;
+}
+
+input,select{
+	font-size: 16px;
+}
+
+a.btn_return,a.btn_download {
+	background-color:#bdcbde;
+	font-weight:bold;
+	padding:3px 13px;	
+	font-size:12px;
+	margin-right:5px;
+}
+a.btn_return,a.btn_download, a.btn_return:hover,a.btn_download:hover{
+	color:black;
+}
+
+#tbl_control{
+	margin-bottom:20px;
+}
+
+#tbl_dept_header{	
+}
+
+#tbl_dept_header .title{
+	font-weight:bold;
+	font-size:120%;
+}
+
+#tbl_dept_header td{
+	padding:3px;
+}
+
+#tbl_dept_header .col1{
+	width:15px;
+}
+
+#tbl_dept_contact_remark{
+	margin-top:20px;
+	font-size:80%;
+}
+
+#div_tbl_dept_list{
+	padding:30px 0px 30px 20px;
+}
+
+#tbl_dept_list{
+}
+
+#tbl_dept_list a{
+	text-decoration:underline;
+}
+
+#tbl_dept_list td{
+	padding:3px;
+	white-space:normal;
+}
+
+#tbl_dept_list .list_no{
+	width:31px;	
+}
+
+
+#dept_list_lv2_outline{
+	padding:20px 0 10px 15px;	
+}
+
+#dept_list_lv2_outline a{
+	text-decoration:underline;
+}
+
+#dept_list_lv2_outline p{
+	padding-top:0.12em;
+	padding-bottom:0.12em;
+}
+
+#dept_list_lv2_outline p.level_0{
+	padding-left:0;
+}
+#dept_list_lv2_outline p.level_1{
+	padding-left:2em;
+}
+#dept_list_lv2_outline p.level_2{
+	padding-left:4em;
+}
+#dept_list_lv2_outline p.level_3{
+	padding-left:6em;
+}
+#dept_list_lv2_outline p.level_4{
+	padding-left:8em;
+}
+#dept_list_lv2_outline p.level_5{
+	padding-left:10em;
+}
+#dept_list_lv2_outline p.level_6{
+	padding-left:12em;
+}
+#dept_list_lv2_outline p.level_7{
+	padding-left:14em;
+}
+#dept_list_lv2_outline p.level_8{
+	padding-left:16em;
+}
+#dept_list_lv2_outline p.level_9{
+	padding-left:18em;
+}
+
+.tbl_dept_contact{
+	margin-top:20px;
+}
+
+.tbl_dept_contact td{
+	padding:2px 0;
+}
+
+.tbl_dept_contact td h1{
+	font-size:100%;
+}
+
+.tbl_dept_contact td.label{
+	width:150px;
+}
+
+.tbl_dept_contact_list{
+	margin-top:20px;
+	width:95%;
+	border-collapse: separate;
+}
+
+.tbl_dept_contact_list th,.tbl_dept_contact_list td{
+	padding:4px 2px;
+	vertical-align:top;
+}
+
+.tbl_dept_contact_list tr.header th{
+	background-color:#3073D6;
+	color:white;
+	font-weight:bold;
+	text-align:left;
+}
+
+.tbl_dept_contact_list tr.row td{
+	background-color:#cccccc;
+}
+
+/* Service */
+.tbl_service_contact_list{
+	margin-top:20px;
+	width:95%;
+	border-collapse: separate;
+}
+
+.tbl_service_contact_list th,.tbl_service_contact_list td{
+	padding:4px 2px;
+	vertical-align:top;
+}
+
+.tbl_service_contact_list tr.header th{
+	background-color:#3073D6;
+	color:white;
+	font-weight:bold;
+	text-align:left;
+}
+
+.tbl_service_contact_list tr.row td{
+	background-color:#cccccc;
+}
+
+#tbl_dl_instruct {
+	margin-top:25px;
+}
+
+#tbl_dl_instruct ul{
+	list-style-type:disc;
+	list-style-position:inside;
+}
+
+#tbl_disclaimer{
+}
+
+#tbl_disclaimer td{
+	white-space:normal;
+}
