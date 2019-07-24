@@ -1,264 +1,129 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=GPA&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DGPA%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Government Property Agency","Mr. LIU Ming Kwong, Vincent, JP","Govt Property Administrator","2594 7601"
+"Government Property Agency","Mr. CHOY Man Wai, Leo","Dep Govt Property Administrator","2594 7611"
+""
+"Organisation","Service Name","Office Tel"
+"Government Property Agency","Enquiry","2594 7633"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Government Property Agency","Government Property Agency","Mr. LIU Ming Kwong, Vincent, JP","Govt Property Administrator","2594 7601"
+"Government Property Agency","Government Property Agency","Mr. CHOY Man Wai, Leo","Dep Govt Property Administrator","2594 7611"
+"Government Property Agency","Government Property Agency,Acquisition, Allocation & Disposal Division","Mr. LAM Chik Man","Ch Property Mgr(Acquisition, Allocation &amp; Disposal)","2594 7698"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters"," VACANT","Sr Property Mgr(Acquisition, Allocation &amp; Disposal)Office &amp; Quarters","2594 7731"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Mr. TSUN Sheung Ming, Tony","Valuation Surveyor(Office)Leasing 1","2594 7617"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Miss CHAN Hoi Yan, Grace","Valuation Surveyor(Quarters)","2594 7619"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Mr. LIU Kam Hung, Patrick","Sr Valuation Offr(Estate)","2594 7753"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Ms. KAM Sau Ling, Shirley","SEO(Quarters)","2594 7616"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Miss WONG Mo Ying, Monique","EO(Quarters)","2594 7708"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Miss WONG Yuk Man, Mandy","EO(Disposal &amp; Quarters)","2594 5944"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Mr. WONG Chiu Yeung, Kenny","Prin Valuation Offr(Estate)","2594 7711"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Miss LEUNG Wan Yee, Joey","CO i/c(Acquisition, Allocation &amp; Disposal)","2594 7641"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Quarters","Ms. CHIU Wai Ying, Novan","Sr Valuation Offr(Acquisition 1)","2594 7628"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Research","Mr. CHIU Sze Ming, Simon","Sr Property Mgr(Acquisition, Allocation &amp; Disposal)Office and Research","2594 7692"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Research","Miss FOK Po Wa, Kathy","Valuation Surveyor(Office)Leasing 3","2594 7691"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Research","Miss CHAN Hau Wai, Angie","Valuation Surveyor(Research)","2594 7622"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Research","Ms. WONG Wai Ching, Vivian","SEO(Office)","2594 7621"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Research","Mr. CHONG Chi Ming, Louis","EO(Planning)","2594 7735"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Research","Mr. LAW Yiu Chung, Henry","EO(Office)1","2594 7618"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Office and Research","Miss WONG Ka Ying, Olivia","EO(Office)2","2594 7630"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Projects and Special Duties","Ms. WONG Lai Shan, Rosanna","Sr Property Mgr(Acquisition, Allocation &amp; Disposal)Projects &amp; Special Duties","2594 7758"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Projects and Special Duties","Mr. LI Tsz Kei, Jacky","Valuation Surveyor(Office)Leasing 2","2594 7631"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Projects and Special Duties","Ms. YAU Suk Fun, Ada","Sr Valuation Offr(Leasing 2)","2594 7627"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Projects and Special Duties","Mr. WONG Chiu Keung, Silvan","Valuation Surveyor(Special Duties)","2594 7733"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Projects and Special Duties","Mr. LEUNG Kin Wing, Wayne","Valuation Surveyor(Project 1)","2594 7695"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Projects and Special Duties","Miss HO Pui Yiu, Iris","SEO(Special Projects)","2594 5943"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Projects and Special Duties","Mr. SIU Hing Tat, Frankie","Valuation Surveyor(Project 2)","2594 7761"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Quarters Disposal","Mr. LIU Wai Ming, Terence","Sr Property Mgr(Acquisition, Allocation &amp; Disposal)Disposal (On leave from 24 Jun to 1 Aug 2019)","2594 7647"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Quarters Disposal","Ms. LEUNG Yuen Kiu, Connie","Valuation Surveyor(Disposal)3","2594 7657"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Quarters Disposal","Mr. NG Man Kit, Terry","Estate Surveyor(Disposal)2","2594 7709"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Quarters Disposal","Ms. LAM Suk Ming, Teresa","Valuation Surveyor(Disposal)1 (Double-up the post of S(AD)D from 24 June 2019 to 1 August 2019)","2594 7651"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Quarters Disposal","Mr. CHAN Ka Cheuk, Alex","Sr Valuation Offr(Disposal)1","2594 7704"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Quarters Disposal","Mr. LI Chi Man, Angus","Sr Valuation offr(Disposal)2","2594 7789"
+"Government Property Agency","Acquisition, Allocation & Disposal Division,Quarters Disposal","Mr. CHEUNG Kwok Pan","Sr Valuation Offr(Disposal)4","2594 7612"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. CHEONG Fung Yu, Alice","DS","2594 7768"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. WONG Pik Yiu, Leonie","Dep DS(Adm)","2594 7605"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. CHANG Chung Yan, Rovina","Dep DS(Fin)","2594 7656"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Miss FUNG Ka Wai, Stephanie","Asst DS(Fin)","2594 7700"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. LUI Pui Yee, Fanny","Asst DS(Adm)1","2594 7707"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Miss MAK Yin Yan, Wendy","Asst DS(Adm)2","2594 7767"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Mr. CHAN Man Kit","CO i/c(Per)","2594 7751"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. LOK Yim Ling, Alvina","CO i/c(Adm)","2594 7633"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. HO Wan Yee, Rosana","SCO(Finance)","2594 7699"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. WONG Yin Wah, Ivy","CO i/c(Fin)2","2594 5932"
+"Government Property Agency","Government Property Agency,Administrative Services Division","Ms. CHE Lai Han, Carrine","SSI","2594 7748"
+"Government Property Agency","Government Property Agency,Administrative Services Division"," (VACANT )","CO i/c(Fin)1",""
+"Government Property Agency","Government Property Agency,Legal Advisory Division","Ms. CHENG Wai Ming, Brenda","Sr. Solicitor(Legal Advisory)","2594 7769"
+"Government Property Agency","Government Property Agency,Legal Advisory Division","Mr. TANG Siu Kai, Guy","Sol(Legal Advisory)","2594 7783"
+"Government Property Agency","Government Property Agency,Legal Advisory Division","Miss YU Kam Man, Maggie","Land Con Offr I(Legal Advisory)1","2594 7773"
+"Government Property Agency","Government Property Agency,Legal Advisory Division","Ms. LEE Sze Ying, Stella","Land Con Offr I(Legal Advisory)2","2594 7784"
+"Government Property Agency","Government Property Agency,Management Services Division","Ms. CHENG Yuen Kan, Claudia","Ch Property Mgr(Mgt Services)","2594 7679"
+"Government Property Agency","Management Services Division,Management Services","Ms. KI Yuen Ling, Lyan","Sr Property Mgr (Mgt Services)","2594 7646"
+"Government Property Agency","Management Services Division,Management Services","Ms. LAU Wai Chi, Karen","Sr Mgt Services Offr(Mgt Services)1","2594 7670"
+"Government Property Agency","Management Services Division,Management Services","Miss CHEUNG Man Ting, Joyce","Mgt Services Offr(Mgt Services)11","2594 7674"
+"Government Property Agency","Management Services Division,Management Services","Miss CHAN Sau Ching, Alice","Mgt Services Offr(Mgt Services)12","2594 7673"
+"Government Property Agency","Management Services Division,Management Services","Mr. KONG Wai Chung, Patrick","Sr Mgt Services Offr(Mgt Services)2","2594 7669"
+"Government Property Agency","Management Services Division,Management Services","Miss LEUNG Shin Ming, Angela","Mgt Services Offr(Mgt Services)22","2594 7672"
+"Government Property Agency","Management Services Division,Management Services","Mr. LAM Sing Lung, Felix","Sr Mgt Services Offr(Mgt Services)3","2594 7665"
+"Government Property Agency","Management Services Division,Management Services","Miss WAN Hoi Man, Priscilla","Mgt Services Offr(Mgt Services)31","2594 7686"
+"Government Property Agency","Management Services Division,Projects","Mr. WONG Chi Cheong, Patrick","Sr Property Mgr(Projects)","2594 7682"
+"Government Property Agency","Management Services Division,Projects","Ms. LAI Lok Yee, Alison","Sr Mgt Services Offr(Projects)1","2594 7683"
+"Government Property Agency","Management Services Division,Projects","Mr. WONG Tin Chak, Henry","Mgt Services Offr(Projects)12 (Double-up the post of M(P)23 from 11 Jan 2019)","2594 7688"
+"Government Property Agency","Management Services Division,Projects","Mr. CHAN Siu Kit, Kris","Sr Mgt Services Offr(Projects)2","2594 7671"
+"Government Property Agency","Management Services Division,Projects","Mr. MUI Wai Ching, Matthew","Mgt Services Offr(Projects)21 (Double-sideway the post of M(P)31 from 3 Dec 2018)","2594 7742"
+"Government Property Agency","Management Services Division,Projects","Miss AU Wai Fan, Catherine","Mgt. Services Offr(Projects)22","2594 7684"
+"Government Property Agency","Management Services Division,Projects"," (VACANT )","Mgt Services Offr(Projects)23","2594 7724"
+"Government Property Agency","Management Services Division,Projects"," (VACANT )","Mgt Services Offr(Projects)31","2594 7687"
+"Government Property Agency","Management Services Division,Projects","Mr. MOK Shiu Lam","Sr Mgt Services Offr(Special Duties)2","2594 7694"
+"Government Property Agency","Management Services Division,Projects","Mr. LO Kai Ming, Clement","Sr Mgt Services Offr(Special Duties)1","2594 7765"
+"Government Property Agency","Management Services Division,Projects","Mr. SIU Bun Fan, Sherman","Sr Mgt Services Offr(Special Duties)3","2594 7687"
+"Government Property Agency","Management Services Division,Projects","Mr. WOO Yam Fai, Gary","Sr Mgt Services Offr(Projects)3","2594 7740"
+"Government Property Agency","Government Property Agency,Property Management Division","Mr. CHAN Chi Ping, Ronald","Ch Property Mgr(Property Mgt)","2594 7731"
+"Government Property Agency","Government Property Agency,Property Management Division","Miss CHEUNG Tsz Pui, Chelsea","EO(Site Utilisation/Property Mgt)","2594 7659"
+"Government Property Agency","Government Property Agency,Property Management Division","Mr. MOK Chi Man, Stanley","CO i/c(Property Mgt)","2594 5938"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. CHAN Mun Keung, Alex","Sr Property Mgr(Property Mgt)Contract Adm","2594 5947"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. CHOW Wai Shing, Wilson","Maintenance Surveyor(Property Mgt)HK1","2594 5953"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. YIM  Nai Ching","Sr Bldg Supr(Property Mgt)HK1","2594 5973"
+"Government Property Agency","Property Management Division,Contract Adm Team","Miss WU Chak Man, Karen","Bldg Supr(Property Mgt)HK1","2594 5963"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. LO Lok Wa, Billy","Valuation Surveyor(Property Mgt)HK2","2594 5945"
+"Government Property Agency","Property Management Division,Contract Adm Team","Ms. CHEUNG Ching Han, Rosa","Sr Bldg Supr(Property Mgt)HK2&amp;SD2","2594 5939"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. SIU Wing Kwong","Bldg Supr(Property Mgt)HK2","2594 5972"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. YEUNG Kwok Wah","Ch Tech Offr(Property Mgt)K","2594 5949"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. LO Ho Fung, Wilson","Sr Bldg Supr(Property Mgt)K","2594 5967"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. LAI Wai Man","Bldg Supr(Property Mgt)K","2594 5966"
+"Government Property Agency","Property Management Division,Contract Adm Team","Miss KWAN Kit Wah, Beatrice","Sr Bldg Supr (Property Mgt)SD1","2594 5958"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. LAI Shiu Kong, Kenneth","Maintenance Surveyor(Property Mgt)NT","2594 7777"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. WONG Wai Ki, Constant","Sr Bldg Supr(Property Mgt)NT","2594 5971"
+"Government Property Agency","Property Management Division,Contract Adm Team","Mr. LI Hung Cheong, Steven","Bldg Supr(Property Mgt)NT","2594 5965"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Miss TCHAO Shuk Man, Rosa","Sr Property Mgr(Property Mgt)Fin Secy Incorporated","2594 7620"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Ms. TANG Wing Kwan, Amy","Valuation Surveyor(Property Mgt)1 (On leave from 20 May 2019)","2594 7648"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Mrs. LO SHAM Lai Kwan, Carmen","Sr Valuation Offr(Property Mgt)1","2594 7797"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Mr. TANG Pui Kei, Terence","Sr Valuation Offr(Property Mgt)3 (Double-up 50% of duties of VS(PM)1 from 20 May 2019)","2594 5934"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Miss NG Yick Hung, Christy","Valuation Surveyor(Property Mgt)2 (Double-sideways 50% of duties of VS(PM)1 from 20 May 2019)","2594 7712"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Miss AU YEUNG Shi Che, Bonnie","Bldg Supr(Property Mgt)11","2594 7754"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Miss LEUNG See Nga, Sylvia","Valuation Surveyor(Property Mgt)4","2594 7736"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Mr. CHEUNG Kai Shing, Vincent","Bldg Supr(Property Mgt)13","2594 7719"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Mr. MAK Wai Hung, Will","Valuation Surveyor(Property Mgt)5","2594 5950"
+"Government Property Agency","Property Management Division,Fin Secy Incorporated Team","Mr. LI Kwan Lok, Keith","Bldg Supr(Property Mgt)12","2594 7757"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. TSUI Kwan Yu, James","Ch Property Mgr(Site Utilisation)","2594 7645"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Ms. HO Mun Yee, Money","Sr Property Mgr(Site Utilisation)1 (On leave from 22 Jul 2019 to 6 Aug 2019)","2594 7660"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Miss TSANG Yui Yin, Jolly","Estate Surveyor(Site Utilisation)11","2594 7721"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Ms. CHOW Man Ling, Carrie","Valuation Surveyor(Site Utilisation)12","2594 7760"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. WONG Hing Cheung, Philip","Estate Surveyor(Site Utilisation)13 (Double-up the post of S(SU)1 from 22 Jul 2019 to 6 Aug 2019)","2594 7713"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. YAU Siu Wai, Joi","Sr Survey Offr(Site Utilisation)1","2594 7697"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. LAU Wai Kit","Sr Property Mgr(Site Utilisation)2","2594 7634"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Miss NG Ting Yan, Carrie","Estate Surveyor(Site Utilisation)21","2594 7661"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. LI Yung Sau, Lawrence","Estate Surveyor(Site Utilisation)22","2594 7714"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. LEE Moon Dae, Daniel","Sr Valuation Offr(Site Utilisation)2","2594 7654"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. KING Tak Wai, David","Sr Property Mgr(Site Utilisation)3","2594 7710"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Mr. YAU Yu Ho, Michael","Valuation Surveyor(Site Utilisation)32","2594 7632"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Ms. CHAN Yuen Mei, Anita","Estate Surveyor(Site Utilisation)33","2594 7662"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Ms. CHOW Yuk Ching, Jessie","Sr Survey Offr(Site Utilisation)3","2594 7776"
+"Government Property Agency","Government Property Agency,Site Utilisation Division","Ms. LI Ling Chi","CO i/c(Site Utilisation)","2594 7722"
+"Government Property Agency","Site Utilisation Division,Technical Secretariat","Mr. LAM Sin Wai, Clarence","Tech Secy","2594 7626"
+"Government Property Agency","Site Utilisation Division,Technical Secretariat","Mr. TSE Kwan Yat, Ben","Asst Tech Secy","2594 7739"
+"Government Property Agency","Government Property Agency,Technical Services Division","Mr. CHOW On Yuen, Daniel","Ch Property Mgr(Tech Services)","2594 7677"
+"Government Property Agency","Government Property Agency,Technical Services Division","Mrs. WAN CHAN Mei Ling, Miranda","Sr Property Mgr(Tech Services)1","2594 7676"
+"Government Property Agency","Government Property Agency,Technical Services Division","Ms. YIM Man Ching, Joey","Arch(Tech Services)1","2594 7756"
+"Government Property Agency","Government Property Agency,Technical Services Division","Mr. LO Wing Sau, Ryan","Arch(Tech Services)2","2594 7678"
+"Government Property Agency","Government Property Agency,Technical Services Division","Mr. LAM Yiu Leung","Sr Tech Offr","2594 7690"
+"Government Property Agency","Government Property Agency,Technical Services Division","Ms. NG Suet Hung, Winnie","Arch(Tech Services)3","2594 7796"

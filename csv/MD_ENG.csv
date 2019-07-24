@@ -1,264 +1,482 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=MD&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DMD%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Marine Department"," Miss WONG Tin Yu, Agnes, JP","Director of Marine","2852 4401"
+"Marine Department","Mr. WONG Sai Fat","Deputy Director of Marine","2852 4402"
+"Marine Department","Mr. CHENG Kei, Freely, JP","Deputy Director (Special Duties) (on leave from 17 July to 2 August 2019)","2852 4700"
+""
+"Organisation","Service Name","Office Tel"
+"Marine Department","Enquiry -- General","2542 3711"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Marine Department","Marine Department","","",""
+"Marine Department","Marine Department,Senior Administrators"," Miss WONG Tin Yu, Agnes, JP","Director of Marine","2852 4401"
+"Marine Department","Marine Department,Senior Administrators","Mr. WONG Sai Fat","Deputy Director of Marine","2852 4402"
+"Marine Department","Marine Department,Senior Administrators","Mr. CHENG Kei, Freely, JP","Deputy Director (Special Duties) (on leave from 17 July to 2 August 2019)","2852 4700"
+"Marine Department","Marine Department,Senior Administrators","Mr. CHAN Cheuk Sang, Tony","Assistant Director/Planning &amp; Services","2852 4403"
+"Marine Department","Marine Department,Senior Administrators","Mr. LAI Chi Tung, JP","Assistant Director/Port Control","2852 4541"
+"Marine Department","Marine Department,Senior Administrators","Mr. CHENG Yeung Ming","Assistant Director/Shipping","2852 4404"
+"Marine Department","Marine Department,Senior Administrators","Mr. CHOI Chi Chuen","Assistant Director/Multi-lateral Policy","2852 4408"
+"Marine Department","Marine Department,Senior Administrators","Mr. CHEUK Fan Lun","Assistant Director/Government Fleet (Double-up DD(SD) from 17 July to 2 August 2019)","2307 3600"
+"Marine Department","Marine Department,Senior Administrators","Mr. HO Wing Hong","Assistant Director(Special Duties)","2852 3192"
+"Marine Department","Marine Department,Senior Administrators","Mr. CHUNG Siu Man","Marine Adviser, London Economic and Trade Office","44-20-7499-9821"
+"Marine Department","Marine Department,Planning & Services Division","Mr. CHAN Cheuk Sang, Tony","Assistant Director/Planning &amp; Services","2852 4403"
+"Marine Department","Planning & Services Division,Planning, Development and Port Security Branch","Mr. CHAN Fook Chiu, Adrian","Gen Mgr/Planning, Development &amp; Port Security","2852 4405"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (1)","Mr. SUN You Jin","Sr Marine Offr/Planning &amp; Dev (1)","2852 4350"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (1)","Mr. LI Tai Fai, Tony","Marine Mgr/Planning &amp; Dev (1)","2852 4393"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (1)","Mr. YAU Lung Wa, Derek","Sr Asst Shipping Master/Special Duties (SASM/SD)","2852 4469"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (2)","Mr. WANG Jian Jun","Sr Marine Offr/Planning &amp; Dev (2)","2852 4453"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (2)","Mr. WONG Tang Tat, Dennis","Marine Offr/Planning &amp; Dev (2)","2852 4435"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (3)","Mr. LAU Wing Kin","Marine Mgr/Planning &amp; Dev (SD)","2852 4381"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (3)","Mr. HO King Pui, Simon","Sr Marine Offr/Planning &amp; Dev (3)","2852 4386"
+"Marine Department","Planning, Development and Port Security Branch,Planning and Development Section (3)","Ms. KWAN Mei Ki, Tina","Sr Asst Shipping Master/Planning &amp; Dev (3)","2852 4445"
+"Marine Department","Planning, Development and Port Security Branch,Port Security and Administration Section","Mr. WONG Chiu Yu","Sr Marine Offr/Port Security Admin.","2852 4429"
+"Marine Department","Planning, Development and Port Security Branch,Port Security and Administration Section","Mr. WONG Chiu Yu","Marine Offr/Port Security Admin.","2852 4429"
+"Marine Department","Planning, Development and Port Security Branch,Statistics Section","Ms. WONG Nga Yin, Amy","Sr Stat","2852 3657"
+"Marine Department","Planning, Development and Port Security Branch,Statistics Section","Ms. CHAN Miu Yue, Crisy","Stat Offr I","2852 3662"
+"Marine Department","Planning, Development and Port Security Branch,Statistics Section","Mr. HO Man Sing","Stat Offr I (SO I(SD))","2852 3661"
+"Marine Department","Planning & Services Division,Services Branch","Mr. LI Kin Pong, Warren","Gen Mgr/Services","2852 4451"
+"Marine Department","Services Branch,Port Logistics Section","Mr. LEU Kun Man","Sr Marine Offr/Port Logistics","2852 4454"
+"Marine Department","Port Logistics Section,Aids to Navigation and Mooring Unit","Mr. LEUNG Fong To","Supt of Aids to Navigation/Aids to Navigation &amp; Mooring","2307 3782"
+"Marine Department","Port Logistics Section,Aids to Navigation and Mooring Unit","Mr. LEUNG Yiu Kwong","Asst Supt of Aids to Navigation/Aids to Navigation &amp; Mooring (1)","2307 3761"
+"Marine Department","Port Logistics Section,Aids to Navigation and Mooring Unit","Mr. CHENG Kwok Kei","Asst Supt of Aids to Navigation/Aids to Navigation &amp; Mooring (2)","2307 3764"
+"Marine Department","Port Logistics Section,Aids to Navigation and Mooring Unit","Mr. WOO Po Keung","Asst Electrical Insp/Aids to Navigation &amp; Mooring","2307 3763"
+"Marine Department","Port Logistics Section,Aids to Navigation and Mooring Unit","Mr. CHAU Tsz Ho","Asst Ship Insp/Aids to Navigation &amp; Mooring","2307 3757"
+"Marine Department","Port Logistics Section,Aids to Navigation and Mooring Unit","Mr. YUEN Wai On","Sr Asst Shipping Master/Aids to Navigation &amp; Mooring","2307 3784"
+"Marine Department","Port Logistics Section,Pollution Control Unit","Mr. NG Wing Yiu","Marine Offr/Pollution Control Unit(1)","2852 3581"
+"Marine Department","Port Logistics Section,Pollution Control Unit","Mr. LEE Tin Shing","Sr Asst Shipping Master/Pollution Control Unit (1)","2852 4450"
+"Marine Department","Port Logistics Section,Pollution Control Unit","Mr. TANG Ka Wing","Sr Asst Shipping Master/Pollution Control Unit (2)","2852 4488"
+"Marine Department","Port Logistics Section,Pollution Control Unit","Mr. LAM Yiu Kai, Ivan","Assistant Marine Offr/Pullution Control Unit(2)","2852 4746"
+"Marine Department","Services Branch,Ferry Terminals Section","Mr. ZOU Ping","Sr Marine Offr/Ferry Terminals","2547 4026"
+"Marine Department","Services Branch,Ferry Terminals Section","Mr. YUEN Kin Sum","Marine Offr/Ferry Terminals","2547 4039"
+"Marine Department","Ferry Terminals Section,Macau Ferry Terminal Unit","Mr. LEUNG Siu Ki","Marine Contr/Ferry Terminals (1)","2547 4233"
+"Marine Department","Ferry Terminals Section,Macau Ferry Terminal Unit","Mr. CHEUNG Kwan Fai","Sr Asst Shipping Master/Ferry Terminals","2547 1312"
+"Marine Department","Ferry Terminals Section,China Ferry Terminal Unit","Mr. CHAN Chi Hung","Marine Contr/Ferry Terminals (2)","2738 2904"
+"Marine Department","Ferry Terminals Section,Tuen Mun Ferry Terminal Unit","Mr. FU Pak Leung, Sammy","Asst Marine Contr/Tuen Mun Ferry Terminal","2325 7206"
+"Marine Department","Services Branch,Cargo Handling Section","Mr. CHAN Man Sing","Sr Marine Officer/Cargo Handling","2852 4452"
+"Marine Department","Services Branch,Cargo Handling Section","Mr. LU Jianjian","Marine Offr./Cargo Handling(1)","2852 3656"
+"Marine Department","Services Branch,Cargo Handling Section","Mr. CHEUNG Tit Kwan, Ivan","Marine Mgr/Cargo Handling(2)","2492 7205"
+"Marine Department","Services Branch,Cargo Handling Section","Mr. CHUNG Yau Tai","Sr Asst Shipping Master/Cargo Handling (1)","2492 7964"
+"Marine Department","Services Branch,Cargo Handling Section","Mr. MA Chi Ping","Sr Asst Shipping Master/Cargo Handling (2)","2492 1865"
+"Marine Department","Planning & Services Division,Hydrographic Office","Mr. CHAU Chun Ming, Michael","Hydrographer","2504 0363"
+"Marine Department","Planning & Services Division,Hydrographic Office","Mr. WONG Ka Fung, Alvin","EO(HO)","2504 0130"
+"Marine Department","Planning & Services Division,Hydrographic Office","Miss MA Yee Ling, Elaine","CO(HO)","2504 0711"
+"Marine Department","Hydrographic Office,Charting Section","Mr. WONG Chun Kuen, Stephen","Dep Hydrographer (1)","2504 0210"
+"Marine Department","Hydrographic Office,Charting Section","Mr. CHAN Cheong Yat, Domines","Asst Hydrographer/Charting (1)","2504 0162"
+"Marine Department","Hydrographic Office,Charting Section","Ms. POON Nga Yi","Asst Hydrographer/Charting (2)","2504 0224"
+"Marine Department","Hydrographic Office,Charting Section","Mr. SHAM Lok Hang","Asst Hydrographer/Charting (3)","2504 1118"
+"Marine Department","Hydrographic Office,Charting Section","Mr. MA Kam Man","Prin Tech Offr/Charting","2504 0368"
+"Marine Department","Hydrographic Office,Charting Section","Mr. LAM Chi Kim","Sr Tech Offr/Charting (1)","2504 0701"
+"Marine Department","Hydrographic Office,Charting Section","Mr. LEUNG Bing Cheong, Tony","Sr Tech Offr/Charting (2)","2504 0656"
+"Marine Department","Hydrographic Office,Charting Section","Mr. WONG Chi-man","Sr Tech Offr/Charting (3)","2504 0701"
+"Marine Department","Hydrographic Office,Charting Section","Ms. LOUIE Yee Wah, Eve","Sr Tech Offr/Charting (4)","2504 0592"
+"Marine Department","Hydrographic Office,Survey Section","Mr. CHENG Wo Cheung","Dep Hydrographer (2)","2504 0733"
+"Marine Department","Hydrographic Office,Survey Section","Mr. LAM Kai Wing","Asst Hydrographer/Survey (1)","2504 0269"
+"Marine Department","Hydrographic Office,Survey Section","Mr. NG Ying Tik","Asst Hydrographer/Survey (2)","2504 0134"
+"Marine Department","Hydrographic Office,Survey Section","Mr. KWOK King Hung","Asst Hydrographer/Survey (3)","2504 0364"
+"Marine Department","Hydrographic Office,Survey Section","Mr. LAM Pan","Prin Survey Offr","2504 0180"
+"Marine Department","Hydrographic Office,Survey Section","Mr. CHENG Fan  Suen","Sr Survey Offr (1)","2504 0148"
+"Marine Department","Hydrographic Office,Survey Section","Ms. WONG Ka Wai","Sr Survey Offr (2)","2504 0192"
+"Marine Department","Hydrographic Office,Survey Section","Mr. HO Yee Kai, Andy","Sr Survey Offr (3)","2504 0191"
+"Marine Department","Hydrographic Office,Survey Section","Mr. NG Tung Him","Sr Survey Offr (4)","2504 0213"
+"Marine Department","Hydrographic Office,East Asia Regional Electronic Navigational Chart Coordination Centre","Mr. CHAN Kai Hong","EA-RECC Manager","2504 0257"
+"Marine Department","Hydrographic Office,East Asia Regional Electronic Navigational Chart Coordination Centre","Mr. YICK Kin Wah","Assistant EA-RECC Manager","2504 1403"
+"Marine Department","Hydrographic Office,East Asia Regional Electronic Navigational Chart Coordination Centre","Ms. SEE Wing Yan, Grace","Chief Geodata Officer/RECC","2504 0267"
+"Marine Department","Hydrographic Office,East Asia Regional Electronic Navigational Chart Coordination Centre","Mr. CHAN Yiu Pong","Senior Geodata Officer/RECC (1)","2504 1344"
+"Marine Department","Hydrographic Office,East Asia Regional Electronic Navigational Chart Coordination Centre","Ms. LEE Yuk Kwan, Sally","Senior Geodata Officer/RECC (2)","2504 1233"
+"Marine Department","Marine Department,Port Control Division","Mr. LAI Chi Tung, JP","Assistant Director/Port Control","2852 4541"
+"Marine Department","Marine Department,Port Control Division","Mr. CHAN So Sing","Marine Mgr/Special Duties","2852 4382"
+"Marine Department","Port Control Division,Vessel Traffic Services Branch","Mr. WONG Wing Hung","Gen Mgr/Vessel Traffic Services","2852 4456"
+"Marine Department","Vessel Traffic Services Branch,Vessel Traffic Section","Mr. HUANG Jihe","Sr Marine Offr/Vessel Traffic Centre","2233 7813"
+"Marine Department","Vessel Traffic Section,Vessel Traffic Centre","Mr. KEUNG Pui Man, Cory","Marine Offr/Vessel Traffic Centre (1) (Ag.)","2233 7810"
+"Marine Department","Vessel Traffic Section,Vessel Traffic Centre","Mr. POON Ka Tik","Marine Offr/Vessel Traffic Centre (2)","2233 7818"
+"Marine Department","Vessel Traffic Section,Vessel Traffic Centre","Mr. KEUNG Pui Man, Cory","Marine Offr/Vessel Traffic Centre (3)","2233 7810"
+"Marine Department","Vessel Traffic Section,Vessel Traffic Centre","Mr. YEI Siu Chun","Marine Offr/Vessel Traffic Centre (4) (Ag.)","2233 7852"
+"Marine Department","Vessel Traffic Section,Vessel Traffic Centre","Mr. LAU Ho Mung, Mark","Assistant Marine Offr/Vessel Traffic Centre (5)","2233 7811"
+"Marine Department","Vessel Traffic Section,Kwai Chung Marine Traffic Control Station","","",""
+"Marine Department","Vessel Traffic Section,Pilotage Unit","Mr. TANG Ying Kit, George","Marine Mgr/Pilotage","2233 7812"
+"Marine Department","Vessel Traffic Services Branch,Quality Assurance and Development Section","Mr. LIN Guoxu","Sr Marine Offr/Quality Assurance and Dev","2852 4545"
+"Marine Department","Vessel Traffic Services Branch,Quality Assurance and Development Section","Mr. TSUI Chun Kin","Marine Offr/Quality Assurance","2233 7852"
+"Marine Department","Vessel Traffic Services Branch,Quality Assurance and Development Section","Mr. TANG Hung Fai","Marine Off/System Dev","2852 4539"
+"Marine Department","Vessel Traffic Services Branch,Search and Rescue Section","Mr. KWOK Kar Him","Sr Marine Offr/Search &amp; Rescue","2233 7868"
+"Marine Department","Vessel Traffic Services Branch,Search and Rescue Section","Mr. POON Yiu Tin","Marine Offr/Maritime Rescue Co-ordination Centre (A)","2233 7996"
+"Marine Department","Vessel Traffic Services Branch,Search and Rescue Section","Mr. WONG Hung Hei","Marine Mgr/Maritime Rescue Co-ordination Centre (B)","2233 7996"
+"Marine Department","Vessel Traffic Services Branch,Search and Rescue Section","Mr. NG Yiu Lun","Marine Offr/Maritime Rescue Co-ordination Centre (C)","2233 7996"
+"Marine Department","Vessel Traffic Services Branch,Search and Rescue Section","Mr. KWAN Kam Tong","Marine Mgr/Maritime Rescue Co-ordination Centre (D)","2233 7996"
+"Marine Department","Vessel Traffic Services Branch,Search and Rescue Section","Mr. CHAU Man To","Marine Offr/Maritime Rescue Co-ordination Centre (E)","2233 7996"
+"Marine Department","Search and Rescue Section,Marine Emergency and Maritime Rescue Co-ordination Centre"," Maritime Rescue Co-ordination Centre","Duty Marine Officer","2233 7996"
+"Marine Department","Vessel Traffic Services Branch,Engineering and Systems Section","Mr. NG Kwok Wah, Andy","Sr Electronic Engr/Engineering &amp; Systems","2233 7833"
+"Marine Department","Vessel Traffic Services Branch,Engineering and Systems Section","Mr. FU Ming Sun, Manson","Electronic Engr/Engineering &amp; Systems (1) (Ag.)","2233 7831"
+"Marine Department","Vessel Traffic Services Branch,Engineering and Systems Section","Mr. FU Ming Sun, Manson","Electronic Engr/Engineering &amp; Systems (2)","2233 7832"
+"Marine Department","Vessel Traffic Services Branch,Engineering and Systems Section","Mr. LOCK Wah Kwai","Electronics Insp/Engineering &amp; Systems","2233 7835"
+"Marine Department","Vessel Traffic Services Branch,Training Section","Mr. TSE Wing Chung","Sr Marine Offr/Training","2307 3668"
+"Marine Department","Vessel Traffic Services Branch,Training Section","Mr. LEUNG Wing Shun, Basil","Marine Offr/Trg (1) (Ag.)","2307 3672"
+"Marine Department","Vessel Traffic Services Branch,Training Section","Mr. CHAN Kwok Wai","Marine Mgr/Trg (2)","2307 3670"
+"Marine Department","Vessel Traffic Services Branch,Training Section","Mr. LEUNG Wing Shun, Basil","Marine Contr/Trg","2307 3672"
+"Marine Department","Port Control Division,Operations Branch","Mr. CHAN Hon Bun","Gen Mgr/Ops","2852 4410"
+"Marine Department","Operations Branch,Harbour Patrol Section","","",""
+"Marine Department","Operations Branch,Command Centre","","",""
+"Marine Department","Operations Branch,Harbour Patrol Section (1)","Miss CHAN Ka Man, Carmen","Sr Marine Offr/Harbour Patrol Sec (1)","2928 6377"
+"Marine Department","Operations Branch,Harbour Patrol Section (1)","Mr. CHAN Tim","Marine Mgr/Harbour Patrol Sec (Admin)","2928 6375"
+"Marine Department","Operations Branch,Harbour Patrol Section (1)","Ms. HO Kai Tsing","Sr Asst Shipping Master/Harbour Patrol Sec (Admin)","2928 6374"
+"Marine Department","Harbour Patrol Section (1),Salvage Unit","Mr. WONG Ying Chuen","Marine Insp I/Salvage","2388 0102"
+"Marine Department","Harbour Patrol Section (1),Tai Kok Tsui Office","Mr. NG Lap Hay, Andrew","Marine Mgr/Harbour Patrol Sec (1)","2928 6373"
+"Marine Department","Harbour Patrol Section (1),Tai Kok Tsui Office","Mr. TSE Ho Chuen","Sr Asst Shipping Master/Harbour Patrol Sec (1)","2928 6371"
+"Marine Department","Harbour Patrol Section (1),Tai Kok Tsui Office","Mr. WONG Ho Kwan","Assistant Marine Offr/Harbour Patrol Section (5)","2928 6120"
+"Marine Department","Harbour Patrol Section (1),Sai Kung Office","Mr. WONG Siu Hin, Anson","Marine Offr/Harbour Patrol Sec (4)","2791 9607"
+"Marine Department","Harbour Patrol Section (1),Sai Kung Office","Mr. LEE Chi Wai","Sr Asst Shipping Master/Harbour Patrol Sec (4)","2665 1782"
+"Marine Department","Harbour Patrol Section (1),Tai Po Office","Mr. WONG Siu Hin, Anson","Marine Offr/Harbour Patrol Sec (4)","2791 9607"
+"Marine Department","Harbour Patrol Section (1),Tai Po Office","Mr. LEE Chi Wai","Sr Asst Shipping Master/Harbour Patrol Sec (4)","2665 1782"
+"Marine Department","Operations Branch,Harbour Patrol Section (2)","Mr. WU Kou Qing","Sr Marine Offr/Harbour Patrol Sec (2)","2928 6301"
+"Marine Department","Harbour Patrol Section (2),Aberdeen Office","Ms. YIU Yi Lun, Iris","Marine Offr/Harbour Patrol Sec (2)","2873 8370"
+"Marine Department","Harbour Patrol Section (2),Aberdeen Office","Mr. LO Chi Kwong","Sr Asst Shipping Master/Harbour Patrol Sec (2)","2873 8371"
+"Marine Department","Harbour Patrol Section (2),Tuen Mun Office","Mr. WONG Yiu Hong","Marine Offr/Harbour Patrol Sec (3)","2920 6500,2928 6378"
+"Marine Department","Harbour Patrol Section (2),Tuen Mun Office","Mr. LI Chun Hing","Sr Asst Shipping Master/Harbour Patrol Sec (3)","2920 6501"
+"Marine Department","Operations Branch,Licensing and Port Formalities Section","Mr. JIANG Guifu","Sr Marine Offr/Licensing &amp; Port Formalities","2852 4455"
+"Marine Department","Operations Branch,Licensing and Port Formalities Section","Mr. LEE Kin Fai","Marine Offr/Licensing &amp; Port Formalities (1)","2852 3080"
+"Marine Department","Operations Branch,Licensing and Port Formalities Section","Mr. MAK Shui Wing","Marine Mgr/Licensing &amp; Port Formalities (2)","2457 0526"
+"Marine Department","Operations Branch,Licensing and Port Formalities Section","Mr. LEUNG Siu Chee","Marine Mgr/Licensing &amp; Port Formalities (3)","2852 3149"
+"Marine Department","Licensing and Port Formalities Section,Central Marine Office","Mr. TAI Yu Chung","Sr Asst Shipping Master/Central","2852 3081"
+"Marine Department","Licensing and Port Formalities Section,Central Marine Office","Mr. TAI Ying ki","Marine Insp I/Central Marine Off (1)","2852 3082"
+"Marine Department","Licensing and Port Formalities Section,Central Marine Office","Mr. CHAN Yu Ho","Marine Insp I/Central Marine Off (2)","2852 3058"
+"Marine Department","Central Marine Office,Licensing","Ms. CHAN Shuk Kam","CO/Central Marine Off/Non-convention Vessels","2852 4955"
+"Marine Department","Central Marine Office,Port Formalities (Non-convention Vessels)","","",""
+"Marine Department","Central Marine Office,Port Formalities (Covention Vessels)","Ms. NG Lai Ping","CO/Central Marine Off/Convention Vessels","2815 3987"
+"Marine Department","Licensing and Port Formalities Section,Yau Ma Tei Marine Office","Mr. SZE Pui Sing","Sr Asst Shipping Master/West","2885 6055"
+"Marine Department","Licensing and Port Formalities Section,Yau Ma Tei Marine Office","Ms. YEUNG Yin Man","Marine Insp I/Yau Ma Tei Marine Off","2385 5661"
+"Marine Department","Licensing and Port Formalities Section,Tuen Mun Marine Office","Mr. SZE Pui Sing","Sr Asst Shipping Master/West","2885 6055"
+"Marine Department","Licensing and Port Formalities Section,Tuen Mun Marine Office","Mr. LAW Koon Hong","Marine Insp I/Tuen Mun Marine Off","2451 9456"
+"Marine Department","Licensing and Port Formalities Section,Sai Kung Marine Office","Mr. CHAN Lap Wai","Sr Asst Shipping Master/North","2667 6931"
+"Marine Department","Licensing and Port Formalities Section,Sai Kung Marine Office","Mr. FUNG Man Yiu","Marine Insp I/Sai Kung Marine Off","2792 1212"
+"Marine Department","Licensing and Port Formalities Section,Tai Po Marine Office","Mr. CHAN Lap Wai","Sr Asst Shipping Master/North","2667 6931"
+"Marine Department","Licensing and Port Formalities Section,Tai Po Marine Office","Mr. CHU Hei Cheung","Marine Insp I/Tai Po Marine Off","2667 6939"
+"Marine Department","Licensing and Port Formalities Section,Aberdeen Marine Office","Mr. TAM Wai Man","Sr Asst Shipping Master/South","2873 8368"
+"Marine Department","Licensing and Port Formalities Section,Aberdeen Marine Office","Ms. WONG Chung Yan","Marine Insp I/Aberdeen Marine Off","2873 8362"
+"Marine Department","Licensing and Port Formalities Section,Cheung Chau Marine Office","Ms. CHANG Sau Ying","Marine Insp I/Cheung Chau Marine Off","2981 0225"
+"Marine Department","Licensing and Port Formalities Section,Shau Kei Wan Marine Office","Mr. LEUNG Kwok On","Sr Asst Shipping Master/East","2513 5379"
+"Marine Department","Licensing and Port Formalities Section,Shau Kei Wan Marine Office","Mr. LAM Kwok Cheong","Marine Insp I/Shau Kei Wan Marine Off","2560 1665"
+"Marine Department","Licensing and Port Formalities Section,Private Mooring Sub-unit","Ms. LEUNG Wing Sze","Marine Insp I/Private Mooring","2545 0264"
+"Marine Department","Operations Branch,Dangerous Goods and Prosecution Section","Mr. CHEUK Kwan Kin","Sr. Marine Offr/Dangerous Goods &amp; Prosecution (Ag.)","2852 4538"
+"Marine Department","Dangerous Goods and Prosecution Section,Dangerous Goods Unit","Mr. SUEN Wing Shun, Vincent","Assistant Marine Offr/Dangerous Goods","2852 3085"
+"Marine Department","Dangerous Goods and Prosecution Section,Dangerous Goods Unit","Mr. FONG Hang Chun","Sr Asst Shipping Master/Dangerous Goods (1) (Ag.)","2852 4372"
+"Marine Department","Dangerous Goods and Prosecution Section,Prosecution Unit","Mr. CHEUK Kwan Kin","Marine Offr/Prosecution","2567 5987"
+"Marine Department","Dangerous Goods and Prosecution Section,Prosecution Unit","Mr. SIU Wing Leung","Sr Asst Shipping Master/Prosecution (1)","2513 1293"
+"Marine Department","Dangerous Goods and Prosecution Section,Prosecution Unit"," LAU Chi Yeung","Sr Asst Shipping Master/Prosecution (2)","2513 0941"
+"Marine Department","Dangerous Goods and Prosecution Section,Prosecution Unit","Ms. CHANG Yuk Sim","Marine Insp I/Prosecution (1)","2513 7673"
+"Marine Department","Dangerous Goods and Prosecution Section,Prosecution Unit","Mr. YUEN Wai Tin","Marine Insp I/Prosecution (2)","2513 6301"
+"Marine Department","Dangerous Goods and Prosecution Section,Prosecution Unit","Mr. YUEN Wai Tin","Marine Insp I/Prosecution (3) (Ag.)","2513 6301"
+"Marine Department","Dangerous Goods and Prosecution Section,Prosecution Unit","Mr. PANG Siu Hung","Marine Insp I/Prosecution (4)","2513 0030"
+"Marine Department","Marine Department,Shipping Division","Mr. CHENG Yeung Ming","Assistant Director/Shipping","2852 4404"
+"Marine Department","Marine Department,Shipping Division","Mr. Joe FONG","Marine Surveyor/Training","2852 3898"
+"Marine Department","Shipping Division,Ship Safety Branch","Mr. SHI Qiang","Gen Mgr/Ship Safety","2852 4407"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. FONG Chung Lap","Sr Surveyor of Ships/Cargo Ships Safety","2852 4510"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. MAK Wing Tat","Surveyor of Ships/Cargo Ships Safety (1) (Ag.)","2852 4522"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. MAK Wing Tak","Surveyor of Ships/Cargo Ships Safety (2)","2852 4513"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. LO Ming Kwong, Danny","Surveyor of Ships/Cargo Ships Safety (6) (Ag.)","2852 4898"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section"," VACANT","Surveyor of Ships/Cargo Ships Safety (5)","2852 4516"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. LO Ming Kwong, Danny","Surveyor of Ships/Cargo Ships Safety (7)","2852 4898"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. LEUNG Fuk Pui","MS/CSS(1)","2852 4505"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. CHON Tin Lung, Roctel","Surveyor of Ships/Radio Surveyor","2852 4514"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. CHAN See Yin","Sr Surveyor of Ships/Special Task","2852 4751"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Miss CHANG Cho Ping, Shirley","OE/Cargo Ships Safety (2)","2852 4679"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. LEE Kwok Wah, Raymond","Asst Surveyor of Ships/Cargo Ships Safety (4)","2852 4507"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Miss LEUNG Ho Yan, Janice","OE/Cargo Ships Safety (1)","2852 4854"
+"Marine Department","Ship Safety Branch,Cargo Ships Safety Section","Mr. WONG Kwok Kin, Francis","Assistant Surveyor of Ships/Cargo Ships Safety(3)","2852 4852"
+"Marine Department","Ship Safety Branch,Passenger Ships Safety Section","Mr. HUANG Zihai","Sr Surveyor of Ships/Passenger Ships Safety","2852 4500"
+"Marine Department","Ship Safety Branch,Passenger Ships Safety Section","Mr. HO Kai Shuen","Surveyor of Ships/Passenger Ships Safety(1)","2852 4851"
+"Marine Department","Ship Safety Branch,Passenger Ships Safety Section","Mr. HO Kai Shuen","Surveyor of Ships/Passenger Ships Safety(2) (Ag.)","2852 4509"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. NI Zhao","Sr Surveyor of Ships/Port State Control","2852 4506"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. WANG Beitain","Surveyor of Ships/Port State Control (1)","2852 4915"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. CHOW Jorgen","Surveyor of Ships/Port State Control (2) (Ag.)","2852 4852"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. MOK Chi Sum","Surveyor of Ships/Port State Control (3) (Ag.)","2852 4502"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. CHOW Jorgen","Surveyor of Ships/Port State Control (4)","2852 4014"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. MOK Chiu Sum","Surveyor of Ships/Port State Control (5)","2852 4502"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. MOK Chi Sum","Surveyor of Ships/Port State Control (6) (Ag.)","2852 4852"
+"Marine Department","Ship Safety Branch,Port State Control Section","Mr. WONG Ching Hang, Tim","Surveyor of Ships/Port State Control (6)","2852 4509"
+"Marine Department","Ship Safety Branch,International Safety Management Section","Mr. HO Ki Kwong","Sr Surveyor of Ships/International Safety Management","2852 4504"
+"Marine Department","Ship Safety Branch,International Safety Management Section","Mr. XIANG Datian","Surveyor of Ships/International Safety Mgt (Ag.)","2852 4507"
+"Marine Department","Ship Safety Branch,Security & Quality Assurance Section","Mr. NI Zhao","Sr Surveyor of Ships/Security &amp; Quality Assurance","2852 4503"
+"Marine Department","Ship Safety Branch,Security & Quality Assurance Section","Mr. XIANG Datian","Surveyor of Ships/Security &amp; Quality Assurance","2852 3812"
+"Marine Department","Ship Safety Branch,Security & Quality Assurance Section","Mr. WONG Wai Ming, Ian","Assistant Surveyor of Ships/Security &amp; Quality Assurance (2)","2852 4522"
+"Marine Department","Shipping Division,Local Vessels Safety Branch","Mr. TANG Hing Kong, Jerry","Gen Mgr/Local Vessels Safety","2852 4406"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. LEE Chun Kong, Philip","Sr Shipping Safety Offr/Marine Industrial Safety","2852 4472"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. CHU Chi Wai","Shipping Safety Offr/Marine Industrial Safety (1) (Ag.)","2852 4481"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. CHU Chi Wai","Shipping Safety Offr/Marine Industrial Safety (2)","2852 4470"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. WONG Hung Wai","Shipping Safety Offr/Marine Industrial Safety (3)","2852 4474"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. NG Siu Kwan","Shipping Safety Offr/Marine Industrial Safety (4)","2852 4914"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. LUK Chi Yung","Ship Insp/Marine Industrial Safety","2852 4473"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. CHEUNG Chun Leung","Asst Ship Insp/Marine Industrial Safety (1)","2852 4475-6"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. CHAN Ka Ho, Thomas","Asst Ship Insp/Marine Industrial Safety (2)","2852 4475-6"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Ms. SIU Suet Yi, Shirley","Asst Ship Insp/Marine Industrial Safety (3)","2852 4475-6"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. HO Pui Kit","Asst Ship Insp/Marine Industrial Safety (4)","2852 4475-6"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. WONG Chi Fai","Asst Ship Insp/Marine Industrial Safety (5)","2852 4475-6"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. CHENG Hong Ting","Asst Ship Insp/Marine Industrial Safety (6)","2852 4475-6"
+"Marine Department","Local Vessels Safety Branch,Marine Industrial Safety Section","Mr. CHENG Yiu Hon, Mike","Asst Ship Insp/Marine Industrial Safety (7)","2852 4475-6"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. LIU Ren","Sr Surveyor of Ships/Local Vessels Safety","2852 4430"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. YEUNG Po Kwong","Sr Marine Surveyor/Local Vessels Safety (SMS/LVS)","2852 4897"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Ms. TAM Ka Wai, Flora","Office Executive/Local Vessels Safety (OE/LVS)","2852 4508"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHAN Wai Lok, Alfred","Surveyor of Ships(Engr &amp; Ship)/Local Vessels Safety","2852 4431"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHAN Wai Lok, Alfred","Surveyor of Ships(Ship)/Local Vessels Safety (Ag.)","2852 4430"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHAN Kei Cheong","Ch Ship Insp/Local Vessels Safety","2852 4591"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. LAI Kim Hing","Sr Ship Insp/Local Vessels Safety(1)","2852 4482"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. LOUK Hon Ying","Sr Ship Insp/Local Vessels Safety(2)","2852 4434"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHENG Lung Po","Sr Ship Insp/Local Vessels Safety(3)","2852 3014"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHAU Hang Cheung","Sr Ship Insp/Local Vessels Safety(4)","2852 4439"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. WONG Man Wai","Sr Ship Insp/Local Vessels Safety(5)","2852 4432"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHAU Hang Cheung","Sr Ship Insp/Local Vessels Safety(SD)","2582 4484"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. HO Ka Yu","Ship Insp/Local Vessels Safety(1)","2852 4858"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHAN Ngai Ming","Ship Insp/Local Vessels Safety(2)","2852 4484"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHOW Siu Pang","Ship Insp/Local Vessels Safety(3)","2852 4437"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. WONG Chi Wai","Ship Insp/Local Vessels Safety(4)","2852 4857"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHOW Siu Pang","Ship Insp/Local Vessels Safety(5)","2852 4437"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. HUI Sum Wai","Ship Insp/Local Vessels Safety(6)","2852 3663"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. WUT Wai Shing","Ship Insp/Local Vessels Safety(7)","2852 4855"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. WONG Ho Ching","Ship Insp/Local Vessels Safety(8)","2852 4438"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. NG Yiu Pang","Ship Insp/Local Vessels Safety(9)","2852 4483"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. CHAN Kwong Wing, Kenny","Ship Insp/Local Vessels Safety(10)","2852 4484"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. LEONG Ya Hui, Francisco","Asst Ship Insp/Local Vessels Safety(1)","2852 3664"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. TANG Wai Pui, Tommy","Asst Ship Insp/Local Vessels Safety(2)","2852 4856"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Ms. MAN Yuk Fei","CO/LVS","2852 4441"
+"Marine Department","Local Vessels Safety Branch,Local Vessels Safety Section","Mr. LEUNG Yuen Chung","Ship Insp/Local Vessels Safety(11)","2852 4478"
+"Marine Department","Local Vessels Safety Branch,Quality Management Section","Mr. LEE Wing Chung, Eric","SS/QM","2852 4417"
+"Marine Department","Shipping Division,Shipping Registry and Seafarers' Branch","Mr. CHAN Ming Yau","Gen Mgr/Shipping Regy &amp; Seafarers","2852 4409"
+"Marine Department","Shipping Registry and Seafarers' Branch,Shipping Registry and Mercantile Marine Office","Mr. YE Guorong","Ch Asst Regr/Ship &amp; Seafarer","2852 4383"
+"Marine Department","Shipping Registry and Seafarers' Branch,Shipping Registry and Mercantile Marine Office"," VACANT","Sr Asst Regr/Ship &amp; Seafarer","2852 3075"
+"Marine Department","Shipping Registry and Seafarers' Branch,Shipping Registry and Mercantile Marine Office","Mr. WONG Wing Chung","Marine Surveyor/Ship &amp; Seafarer (MS/SRMM)","2852 3075"
+"Marine Department","Shipping Registry and Seafarers' Branch,Shipping Registry and Mercantile Marine Office","Ms. YUEN Wai Chi, Heydee","CO/SRMM","2852 4387"
+"Marine Department","Shipping Registry and Seafarers' Branch,Shipping Registry and Mercantile Marine Office","Ms. CHAN Lok Sang, Yoyo","Asst Surveyor of Ships/Seafarers Management",""
+"Marine Department","Shipping Registry and Mercantile Marine Office,Shipping Registry","Mr. LI Chi Mun","Asst Regr of Shipping(1)/Shipping Regy","2852 4421"
+"Marine Department","Shipping Registry and Mercantile Marine Office,Shipping Registry","Mr. PUN Pui Hong","Asst Regr of Shipping(2)/Shipping Regy","2852 3066"
+"Marine Department","Shipping Registry and Mercantile Marine Office,Mercantile Marine Office","Ms. NG Wan Shuen, Arantax","Marine Insp I/Seafarers' Regn (1)","2852 3061"
+"Marine Department","Shipping Registry and Mercantile Marine Office,Mercantile Marine Office","Mr. CHAN Chap","Marine Insp I/Seafarers' Regn (2)","2852 3063"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. NG Ngai Wing, Jammy","Sr Surveyor of Ships/Seafarers' Cerification","2852 4368"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. LEE Chuen Kee, Roger","Marine Surveyor (Engineer &amp; Ship)/Examiner","2852 4364"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. LEE Yam Wo","Surveyor of Ships(Nautical)/Examiner (1)","2852 4362"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. CAI CHUNQIAO","Surveyor of Ships(Nautical)/Examiner (2)","2852 4367"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. TSUI Sun Ming","Marine Surveyor/Seafarers's Certification (MS/CRT)","2852 4363"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section"," VACANT","Marine Mgr/Examination (Local Master)","2852 4367"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. NGAI Fei Chiung","Asst Marine Contr/Examination (Local Master)1","2852 4370"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. TSANG Hei Man","Part-time Asst. Marine Supervisor (Exam)(1)","2852 4371"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. WONG Ho Sum","Part-time Asst. Marine Supervisor (Exam)(2)","2852 4371"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. LEE Kin Chung","Ship Insp/Examination (Local Engr.)","2852 3057"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. NG Cho Yan, Hector","Sr Asst Shipping Master/Seafarers' Certification","2852 3069"
+"Marine Department","Shipping Registry and Seafarers' Branch,Seafarers' Certification Section","Mr. LAM Kong Hei, Yale David","Surveyor of Ships (Engineer &amp; Ship) Examiner","2852 4361"
+"Marine Department","Shipping Registry and Seafarers' Branch,Library","","",""
+"Marine Department","Marine Department,Multi-lateral Policy Division","Mr. CHOI Chi Chuen","Assistant Director/Multi-lateral Policy","2852 4408"
+"Marine Department","Multi-lateral Policy Division,Technical Policy Branch","Mr. LIU Chiu Fai, Barry","Chief, Technical Policy","2852 4602"
+"Marine Department","Multi-lateral Policy Division,Technical Policy Branch","Mr. XU Yong Qiang","Sr Surveyor of Ships/Tech Policy 1","2852 4399"
+"Marine Department","Multi-lateral Policy Division,Technical Policy Branch","Mr. SHU Bong Tai","Sr Surveyor of Ships/Tech Policy 2","2852 4604"
+"Marine Department","Multi-lateral Policy Division,Technical Policy Branch","Mr. TSE Siu Hung, Simon","Sr Marine Surveyor(Policy) (SMS(Policy))","2852 4606"
+"Marine Department","Multi-lateral Policy Division,Technical Policy Branch"," VACANT","OE/Multi-lateral Policy 1","2852 4398"
+"Marine Department","Multi-lateral Policy Division,Maritime Policy Branch","Mr. LUI Kam Leung","Chief, Maritime Policy","2852 4603"
+"Marine Department","Multi-lateral Policy Division,Maritime Policy Branch","Mr. KUANG Zhijian","Sr Surveyor of Ships/Maritime Policy","2852 4395"
+"Marine Department","Multi-lateral Policy Division,Maritime Policy Branch","Mr. WOO Sui Fung, Jeff","Asst Surveyor of Ships / Maritime Policy","2852 4398"
+"Marine Department","Maritime Policy Branch,Planning and Training Section","Mr. HO Chi Wing, Nelson","Sr Surveyor of Ships/Planning &amp; Trg","2852 4605"
+"Marine Department","Multi-lateral Policy Division,Marine Accident Investigation and Shipping Security Policy Branch","Mr. LEUNG Man Chiu","Chief, Marine Accident Investigation &amp; Shipping Security Policy","2852 4601"
+"Marine Department","Multi-lateral Policy Division,Marine Accident Investigation and Shipping Security Policy Branch","Mr. YOE Henry","OE/Multi-lateral Policy 2","2852 4788"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section","Mr. YUE Hung Fai","Sr Surveyor of Ship/Marine Accident Investigation","2852 4523"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section"," VACANT","Surveyor of Ships/Marine Accident Investigation (1)","2852 4511"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section","Mr. PI Xian Zhong","Surveyor of Ships/Marine Accident Investigation (2)","2852 4943"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section","Mr. TANG Kwong Fai","Marine Surveyor/Marine Accident Investigation (MS/MAI)","2852 3098"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section","Mr. WONG Chun Kit, Eddie","Shipping Safety Offr/Marine Accident Investigation","2852 4440"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section","Mr. LEONG Ya Hui, Francisco","Asst Ship Insp/ Marine Accident Investigation(1)","2852 4487"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section","Mr. WUN Wai Man, Raymond","Asst Ship Insp/ Marine Accident Investigation(2)","2852 4486"
+"Marine Department","Marine Accident Investigation and Shipping Security Policy Branch,Marine Accident Investigation Section","Mr. WONG Ching Tung, Martin","Asst Ship Insp/ Marine Accident Investigation(1)","2852 4487"
+"Marine Department","Marine Department,Government Fleet Division","Mr. CHEUK Fan Lun","Assistant Director/Government Fleet (Double-up DD(SD) from 17 July to 2 August 2019)","2307 3600"
+"Marine Department","Marine Department,Government Fleet Division","Mr. YU Ying Wai","Gen Mgr/Govt Dockyard","2307 3602"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Mr. CHAN Ping Fai, Rico","Sr Fleet Mgr","2307 3614"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Mr. LAU Chi Shing, Edward","Fleet Operation Manager","2307 3615"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Mr. FUNG Hon Ming","Fleet Deployment Offr","2307 3622"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Mr. KI Ping Cheung","Marine Inps I (1)/Fleet Operations","2307 3681"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Ms. WONG Ka To","Marine Insp I (2)/Fleet Operations","2307 3621"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Mr. YAM Kwok Hung","Training Supervisor (Deck)/Fleet Operations","2307 3735"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Mr. LEUNG Chi Hang","Training Officer (Engine)/Fleet Operations","2307 3684"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Ms. LAM Wai Ling","CO/FOS","2307 3689"
+"Marine Department","Government Fleet Division,Fleet Operations Section","Mr. NG Chi Hang, Simon","Asst. Fleet Ops Mgr","2307 3682"
+"Marine Department","Government Fleet Division,Maintenance and Support Section","Mr. CHENG Yiu Kwong, Winson","Senior Surveyor/Maintenance and Support(1)","2307 3468"
+"Marine Department","Government Fleet Division,Maintenance and Support Section","Mr. CHAN Yee Lim","Surveyor/Maintenance and Support(1)","2307 3469"
+"Marine Department","Government Fleet Division,Maintenance and Support Section","Mr. LEE Tung Hin","Surveyor/Maintenance and Support(2)","2307 3470"
+"Marine Department","Government Fleet Division,Maintenance and Support Section","Mr. LEE Kwok Wai","Senior Surveyor/Maintenance and Support(2)","2307 3649"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. CHOY Chi Keung, Francis","Dockyard Offr (Mechanical)","2307 3513"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. LAM Yiu Man","Sr. Electrical Insp/Team 1, Maintenance Sec","2307 3508"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. POON Wing Keung","Sr Mechanical Insp/Team 1, Maintenance Section","2307 3503"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. CHAN Siu Hing","Sr Ship Insp/Team 1, Maintenance Sec","2307 3486"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. YIP Cheong Tat","Mechanical Insp (1)/Team 1, Maintenance Sec","2307 3510"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. LEUNG Yuk Wah","Mechanical Insp (2)/Team 1, Maintenance Sec","2307 3501"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. LUK Kwok Kin","Ship Inspector/Team 1, Maintenance Sec","2307 3502"
+"Marine Department","Maintenance and Support Section,Team 1","Miss HA Ching Man, Mandy","Asst Ship Insp(1)/Team 1, Maintenance Sec","2307 3546"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. TAM David","Asst Ship Insp(3)/Team 1, Maintenance Sec","2307 3504"
+"Marine Department","Maintenance and Support Section,Team 1","Mr. YUEN Ping Tang","Ship Insp/Forward Base","2307 3514"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. LAM Kwai Wing","Dockyard Offr (Electrical) (Ag.)","2307 3446"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. YIU For Ming, Barry","Sr Mechanical Insp/Team 2, Maintenance Sec","2307 3891"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. CHAN Chi Keung","Sr Ship Insp/Team 2, Maintenance Sec","2307 3628"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. KOO Ka Wo, Wicky","Mechanical Insp(1)/Team 2, Maintenance Sec","2307 3449"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. CHING Yuen Kei","Mechanical Insp(2)/Team 2, Maintenance Sec","2307 3443"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. CHOI Chi Wai","Ship Insp(1)/Team 2, Maintenance Sec","2307 3401"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. LEE fei Tat","Ship Insp(2)/Team 2, Maintenance Sec","2307 3518"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. SHEA Kin Wai","Electrical Insp/Team 2, Maintenance Sec","2307 3894"
+"Marine Department","Maintenance and Support Section,Team 2","Mr. YEUNG Man Hung","Asst Ship Insp(1)/Team 3, Maintenance Sec","2307 3403"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. WONG Hoi Him","ASI(2)/SCS","2307 3489"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. LAI Wing Yuen","Dockyard Offr (Hull) (Ag.)","2307 3511"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. YEUNG Yuk Lun","Sr Electrical Insp/Team 3, Maintenance Sec (Ag.)","2307 3629"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. WONG Siu Tong","Sr Mechanical Insp/Team 3, Maintenance Sec","2307 3496"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. FUNG Wai Man","Sr Ship Insp/Team 3, Maintenance Sec","2307 3482"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. LEUNG Wai Keung","Mechanical Insp(1)/Team 3, Maintenance Sec","2307 3490"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. CHU Chuk Ping","Mechanical Insp(2)/Team 3, Maintenance Sec","2307 3493"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. LEE Kam Ming","Electrical Insp/Team 3, Maintenance Sec","2307 3495"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. CHAN Chun Wing","Ship Insp(1)/Team 3, Maintenance Sec","2307 3402"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. SZE Kam Hung","Ship Insp(2)/Team 3, Maintenance Sec","2307 3478"
+"Marine Department","Maintenance and Support Section,Team 3","Mr. LO Ka Kui, Johnny","ASI(1)/SCS","23073632"
+"Marine Department","Maintenance and Support Section,Clerical Services Sub-Unit","Mr. CHAN Yuen Tak, Adrian","CO/Clerical Services","2307 3642"
+"Marine Department","Maintenance and Support Section,Dockyard Services Unit","Mr. LEE Keung","Dockyard Services Mgr (on leave from 15 July to 13 Aug 2019)","2307 3611"
+"Marine Department","Dockyard Services Unit,Dockyard Services Sub-Unit","Mr. LO Kwok Pan","Ship Insp/Dockyard Services","2307 3464"
+"Marine Department","Dockyard Services Unit,Dockyard Services Sub-Unit","Mr. LAI  Yuen Wo","Sr Ship Insp/Dockyard Services","2307 3626"
+"Marine Department","Dockyard Services Unit,Plant Maintenance Sub-Unit","Mr. CHENG Wai Yip, Alexander","Sr Mechanical Insp/Plant Maintenance","2307 3640"
+"Marine Department","Dockyard Services Unit,Plant Maintenance Sub-Unit","Mr. TAI Wai Hing","Mechanical Insp /Plant Maintenance","2307 3641"
+"Marine Department","Dockyard Services Unit,Plant Maintenance Sub-Unit","Mr. TANG Wai Man","Ship Insp(Electrical) /Plant Maintenance","2307 3633"
+"Marine Department","Dockyard Services Unit,Plant Maintenance Sub-Unit","Mr. TSOI Wing Lok, Loki","Asst Ship Insp/Plant Maintenance","2307 3645"
+"Marine Department","Dockyard Services Unit,Scheduling Coordination & Seatrial Sub-Unit","Mr. FUNG Pak Keung","Sr Mechanical Insp/Scheduling Coordination &amp; Seatrial","2307 3488"
+"Marine Department","Dockyard Services Unit,Scheduling Coordination & Seatrial Sub-Unit","Mr. LEUNG Pak Him, Ponmy","Mechanical Insp/Scheduling Coordination &amp; Seatrial","2307 3489"
+"Marine Department","Maintenance and Support Section,Technical Services Unit","Mr. CHAN Fu","Tech Services Mgr","2307 3650"
+"Marine Department","Technical Services Unit,IT Management Sub-Unit","Mr. CHU Chuk Ping","Sr Mechanical Insp/Infn Technology Mgt","2307 3627"
+"Marine Department","Technical Services Unit,IT Management Sub-Unit","Mr. CHIU Chung Sze, Jones","Contract Sr Infn Technology Offr/Infn Technology Mgt","2307 3646"
+"Marine Department","Technical Services Unit,IT Management Sub-Unit","Mr. CHEUNG Sing Kit, Alex","Contract Infn Technology Offr (1)/Infn Technology Mgt","2307 3739"
+"Marine Department","Technical Services Unit,IT Management Sub-Unit","Mr. CHONG Tin Cheuk, Bird","Contract Infn Technology Offr (2)/Infn Technology Mgt","2307 3625"
+"Marine Department","Technical Services Unit,Material Planning and Management Sub-Unit","Mr. LIANG Ming Kuang","Sr Mechanical Insp/Material Planning &amp; Mgt","2307 3637"
+"Marine Department","Technical Services Unit,Material Planning and Management Sub-Unit","Mr. CHAN Sai Chong","Mechanical Insp (1)/Material Planning &amp; Mgt","2307 3636"
+"Marine Department","Technical Services Unit,Material Planning and Management Sub-Unit","Mr. LO Kar Wah","Mechanical Insp (2)/Material Planning &amp; Mgt","2307 3635"
+"Marine Department","Technical Services Unit,Material Planning and Management Sub-Unit","Mr. LAU Wing Tat","Ship Insp/Material Planning &amp; Mgt","2307 3638"
+"Marine Department","Technical Services Unit,Material Planning and Management Sub-Unit","Miss YU Wai Ying","Asst Ship Insp (1)/Material Planning &amp; Mgt","2307 3515"
+"Marine Department","Technical Services Unit,Material Planning and Management Sub-Unit","Mr. LEE Tsun Ting, Trevor","Asst Ship Insp (2)/Material Planning &amp; Mgt","2307 3634"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. YU Kin Chung","Sr Surveyor of Ships/Govt New Construction (1)","2307 3407"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. LAU Yau Wah, Ben","Sr Surveyor of Ships/Govt New Construction (2)","2307 3413"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. XU Dazhong","Surveyor of Ships (Ship 1) /Govt New Construction","2307 3410"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. XU Dazhong","Surveyor of Ships (Ship 2) /Govt New Construction","2307 3408"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. LAI Shung Kin, Peter","Surveyor of Ships (Ship 3) /Govt New Construction","2307 3419"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. LAI Shung Kin, Peter","Surveyor of Ships (Engine &amp; Ship 1)/Govt New Construction","2307 3412"
+"Marine Department","Government Fleet Division,Government New Construction Section"," VACANT","Surveyor of Ships (Engine &amp; Ship 2) /Govt New Construction","2307 3412"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. CHOW Siu Wah, Peter","Marine Surveyor/Govt New Construction(1)","2307 3421"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. YUEN Hong Tai","Asst Ship Insp (1)/Govt New Construction","2307 3436"
+"Marine Department","Government Fleet Division,Government New Construction Section","Miss CHAN Huen Wai","Asst Ship Insp (2)/Govt New Construction","2307 3436"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. MAK Chi Kin","Sr Ship Insp/Govt New Construction(1)","2307 3414"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. LAU Kin Wah","Sr Ship Insp/Govt New Construction(2)","2307 3435"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. NG Chin Yiu, Jimmy","Ship Insp (Hull &amp; Deck)1/Govt New Construction","2307 3418"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. LEUNG Chun Ki","Ship Insp (Hull &amp; Deck)2/Govt New Construction","2307 3420"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. LI Kwan Nang","Ship Insp(Machinery 1)/Govt New Construction","2307 3416"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. IP Wing Kai","Ship Insp (Machinery 2)/Govt New Construction","2307 3409"
+"Marine Department","Government Fleet Division,Government New Construction Section","Ms. CHEUNG Choi Lin, Maria","SCO/Govt New Construction","2307 3422"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. LEUNG Kwong Chow, Frank","Sr. Insp Warranty Service(1)","2307 3448"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. WAN Shiu Hong","Marine Surveyor/Govt New Construction(2)","2307 3411"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. WONG Wang Chi","Assistant Surveyor of Ships / Govt New Construction","2307 3423"
+"Marine Department","Government Fleet Division,Government New Construction Section","Mr. WU Philip","Sr. Insp Warranty Service(2)","2307 3436"
+"Marine Department","Government Fleet Division,Industrial Safety Section","Mr. WONG King Wai, Vemson","Industria Safety Mgr/Industrial Safety","2307 3610"
+"Marine Department","Government Fleet Division,Industrial Safety Section","Mr. CHAU To Yui","Sr Ship Insp/Industrial Safety","2307 3647"
+"Marine Department","Government Fleet Division,Industrial Safety Section","Mr. TO Chiu Ping, Alan","Asst Ship Insp/Industrial Safety","2307 3643"
+"Marine Department","Government Fleet Division,Industrial Safety Section"," VACANT","Asst Ship Insp/Industrial Safety","2307 3648"
+"Marine Department","Government Fleet Division,Industrial Safety Section","Mr. YIP Wai Ming","Ship Insp/Industrial Safety","2307 3648"
+"Marine Department","Marine Department,Administration Branch","","",""
+"Marine Department","Administration Branch,Administration Section","Ms. NG Yin Nei, Fausta","DS","2852 4400"
+"Marine Department","Administration Branch,Administration Section","Ms. CHOW Choi Ngor, Shirley","CEO(1)","2852 3998"
+"Marine Department","Administration Branch,Administration Section","Ms. LAM Yee Hung, Jessica","CEO(2)","2852 4497"
+"Marine Department","Administration Branch,Administration Section"," Ms. YAM Bo Yee, Jennifer","SEO(P)1","2852 4753,2852 4013"
+"Marine Department","Administration Branch,Administration Section","Ms. KONG Yuk Mui, Julia","SEO(P)2","2852 4480"
+"Marine Department","Administration Branch,Administration Section","Ms. SIT Hau Yin, Elsa","SEO(P)3","2852 4468"
+"Marine Department","Administration Branch,Administration Section","Ms. LEE Mei Ling, Nicola","SEO(G)","2852 4498"
+"Marine Department","Administration Branch,Administration Section","Miss WONG Man Yeung, Isis","EO(SD)","2852 4498"
+"Marine Department","Administration Section,Personnel Unit","Miss CHEUNG Wai Ling, Caroline","EO(P)1","2852 4013"
+"Marine Department","Administration Section,Personnel Unit","Ms. SHAM Ka Wah, Kan","SCO(P)","2852 4391"
+"Marine Department","Administration Section,Personnel Unit"," VACANT","CO(P)1","2852 4390"
+"Marine Department","Administration Section,Personnel Unit","Mr. MAN Yiu Wah, Dicky","CO(P)2","2852 4567"
+"Marine Department","Administration Section,Appointments Unit","Ms. CHUNG Sze Mei, Sylvia","EO(P)2","2852 4388"
+"Marine Department","Administration Section,Appointments Unit","Mr. HO Kam Pan, Benjamin","EO(P)3","2852 4750"
+"Marine Department","Administration Section,Appointments Unit","Mr. CHENG Wing Nam, Nichole","EO(P)4","2852 4753"
+"Marine Department","Administration Section,Appointments Unit","Mr. YUEN William","CO(A)","2852 4389"
+"Marine Department","Administration Section,Confidential Registry","Ms. LEE Kwok Tsee, Winnie","ConA","2852 4380"
+"Marine Department","Administration Section,Establishment & Training Unit","Miss HUI Ka Lam, Janet","EO(P)5","2852 4392"
+"Marine Department","Administration Section,Establishment & Training Unit","Mr. WONG Ka Ho, Gary","EO(P)6","2852 4752"
+"Marine Department","Administration Section,Establishment & Training Unit","Mr. WONG Shui Wai","CO(E&amp;T)","2852 4422"
+"Marine Department","Administration Section,Secretarial & Typing Pool","Ms. LAM Ka Kei, Nicole","PS II to DS &amp; CEOs","2852 4747"
+"Marine Department","Administration Section,Secretarial & Typing Pool","Ms. TIU Lai Ha","Typist","2852 4448"
+"Marine Department","Administration Section,Staff Relations and Staff Management Unit","Miss WONG  Yan Shun, Serene","EO(P)7","2852 4485"
+"Marine Department","Administration Section,Staff Relations and Staff Management Unit","Miss WONG Man Ting","CO(SR&amp;SM)","2852 4419"
+"Marine Department","Administration Section,General Registry and Committee Unit","Mr. SINN Ming Chun, Anson","EO(General &amp; Committee)","2852 4590"
+"Marine Department","Administration Section,General Registry and Committee Unit","Miss WONG Pui Ki, Nikki","Office Executive(General)","2852 4902"
+"Marine Department","Administration Section,General Registry and Committee Unit","Mr. CHENG Chi Hung, Eric","SCO(General)","2852 4345"
+"Marine Department","Administration Section,General Registry and Committee Unit","Ms. CHU Lai Sim, Eva","CO(General &amp; Committee)","2852 4347"
+"Marine Department","Administration Section,Planning and Services & Port Control Divisional Administration Unit","Mr. YIU Yat Fung, Alex","EO(PP)1","2852 4462"
+"Marine Department","Administration Section,Planning and Services & Port Control Divisional Administration Unit","Miss LAI Tsz Yan, Janet","EO(PP)2","2852 4465"
+"Marine Department","Administration Section,Planning and Services & Port Control Divisional Administration Unit","Mr. WONG Ka Fung, Alvin","EO(HO)","2504 0130"
+"Marine Department","Administration Section,Planning and Services & Port Control Divisional Administration Unit","Mr. LEUNG Kwok Fai, Innis","SCO(PP)","2852 4466"
+"Marine Department","Administration Section,Planning and Services & Port Control Divisional Administration Unit","Ms. WONG Bak Kwon, Wendy","CO(PP)1","2852 4464"
+"Marine Department","Administration Section,Planning and Services & Port Control Divisional Administration Unit","Mr. LAU Kin Man, Winky","CO(PP)2","2852 4463"
+"Marine Department","Administration Section,Shipping & Multi-Lateral Policy Divisional Administration Unit","Ms. LAM Man Ki, Jennifer","EO(SMP)1","2852 3067"
+"Marine Department","Administration Section,Shipping & Multi-Lateral Policy Divisional Administration Unit","Miss LAM Ka Foo, Tiffany","EO(SMP)2","2852 4501"
+"Marine Department","Administration Section,Shipping & Multi-Lateral Policy Divisional Administration Unit","Mr. CHEUNG Kam Wah, Walter","CO(Shipping) (Ag.)","2852 4520"
+"Marine Department","Administration Section,Government Fleet Divisional Units","","",""
+"Marine Department","Government Fleet Divisional Units,Administration Unit (GFD)","Miss TAM On Lam, Sherry","EO(GF)1","2307 3570"
+"Marine Department","Government Fleet Divisional Units,Administration Unit (GFD)","Ms. LEUNG Wai Man, Wendy","SCO(GF)G","2307 3580"
+"Marine Department","Government Fleet Divisional Units,Administration Unit (GFD)","Miss TONG Chui Yee, Ivy","CO(GF)G1","2307 3573"
+"Marine Department","Government Fleet Divisional Units,Administration Unit (GFD)","Ms. TSE Tai Wah, Rebecca","CO(GF)G2","2307 3699"
+"Marine Department","Government Fleet Divisional Units,Personnel Unit (GFD)","Miss WONG Sze Kee, Jasmine","EO(GF)2","2307 3579"
+"Marine Department","Government Fleet Divisional Units,Personnel Unit (GFD)","Ms. CHU Wai Lin, Echo","CO(GF)P1","2307 3568"
+"Marine Department","Government Fleet Divisional Units,Personnel Unit (GFD)","Ms. LAM Fei Kim, Phyllis","CO(GF)P2","2307 3569"
+"Marine Department","Government Fleet Divisional Units,Appointments Unit (GFD)","Miss KWOK Ching Yi, Stella","EO(P)8","2852 4909"
+"Marine Department","Government Fleet Divisional Units,Appointments Unit (GFD)","Mr. CHAN Man Sing","CO(GF)A","2852 4995"
+"Marine Department","Administration Branch,Information Technology Management Section","Mr. YUNG Ming Wai, Gordon","SITM","2852 3997"
+"Marine Department","Information Technology Management Section,Services & Support Unit","Mr. SHEK Ka Lik, Gary","EO(IT)","2852 4394"
+"Marine Department","Information Technology Management Section,Services & Support Unit","Mr. LEE See Lik","CO(LAN)","2852 3071"
+"Marine Department","Information Technology Management Section,Services & Support Unit","Mrs. LAU IP Tak Chun, Carol","CO(WS)","2852 4495"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. LUK Chi Ho, Patrick","ITM(1)","2852 4537"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. YUEN Chun Cheung, Gordon","ITM(2)","2852 4536"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. POON Man Tung, Gary","ITM(3)","2307 3644"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. LAU Chun Nam, Jimmy","SITO(1)","2852 3894"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. TSANG Tsz Leung","SITO(2)","2852 4749"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. YIP Yan Hon, John","SITO(3)","2852 4748"
+"Marine Department","Information Technology Management Section,Technical Unit","Miss CHAN Ka Yan","SITO(4) (Ag.)","2852 4917"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. POON Chi Yin, Tate","SITO(5)","2852 4535"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. TON Hsuen Dar Rhung","SITO(6) (Ag.)","2307 3797"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. TANG Carman","ITO(1)","2852 3003"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. HO Kin Long, Dickson","ITO(2)","2852 4917"
+"Marine Department","Information Technology Management Section,Technical Unit","Miss CHAN Ka Yan","ITO(3)","2852 4901"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. WONG Ka Wing, Sam","ITO(4)","2307 3613"
+"Marine Department","Information Technology Management Section,Technical Unit","Miss YIM Ying Shan, Serena","ITO(5)","2370 0356"
+"Marine Department","Information Technology Management Section,Technical Unit","Mr. HO Kai Kong, Andrew","ITO(6)","2852 4748"
+"Marine Department","Administration Branch,Translation Unit","Mr. SUEN Yip Kuen, Louie","SOLO","2852 4349"
+"Marine Department","Administration Branch,Translation Unit","Mr. SHUM Sai Kit, Conan","OLO I (1) (Ag.)","2852 3888"
+"Marine Department","Administration Branch,Translation Unit","Miss HUNG Lee Lee, Catherine","OLO I (2)","2852 3667"
+"Marine Department","Administration Branch,Translation Unit","Miss IP Wing Yan, Janette","OLO II (1)","2852 3665"
+"Marine Department","Administration Branch,Translation Unit","Miss YIP Lai Ping","OLO II (2)","2852 4931"
+"Marine Department","Marine Department,Finance Branch","Mr. YIU Chung, Patrick","CTA","2852 4348"
+"Marine Department","Marine Department,Finance Branch","Miss TUNG Mei Yi, Dora","STA/F","2852 4365"
+"Marine Department","Finance Branch,Financial Accounting Services Unit","Mr. TANG Sik Lit, James","Sr Acct Offr/Financial Acct","2852 4354"
+"Marine Department","Financial Accounting Services Unit,Expenditure Sub-unit","Ms. NG Wai Man, Shirman","SCO/Fin Acct","2852 4356"
+"Marine Department","Financial Accounting Services Unit,Expenditure Sub-unit","Ms. SIU Kwai Ping","CO/Exp(1)","2852 4359"
+"Marine Department","Financial Accounting Services Unit,Expenditure Sub-unit","Ms. CHEUNG Yuk Lan, Candy","CO/Exp(2)","2852 4351"
+"Marine Department","Financial Accounting Services Unit,Expenditure Sub-unit"," VACANT","CO/Exp(3)","2852 4351"
+"Marine Department","Financial Accounting Services Unit,Revenue Sub-unit","Miss SHIU Yi Wing, Vincy","Acct Offr II/Financial Acct","2852 4355"
+"Marine Department","Financial Accounting Services Unit,Revenue Sub-unit","Mr. WONG Ka Ming, Lawrence","CO/RS(1)","2852 4357"
+"Marine Department","Revenue Sub-unit,Shroff Sub-unit","Ms. MAN Chi Wah, Peggy","CO/RS(2)","2852 4957"
+"Marine Department","Finance Branch,Government Dockyard Accounting Services Unit","Ms. WONG Kam Ling, Helen","Try Acct/Govt Dockyard","2307 3595"
+"Marine Department","Finance Branch,Government Dockyard Accounting Services Unit","Mr. LU Fa Pak, Patrick","Acct Offr II/Govt Dockyard","2307 3581"
+"Marine Department","Finance Branch,Government Dockyard Accounting Services Unit","Ms. CHIK Mei Ling","CO/GDE","2307 3591"
+"Marine Department","Finance Branch,Government Dockyard Accounting Services Unit"," VACANT","CO/GDE(2)","2307 3587"
+"Marine Department","Finance Branch,Management Accounting Services Unit","Mr. YEUNG Ming, Stanley","Try Acct/Management Acct","2852 4353"
+"Marine Department","Finance Branch,Management Accounting Services Unit","Ms. HO Wai Yee, Sharon","Acct Offr I/Management Acct","2852 4344"
+"Marine Department","Finance Branch,Supplies Services Unit","Mr. CHU Kai Kong","Senior Supplies Officer/Supplies Services Unit (SSO/SSU)","2307 3529"
+"Marine Department","Finance Branch,Supplies Services Unit","Mr. CHAN Man Shing, Sylvester","Part-time Logistics Officer","2307 3811"
+"Marine Department","Finance Branch,Supplies Services Unit","Mr. LEUNG Shing Tak, Chris","Supplies Officer/Supplies Services Unit (SO/SSU)","2307 3528"
+"Marine Department","Finance Branch,Supplies Services Unit","Mr. LUI Chi Yu, Luke","Assistant Supplies Officer/Purchasing Sub-unit (ASO/PS)","2307 3517"
+"Marine Department","Finance Branch,Supplies Services Unit","Mr. YEUNG Chi Shing","Sr Supplies Supervisor/Operation &amp; Storehouse Sub-unit (SSS/OSS)","2307 3803"
+"Marine Department","Finance Branch,Supplies Services Unit","Ms. WONG Pui Wa","SSI/PS-A","2307 3519"
+"Marine Department","Finance Branch,Supplies Services Unit","Ms. CHUNG Yin Yee, Sera","SSI/PS-B","2307 3805"
+"Marine Department","Finance Branch,Procurement & Tender Unit","Ms. SIU Man Wai, Margaret","Chief Supplies Officer/Procurement &amp; Tender","2307 3612"
+"Marine Department","Finance Branch,Procurement & Tender Unit","Ms. CHOI Kam Wah, Carol","Supplies Officer/Procurement &amp; Tender","2307 3417"
+"Marine Department","Finance Branch,Procurement & Tender Unit","Mr. CHUNG Ka Leung","Part-time Procurement Advisor","2852 3668"
+"Marine Department","Finance Branch,Internal Audit Section","Mr. MAK On Kei, Eugene","Try Acct/Internal Audit","2852 4366"
+"Marine Department","Finance Branch,Internal Audit Section","Ms. WONG Ting Ting, Joey","Acct Offr II/Internal Audit","2852 4745"
+"Marine Department","Marine Department,Information and Public Relations Section","Miss TANG Man Chi, Maggie","Prin Infn Offr","2852 4423"
+"Marine Department","Marine Department,Information and Public Relations Section","Miss YOUNG Gigi","Asst Infn Offr","2852 4425"
+"Marine Department","Marine Department,Management Services Unit","Mr. LEUNG Chun Hung, Allen","CMSO(Special Duties)","2348 0155"
+"Marine Department","Marine Department,Management Services Unit","Mr. TSANG Hing Bun, Timothy","SMSO","2348 0101"
+"Marine Department","Marine Department,Management Services Unit","Ms. CHAN Shuk Han, Carolina","SMSO(Special Duties)","2348 0114"
+"Marine Department","Marine Department,Management Services Unit","Miss HUI Kai Lo, Lora","MSO(1)","2348 0266"
+"Marine Department","Marine Department,Management Services Unit","Miss CHEUNG Kei, Shirley","MSO(2)","2348 0277"
+"Marine Department","Marine Department,Policy Support","Mr. LOW Sze Yin, Adrian","SAO(PS)","2852 4479"

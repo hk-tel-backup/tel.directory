@@ -1,264 +1,174 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=GovtLab&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DGovtLab%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Government Laboratory","Dr. SIN Wai Mei, JP","Government Chemist (On Leave)","2762 3701"
+"Government Laboratory","Dr. LEE Wai On","Asst Govt Chemist (A&AS Div)","2762 3704"
+"Government Laboratory","Mr. CHEUNG Kwok Keung, Bobbie","Asst Govt Chemist (Forensic Science Div) (Ag)","2762 3703"
+""
+"Organisation","Service Name","Office Tel"
+"Government Laboratory","Enquiries","2762 3700"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Government Laboratory","Government Laboratory","Dr. SIN Wai Mei, JP","Government Chemist (On Leave)","2762 3701"
+"Government Laboratory","Government Laboratory","Dr. LEE Wai On","Government Chemist (Ag)","2762 3701"
+"Government Laboratory","Government Laboratory,Administration Division","Mr. TAM Hing Wai, Samson","DS (Adm Div)","2762 3708"
+"Government Laboratory","Government Laboratory,Administration Division","Ms. LAU Nga Chi, Jessie","Asst DS (1) (Adm Div)","2762 3710"
+"Government Laboratory","Government Laboratory,Administration Division","Ms. CHU Sau Wa","Asst DS (2) (Adm Div)","2762 3713"
+"Government Laboratory","Government Laboratory,Administration Division","Mr. LAI Chun Wan","Asst DS (3) (Adm Div)","2762 3835"
+"Government Laboratory","Government Laboratory,Administration Division","Miss CHOW Wai Fun, Alison","PS I (Adm Div)","2762 3706"
+"Government Laboratory","Government Laboratory,Administration Division","Ms. LAM Mo Ching, Rosemary","CO i/c PR (Adm Div)","2762 3720"
+"Government Laboratory","Government Laboratory,Administration Division","Ms. IP Kwan Wai","CO i/c GR (Adm Div)","2762 3707"
+"Government Laboratory","Government Laboratory,Administration Division","Ms. CHEUNG Oi Lan","CHSTi/c (Adm Div) (Ag)","2762 3716"
+"Government Laboratory","Government Laboratory,Administration Division","Miss SY Yin Mei","SO (Adm Div)","2762 3797"
+"Government Laboratory","Government Laboratory,Administration Division","Mr. LAM Chun Keung","SS I (Adm Div)","2762 3712"
+"Government Laboratory","Government Laboratory,Analytical & Advisory Services Division","Dr. LEE Wai On","Asst Govt Chemist (A&amp;AS Div)","2762 3704"
+"Government Laboratory","Analytical & Advisory Services Division,Food Safety & Quality Group","Dr. CHOI Sik Man","Ch Chemist (Food Safety &amp; Quality Group)","2762 3860"
+"Government Laboratory","Food Safety & Quality Group,Quality Management Section","Ms. CHAN Wing Yee","Sr Chemist (Quality Management Sec)","2762 3859"
+"Government Laboratory","Food Safety & Quality Group,Quality Management Section","Dr. LO Man Fung","Chemist (Quality Management Sec)","2762 3723"
+"Government Laboratory","Food Safety & Quality Group,Quality Management Section","Dr. POON Ka Fai","Chemist (Quality Management Sec)","2762 3723"
+"Government Laboratory","Food Safety & Quality Group,Trace Elements Section","Dr. CHEUNG Tsz Chun","Sr Chemist (Trace Elements Sec)","2762 3748"
+"Government Laboratory","Food Safety & Quality Group,Trace Elements Section","Dr. TSOI Yuk Tai","Chemist (Trace Elements Sec)","2762 3861"
+"Government Laboratory","Food Safety & Quality Group,Trace Elements Section","Dr. CHU Hei Shing","Chemist (Trace Elements Sec)","2762 3861"
+"Government Laboratory","Food Safety & Quality Group,Trace Elements Section","Dr. WONG Kam Cheung","Chemist (Trace Elements Sec)","2762 3861"
+"Government Laboratory","Food Safety & Quality Group,Additives, Contaminants & Composition Section","Mr. NG Chi Shing","Sr Chemist (Additives, Contaminants &amp; Composition Sec)","2762 3893"
+"Government Laboratory","Food Safety & Quality Group,Additives, Contaminants & Composition Section","Miss CHAN Pui Kwan","Chemist (Additives, Contaminants &amp; Composition Sec)","2762 3830"
+"Government Laboratory","Food Safety & Quality Group,Additives, Contaminants & Composition Section","Dr. CHAN Kwok Chu","Chemist (Additives, Contaminants &amp; Composition Sec)","2762 3746"
+"Government Laboratory","Food Safety & Quality Group,Additives, Contaminants & Composition Section","Dr. CHAN Tsz Pun","Chemist (Additives, Contaminants &amp; Composition Sec)","2762 3746"
+"Government Laboratory","Food Safety & Quality Group,Additives, Contaminants & Composition Section","Dr. KONG Pak Wing","Chemist (Additives, Contaminants &amp; Composition Sec)","2762 3749"
+"Government Laboratory","Food Safety & Quality Group,Additives, Contaminants & Composition Section","Dr. SZE Kwan Lok","Chemist (Additives, Contaminants &amp; Composition Sec)","2762 3830"
+"Government Laboratory","Food Safety & Quality Group,Food Complaints Section","Dr. CHAN Yee Shun, Gabriel","Sr Chemist (Food Complaints Sec)","2762 3796"
+"Government Laboratory","Food Safety & Quality Group,Food Complaints Section","Dr. SHIU Hoi Yan, Fiona","Chemist (Food Complaints Sec)","2762 3852"
+"Government Laboratory","Food Safety & Quality Group,Food Complaints Section","Mr. CHEN Ling Sze, Benedict","Sr Chemist (Food Complaints Sec) (Ag)","2762 3789"
+"Government Laboratory","Food Safety & Quality Group,Food Complaints Section","Dr. TONG Siu Kuen","Sr Chemist (Food Complaints Sec) (Ag)","2762 3839"
+"Government Laboratory","Food Safety & Quality Group,Food Complaints Section","Dr. YEUNG Ching Lam","Chemist (Food Complaints Sec)","2762 3852"
+"Government Laboratory","Food Safety & Quality Group,Outsourcing Mangement Section","Dr. WONG Shuk Yee, Janet","Chemist (Outsourcing Mangement Sec)","2762 3862"
+"Government Laboratory","Food Safety & Quality Group,Outsourcing Mangement Section","Ms. CHAN Pui San, Patricia","Sr Chemist (Outsourcing Mangement Sec)","2762 3855"
+"Government Laboratory","Food Safety & Quality Group,Outsourcing Mangement Section","Dr. POON Ch Yan","Chemist (Outsourcing Mangement Sec)","2762 3749"
+"Government Laboratory","Food Safety & Quality Group,Residues Section","Dr. Clare HO","Sr Chemist (Residues Sec)","2538 2012"
+"Government Laboratory","Food Safety & Quality Group,Residues Section","Dr. LAM Chong Ho, Tony","Chemist (Residues Sec)","2538 2016"
+"Government Laboratory","Food Safety & Quality Group,Residues Section","Dr. CHENG Leung Shi","Chemist (Residues Sec)","2538 2017"
+"Government Laboratory","Food Safety & Quality Group,Residues Section","Mr. HUNG Chi Tat","Chemist (Residues Sec)","2538 2014"
+"Government Laboratory","Food Safety & Quality Group,Residues Section","Dr. YAU Ho Pan, Michael","Chemist (Residues Sec)","2538 2020"
+"Government Laboratory","Food Safety & Quality Group,Residues Section","Mr. FAN Kit Man","Chemist (Residues Sec)","2538 2013"
+"Government Laboratory","Food Safety & Quality Group,Residues Section","Dr. KOO Chi Kin","Chemist (Residues Sec)","2538 2019"
+"Government Laboratory","Food Safety & Quality Group,Strategic Development Section","Dr. FUNG Wai Hong","Sr Chemist (Strategic Development Sec)","2762 3853"
+"Government Laboratory","Food Safety & Quality Group,Strategic Development Section","Dr. LAM Wai Hing","Chemist (Strategic Development Sec)","2762 3854"
+"Government Laboratory","Food Safety & Quality Group,Strategic Development Section","Dr. WONG Wai Fun","Chemist (Strategic Development Sec)","2762 3854"
+"Government Laboratory","Food Safety & Quality Group,Strategic Development Section","Dr. WONG Yiu Tung","Chemist (Strategic Development Sec)","2762 3833"
+"Government Laboratory","Food Safety & Quality Group,Strategic Development Section","Dr. CHAN Wai Yi","Chemist (Strategic Development Sec)","2762 3854"
+"Government Laboratory","Food Safety & Quality Group,Strategic Development Section","Dr. TSE Chun Wai","Chemist (Strategic Development Sec)","2762 4041"
+"Government Laboratory","Analytical & Advisory Services Division,Other Scientific Services Group","Mr. SHAM Wing Cheong","Ch Chemist (Other Scientific Services Group)","2762 3879"
+"Government Laboratory","Other Scientific Services Group,Chinese Medicines Section","Miss TSO Sau Ching","Sr Chemist (Chinese Medicines Sec)","2319 8398"
+"Government Laboratory","Other Scientific Services Group,Chinese Medicines Section","Dr. TANG Hau San","Chemist (Chinese Medicines  Sec)","2319 8397"
+"Government Laboratory","Other Scientific Services Group,Chinese Medicines Section","Mr. CHAN Cheok Man, Andy","Chemist (Chinese Medicines Sec)","2319 8402"
+"Government Laboratory","Other Scientific Services Group,Chinese Medicines Section","Dr. LEUNG Yu Lut","Chemist (Chinese Medicines Sec)","2319 8402"
+"Government Laboratory","Other Scientific Services Group,Chinese Medicines Section","Dr. SO Lok Yan","Chemist (Chinese Medicines Sec)","2319 8397"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Dr. WONG Yiu Chung","Sr Chemist (Pharmaceutical Chemistry Sec) (On Leave)","3104 3460"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Mr. HUI Kin Ning","Sr Chemist (Pharmaceutical Chemistry Sec) (Ag)","3104 3052"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Dr. LAM Hon Kong","Chemist (Pharmaceutical Chemistry Sec)","3104 3462"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Ms. CHEUNG Yuk King","Chemist (Pharmaceutical Chemistry Sec)","3104 3461"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Dr. LAM Kin Ming","Chemist (Pharmaceutical Chemistry Sec)","3104 3463"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Dr. WAM Chun Hong","Chemist (Pharmaceutical Chemistry Sec)","3104 3462"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Dr. WAN Chun Hong","Chemist (Pharmaceutical Chemistry Sec)","3104 3051"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Chemistry Section","Dr. WONG Lai Ming, Ella","Chemist (Pharmaceutical Chemistry Sec)","3104 3463"
+"Government Laboratory","Other Scientific Services Group,Chemical Safety Section","Mr. TSANG Chi Kin","Sr Chemist (Chemical Safety Sec) (On Leave)","3104 3050"
+"Government Laboratory","Other Scientific Services Group,Chemical Safety Section","Dr. Timothy WONG","Sr Chemist (Chemical Safety Sec) (Ag)","3104 3053"
+"Government Laboratory","Other Scientific Services Group,Chemical Safety Section","Dr. CHI Lai Man","Chemist (Chemical Safety Sec)","3188 3520"
+"Government Laboratory","Other Scientific Services Group,Chemical Safety Section","Dr. CHENG Chung Chin","Chemist (Chemical Safety Sec)","3104 3054"
+"Government Laboratory","Other Scientific Services Group,Chemical Safety Section","Dr. MAN Man Lok","Chemist (Chemical Safety Sec)","2388 7480"
+"Government Laboratory","Other Scientific Services Group,Chemical Safety Section","Mr. KWAN Hok Wing","Laboratory Specialist Services Officer (Scientific Safety) (Chemical Safety Sec)","2762 3882"
+"Government Laboratory","Other Scientific Services Group,Chinese Materia Medica Chemistry Section","Dr. WONG Yee Lok","Sr Chemist (Chinese Materia Medica Chemistry Sec) (On  Study Leave)","2210 7027"
+"Government Laboratory","Other Scientific Services Group,Chinese Materia Medica Chemistry Section","Dr. CHAN Ka Lok","Chemist (Chinese Materia Medica Chemistry Sec)","2210 7010"
+"Government Laboratory","Other Scientific Services Group,Chinese Materia Medica Chemistry Section","Dr. LIN Wing Shan","Chemist (Chinese Materia Medica Chemistry Sec)","3104 3464"
+"Government Laboratory","Other Scientific Services Group,Chinese Materia Medica Chemistry Section","Dr. SIU Shiu On","Chemist (Chinese Matteria Medica Chemistry Sec)","2210 7010"
+"Government Laboratory","Other Scientific Services Group,Chinese Materia Medica Chemistry Section","Miss TSO Sau Ching","Sr Chemist (Chinese Materia Medica Chemistry Sec)","2210 7027"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry A Section","Dr. YIP Yiu Chung","Sr Chemist (Environmental Chemistry A Sec)","2762 3865"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry A Section","Dr. CHAN Tak Chung","Chemist (Environmental Chemistry A Sec)","2762 3868"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry A Section","Dr. CHENG Kar Wai, Anita","Chemist (Environmental Chemistry A Sec)","2762 3866"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry A Section","Dr. WONG Hok Lai","Chemist (Environmental Chemistry A Sec)","2762 3867"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry B Section","Dr. CHOI Ya Yin","Sr Chemist (Environmental Chemistry B Sec)","2762 3883"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry B Section","Dr. CHU Wai Kin","Chemist (Environmental Chemistry B Sec)","2762 3886"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry B Section","Miss CHAN Chun-yu","Chemist (Environmental Chemistry B Sec)","2762 3884"
+"Government Laboratory","Other Scientific Services Group,Environmental Chemistry B Section","Dr. LEUNG Hiu Chi","Chemist (Environmental Chemistry B Sec)","2762 3889"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Quality & Investigation Section","Dr. TANG Wai Tong","Sr Chemist (Pharmaceutical Quality &amp; Investigation Sec)","2319 8393"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Quality & Investigation Section","Dr. TONG Lok Hang","Chemist (Pharmaceutical Quality &amp; Investigation Sec)","2319 8401"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Quality & Investigation Section","Dr. CHAN Kwok Wai, Queenie","Chemist (Pharmaceutical Quality &amp; Investigation Sec)","2319 8401"
+"Government Laboratory","Other Scientific Services Group,Pharmaceutical Quality & Investigation Section","Dr. LO Ken Cheung, Warrick","Chemist (Pharmaceutical Quality &amp; Investigation Sec)","2319 8401"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Mr. TANG Po On","Sr Chemist (Product Testing &amp; Dutiable Commodities Sec)","2180 9152"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Dr. CHAN Kaai Tung","Chemist (Product Testing &amp; Dutiable Commodities Sec)","2180 9154"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Dr. CHAN Wing Han","Sr Chemist (Product Testing &amp; Dutiable Commodities Sec) (Ag)","2762 4042"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Dr. LAM Chi Ho","Chemist (Product Testing &amp; Dutiable Commodities Sec)","2180 9154"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Dr. LAU Siu Hong","Chemist (Product Testing &amp; Dutiable Commodities Sec)","2180 9155"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Dr. LEE Ho Man","Chemist (Product Testing &amp; Dutiable Commodities  Sec)","2180 9156"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Dr. POON Chun Ting","Chemist (Product Testing &amp; Dutiable Commodities Sec)","2180 9155"
+"Government Laboratory","Other Scientific Services Group,Product Testing & Dutiable Commodities Section","Dr. TSE Kai San","Chemist (Product Testing &amp; Dutiable Commodities Sec)","2180 9156"
+"Government Laboratory","Other Scientific Services Group,Trade Descriptions Section","Mr. LEE Foo Wing","Sr Chemist (Trade Descriptions Sec) (On Leave)","2762 3728"
+"Government Laboratory","Other Scientific Services Group,Trade Descriptions Section","Dr. CURREEM Oi Ting Shirly","Chemist (Trade Descriptions Sec)","2762 4042"
+"Government Laboratory","Other Scientific Services Group,Trade Descriptions Section","Dr. LI Tin Wai, Olive","Chemist (Trade Descriptions Sec)","2762 3875"
+"Government Laboratory","Other Scientific Services Group,Trade Descriptions Section","Dr. TANG Hei Man, Vincent","Chemist (Trade Descriptions Sec)","2762 3875"
+"Government Laboratory","Government Laboratory,Forensic Science Division","Mr. CHEUNG Kwok Keung, Bobbie","Asst Govt Chemist (Forensic Science Div) (Ag)","2762 3703"
+"Government Laboratory","Forensic Science Division,Criminalistics & Quality Management Group","Mr. CHEUNG Yiu Ming","Ch Chemist (Criminalistics &amp; Quality Management Group) (Ag)","2762 3794"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences A Section","Dr. CHAN LEUNG Anna","Sr Chemist (Biochemical Sciences A Sec)","2762 3783"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences A Section","Dr. IP Chi Yuen","Chemist (Biochemical Sciences A Sec)","2762 3799"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences A Section","Miss LUK  Duen Yee","Chemist (Biochemical Sciences A Sec)","2762 3778"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences A Section","Ms. YEUNG Sze Mang","Chemist (Biochemical Sciences A Sec)","2762 3771"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences A Section","Dr. YEUNG Wing Shan","Chemist (Biochemical Sciences A Sec)","2762 3798"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences A Section","Ms. WONG Lai Man","Chemist (Biochemical Sciences A Sec)","2762 3777"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences B Section","Ms. Christina LI","Sr Chemist (Biochemical Sciences B Sec)","2762 3770"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences B Section","Dr. WAI Wing Kong","Chemist (Biochemical Sciences B Sec)","2762 3798"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences B Section","Mr. LAM Tze Tsun, Leo","Chemist (Biochemical Sciences B Sec)","2762 3773"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences B Section","Dr. LIN Sze Wah","Chemist (Biochemical Sciences B Sec)","2762 3772"
+"Government Laboratory","Criminalistics & Quality Management Group,Biochemical Sciences B Section","Ms. CHAN Ka Man","Chemist (Biochemical Sciences B Sec)","2762 3774"
+"Government Laboratory","Criminalistics & Quality Management Group,Chemical Sciences Section","Dr. LEUNG Kar On, Billy","Sr Chemist (Chemical Sciences Sec)","2762 3759"
+"Government Laboratory","Criminalistics & Quality Management Group,Chemical Sciences Section","Dr. SO Man Ho","Chemist (Chemical Sciences Sec)","2762 3757"
+"Government Laboratory","Criminalistics & Quality Management Group,Chemical Sciences Section","Dr. WONG Koon Hung","Chemist (Chemical Sciences Sec)","2762 3757"
+"Government Laboratory","Criminalistics & Quality Management Group,Chemical Sciences Section","Mr. CHUNG Wai Wah","Chemist (Chemical Sciences Sec)","2762 3758"
+"Government Laboratory","Criminalistics & Quality Management Group,Chemical Sciences Section","Dr. NG Po King","Chemist (Chemical Sciences Sec)","2762 3755"
+"Government Laboratory","Criminalistics & Quality Management Group,DNA Database Section","Dr. TAM Wai Ming","Sr Chemist (DNA Database Sec)","2242 6757"
+"Government Laboratory","Criminalistics & Quality Management Group,DNA Database Section","Mr. CHIU Chi Tat","Chemist (DNA Database Sec)","2242 6763"
+"Government Laboratory","Criminalistics & Quality Management Group,DNA Database Section","Ms. CHAN Lai Ping","Chemist (DNA Database Sec)","2242 6762"
+"Government Laboratory","Criminalistics & Quality Management Group,DNA Database Section","Dr. WUN Hau Ling","Chemist (DNA Database Sec)","2242 6758"
+"Government Laboratory","Criminalistics & Quality Management Group,Parentage Testing Section","Dr. TAM Wai Ming","Sr Chemist (Parentage Testing Sec)","2242 6757"
+"Government Laboratory","Criminalistics & Quality Management Group,Parentage Testing Section","Mr. TSUI Hong Teng","Chemist (Parentage Testing Sec)","2242 6760"
+"Government Laboratory","Criminalistics & Quality Management Group,Parentage Testing Section","Miss HUI Hang Tsuen","Chemist (Parentage Testing Sec)","2242 6761"
+"Government Laboratory","Criminalistics & Quality Management Group,Parentage Testing Section","Mr. YAU Shun Kit","Chemist (Parentage Testing Sec)","2242 6755"
+"Government Laboratory","Criminalistics & Quality Management Group,Physical Sciences Section","Dr. LEUNG Chung Wing","Chemist (Physical Sciences Sec)","2762 3737"
+"Government Laboratory","Criminalistics & Quality Management Group,Physical Sciences Section","Dr. TAO Chi Hang","Chemist (Physical Sciences Sec)","2762 3737"
+"Government Laboratory","Criminalistics & Quality Management Group,Physical Sciences Section","Dr. NG Ka Ho","Chemist (Physical Sciences Sec)","2762 3739"
+"Government Laboratory","Criminalistics & Quality Management Group,Physical Sciences Section","Dr. POON Ka Chun","Chemist (Physical Sciences Sec)","2762 3739"
+"Government Laboratory","Criminalistics & Quality Management Group,Physical Sciences Section","Dr. TAM Cheok Ning","Chemist (Physical Sciences Sec)","2762 3738"
+"Government Laboratory","Criminalistics & Quality Management Group,Physical Sciences Section","Dr. TSANG Cheuk Nam","Chemist (Physical Sciences Sec)","2762 3740"
+"Government Laboratory","Criminalistics & Quality Management Group,Scene of Crime & Quality Management Section","Ms. FUNG Lai Fan","Chemist (Scene of Crime &amp; Quality Management Sec)","2762 3760"
+"Government Laboratory","Criminalistics & Quality Management Group,Scene of Crime & Quality Management Section","Dr. CHENG Yuk Ki","Sr Chemist (Scene of Crime &amp; Quality Management Sec)","2762 3768"
+"Government Laboratory","Criminalistics & Quality Management Group,Scene of Crime & Quality Management Section","Mr. TAM Chi Ching","Scientific Evidence Offr (Scene of Crime &amp; Quality Mangement Sec)","2762 3752"
+"Government Laboratory","Criminalistics & Quality Management Group,Scene of Crime & Quality Management Section","Mr. CHEUNG Ka Kwong","Scientific Evidence Offr (Scene of Crime &amp; Quality Mangement Sec)","2762 3751"
+"Government Laboratory","Criminalistics & Quality Management Group,Scene of Crime & Quality Management Section","Mr. CHEUNG Hok Man, Terence","Scientific Evidence Offr (Scene of Crime &amp; Quality Management Sec)","2762 3753"
+"Government Laboratory","Criminalistics & Quality Management Group,Scene of Crime & Quality Management Section","Mr. LO Man Hung","Scientific Evidence Offr (Scene of Crime &amp; Quality Management Sec)","2762 3767"
+"Government Laboratory","Criminalistics & Quality Management Group,Scene of Crime & Quality Management Section","Mr. SZE Wai Kit","Scientific Evidence Offr (Scene of Crime Quality Management Sec)","2762 3711"
+"Government Laboratory","Forensic Science Division,Drugs, Toxicology & Documents Group","Dr. TO Kwong Yuk","Ch Chemist (Drugs, Toxicology &amp; Documents Group)","2762 3809"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs A Section","Dr. CHENG Wing Chi","Sr Chemist (Controlled Drugs A Sec)","2762 3804"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs A Section","Ms. LEUNG Shuk Mei","Chemist (Controlled Drugs A Sec)","2762 3801"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs A Section","Mr. CHAN Wai Chung","Chemist (Controlled Drugs A Sec)","2762 3803"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs A Section","Dr. WONG Wing Cheong","Chemist (Controlled Drugs A Sec)","2762 3803"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs A Section","Dr. CHOW Lok Fung","Chemist (Controlled Drugs A Sec)","2762 3815"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs B Section","Dr. LAI Kam Ming","Sr Chemist (Controlled Drugs B Sec)","2762 3808"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs B Section","Mr. KWOK Nai Chiu","Chemist (Controlled Drugs B Sec)","2762 3812"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs B Section","Mr. HO Siu Hong","Chemist (Controlled Drugs B Sec)","2762 3812"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs B Section","Dr. CHAN Hoi Yiu","Chemist (Controlled Drugs B Sec)","2762 3805"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Controlled Drugs B Section","Dr. TAM Yiu Yan","Chemist (Controlled Drugs B Sec)","2762 3812"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology A Section","Dr. DAO Kwok Leung","Sr Chemist (Forensic Toxicology A Sec)","2762 3819"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology A Section","Dr. LO Kam Moon","Chemist (Forensic Toxicology A  Sec)","2762 3831"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology A Section","Dr. LEE Wai Kit","Chemist (Forensic Toxicology A Sec)","2762 3821"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology A Section","Dr. FUNG Kit Mai, Wendy","Chemist (Forensic Toxicology A Sec)","2762 3810"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology A Section","Dr. YEUNG Hoi Sze","Chemist (Forensic Toxicology A Sec)","2762 3832"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology B Section","Dr. LEE Wing Man","Sr Chemist (Forensic Toxicology B Sec)","2762 3827"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology B Section","Mr. HUNG Chi Wai","Chemist (Forensic Toxicology B Sec)","2762 3827"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology B Section","Dr. CHAN Wing Sum","Chemist (Forensic Toxicology B Sec)","2762 3822"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology B Section","Mr. WONG Tai Wai","Chemist (Forensic Toxicology B Sec)","2762 3823"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology B Section","Dr. HONG Yau Hin","Chemist (Forensic Toxicology B Sec)","2762 3822"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology B Section","Dr. WONG Fai, George","Chemist (Forensic Toxicology B Sec)","2762 3820"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Forensic Toxicology B Section","Dr. WONG Yau Nga","Chemist (Forensic Toxicology B Sec)","2762 3822"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Questioned Documents Section","Dr. LI Chi Keung","Sr Chemist (Questioned Documents Sec)","2745 9529"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Questioned Documents Section","Dr. CHIM Lai Chu, Joyce","Chemist (Questioned Documents Sec)","2745 9532"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Questioned Documents Section","Dr. LEE Wing Sze","Chemist (Questioned Documents Sec)","2745 9533"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Questioned Documents Section","Dr. HUI Wing Sze, Janesse","Chemist (Questioned Documents Sec)","2745 9532"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Questioned Documents Section","Dr. PANG Chi Ming","Chemist (Questioned Documents Sec)","2745 9530"
+"Government Laboratory","Drugs, Toxicology & Documents Group,Questioned Documents Section","Dr. WONG Tze Tat, Edward","Chemist (Questioned Documents Sec)","2745 9531"

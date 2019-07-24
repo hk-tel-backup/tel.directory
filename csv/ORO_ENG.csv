@@ -1,264 +1,186 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=ORO&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DORO%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Official Receiver's Office","Ms. MCKENNA Phyllis","Official Receiver","2867 2426"
+"Official Receiver's Office","Ms. LOK Pui Man, Ophelia","Asst Official Receiver (Legal Services)1","2867 2457"
+"Official Receiver's Office","Miss CHOW Lillian","Asst Official Receiver (Legal Services)2 (Atg.)","2867 2468"
+"Official Receiver's Office","Mr. FU Kam Wong, Ronald","Asst Official Receiver (Case Management)","2867 2477"
+""
+"Organisation","Service Name","Office Tel"
+"Official Receiver's Office","Enquiry","2867 2448"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Official Receiver's Office","Official Receiver's Office","Ms. MCKENNA Phyllis","Official Receiver","2867 2426"
+"Official Receiver's Office","Official Receiver's Office,Legal Services Division 1","Ms. LOK Pui Man, Ophelia","Asst Official Receiver (Legal Services)1","2867 2457"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Mr. SIN  Siu Wah, Alvin","Asst Prin Solicitor (Advisory &amp; Court Work)1","2867 2466"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Miss CHAN  Wai Yee , Helen","Asst Prin Solicitor (Advisory &amp; Court Work)2","2867 2492"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. YUEN Mee Han, Mabel","Sr Solicitor (Advisory &amp; Court Work)1","2867 3561"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. LEUNG Ka Man, Carmen","Sr Solicitor (Advisory &amp; Court Work)2","2867 5351"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. LI Yuen-yee, Angel","Sr Solicitor (Advisory &amp; Court Work)3","2867 2843"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. YAU Man Ni, Teresa","Sr Solicitor (Advisory &amp; Court Work)5","2867 2454"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. KWOK Shun Kin, Ariel","Solicitor (Advisory &amp; Court Work)1","2867 2683"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. YIU Man Ki, Lorvan","Solicitor (Advisory &amp; Court Work)2","2867 2456"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Mr. LUI Lok Ting, Leo","Solicitor (Advisory &amp; Court Work)3","2867 2465"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. Man Wing Yan","Solicitor (Advisory &amp; Court Work)4","2867 5352"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Miss LOUIE Pui Ka, Rebecca","Solicitor (Advisory &amp; Court Work)5","2867 3271"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Ms. CHAN Hiu-wai, Venus","Solicitor (Advisory &amp; Court Work)6","2867 2484"
+"Official Receiver's Office","Legal Services Division 1,Advisory and Court Work Section","Mr. CHAN Chun Fai, Ronald","Solicitor (Advisory &amp; Court Work)7","2867 4818"
+"Official Receiver's Office","Official Receiver's Office,Legal Services Division 2","Miss CHOW Lillian","Asst Official Receiver (Legal Services)2 (Atg.)","2867 2468"
+"Official Receiver's Office","Legal Services Division 2,Prosecution & Directors Disqualification Section","Miss KWAN Chui Yi, Mabel","Sr Solicitor (Prosecution &amp; Dir Disqualification)1 (Atg.)","2867 3438"
+"Official Receiver's Office","Legal Services Division 2,Prosecution & Directors Disqualification Section","Mr. YUEN Leo Lai Lok","Sr Solicitor (Prosecution &amp; Dir Disqualification)3 (Atg.)","2867 3557"
+"Official Receiver's Office","Legal Services Division 2,Prosecution & Directors Disqualification Section"," Vacant","Solicitor (Prosecution &amp; Dir Disqualification)1						","2867 "
+"Official Receiver's Office","Legal Services Division 2,Prosecution & Directors Disqualification Section","Miss FONG Ho Yee, Jessie","Solicitor (Prosecution &amp; Dir Disqualification)2","2867 2470"
+"Official Receiver's Office","Legal Services Division 2,Prosecution & Directors Disqualification Section","Mr. CHAN Hing Yue, Benson","Solicitor (Prosecution &amp; Dir Disqualification)3","2867 2525"
+"Official Receiver's Office","Legal Services Division 2,Prosecution & Directors Disqualification Section","Ms. WAN Mei Zin, Dobie","Solicitor (Prosecution &amp; Dir Disqualification)5","2867 2475"
+"Official Receiver's Office","Legal Services Division 2,Prosecution & Directors Disqualification Section","Miss TONG Yu Ying, Eliza","Solicitor (Prosecution &amp; Dir Disqualification)6","2867 2523"
+"Official Receiver's Office","Legal Services Division 2,Project Work Section","Mr. HUNG Hing Lin, Henry","Asst Principal Solicitor (LS)2 (Atg.)","2867 2469"
+"Official Receiver's Office","Legal Services Division 2,Project Work Section","Ms. WONG Nga Chun, Natalie","Sr Solicitor (Project Work)1","2867 2462"
+"Official Receiver's Office","Legal Services Division 2,Project Work Section","Mr. LEE Siu Sing, Wilson","Sr Solicitor (Project Work)2","2867 2541"
+"Official Receiver's Office","Legal Services Division 2,Project Work Section","Ms. WONG Yee Wan, Ewan","Sr Solicitor (Project Work)3","2867 2536"
+"Official Receiver's Office","Legal Services Division 2,Project Work Section","Miss CHAN Po Kei, Michelle","Solicitor (Project Work) 1","2867 2123"
+"Official Receiver's Office","Legal Services Division 2,Project Work Section","Mr. YUNG Kai-hong, Patrick","Solicitor (Project Work) 2","2867 5414"
+"Official Receiver's Office","Official Receiver's Office,Case Management Division","Mr. FU Kam Wong, Ronald","Asst Official Receiver (Case Management)","2867 2477"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss LEUNG Mei Ling, Sanita","Chief Insolvency Officier (A)","2867 2715"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss LIU Ming Chu, May","Sr Insolvency Offr (A)1","2867 3562"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss LIU Suk Yi, Vivian","Sr Insolvency Offr (A)2","2867 2493"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss YIP Lok Yu, Amy","Insolvency Offr I (A)1	(Atg.)","2867 2505"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A"," WU Kwan Pang, Michael","Insolvency Offr I (A)2","2867 2504"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Ms. TSOI Mei Han, Corrie","Insolvency Offr I (A)3 (Doubling 50% SIO(C)1 from 27.5.2019)","2867 2479"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss CHEUNG Ka Ki, Katrina","Insolvency Offr I (A)4 (Atg.)","2867 2646"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss TSANG Yuet Ning, Elaine","Insolvency Offr II (A)1","2867 2508"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss LUNG Wing Sum, Molly","Insolvency Offr II (A)2","2897 4849"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss YAU Tsz Ching, Agnes","Insolvency Offr II (A)3","2867 3559"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Miss SO Tak Ying, Kay","Insolvency Offr II (A)4","2867 2635"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Mr. LEUNG Kai Chun, William","Insolvency Offr II (A)5","2867 2645"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Mr. CHAN Chi Man","Insovency Offr II (A)6","2867 2544"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Mr. Sze Ka Ho, Peter","Insolvency Offr II (A)7","2867 2470"
+"Official Receiver's Office","Case Management Division,Case Management Division Team A","Mr. LAW Kwok Fu, Victor","Insolvency Offr II (A)8","2867 2009"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Ms. YEUNG  Yuk Wan, Annie","Ch Insolvency Offr (B)","2867 2647"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Miss CHAN Lai Ching, Laetitia","Sr Insolvency Offr (B)1","2867 2458"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Miss MAK Mei Lan, Nancy","Sr Insolvency Offr (B)2","2867 2459"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Mr. LAM Wing Fai, Edmond","Insolvency Offr I (B)1","2867 2476"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Mr. LEE Chi Shing","Insolvency Offr I (B)2 (Atg.)","2867 2496"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Ms. TANG Wai Han, Lydia","Insolvency Offr I (B)3","2867 3563"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Miss YUNG Hoi Yan, Janice","Insolvency Offr I (B)4 (Atg.)","2867 3558"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Ms. MA Tak Kei, Maggie","Insolvency Offr II (B)1","2867 2495"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Mr. LEE Ho Yin, Edward","Insolvency Offr II (B)2","2867 5350"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Miss YAN Hay Yu, Hayley","Insolvency Offr II (B)3","2867 2507"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Mr. LING Kin Ming, Benny","Insolvency Offr II (B)4","2867 5274"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Mr. LAM Chi Ho, Leo","Insolvency Offr II (B)5","2867 4980"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Mr. YUEN Nga-lun, Aaron","Insolvency Offr II (B)6","2867 2474"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Miss NG Yee Ping, Toby","Insolvency Offr II (B)7","2867 2543"
+"Official Receiver's Office","Case Management Division,Case Management Division Team B","Miss CHAN Tung Han, Christy","Insolvency Offr II (B)8","2867 2471"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Ms. CHIU Wai Chung, Cecilia","Ch Insolvency Offr (C)","2867 2485"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Miss TY Sha Lee, Sally","Sr Insolvency Offr (C)1 (On leave from 27.5.2019)","2867 2488"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Miss Wong Lai Chong, Shara","Sr Insolvency Offr (C)2","2867 2652"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Mr. CHEUNG Chun Kit, Eric","Insolvency Offr I (C)1 (Atg.)","2867 1032"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Miss CHAN Man Wing, Wing","Insolvency Offr I (C)2 (Atg.)","2867 2487"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Ms. LI Sau Hung, Sara","Insolvency Offr I (C)3","2867 2530"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Mr. AU Chak Sum, Sam","Insolvency Offr I (C)4 (Atg.)","2867 2464"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Ms. CHAN Sze Hang, Fion","Insolvency Offr II (C)1","2867 2498"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Mr. YUEN Ka-kei, Kelvin","Insolvency Offr II (C)2","2867 3556"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Mr. TANG Wai Chiu, Derek","Insolvency Offr II (C)3 (Doubling 50% IOI(DIV)1 from 24.4.2019)","2867 4814"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Mr. LAM Cheuk Wai, Mike","Insolvency Offr II (C)4","2867 2540"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Mr. WONG Sing, Solomon","Insolvency Offr II (C)5","2867 2532"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Miss CHAN Pui Shu, Grace","Insolvency Offr II (C)6","2867 4680"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Ms. LI Oi Man, Terri","Insolvency Offr II (C)7","2867 2706"
+"Official Receiver's Office","Case Management Division,Case Management Division Team C","Miss CHAN Ting Ting, Aynsley","Insolvency Offr II (C)8","2867 2531"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Miss CHAN Po Mei, Rita","Ch Insolvency Offr (G)","2867 2478"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Ms. WONG Lee Sha, Lilian","Sr Insolvency Offr (G)1 (Atg.)","2867 2527"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Ms. WONG Wai Yuen, Virgina","Sr Insolvency Offr (G)2","2867 2542"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Ms. POON Miu Lin, Sara","Insolvency Offr I (G)1 (Atg.)","2867 2503"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Mr. TSE Chi Tat, Simon","Insolvency Offr I (G)2","2867 2500"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Mr. LAU Siu Wai, Maurice","Insolvency Offr I (G)3","2867 2524"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Mr. WU Yuan Hong, James","Insolvency Offr I (G)4 (Atg.)","2867 2499"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Miss WU Pik Ying, Kitty","Insolvency Offr II (G)1","2867 2449"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Ms. CHEUNG Shuk Yan, Dorothy","Insolvency Offr II (G)2","2867 5937"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Mr. YU Ho Chi, Philip","Insolvency Offr II (G)3","2867 2501"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Miss YEUNG Shu Man, Emily","Insolvency Offr II (G)4","2867 2473"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Mr. WONG Ka Wa, Joshua","Insolvency Offr II (G)5","2867 2509"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Miss LIU Suet Oi, Fiona","Insolvency Offr II (G)6","2867 2483"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Miss HUI Nok Man, Nicole","Insolvency Offr II (G)7 (Doubling 50% IOI(DIV)1 from 24.4.2019)","2867 5828"
+"Official Receiver's Office","Case Management Division,Case Management Division Team G","Miss LEUNG Wing Yan, Mariana","Insolvency Offr II (G)8","2867 3511"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. TANG Yuk Tung, Richard","Chief Insolvency Officier (ITT)","2867 2453"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. LI So Yee, Emily","Sr Insolvency Offr (Tech)1 (Atg.)","2867 5413"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. LAI Mei Yee, Melissa","Sr Insolvency Offr (Tech)2 (Atg.)","2867 2702"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. LO Pui Yee, Polly","Insolvency Offr I (Dividend) (On leave from 24.4.2019 to 29.7.2019)","2867 1052"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section"," Vacant","Insolvency Offr I (SDU)","2867 2687"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Miss LUI Hoi Ting, Heidi","Insolvency Offr I (Infn Technology)","2867 2452"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. CHAN Yan Chi, Ben","Insolvency Offr II (Infn Technology)","2867 5838"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. WONG Wing San, Vincent","Insolvency Offr II (Release &amp; Dividend)","2867 2032"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section"," Vacant","Insolvency Offr II (T)1","2867 5415"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. NG Man Hon, Warren","Insolvency Offr II (T)2","2867 2648"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. WONG Kwok Kit, Willis","Insolvency Offr II (T)3","2867 3292"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. WAN Sau Ping, Louisa","Systems Mgr (ITMU)1","2867 2703"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. CHOW Siu Kui, Lawrence","Systems Mgr (ITMU)2","2867 2228"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. MAK Chi Wing, Samuel","Analyst/Programmer I (ITMU)","2867 3296"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. CHEUK Hon Choy, Nelson","Analyst/Programmer I (ITMU)2","2867 1507"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. WONG Sun Yin, Sunny","SCO (Training &amp; Dividend)","2867 2713"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. LAI Tin Sum, Alice","CO (Court Matters)","2867 2679"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. LEUNG Yuk Chi, Anita","CO (Dividend)1","2867 2058"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. PANG Wai Yuk, Teresa","CO (Dividend)2","2867 2061"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section"," Vacant","CO (Dividend)3","2867 2056"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mr. LEE Cheung Yu, Franky","CO (Dividend)4","2867 2059"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Miss WONG Ki Yan, Yan","CO (Special Assignments) (Atg.)","2867 2537"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Ms. FUNG Mei Ang, Portia","CO (Mgt Infn)","2867 3253"
+"Official Receiver's Office","Case Management Division,Information Technology & Technical Section","Mrs. CHAN CHAN  Ching Fa, Fanny","CO (Statistics)","2867 2404"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Mr. CHEUNG  Tin Shek, Michael Paul","Ch Insolvency Offr (CR)","2867 2515"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Mr. HO Wai Man, Raymond","Sr Insolvency Offr (CR)","2867 2460"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Ms. WOO Miu Sze, Doris","Insolvency Offr I (CR)","2867 3531"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Mr. LEE Hang Sang","Insolvency Offr I (Prosecution &amp; Dir Disqualification)1","2867 2011"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Mr. CHOW Chiu Lai, William","Insolvency Offr I (Prosecution &amp; Dir Disqualification)2","2867 1034"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Miss LAM Kwan Ha, Ashley","Insolvency Offr I (Prosecution &amp; Dir Disqualification)3 (Atg.)","2867 2434"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Ms. WONG Yim Han, Hana","Insolvency Offr I (SD)","28672685"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Ms. CHAN Sze-wing, Czarina","Insolvency Offr II (Prosecution &amp; Dir Disqualification)1","2867 3403"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Ms. CHAN Yin Yee, Yammy","Insolvency Offr II (Prosecution &amp; Dir Disqualification)2","2867 3282"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Mr. TONG Yu Yung, Justin","Insolvency Offr II (Prosecution &amp; Dir Disqualification)3","2867 4536"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Mr. LAI Choi Wai, Philip","Insolvency Offr II (CR)1","2867 3295"
+"Official Receiver's Office","Case Management Division,Compliance and Regulatory Section","Miss HUNG Ka Ming, Kate","Insolvency Offr II (CR)2","2867 3380"
+"Official Receiver's Office","Case Management Division,Project Work Section","Miss SIT Hon Yee, Kitty","Ch Insolvency Offr (Project Work)","2867 2528"
+"Official Receiver's Office","Case Management Division,Project Work Section","Mr. CHIU Pik Ho, Bruce","Sr Insolvency Offr I (PW) (Atg.)","2867 2555"
+"Official Receiver's Office","Case Management Division,Project Work Section","Mr. CHAN Wai Tung, Patrick","Insolvency Offr I (Project Work) (Doubling 50% SIO(C)1 from 11.7.2019)","2867 5488"
+"Official Receiver's Office","Case Management Division,Project Work Section","Mr. LAM Mei Cheong, Alva","Insolvency Offr I (Fast Track Cases)1","2867 3225"
+"Official Receiver's Office","Case Management Division,Project Work Section","Ms. LUI  Woon Yi, Josephine","Insolvency Offr I (Fast Track Cases)2","2867 2526"
+"Official Receiver's Office","Case Management Division,Project Work Section","Miss CHING Suet Ping, Sharifa","Insolvency Offr II (Project Work)1","2867 3196"
+"Official Receiver's Office","Case Management Division,Project Work Section","Ms. WAN Wai Han, Amy","Insolvency Offr II (Project Work)2				","2867 2534"
+"Official Receiver's Office","Case Management Division,Project Work Section","Mr. CHING Hou Seng, Alex","Insolvency Offr II (Project Work)3","2867 2497"
+"Official Receiver's Office","Case Management Division,Project Work Section","Miss CHAU Sin-man, Manny","Insolvency Offr II (Project Work)4","2867 2545"
+"Official Receiver's Office","Case Management Division,Project Work Section","Ms. LAM Shuk Wai, Ashley","Insolvency Offr II (Fast Track Cases)1","2867 5938"
+"Official Receiver's Office","Case Management Division,Project Work Section","Mr. CHAU Ho Leung, Howard","Insolvency Offr II (Fast Track Cases)2","2867 5349"
+"Official Receiver's Office","Case Management Division,Project Work Section","Miss HO Kar Yan, Carmen","Insolvency Offr II (Fast Track Cases)3","2867 3270"
+"Official Receiver's Office","Case Management Division,Project Work Section","Ms. MA Win Kiu, Winky","Insolvency Offr II (Fast Track Cases)4","2867 4681"
+"Official Receiver's Office","Case Management Division,Project Work Section","Miss WONG Shuk Kwan, Kaitlyn","Insolvency Offr II (Fast Track Cases)5","2867 2480"
+"Official Receiver's Office","Case Management Division,Project Work Section","Mr. TSE Kwan Lok, Aaron","Insolvency Offr II (Fast Track Cases)6","2867 2032"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Mr. CHENG Kai Sing, Steve","DS","2867 2651"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Mr. LAM Ka Lun, Ernest","Dep DS/Adm","2867 2446"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Miss LIN Ming","Dep DS/Per","2867 2268"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Ms. TSUI Wai Ying, Stephanie","Senior Executive Officer","2867 5489"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Ms. LAM Sze Wing, Eunice","Executive Assistant (DAD)","2867 5942"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Ms. WONG Hoi Tong, Carrie","SCO (Gen Regy)","2867 2447"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Ms. WONG Oi Ho, Eva","CO (Counter)","2867 2482"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Ms. CHAN Mei San, Joey","CO (Filing)","2867 4644"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Ms. CHONG Pek Tou, Susan","CO (GR)","2867 2745"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Miss HO Pui Chu Pearl","CO (Per)1","2867 2444"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Miss CHI Hang Yi","CO (Per)2","2867 2677"
+"Official Receiver's Office","Official Receiver's Office,Departmental Administration Division","Miss YUEN Lai Har, Amy","CO (Per)3","2867 2521"
+"Official Receiver's Office","Departmental Administration Division,Official Languages Section","Miss CHAU Wai Man, Jenny","OLO I","2867 2687"
+"Official Receiver's Office","Departmental Administration Division,Official Languages Section","Ms. CHAU Sum-ping, Regina","OLO II","2867 2687"
+"Official Receiver's Office","Departmental Administration Division,Supplies Unit","Mr. NG Wai Kit, Patrick","SS I","2867 2644"
+"Official Receiver's Office","Official Receiver's Office,Financial Services Division","Mr. CHU Yau Wing, Jason","Ch TA (Financial Services) (Atg.)","2867 2427"
+"Official Receiver's Office","Financial Services Division,Accounting Investigations Section","Miss LAI Siu Man, Yvonne","TA (Investigations)","2867 2429"
+"Official Receiver's Office","Financial Services Division,Accounting Investigations Section","Ms. WONG Wai Mei, Cindy","Acct Offr I (I)","2867 3242"
+"Official Receiver's Office","Financial Services Division,Accounting Investigations Section","Miss CHAN Hiu Kwan, Judy","Acct Offr II (I) 1","2867 3236"
+"Official Receiver's Office","Financial Services Division,Audit Section","Mr. CHIU Chun Ho, Terence","TA(A1)","2867 2432"
+"Official Receiver's Office","Financial Services Division,Audit Section","Ms. CHENG Sui In, Daisy","TA(A2)","2867 2431"
+"Official Receiver's Office","Financial Services Division,Audit Section","Ms. NG Kwan Lai, Kitty","Acct Offr I (A1)","2867 2436"
+"Official Receiver's Office","Financial Services Division,Audit Section","Miss LO So Man, Samantha","Acct Offr I (A2)","2867 2494"
+"Official Receiver's Office","Financial Services Division,Audit Section","Miss TAM  Ka Hei, Cathy","Acct Offr II (A1)1","2867 2439"
+"Official Receiver's Office","Financial Services Division,Audit Section","Miss HUI Chun Chun, Sandy","Acct Offr II (A1)2","2867 2743"
+"Official Receiver's Office","Financial Services Division,Audit Section","Miss LI Yuk Fong, Jennifer","Acct Offr II(A2)1","2867 2401"
+"Official Receiver's Office","Financial Services Division,Audit Section","Ms. SZETO Ho Heung, Jackie","Acct Offr II(A2)2","2867 3210"
+"Official Receiver's Office","Financial Services Division,Financial Management and Systems Section","Mr. FONG Ho Kong, Leon","TA(FMS)","2867 2433"
+"Official Receiver's Office","Financial Services Division,Financial Management and Systems Section","Miss SHUM Wai-sze, Grace","Acct Offr I (Financial Mgt)","2867 2438"
+"Official Receiver's Office","Financial Services Division,Financial Management and Systems Section","Miss TANG Hau Yu, Yuu","Acct Offr II (Funds)","2867 2428"
+"Official Receiver's Office","Financial Services Division,Financial Management and Systems Section","Mrs. YEUNG TAM Sau Fung","CO (Financial Mgt)","2867 2435"
+"Official Receiver's Office","Financial Services Division,Shroff Office","Mrs. LAM CHOW Sau Chun, Venny","SCO (Financial Services)","2867 2445"
+"Official Receiver's Office","Financial Services Division,Shroff Office","Ms. CHAN Chan Yung, Cynthia","CO (Shroff Off)1","2867 1030"
+"Official Receiver's Office","Financial Services Division,Shroff Office","Ms. CHENG Chung Kiu, May","CO (Shroff Off)2","2867 1030"
+"Official Receiver's Office","Financial Services Division,Funds and Departmental Accounting Unit","","",""

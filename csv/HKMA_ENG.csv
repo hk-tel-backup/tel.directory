@@ -1,264 +1,681 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=HKMA&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DHKMA%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Hong Kong Monetary Authority","Mr. CHAN Tak Lam, Norman, GBS, JP","Ch Ex, HK Monetary Authority","2878 8189"
+"Hong Kong Monetary Authority","Mr. YUE Wai Man, Eddie, JP","Dep Ch Ex, HK Monetary Authority / Ch Ex Offr(Exchange Fund Investment Office)","2878 1689"
+"Hong Kong Monetary Authority","Mr. YUEN Kwok Hang, Arthur, JP","Dep Ch Ex, HK Monetary Authority","2878 8129"
+"Hong Kong Monetary Authority","Mr. LEE Tat Chi, Howard, JP","Dep Ch Ex, HK Monetary Authority","2878 8139"
+""
+"Organisation","Service Name","Office Tel"
+"Hong Kong Monetary Authority","Enquiries","2878 8196"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority","","",""
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. CHAN Tak Lam, Norman, GBS, JP","Ch Ex, HK Monetary Authority","2878 8189"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. YUEN Kwok Hang, Arthur, JP","Dep Ch Ex, HK Monetary Authority","2878 8129"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. YUE Wai Man, Eddie, JP","Dep Ch Ex, HK Monetary Authority / Ch Ex Offr(Exchange Fund Investment Office)","2878 1689"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. LEE Tat Chi, Howard, JP","Dep Ch Ex, HK Monetary Authority","2878 8139"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. LI Ling Cheung, Raymond, JP","Senior Executive Director (secondment to HKMC)","2536 0037"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. CHAN Ling Hang, Clement","Adm Asst to Ch Ex","2878 1808"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. YUEN Shiu Yung, Raymond","Sr Mgr (Sr Ex's Off)","2878 1338"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Senior Executives' Office","Mr. CHAU Hoi Fung, Billy","Mgr (Sr Ex's Off)","2878 1807"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Banking Conduct Department","Mr. AU Yuk Lun, Alan, JP","Ex Dir(Banking Conduct)","2878 8201"
+"Hong Kong Monetary Authority","Banking Conduct Department,Banking Conduct Division 1","Ms. TO Shui Hung, Florence","Head(Banking Conduct)1","2878 1582"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1A","Ms. CHAN Wing Yi, Anita","Sr Mgr(Banking Conduct)1A","2878 1538"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1A","Mr. MOK Chi Kwan, Eric","Mgr(Banking Conduct)1A1","2878 1405"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1A","Ms. LAU Fook Yu, Phielle","Mgr(Banking Conduct)1A2","2878 1750"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1A","Ms. AU Pui Chi, Ada","Mgr(Banking Conduct)1A3","2878 8814"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1B","Mr. LAM Chi Cheung, Andy","Sr Mgr(Banking Conduct)1B","2878 8790"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1B","Ms. CHAN Wing Yin, Yolanda","Mgr(Banking Conduct)1B1","2878 1372"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1B","Mr. LAI Io Pang, Frankie","Mgr(Banking Conduct)1B2","2878 1598"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1B","Mr. LAM Ying Yin, Ivan","Mgr(Banking Conduct)1B4","2878 1805"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1C","Mr. NG Hoi Ching, Andrew","Sr Mgr(Banking Conduct)1C","2878 8813"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1C","Ms. SUEN Wing Yee, Connie","Mgr(Banking Conduct)1C2","2878 1410"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1C","Ms. LEUNG Chi Ying, Cindy","Mgr(Banking Conduct)1C3","2878 1158"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1C","Ms. TANG Oi Yi, Seikey","Mgr(Banking Conduct)1C4","2878 8301"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1D","Ms. LEUNG Sau Lan, Gloria","Sr Mgr(Banking Conduct)1D","2878 1509"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1D","Ms. LEE Ka Lam, Karin","Mgr(Banking Conduct)1D1","2878 1604"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1D","Ms. Li Yan Mei, Monica","Mgr(Banking Conduct)1D2","2878 1559"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1D","Mr. FUNG Sze Yuen, Michael","Mgr(Banking Conduct)1D3","2878 1375"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1D","Ms. WONG Sze Ling, Ailee","Mgr(Banking Conduct)1D4","2878 1240"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1D","Ms. CHEUNG Sau Ha, Sandi","Mgr(Banking Conduct)1D5","2878 8831"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1E","Ms. HO Shut Yee, Shirley","Sr Mgr(Banking Conduct)1E","2878 1847"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1E","Mr. LEUNG Wing Sun, Edmund","Mgr(Banking Conduct)1E1","2597 0893"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1E","Mr. YUNG Chan Kai","Mgr(Banking Conduct)1E2","2597 0828"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1E","Mr. Ho Ka Bo, Gabriel","Mgr(Banking Conduct)1E3","2597 0854"
+"Hong Kong Monetary Authority","Banking Conduct Division 1,Team 1F","","",""
+"Hong Kong Monetary Authority","Banking Conduct Department,Banking Conduct Division 2","Miss KWOK Shi Nga, Sarah","Head(Banking Conduct)2","2878 1693"
+"Hong Kong Monetary Authority","Banking Conduct Department,Banking Conduct Division 2","Ms. LEUNG Ching Yee, Candy","Sr Mgr(Account Opening)","2878 7594"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2A","Ms. WONG Yin Wing, Christine","Sr Mgr(Banking Conduct)2A","2878 8288"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2A","Mr. YIP Siu Tung, Danny","Mgr(Banking Conduct)2A1","2878 1304"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2A","Mr. MAK Chak Keung, Wallace","Mgr(Banking Conduct)2A2","2878 1191"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2B","Ms. CHU Yin Ting, Teresa","Sr Mgr(Banking Conduct)2B","2878 1563"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2B","Ms. MA Ngai Man, Stella","Mgr(Banking Conduct)2B","2878 8601"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2C","Miss CHEUNG Wai Ching, May","Sr Mgr(Banking Conduct)2C","2878 1501"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2D","Miss TAM Man Yee, Anthea","Sr Mgr(Banking Conduct)2D","2878 1395"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2D","Mr. LO Tsz Hei, Herman","Mgr(Banking Conduct)2D1","2878 1352"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2D","Ms. TSANG Ching Man, Teresa","Mgr(Banking Conduct)2D2","2878 1531"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2E","Mr. YU Chun Yam, Banny","Sr Mgr(Banking Conduct)2E","2878 8272"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2E","Ms. CHING Yuk Yin, Cora","Mgr(Banking Conduct)2E1","2878 8211"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2E","Ms. SO Wai Cheung, Wendy","Mgr(Banking Conduct)2E2","2878 1757"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2E","Mr. CHAN Chi Kin, Calvin","Mgr(Banking Conduct)2E3","2878 1849"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2F","Mr. HUI Wai Chi, Kenneth","Sr Mgr(Banking Conduct)2F","2878 1472"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2F","Mr. HUI Jin Yuen, Chris","Mgr(Banking Conduct)2F1 / Mgr(Banking Conduct)2C","2878 1708"
+"Hong Kong Monetary Authority","Banking Conduct Division 2,Team 2F","Mr. LEE Kam Ho, Ken","Mgr(Banking Conduct)2F2 / Mgr(Banking Conduct)2C","2878 1357"
+"Hong Kong Monetary Authority","Banking Conduct Department,Banking Conduct Division 3","Mr. LEONG Ling Chi, Daniel","Head(Banking Conduct)3","2878 1648"
+"Hong Kong Monetary Authority","Banking Conduct Department,Banking Conduct Division 3","Mr. LAU Ka Hei, Nick","Mgr(Account Opening)1","2878 8566"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3A","Ms. LEONG Yuen Fun, M. Mary","Sr Mgr(Banking Conduct)3A","2878 1912"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3A","Ms. LEE Lan Fong, Christine","Mgr(Banking Conduct)3A","2878 1290"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3A","Miss SHI Yen Ling, Joanna","Mgr(Banking Conduct)3A1","2878 1079"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3A","Mr. HO Shing Him, Gilbert","Mgr(Banking Conduct)3A2","2878 1401"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3B","Mr. SHAM Kin Yu, Kevin","Sr Mgr(Banking Conduct)3B","2878 1594"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3B","Ms. LEE Lan Fong, Christine","Mgr(Banking Conduct)3B","2878 1290"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3B","Miss TAM Weng Ian, Candy","Mgr(Banking Conduct)3B1","2878 1292"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3B","Mr. WAT Kit, Jack","Mgr(Banking Conduct)3B2","2878 8490"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3B","Mr. CHAN How Wang, Savio","Mgr(Banking Conduct)3B3","2878 1431"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3C","Mr. PANG Chun Man, Stephen","Sr Mgr(Banking Conduct)3C","2878 1301"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3C","Ms. CHAN Yuk Ying, Yuki","Mgr(Banking Conduct)3C1","2878 1652"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3C","Ms. LAM Hang Yim, Angel","Mgr(Banking Conduct)3C2","2878 1420"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3D","Mr. LAM Kar Yin, Osbert","Sr Mgr(Banking Conduct)3D","2878 8795"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3D","Mr. LEUNG Kwan Ho, Horus","Mgr(Banking Conduct)3D","2878 1078"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3E","Ms. CHAN Yik On, Yvonne","Sr Mgr(Banking Conduct)3E","2878 1452"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3E","Ms. CHAN Choi Yi, Joey","Mgr(Banking Conduct)3E1","2878 1216"
+"Hong Kong Monetary Authority","Banking Conduct Division 3,Team 3E","Mr. WONG Gary","Mgr(Banking Conduct)3E2","2878 1416"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Banking Policy Department","Mr. HO Hon Kit, Daryl, JP","Ex Dir(Banking Policy)","2878 8258"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Banking Policy Department","Mr. LAI Shu Yan, Billy","Head(Banking Policy)","2878 8546"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Banking Policy Department","Ms. CHAN Sze Ling, Celine","Mgr(Banking Policy)SP1","2878 1613"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Mr. LEUNG Wai Yiu, Frank","Head(Banking Policy)A","2878 1629"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Miss CHAN Wai Hing, Echo","Sr Mgr(Banking Policy)A1","2878 1558"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Mr. MAK Chun Chung, Willy","Sr Mgr(Banking Policy)A2","2878 1219"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Mr. CHEUNG Kam Man, Andy","Sr Mgr(Banking Policy)A3","2878 1022"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Mr. TAM Man Kit, Mat","Mgr(Banking Policy)A1A","2878 1376"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Mr. NG Po Tai, Eric","Mgr(Banking Policy)A1B","2878 8603"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Mr. LAM Wing Yee, Fiona","Mgr(Banking Policy)A1C","2878 1324"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Ms. LAW Wing Mui, Eve","Mgr(Banking Policy)A2A","2878 1197"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Mr. LAI Chi Huen, Leo","Mgr(Banking Policy)A2B","2878 1580"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Ms. CHUNG Hoi Yan, Olivia","Mgr(Banking Policy)A2C","2878 1624"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Ms. CHOW Ka Yee, Peggy","Mgr(Banking Policy)A3A","2878 8267"
+"Hong Kong Monetary Authority","Banking Policy Department,Division A","Ms. SIU Pui Yee, Amy","Mgr(Banking Policy)A3B","2878 1321"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Mr. CHU Siu Hung, Richard","Head(Banking Policy)B","2878 1082"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Ms. YAU Mei Ying, Samantha","Sr Mgr(Banking Policy)B1","2878 8284"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Miss KWAN Yun Yee, Theresa","Sr Mgr(Banking Policy)B2","2878 1093"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Mr. YIM Chun Yu, Wilson","Sr Mgr(Banking Policy)B3","2878 1423"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Ms. LIO Wai Yan, Eva","Mgr(Banking Policy)B1A","2878 8723"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Mr. TSUI Yun Kei, Raymond","Mgr(Banking Policy)B2A","2878 1623"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Ms. CHEUNG Yuen Ling, Rowena","Mgr(Banking Policy)B2B","2516 7523"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Ms. CHAN Yuen Fun, Jacqueline","Mgr(Banking Policy)B3A","2878 8299"
+"Hong Kong Monetary Authority","Banking Policy Department,Division B","Miss WU Zi Xuan, Christine","Mgr(Banking Policy)B3B","2878 1173"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Mr. Martin SPRENGER","Head(Research &amp; Dev)","2878 8111"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Mr. CHONG Chun Kwok, Jule","Sr Mgr(Banking Policy)(Research &amp; Dev)1","2878 1611"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Ms. WAN Pui Man, Carita","Sr Mgr(Banking Policy)(Research &amp; Dev)2","2878 1644"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Mr. LEE Hoi Wang, Horace","Sr Mgr(Banking Policy)(Research &amp; Dev)3","2878 1540"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Ms. TUNG Yan Wah, Eva","Sr Mgr(Banking Policy)(Research &amp; Dev)4","2878 1228"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Mr. BLUHM, Marcel","Mgr(Banking Policy)(Research &amp; Dev)1","2878 1511"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Miss FUNG Wai Fong, Jasmin","Mgr(Banking Policy)(Research &amp; Dev)2A","2878 1617"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Ms. YIP Ting Nga, Tina","Mgr(Banking Policy)(Research &amp; Dev)2B","2878 1164"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Mr. YU Chin Hang, Steven","Mgr(Banking Policy)(Research &amp; Dev)3","2878 1324"
+"Hong Kong Monetary Authority","Banking Policy Department,Research and Development Unit","Mr. WONG Lik Hang, Lincoln","Mgr(Banking Policy)(Research &amp; Dev)4","2878 1271"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Miss LEE Mong Lan, Alice","Head(Soft Infrastructure and Deposit Protection)","2878 8493"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Ms. YONG Chooi Wui, Ivy","Sr Mgr(Soft Infrastructure and Deposit Protection)1","2878 8495"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Miss TAI Siu Kwan, Denise","Sr Mgr(Soft Infrastructure and Deposit Protection)3","2878 1589"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Mr. TSAI Yiu Kay, Raymond","Sr Mgr(Banking Policy)","2878 1060"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Mr. CHEUNG Wai Hung, Kevin","Mgr(Soft Infrastructure and Deposit Protection)3A","2878 1573"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Mr. TAM Sheung Bun, Loren","Mgr(Soft Infrastructure and Deposit Protection)3B","2878 8581"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Ms. KONG Oi Kei, Rita","Mgr(Soft Infrastructure and Deposit Protection)4A","2878 8303"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Mr. KWOK Sze Bun, Patrick","Mgr(Banking Policy)","2878  8277"
+"Hong Kong Monetary Authority","Banking Policy Department,Soft Infrastructure and Deposit Protection Division","Ms. FUNG Sze Kei, Floria","Mgr(DPS-RC)","2878 1196"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Banking Supervision Department","Mr. CHAN King Wang, Raymond, JP","Ex Dir(Banking Supervision)","2878 1668"
+"Hong Kong Monetary Authority","Banking Supervision Department,Case Management Division 1","Miss CHENG Ying Ying","Head(Banking Supervision)1","2878 1639"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1A","Ms. CHAN Wai Ping, Kathie","Sr Mgr(Banking Supervision)1A","2878 1525"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1A","Ms. LAI Yin Ting, Christine","Mgr(Banking Supervision)1A1","2878 1307"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1A","Mr. LAU Tsz Kit, Raymond","Mgr(Banking Supervision)1A2","2878 1449"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1B","Miss WONG Wing Yee, Karen","Sr Mgr(Banking Supervision)1B","2878 1683"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1B","Ms. HUNG Sin Lung, Peggy","Mgr(Banking Supervision)1B1","2878 1026"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1C","Mr. KAN Cho Kwong, Eric","Sr Mgr(Banking Supervision)1C","2878 1096"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1C","Ms. TSE Yuen Shan, Jennifer","Mgr(Banking Supervision)1C1","2878 8210"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1D","Ms. CHAN Yin Mui, Angel","Sr Mgr(Banking Supervision)1D","2878 1606"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1D","Mr. YIM Ka Fai, Albert","Mgr(Banking Supervision)1D1","2878 1557"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1D","Mr. YEUNG Ying Chuen, Richie","Mgr(Banking Supervision)1D2","2878 1268"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1E","Miss CHEUNG Wai Yi, Polly","Sr Mgr(Banking Supervision)1E","2878 1579"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1E","Ms. LEUNG Ka Yan","Mgr(Banking Supervision)1E","2878 1064"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1E","Ms. CHAN Man Jung, Joanna","Mgr(Banking Supervision)1E1 / Mgr(Banking Supervision)1E3","2878 8694"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1E","Ms. CHAN Wei Ying, Vivian","Mgr(Banking Supervision)1E2","2878 1535"
+"Hong Kong Monetary Authority","Case Management Division 1,Team 1E","Mr. KAO Fei, Gordon","Mgr(Banking Supervision)1E3","2878 1456"
+"Hong Kong Monetary Authority","Banking Supervision Department,Case Management Division 2","Mr. WAN Tsz Fai, Stephen","Head(Banking Supervision)2","2878 1662"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2A","Ms. LAM Kit Man, Kitman","Sr Mgr(Banking Supervision)2A","2878 1528"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2A","Ms. HO Wing Suen, Ally","Mgr(Banking Supervision)2A1","2878 1522"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2A","Mr. CHEUNG Tsun Yin, Jeromy","Mgr(Banking Supervision)2A2","2878 1412"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2B","Ms. CHEN Ting Man, Lorraine","Sr Mgr(Banking Supervision)2B","2878 1210"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2B","Mr. YIP Cheung Ching, David","Mgr(Banking Supervision)2B1","2878 1588"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2B","Ms. XIE Jia Hua, Gloria","Mgr(Banking Supervision)2B2","2878 1539"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2C","Mr. TSANG Tsz Chung, Dennis","Sr Mgr(Banking Supervision)2C","2878 1445"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2C","Ms. LAM Yan Yin, Jennifer","Mgr(Banking Supervision)2C1","2597 0815"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2C","Miss CHOW Yuen Wah, Vera","Mgr(Banking Supervision)2C2","2878 1550"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2D","Ms. TANG Sze Ming, Lois","Sr Mgr(Banking Supervision)2D","2878 1564"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2D","Ms. TONG Hei Ting, Vivien","Mgr(Banking Supervision)2D1","2878 1571"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2D","Ms. LAM Mei Yuk, Joyce","Mgr(Banking Supervision)2D2 / Mgr(Banking Supervision)3B1","2878 1533"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2E","Mr. TSE Chi Lok, Michael","Sr Mgr(Banking Supervision)2E","2878 1928"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2E","Ms. YU Sin Ting, Katy","Mgr(Banking Supervision)2E2","2597 0632"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2F","Miss TSUI Yin Sum, Karen","Sr Mgr(Banking Supervision)2F","2878 8722"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2F","Mr. MOK Chi Yu, Felix","Mgr(Banking Supervision)2F1","2597 0811"
+"Hong Kong Monetary Authority","Case Management Division 2,Team 2F","Ms. LI Siu Man, Aimee","Mgr(Banking Supervision)2F2","2878 1597"
+"Hong Kong Monetary Authority","Banking Supervision Department,Case Management Division 3","Mr. SUEN Ka Yip, Tony","Head(Banking Supervision)3","2878 1662"
+"Hong Kong Monetary Authority","Banking Supervision Department,Case Management Division 3","Ms. LAU Hang Kuen, Catherine","Sr Mgr(Banking Supervision)Asian Derivatives Hub / Enhanced Prudential Supervision System","2878 1622"
+"Hong Kong Monetary Authority","Banking Supervision Department,Case Management Division 3","Ms. WONG Yim Wah, Nancy","Mgr(Banking Supervision) Enhanced Prudential Supervision System","2878 1835"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3A","Ms. TAN Li Yu","Sr Mgr(Banking Supervision)3A","2878 1631"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3A","Ms. CHAN Ka Yan, Karen","Mgr(Banking Supervision)3A2","2878 1922"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3A","Mr. LO Tak Chung, Eric","Mgr(Banking Supervision)3A3","2878 1650"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3A","Mr. YIU Kam Lam","Mgr(Banking Supervision)3A4","2878 1493"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3A","Ms. CHEUNG Sau Man, Queenie","Mgr(Banking Supervision)3A4","2878 1569"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3B","Ms. CHIU Yuk Fan, Carman","Sr Mgr(Banking Supervision)3B","2878 1474"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3B","Ms. PANG See Mun, Miranda","Mgr(Banking Supervision)3B1","2878 1551"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3B","Ms. LO Chi Wai, Elaine","Mgr(Banking Supervision)3B2 / Mgr(Banking Supervision)3B1","2878 1769"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3C","Miss CHENG Wan Yan, Miranda","Sr Mgr(Banking Supervision)3C","2878 8283"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3C","Ms. LOO Eia Toung, Liza","Mgr(Banking Supervision)3C1","2878 1103"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3C","Miss LAI Lai Yin, Sandy","Mgr(Banking Supervision)3C2","2878 1947"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3C","Mr. LAM Hoi Ho, Ronald","Mgr(Banking Supervision)3C3","2878 8879"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3D","Ms. TSE Suk Wai, Linda","Sr Mgr(Banking Supervision)3D","2878 1382"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3D","Mr. LO Ka Fai, Victor","Mgr(Banking Supervision)3D1","2878 1059"
+"Hong Kong Monetary Authority","Case Management Division 3,Team 3D","Ms. LAU Lai Kuen, Vicky","Mgr(Banking Supervision)3D2","2878 1574"
+"Hong Kong Monetary Authority","Case Management Division 3,Statistics Team 1","Ms. PANG Suk Ping, Joyce","Sr Mgr(Banking Supervision)(Statistics Team)1","2878 1941"
+"Hong Kong Monetary Authority","Case Management Division 3,Statistics Team 1","Ms. WU Kit Fong, Joann","Mgr(Banking Supervision)(Statistics Team)1A","2878 1392"
+"Hong Kong Monetary Authority","Case Management Division 3,Statistics Team 1","Ms. CHAN Nga Kei, Joanna","Mgr(Banking Supervision)(Statistics Team)1B","2878 1478"
+"Hong Kong Monetary Authority","Case Management Division 3,Statistics Team 1","Mr. WONG Yan Ho, Jason","Mgr(Banking Supervision)(Statistics Team)1C","2878 1468"
+"Hong Kong Monetary Authority","Case Management Division 3,Statistics Team 1","Mr. LAM Si Chun","Mgr(Banking Supervision)(Statistics Team)1D","2878 8120"
+"Hong Kong Monetary Authority","Case Management Division 3,Statistics Team 2","Mr. KWOK Kin Pang, Matthew","Mgr(Banking Supervision)(Statistics Team)2B","2878 1421"
+"Hong Kong Monetary Authority","Case Management Division 3,Statistics Team 2","Mr. TANG Kam Hung, Frederick","Mgr(Banking Supervision)(Statistics Team)2C","2878 1171"
+"Hong Kong Monetary Authority","Banking Supervision Department,Credit Risk Division","Mr. YUNG Wai Sun, Sunny","Head(Banking Supervision)(Credit Risk)","2878 1629"
+"Hong Kong Monetary Authority","Banking Supervision Department,Credit Risk Division","Ms. NG Sui Yan, Fiona","Sr Mgr(Banking Supervision)(Statistics Team)2","2878 1552"
+"Hong Kong Monetary Authority","Credit Risk Division,Team 1","Ms. TSE Oi Ling, Irene","Sr Mgr(Banking Supervision)(Credit Risk)1","2878 1870"
+"Hong Kong Monetary Authority","Team 1,Team 1A","Ms. CHAN Mui, Ada","Mgr(Banking Supervision)(Credit Risk)1A","2878 1369"
+"Hong Kong Monetary Authority","Team 1,Team 1B","Mr. HO Kin Wing, Wells","Mgr(Banking Supervision)(Credit Risk)1B","2878 1590"
+"Hong Kong Monetary Authority","Credit Risk Division,Team 2","Mr. HSU Sing","Sr Mgr(Banking Supervision)(Credit Risk) 2","2878 1447"
+"Hong Kong Monetary Authority","Team 2,Team 2A","","",""
+"Hong Kong Monetary Authority","Team 2,Team 2B","Mr. YU Yik Keung, Kevin","Mgr(Banking Supervision)(Credit Risk)2B","2878 1549"
+"Hong Kong Monetary Authority","Credit Risk Division,Team 3","Ms. CHAN Kwai Man, Sophia","Sr Mgr(Banking Supervision)(Credit Risk)3","2878 1169"
+"Hong Kong Monetary Authority","Team 3,Team 3A","Mr. LAU Chi Hin, Steve","Mgr(Banking Supervision)(Credit Risk)3A","2878 1638"
+"Hong Kong Monetary Authority","Team 3,Team 3B","","",""
+"Hong Kong Monetary Authority","Team 3,Team 3C","Mr. MA Lit Chor, Simon","Mgr(Banking Supervision)(Credit Risk)3C","2878 1517"
+"Hong Kong Monetary Authority","Credit Risk Division,Team 4","Mr. TANG Kwok Suen, Parry","Sr Mgr(Banking Supervision)(Credit Risk)4","2878 1524"
+"Hong Kong Monetary Authority","Team 4,Team 4A","Ms. WONG Yee Ting, Zoe","Mgr(Banking Supervision)(Credit Risk)4A","2878 1619"
+"Hong Kong Monetary Authority","Team 4,Team 4B","Mr. LEE Siu Hing, Victor","Mgr(Banking Supervision)(Credit Risk)4B","2878 1506"
+"Hong Kong Monetary Authority","Team 4,Team 4C","Ms. SIU Yu Yan, Janet","Mgr(Banking Supervision)(Credit Risk)4C","2878 1532"
+"Hong Kong Monetary Authority","Credit Risk Division,Team 5","","",""
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Mr. CHONG Shu Chuen, Gary","Sr Mgr(Banking Supervision)(Capital)1","2878 1220"
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Mr. LI Qi","Sr Mgr(Banking Supervision)(Capital)2","2878 1503"
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Ms. LI Ching Man, Christina","Mgr(Banking Supervision)(Capital)1A","2878 1583"
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Mr. WONG Sai Hong, Dennis","Mgr(Banking Supervision)(Capital)1B","2878 1443"
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Mr. YEUNG Heng, Aaron","Mgr(Banking Supervision)(Capital)1D","2878 1907"
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Mr. CHAN Shu Wing, Calvin","Mgr(Banking Supervision)(Capital)2B","2878 1189"
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Mr. NG Chan Wa, Eric","Mgr(Banking Supervision)(Capital)2C","2878 1596"
+"Hong Kong Monetary Authority","Credit Risk Division,Capital Team","Mr. NG King Sun, Dickson","Mgr(Banking Supervision)(Capital)2D","2878 1012"
+"Hong Kong Monetary Authority","Banking Supervision Department,Market and Liquidity Risk Division","Mr. LEE Chi Kau","Head(Banking Supervision)(Market and Liquidity Risk)","2878 8271"
+"Hong Kong Monetary Authority","Banking Supervision Department,Market and Liquidity Risk Division","Mr. WONG Hin Man, Roche","Mgr(Banking Supervision)(Quality Assurance)","2878 1591"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Market Risk Team","Mr. WONG Kwok Chun, Gordon","Sr Mgr(Banking Supervision)(Market Risk)","2878 1970"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Market Risk Team","Mr. LEUNG Chiu Ming, Argus","Mgr(Banking Supervision)(Market Risk)1","2878 1626"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Market Risk Team","Mr. LAW Yu Ho, Adam","Mgr(Banking Supervision)(Market Risk)2","2878 1555"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Market Risk Team","Mr. SHUM Tak Wah, Terence","Mgr(Banking Supervision)(Market Risk)3","2878 8724"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Market Risk Team","Mr. CHOY Chun Ning, Anthony","Mgr(Banking Supervision)(Market Risk)4","2878 1547"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Market Risk Team","Ms. CHAN Wai, Michelle","Mgr(Banking Supervision)(Market Risk)5","2878 8279"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Liquidity Risk Team","Mr. WONG Kin Kei, Kelvin","Sr Mgr(Banking Supervision)(Liquidity Risk)","2878 1515"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Liquidity Risk Team","Mr. CHAN Chuk Yu, Denny","Mgr(Banking Supervision)(Liquidity Risk)1","2878 8580"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Liquidity Risk Team","Ms. WONG Hiu Man, Sarah","Mgr(Banking Supervision)(Liquidity Risk)2","2878 1561"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Liquidity Risk Team","Mr. LEE Kwok Keung, Ben","Mgr(Banking Supervision)(Liquidity Risk)3","2878 1530"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Liquidity Risk Team","Ms. YAU King Kuen, Elva","Mgr(Banking Supervision)(Liquidity Risk)4","2878 1162"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Liquidity Risk Team","Mr. CHAN Ka Ming, Herbert","Mgr(Banking Supervision)(Liquidity Risk)5","2878 8054"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Liquidity Risk Team","Miss CHAN Pui Shan, Jacqueline","Mgr(Banking Supervision)(Liquidity Risk)6","2878 1748"
+"Hong Kong Monetary Authority","Market and Liquidity Risk Division,Operational Risk Team","","",""
+"Hong Kong Monetary Authority","Banking Supervision Department,Operational and Technology Risk Division","Mr. LEE Wai Man, Brian","Head(Banking Supervision)(Operational and Technology Risk)","2878 1057"
+"Hong Kong Monetary Authority","Banking Supervision Department,Operational and Technology Risk Division","Miss WAN Yi Man, Rachel","Sr Mgr(Banking Supervision)(Operational Risk)","2878 8297"
+"Hong Kong Monetary Authority","Banking Supervision Department,Operational and Technology Risk Division","Ms. CHAN Wai Chi, Connie","Mgr(Banking Supervision)(Operational Risk)1","2878 1641"
+"Hong Kong Monetary Authority","Banking Supervision Department,Operational and Technology Risk Division","Ms. CHAN Yee Man, Debora","Mgr(Banking Supervision)(Operational Risk)2","2878 1593"
+"Hong Kong Monetary Authority","Banking Supervision Department,Operational and Technology Risk Division","Ms. YEE Man Wah, Christie","Mgr(Banking Supervision)(Operational Risk)3","2878 1620"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 1","Mr. TAI San Yau, Peter","Sr Mgr(Banking Supervision)(Operational and Technology Risk)1","2597 0876"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 1","Ms. CHEUNG Wing Yan, Joyce","Mgr(Banking Supervision)(Operational and Technology Risk)1A","2878 1494"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 1","Mr. CHAN Tit Wai, William","Mgr(Banking Supervision)(Operational and Technology Risk)1B / 1A","2878 1600"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 1","Mr. CHENG Kai Ho, Stephen","Mgr(Banking Supervision)(Operational and Technology Risk)1C / 1A","2878 8117"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 2","Mr. CHAN Sung Ming, Michael","Sr Mgr(Banking Supervision)(Operational and Technology Risk)2","2878 1531"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 2","Mr. CHENG Chi Kin, Patrick","Mgr(Banking Supervision)(Operational and Technology Risk)2A","2878 1660"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 2","Ms. NGAI Yuen Yan, Polly","Mgr(Banking Supervision)(Operational and Technology Risk)2B","2878 8531"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 2","Mr. CHENG Wai Kin, Campion","Mgr(Banking Supervision)(Operational and Technology Risk)2C","2597 0844"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 3","Mr. CHIU Tsz Wai","Sr Mgr(Banking Supervision)(Operational and Technology Risk)3","2878 1389"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 3","Ms. CHUNG Wai Ling, Glenda","Mgr(Banking Supervision)(Operational and Technology Risk)3A","2878 8533"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 3","Mr. LAM Wai Hang, Roy","Mgr(Banking Supervision)(Operational and Technology Risk)3B","2878 1986"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 3","Ms. WONG Mei Ki, Maggie","Mgr(Banking Supervision)(Operational and Technology Risk)3C","2597 0857"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 4","Mr. LI Hao Yang, Alvin","Sr Mgr(Banking Supervision)(Operational and Technology Risk)4","2878 1458"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 4","Ms. CHAN Ka Hei, Kerrie","Mgr(Banking Supervision)(Operational and Technology Risk)4A","2878 1426"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 4","Mr. CHANG Chun Ho, Patrick","Mgr(Banking Supervision)(Operational and Technology Risk)4B","2878 8561"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 4","Mr. WONG Tak Chun, Ken","Mgr(Banking Supervision)(Operational and Technology Risk)4C","2878 1469"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 5","Mr. CHAN Chi Wai, Terence","Mgr(Banking Supervision)(Operational and Technology Risk)5","2878 1439"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 5","Mr. CHAN Chi Wai, Terence","Mgr(Banking Supervision)(Operational and Technology Risk)5A","2878 1439"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 5","Mr. LAU Hung Yiu, Jacky","Mgr(Banking Supervision)(Operational and Technology Risk)5B","2878 1578"
+"Hong Kong Monetary Authority","Operational and Technology Risk Division,Operational and Technology Risk Team 5","Mr. SHEK Kwun Hang, Ivan","Mgr(Banking Supervision)(Operational and Technology Risk)5C","2878 8755"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Corporate Services Department","Mr. CHAN Wai Man, Darryl, JP","Ex Dir(Corporate Services)","2878 8807"
+"Hong Kong Monetary Authority","Corporate Services Department,Administration Division","Ms. WONG Hou Ying, Loretta","Head (Adm)","2878 1459"
+"Hong Kong Monetary Authority","Administration Division,General Administration Section","Miss CHAN Kar Wei, Rebecca","Sr Mgr(Adm)","2878 1299"
+"Hong Kong Monetary Authority","Administration Division,General Administration Section","Ms. HAU Mei Yin, Ada","Mgr(Adm)1","2878 1969"
+"Hong Kong Monetary Authority","Administration Division,General Administration Section","Miss LEUNG Yuet King, Sandy","Mgr(Adm)2","2878 8718"
+"Hong Kong Monetary Authority","Administration Division,General Administration Section","Ms. CHOI Chuen Yin, Janice","Mgr(Adm)3","2878 8257"
+"Hong Kong Monetary Authority","Administration Division,General Administration Section","Ms. LAI Pui Sze, Emily","Mgr(Adm)4","2878 1945"
+"Hong Kong Monetary Authority","Administration Division,General Administration Section","Ms. SIU Ming Nar, Mina","Mgr(Adm)5","2878 8255"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 1","Ms. HUI Yuk Man, Joanne","Sr Mgr(Human Resources)1","2878 8121"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 1","Ms. LEE Wing Yan, Katy","Mgr(Human Resources)1A","2878 1780"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 1","Ms. WONG Sau Ki, Suki","Mgr(Human Resources)1B","2878 8113"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 1","Ms. LEE Suet Lin, Rebecca","Mgr(Human Resources)2C","2878 8739"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 2","Ms. YIM Chui King, Candis","Sr Mgr(Human Resources)2 (Acting)","2878 8134"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 2","Ms. YEUNG Nga Man, Mandy","Mgr(Human Resources)2A","2878 8743"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 2","Ms. CHENG Lo Man, Karen","Mgr(Human Resources)2B","2878 8744"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 3","Ms. LAM Sui Kei, Michelle","Sr Mgr(Human Resources)3","2878 1055"
+"Hong Kong Monetary Authority","Administration Division,Human Resources Team 3","Ms. LI Pui Shan, Louise","Mgr(Human Resources)3","2878 8070"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. LAM Wan, Rhonda","Chief Communications Officer","2878 1480"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Mr. LAM, Herbert","Sr Mgr(Communications)1 (Ag.)","2878 1802"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Mr. LI Chun Kit, Patrick","Sr Mgr(Communications)2","2878 1765"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. WONG Hau Yan, Yokee","Mgr(Communications)1B","2878 1213"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. FUNG Pui Shan, Shirley","Mgr(Communications)2A","2878 1013"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. HO Min Lan, Mina","Mgr(Communications)2B","2878 1050"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. LAU Chi Ying, Vivian","Mgr(Communications)2C","2878 1260"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. FAN Man Ieng, Selina","Asst Mgr(Communications)1A","2597 0842"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. CHEN Ziyou, Andrea","Mgr Trg(Communications)","2878 1908"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. NGOU Sok Teng, Celia","Offr(Communications)1A","2878 8221"
+"Hong Kong Monetary Authority","Corporate Services Department,Communications Division","Ms. LAU Man Yee, Mandy","Offr(Communications)1C","2878 1567"
+"Hong Kong Monetary Authority","Corporate Services Department,Corporate Development Division","Ms. CHAN Kim Ching, Carrie","Head(Corporate Dev)","2878 8286"
+"Hong Kong Monetary Authority","Corporate Services Department,Corporate Development Division","Mr. LAW Kwan Hei, Michael","Sr Mgr(Corporate Dev)","2878 8067"
+"Hong Kong Monetary Authority","Corporate Development Division,Corporate Development Section","Ms. TANG Chui Pik, Beatrice","Mgr(Corporate Dev)1","2878 1049"
+"Hong Kong Monetary Authority","Corporate Development Division,Corporate Development Section","Ms. FAN Wenyue, Phoebe","Mgr(Corporate Dev)2","2878 8543"
+"Hong Kong Monetary Authority","Corporate Development Division,Corporate Development Section","Ms. HUNG Suet Yan","Mgr(Corporate Dev)3","2878 8553"
+"Hong Kong Monetary Authority","Corporate Development Division,Corporate Development Section","Mr. MAK Wing Wa, Raymond","Mgr(Corporate Dev)4","2878 1460"
+"Hong Kong Monetary Authority","Corporate Development Division,Translation Section","Ms. KWOK Wai Ling, Kennifer","Mgr(Translation)1","2878 8793"
+"Hong Kong Monetary Authority","Corporate Development Division,Translation Section","Ms. CHAN Wai Yin, Phyllis","Mgr(Translation)2","2878 8792"
+"Hong Kong Monetary Authority","Corporate Services Department,Finance Division","Mr. CHAN Sai Hai, Angus","Head(Finance)","2878 8119"
+"Hong Kong Monetary Authority","Finance Division,Budget, Payments and Support Section","Mr. WONG Tat Kwong, Eric","Sr Mgr(Finance)B","2878 1868"
+"Hong Kong Monetary Authority","Finance Division,Budget, Payments and Support Section","Mr. CHENG Tung Yip, Daniel","Mgr(Finance)B","2878 8010"
+"Hong Kong Monetary Authority","Finance Division,Reserves Management Accounting and Reporting Section","Mr. TONG Chung Yee","Sr Mgr(Finance)A","2878 8008"
+"Hong Kong Monetary Authority","Finance Division,Reserves Management Accounting and Reporting Section","Mr. CHAN Ngai Shing, Daniel","Mgr(Finance)A1","2878 8005"
+"Hong Kong Monetary Authority","Finance Division,Reserves Management Accounting and Reporting Section","Mr. LAI Wah Tai, Alex","Mgr(Finance)A2","2878 8011"
+"Hong Kong Monetary Authority","Finance Division,Reserves Management Accounting and Reporting Section","Ms. LO Sin Ki, Jennifer","Mgr(Finance)A3","2878 8042"
+"Hong Kong Monetary Authority","Finance Division,Reserves Management Accounting and Reporting Section","Mr. YAU Wai Yin, Wayne","Mgr(Finance)A4","2878 8017"
+"Hong Kong Monetary Authority","Corporate Services Department,Information Technology Division","Mr. TAN Yong Wah","Head(Infn Technology)","2878 1812"
+"Hong Kong Monetary Authority","Corporate Services Department,Information Technology Division","Mr. LEUNG Fai Tat, Michael","Mgr(information Technology)(Digitalisation Programme Coordination Office)","2597 0889"
+"Hong Kong Monetary Authority","Information Technology Division,Deposit Protection Scheme Section","","",""
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 1","Mr. LEE Man Kit, Raymond","Sr Mgr(Application Support Section 1)","2878 8216"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 1","Mr. FAN Chi Mo, George","Mgr(Information Technology)(Application Support Section 1)1","2878 1632"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 1","Mr. WONG Fu Chuen, Dick","Mgr(Information Technology)(Application Support Section 1)2","2878 1067"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 1","Mr. CHAN Tin Man","Mgr(Information Technology)(Application Support Section 1)3","2878 1570"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 1","Mr. WONG Yuk Wai, Felix","Mgr(Information Technology)(Application Support Section 1)5","2878 1074"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 1","Ms. LI Mei Ting, Ivy","Mgr(Information Technology)(Application Support Section 1)6","2878 1682"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 2","Mr. HUI Che Yuen, William","Sr Mgr(Information Technology)(IT Application Support Section 2)","2878 8176"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 2","Mr. KWOK Choi Chung, Jones","Mgr(Information Technology)(IT Application Support Section 2)1","2878 1983"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 2","Ms. HO Wai Yee, Edith","Mgr(Information Technology)(IT Application Support Section 2)2","2878 1634"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 2","Mr. CHENG Tze Man, Matthew","Mgr(Information Technology)(IT Application Support Section 2)3","2878 1176"
+"Hong Kong Monetary Authority","Information Technology Division,IT Application Support Section 2","Mr. CHAN Man Lik, Benny","Mgr(Information Technology)(IT Application Support Section 2)4","2878 1869"
+"Hong Kong Monetary Authority","Information Technology Division,IT Infrastructure Services Section","Ms. MA Wai Ling, Monita","Sr Mgr(Information Technology)(Infrastructure Services)","2878 8780"
+"Hong Kong Monetary Authority","Information Technology Division,IT Infrastructure Services Section","Mr. CHEN Chung Li, Liric","Mgr(IT Infrastructure Services)1","2878 8177"
+"Hong Kong Monetary Authority","Information Technology Division,IT Infrastructure Services Section","Mr. TANG Yiu Him, Jacko","Mgr(IT Infrastructure Services)2","2878 8226"
+"Hong Kong Monetary Authority","Information Technology Division,IT Infrastructure Services Section","Ms. CHEUNG Yee Wan, Maggie","Mgr(IT Infrastructure Services)3","2878 8729"
+"Hong Kong Monetary Authority","Information Technology Division,IT Infrastructure Services Section","Mr. CHEUNG Ka Kui","Mgr(IT Infrastructure Services)4","2878 1876"
+"Hong Kong Monetary Authority","Information Technology Division,IT Security Section","Mr. TAM Tak On, Andrew","Sr Mgr(Information Technology)(IT Security)","2878 1829"
+"Hong Kong Monetary Authority","Information Technology Division,IT Security Section","Mr. LAM Thi Thong, Andy","Mgr(Information Technology)(IT Security)1","2878 1983"
+"Hong Kong Monetary Authority","Information Technology Division,IT Security Section","Mr. HO Kit Yan, Jack","Mgr(Information Technology)(IT Security)2","2878 1484"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,External Department","Mr. LEE Wing Sing, Vincent, JP","Ex Dir(External)","2878 1298"
+"Hong Kong Monetary Authority","External Department,Division 1","Mr. NG Ying Kei, Archie","Head(External)1","2878 1669"
+"Hong Kong Monetary Authority","External Department,Division 1","Ms. POON Sum Yee, Doris","Sr Mgr(External)1A","2878 1367"
+"Hong Kong Monetary Authority","External Department,Division 1","Mr. LEE, Edmund","Sr Mgr(External)1B","2878 1239"
+"Hong Kong Monetary Authority","External Department,Division 1","Ms. LOK Ka Chun, Georgina","Sr Mgr(International Monetary Fund)1","(202)623-4681"
+"Hong Kong Monetary Authority","External Department,Division 1","Mr. CHOW Kam Wah, Kevin","Sr Mgr(International Monetary Fund)2","2878 8750"
+"Hong Kong Monetary Authority","External Department,Division 1","Ms. CHAN Wing Yan, Vian","Mgr(External)1A1","2878 1030"
+"Hong Kong Monetary Authority","External Department,Division 1","Ms. CHENG Wing Yan, Wendy","Mgr(External)1A2","2878 1576"
+"Hong Kong Monetary Authority","External Department,Division 1","Mr. LEUNG Hing Chau, Jimmy","Mgr(External)1A3","2878 1752"
+"Hong Kong Monetary Authority","External Department,Division 1","Ms. LAM Chor Yan, Teresa","Mgr(External)1B1","2878 1492"
+"Hong Kong Monetary Authority","External Department,Division 1","Ms. ZHANG Jiayue, Jacqueline","Mgr(External)1B2","2878 1428"
+"Hong Kong Monetary Authority","External Department,Division 1","Mr. LAU Yat Fei","Mgr(External)1B3","2878 1237"
+"Hong Kong Monetary Authority","External Department,Division 1","Ms. XIAO Hong","Mgr(External)1C1","2878 1673"
+"Hong Kong Monetary Authority","External Department,Division 2","Miss HUNG Tin Wai, Kyle","Head(External)2","2878 1665"
+"Hong Kong Monetary Authority","External Department,Division 2","Ms. SZETO Wing Kwan, Jessica","Sr Mgr(External)2A","2878 1553"
+"Hong Kong Monetary Authority","External Department,Division 2","Mr. TANG Pui Lam, Lawrence","Sr Mgr(External)2B","2878 1302"
+"Hong Kong Monetary Authority","External Department,Division 2","Mr. MO Yik Ko","Sr Mgr(External)2C","2878 1655"
+"Hong Kong Monetary Authority","External Department,Division 2","Mr. LO Wing Fung, Patrick","Sr Mgr(External)2D","2878 1084"
+"Hong Kong Monetary Authority","External Department,Division 2","Ms. MOK Yue Ling, Maggie","Mgr(External)2A1","2597 0824"
+"Hong Kong Monetary Authority","External Department,Division 2","Mr. ZHU  Ri Ping, John","Mgr(External)2A2","2878 1633"
+"Hong Kong Monetary Authority","External Department,Division 2","Ms. CHAN Ka Yan, Melissa","Mgr(External)2B1","2878 8752"
+"Hong Kong Monetary Authority","External Department,Division 2","Mr. CHAN Mou Chak, Max","Mgr(External)2B1","2878 8752"
+"Hong Kong Monetary Authority","External Department,Division 2","Mr. WONG Kin, Kent","Mgr(External)2B2","2878 8144"
+"Hong Kong Monetary Authority","External Department,Division 2","Ms. LI Jiahui, Sylvia","Mgr(External)2C2","2878 1833"
+"Hong Kong Monetary Authority","External Department,Division 2","Mr. KONG Sze Wing, Steven","Mgr(External)2D","2878 8596"
+"Hong Kong Monetary Authority","External Department,New York Office","Mr. CHEUNG Wing Lim, Lawrence","Ch Rep (New York Rep Off)","1-212-486-8738"
+"Hong Kong Monetary Authority","External Department,New York Office","Ms. YAU Amy","Dep. Ch Rep (New York Rep Off)","2878 8515"
+"Hong Kong Monetary Authority","External Department,New York Office","Ms. LEE Ching Man, Jessica","Rep(New York Off)1","1-212-486-7280"
+"Hong Kong Monetary Authority","External Department,New York Office","Ms. CHAN Ka Lam, Katy","Rep(New York Off)1","2878 8602"
+"Hong Kong Monetary Authority","External Department,New York Office","Ms. CHAN Li Li, Lily","Rep(New York Off)2","1-212-486-8738"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. FUNG Yan Lok, Enoch","Head(Market Dev)","2878 1479"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. AU Tsz Wah, Joseph","Sr Mgr(Market Dev)1","2878 8065"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. LAW Hok Yin, Anson","Sr Mgr(Market Dev)2","2878 1121"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Ms. YIP Ching Ching, Sara","Sr Mgr(Market Dev)3","2878 8051"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Ms. WONG Chi Yun, Grace","Sr Mgr(Market Dev)4","2878 8781"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. WU Yuhui, Jason","Mgr(Market Dev)1A","2878 8569"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. CHUA Zhe Wei, Daniel","Mgr(Market Dev)1C","2878 1500"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. YIM Ho Chuen, Eric","Mgr(Market Dev)2A","2878 8155"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. TSE Chun Yu, Adam","Mgr(Market Dev)2C","2878 1233"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. KAN Kin Yiu, Keith","Mgr(Market Dev)3A","2878 1036"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Ms. HUANG Yang","Mgr(Market Dev)3B","2878 8594"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. LAU Wai Chun, Seth","Mgr(Market Dev)4A","2878 1032"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Ms. WANG Ting","Mgr(Market Dev)4B","2878 8541"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. WONG Sung Hei, Wilson","Mgr(Mgt Dept)2B","2878 1036"
+"Hong Kong Monetary Authority","External Department,Market Development Division","Mr. PANG Ka Chun, Oscar","Mgr(Market Dev)2B","2878 1948"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Mr. CHENG Yiu Hung, Raymond","Head(Internal Audit)","2878 8239"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Ms. HO So Wai, Agnes","Sr Mgr(Internal Audit)1","2878 8044"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Miss LAI Kit Sam, Eudia","Sr Mgr(Internal Audit)2","2878 8713"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Ms. CHAU Pui Man, Echo","Mgr(Internal Audit)2","2878 1936"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Ms. YEUNG Mei Lan, Kathy","Mgr(Internal Audit)3","2878 8737"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Mr. CHAN Chee Hang, Roy","Mgr(Internal Audit)4","2878 1984"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Ms. CHAN Pik Ling, Penny","Mgr(Internal Audit)5","2878 8053"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Internal Audit Division","Ms. TANG Hiu Lam, Kimmi","Mgr(Internal Audit)6","2878 8302"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Financial Infrastructure Department","Mr. POU  Hak Wan, Colin","Executive Director(Financial Infrastructure)","2878 1826"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Financial Infrastructure Department","Mr. CHANG Chung Yee, Henry","Sr Mgr(Digitalisation Programme Coordination Office)","2878 8535"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Financial Infrastructure Development Division","Miss LAI Hau Yee, Kitty","Head(Financial Infrastructure Development)","2878 1120"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Financial Infrastructure Development Division","Mr. LEE Kwok Hung","Chief Project Manager(Financial Infrastructure Development)","2878 1393"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Financial Infrastructure Development Division","Mr. CHOU Wai Keung, George","Sr Mgr(Financial Infrastructure Dev)","2878 1599"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Financial Infrastructure Development Division","Ms. NG Yuk Kuen, Kathy","Mgr(Financial Infrastructure Dev)1","2878 1034"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Financial Infrastructure Development Division","Ms. LEUNG Hoi Ling, Helen","Mgr(Financial Infrastructure Dev)2","2878 8080"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Financial Infrastructure Development Division","Ms. YIP Pik Sun, Queenie","Mgr(Financial Infrastructure Dev)3","2597 0873"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Mrs. CHAN YIP Siu Ming, Lydia","Head(Currency &amp; Settlement)","2878 8165"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Ms. CHAN Heung Yi, Ella","Sr Mgr(Currency)1","2878 8256"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Mr. LEUNG Wai Lim, William","Sr Mgr(Currency)2","2878 8006"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Ms. LAI Ngai Ching, Caroline","Sr Mgr(Settlement)2","2878 8756"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Miss NG Man Chun, Yammie","Mgr(Currency)1","2878 1328"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Ms. CHAN Mi Fan, Yvonne","Mgr(Currency)2","2878 1495"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Mr. SO Lai Hin, Leon","Mgr(Currency)3","2878 1731"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Miss YAN Yee Nar, Jackie","Mgr(Settlement)1","2878 1454"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Mr. YEUNG Chung Hin, Thomas","Mgr(Settlement)2","2878 8237"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Ms. WONG Shuk Fong, Annie","Mgr(Settlement)3","2878 8160"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Ms. NG Ka Wing, Fiona","Mgr(Settlement)4","2878 1778"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Mr. CHAN Cheung Ngai, Jeff","Mgr(Settlement)5","2878 8240"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Mr. LAU Ka Wai, Frank","Mgr(Settlement)6","2878 1895"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Ms. LEE Ka Yee, Kate","Mgr(Settlement)7","2878 8760"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Currency & Settlement Division","Ms. CHOW Yick Shan, Suzanne","Mgr(Settlement)8","2878 8337"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Deposit Protection Scheme Division","","",""
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Mr. CHOW Man Ching, Nelson","Chief Fintech Officer, Fintech Facilitation Office, FID","2878 8579"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Mr. PANG Yuk Fai, Wilson","Sr Mgr(Fintech Facilitation Office)3","2878 1249"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Mr. CHAN Ka Kei, Terry","Sr Mgr(Fintech Facilitation Office)3 / Mgr(Fintech Facilitation Office)3A","2878 8562"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Miss TSUI Fung Kwan, Yvonne","Sr Mgr(Fintech Facilitation Office)4","2878 8828"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Mr. HAU Wai Kei, Gary","Mgr(Fintech Facilitation Office)1A","2878 1241"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Mr. CHAN Chun Fai, Aldar","Mgr(Fintech Facilitation Office)1B","2878 1712"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Mr. CHUNG Chi Wai","Mgr(Fintech Facilitation Office)2A","2878 8582"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Ms. YEUNG Shuk Man, Jessica","Mgr(Fintech Facilitation Office)2B","2878 1541"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Mr. SO Lai Chun","Mgr(Fintech Facilitation Office)3B","2878 1147"
+"Hong Kong Monetary Authority","Financial Infrastructure Department,Fintech Facilitation Office","Ms. KWOK Yi Tak, Ada","Mgr(Fintech Facilitation Office)4","2878 8259"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Secondment","","",""
+"Hong Kong Monetary Authority","Secondment,Deposit Protection Board","Miss HUI Siu Lan, Kennis","Sr Mgr(Soft Infrastructure and Deposit Protection)2","2878 1320"
+"Hong Kong Monetary Authority","Secondment,Deposit Protection Board","Ms. FUNG Yat Wah, Stephen","Sr Mgr(Soft Infrastructure and Deposit Protection)4","2878 8055"
+"Hong Kong Monetary Authority","Secondment,Deposit Protection Board","Ms. LAI Ming Wai, Teresa","Mgr(Soft Infrastructure and Deposit Protection)1A","2516 7369"
+"Hong Kong Monetary Authority","Secondment,Deposit Protection Board","Ms. TANG Holly","Mgr(Soft Infrastructure and Deposit Protection)2","2878 1145"
+"Hong Kong Monetary Authority","Secondment,Deposit Protection Board","Mr. CHAN Siu Kei, Max","Mgr(IT Systems)","2878 1218"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Academy of Finance","Ms. HUI Hoi Chi, Gillian","Head (Programme Development)","2878 1303"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Academy of Finance","Mr. WU Ming Chun, Andrew","Ch Operating Offr(Academy of Finance)","2878 8606"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Academy of Finance","Ms. NG Yu Yan, Katrina","Director (Leadership Development Programme)","2878 1231"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Academy of Finance","Mr. LEUNG Man Kit, Michael","Director (Programme Development)","2878 1186"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Academy of Finance","Ms. MA Wing Shan, Winsome","Deputy Director (Leadership Development Programme)1","2878 8543"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Academy of Finance","Ms. TSANG Sze Wa, Melissa","Deputy Director (Leadership Development Programme)2","2597 0859"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Academy of Finance","Ms. CHOW Tsz Ting, Sandy","Deputy Director (Programme Development)1","2878 8245"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Financial Market Infrastructures Services Limited","Mr. CHAN Tat Keung, Stanley","Head(Payment Op)","2878 1696"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Financial Market Infrastructures Services Limited","Mr. MOK Man Kit, Keith","Sr Mgr(Financial Market Infrastructures)","2878 1920"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Central Moneymarkets Unit","Mr. Raymond BO","Sr Mgr(Central Moneymarkets Unit)1","2878 1383"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Central Moneymarkets Unit","Ms. WANG Nan, Nancy","Sr Mgr(Central Moneymarkets Unit)2","2878 1308"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Central Moneymarkets Unit","Ms. CHAN Yan Mei, Yammi","Mgr(Central Moneymarkets Unit)1","2878 1086"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Central Moneymarkets Unit","Ms. CHAN Suk Yee, Amy","Mgr(Central Moneymarkets Unit)2","2878 1465"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Central Moneymarkets Unit","Miss POON Mei Tin, Janice","Mgr(Central Moneymarkets Unit)3","2878 1041"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Central Moneymarkets Unit","Ms. CHU Yee Sau, Cynthia","Mgr(Central Moneymarkets Unit)4","2597 0973"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Payment System Unit","Ms. KWAN Yuen Fan, Ann","Sr Mgr(Payment Systems)","2878 1283"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Payment System Unit","Ms. LAM Yuk Ting, Olivia","Mgr(Payment Systems)1","2878 1943"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Payment System Unit","Ms. TAI Yuen Yung, Queenie","Mgr(Payment Systems)2","2878 1692"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Payment System Unit","Ms. WONG Pui Ning, Pauline","Mgr(Payment Systems)3","2878 1873"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Payment System Unit","Ms. YUEN Pui Man, Tiffany","Mgr(Payment Systems)4","2597 0978"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Trade Repository Unit","Ms. LEE Yuk King, Polly","Sr Mgr(Trade Repository)1","2878 1099"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Trade Repository Unit","Mr. LAM Chi Hang, Brian","Sr Mgr(Trade Repository)2","2878 1205"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Trade Repository Unit","Ms. WONG Pik Kwan, Cherry","Mgr(Trade Repository)1 (Acting)","2878 1207"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Trade Repository Unit","Mr. LAU Hak King, Ronald","Mgr(Trade Repository)2","2878 8300"
+"Hong Kong Monetary Authority","Hong Kong Financial Market Infrastructures Services Limited,Trade Repository Unit","Mr. CHEUNG Wai, Frederick","Mgr(Trade Repository)3","2878 1203"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Institute for Monetary Research","Mr. CHEN Hongyi","Sr Economist(Hong Kong Institute for Monetary Research)1","2878 1980"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Institute for Monetary Research","Mr. VALENTE Giorgio","Sr Economist(Hong Kong Institute for Monetary Research)3","2878 8230"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Institute for Monetary Research","Mr. LAM Full Yet Eric, Campbell","Economist(Hong Kong Institute for Monetary Research)1","2597 0802"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Institute for Monetary Research","Mr. HAN Gaofeng","Economist(Hong Kong Institute for Monetary Research)2","2878 1085"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Institute for Monetary Research","Mr. TAN Zhibo","Economist(Hong Kong Institute for Monetary Research)3","2878 1327"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Mortgage Corporation Limited","Ms. LEUNG Ching Han, Tess","Senior Vice President (Operations)","2878 8280"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Mortgage Corporation Limited","Ms. WONG Ling Sze, Susanna","Vice President (Infrastructure Investment) Infrastructure Financing and Securitisation","2878 8781"
+"Hong Kong Monetary Authority","Secondment,Hong Kong Mortgage Corporation Limited","Ms. CHEUNG Siu Wai, Feliciana","General Counsel/HKMC","2536 0032"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. Karen Deborah KEMP, JP","Gen Counsel","2878 8250"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. WONG Man Sze, Joanna","Dep Gen Counsel 1","2878 8244"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Mr. LAW Shing Yan, Stephen","Dep Gen Counsel 2","2878 8102"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. TO Kit Mei, Mayanna","Dep Gen Counsel 3","2878 8733"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Mr. YIP Kin Son","Sr Counsel(1A)","2878 8802"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. LEUNG Fung Har, Flora","Sr Counsel(1B)","2878 8205"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. CHUNG Wing Yeng, Shirley","Sr Counsel(1C)","2878 1790"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. AO Ka Ian, Teresa","Sr Counsel(1D)","2878 8804"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. BARREIRA Maria, Teresa","Sr Counsel(2A)","2878 8586"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. NIEM Hau Wai, Flora","Sr Counsel(2B)","2878 1747"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. CHAN Mei Ho, Doris","Sr Counsel(3A)","2878 8740"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Mr. CHUNG Ka Shing, Tim","Sr Counsel(3B)","2878 1764"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. SIU Wing Yan, Lisa","Sr Counsel(3C)","2878 8241"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. TAM Yee King, Christine","Sr Counsel (Litigation Unit)A","2878 8048"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. LEUNG Sze Man, Evon","Sr Counsel (Litigation Unit)B","2878 1264"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. LEUNG Sau Yee, Angela","Sr Counsel (Litigation Unit)C","2878 1444"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. CHAN Suet Yin, Queenie","Counsel (Litigation Unit)A","2878 1361"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. LAM Shui Yin, Zoe","Counsel(1A)","2878 1974"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Office of The General Counsel","Ms. TAM Lok Yan, Vivian","Counsel(2A)","2878 1872"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Research Department","Ms. CHEUNG Lillian, JP","Ex Dir (Research)","2878 8801"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. WU Kin Ming, Jason","Head (Economic Research)","2878 1675"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. NG Hoi Tak, Philip","Sr Economist(Economic Research)1","2878 1852"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. YU Ip Wing","Sr Economist(Economic Research)2","2878 1446"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. CHENG Xiaoqiang, Alex","Sr Economist(Economic Research)3","2878 1809"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. TAM Chi Sang","Sr Economist(Economic Research)4","2878 1658"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. LI Ka Fai","Sr Economist(Economic Research)5","2878 1803"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Ms. WONG Po Yin","Economist(Economic Research)1A","2878 1143"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. WONG Chi Shing, Ken","Economist(Economic Research)1B","2878 8047"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. JIANG Shifu","Economist(Economic Research)2A","2878 8526"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. TSANG Tin Ho, Eric","Economist(Economic Research)2B","2878 1411"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. NG Shou Zhong, Brian","Economist(Economic Research)3A","2878 8791"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Ms. WU Xiaohui, Sharon","Economist(Economic Research)3B","2878 1994"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. HO Ho Cheung, Edmund","Economist(Economic Research)4A","2878 1871"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. CHAN Wai Wah, Steven","Economist(Economic Research)4B","2878 1094"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. CHAN Sheung Tat, Simon","Economist(Economic Research)5A","2878 1262"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. YIU Wing Ho, Alex","Economist(Economic Research)5B","2597 0838"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Mr. YAU Tak Wai, David","Mgr(Economic Research)(Statistics)","2597 0809"
+"Hong Kong Monetary Authority","Research Department,Economic Research Division","Ms. WONG Ka Yan, Cynthia","Mgr(Research Department)1","2878 1326"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. HUI Cho Hoi","Head (Market Research)","2878 1485"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. LI Ka Fai","Sr Economist(Market Research)1","2878 1803"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. WONG Tak Chuen, Eric","Sr Economist(Market Research)1","2878 8735"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. FONG Pak Wing, Tom","Sr Economist(Market Research)2","2878 1402"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. WONG Yun Tong, Alfred","Sr Economist(Market Research)3","2878 8292"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. HO Ka Wing, Kelvin","Economist(Market Research)1","2878 1794"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. LEUNG Wing Yu, David","Economist(Market Research)2A","2878 1664"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Mr. WU Shui Tang, Gabriel","Economist(Market Research)2B","2878 1325"
+"Hong Kong Monetary Authority","Research Department,Market Research Division","Ms. SZE Kin Wan, Angela","Economist(Market Research)3","2878 1831"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Exchange Fund Investment Office","Mr. CHU Siu Chuen, Francis, JP","Ch Operating Offr","2878 8171"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Mr. MATSUI Kaoru, Martin","Ch Strategy Offr","2878 1608"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Mr. CHEUNG Kai Chung, Joe","Head(Asset Allocation)","2878 8584"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Ms. CHOI Wai Ling, Elizabeth","Sr Dir(Asset Allocation)1","2878 8770"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Ms. CHEUNG Lai King, Judy","Sr Dir(Asset Allocation)2","2878 1965"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Mr. TSO Ka Ming, Leonard","Dir(Asset Allocation)1","2878 8589"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Mr. CHUNG Siu Hong, Jimmy","Dir(Asset Allocation)4","2878 1770"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Ms. JIN Lu","Sr Associate Dir(Asset Allocation)1","2878 1006"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Ms. CHAN Sin I, Sini","Associate Dir(Asset Allocation)2","2878 1916"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Mr. YIP Chun Kit, Kit","Associate Dir(Asset Allocation)4","2878 1407"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Asset Allocation","Mr. MOHIUDDIN Suhail","Associate Dir(Asset Allocation)5","2878 1653"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. CHAN Ka Chai, Clara","Ch Investment Offr(Private Markets)","2878 1077"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. WONG Shun Shing, Samson","Head of Real Estate","2878 8597"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. LEUNG Ho Yee, Rita","Head of Private Equity &amp; Infrastructure","2878 1867"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. WONG Hei Man, Kathy","Head of Private Equity &amp; Direct Investment","2878 1867"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. HO, Ernest","Dep Head (Private Markets)","2878 1906"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. AU YEUNG Wai Sum, Anthea","Sr Portfolio Mgr(Private Markets)1","2878 1840"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. HO Ernest","Sr Portfolio Mgr(Private Markets)2","2878 1906"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. WONG Chun Hung, Phillip","Sr Portfolio Mgr(Private Markets)3","2878 1973"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. LIANG Tianyu, Bill","Sr Portfolio Mgr(Private Markets)5","2878 1587"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. LAU Eda, Danielle","Sr Portfolio Mgr(Private Markets)6","2878 8573"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. CHAN Hiu Yee, Melody","Sr Portfolio Mgr(Private Markets)7","2878 8128"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. GILL Jay, Jonathan","Sr Counsel(Private Markets)","2878 1223"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. WONG Po, Laurence","Portfolio Mgr(Private Markets)1","2878 1702"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. SO Chui Hin, Zoe","Portfolio Mgr(Private Markets)2","2878 1429"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. CHANG Hao, Joshua","Portfolio Mgr(Private Markets)2 / Portfolio Mgr(Private Markets)3","2878 1276"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. CHENG Pui Yi, Denise","Portfolio Mgr(Private Markets)5","2878 8542"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. NG Wing Na, Connie","Associate Portfolio Mgr(Private Markets)1","2878 8218"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. LAI Chui Yee, Chloe","Associate Portfolio Mgr(Private Markets)3","2878 8567"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. FAN Yi Ting, Karen","Associate Portfolio Mgr(Private Markets)5","2878 1217"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. TSOI, Anthony","Associate Portfolio Mgr(Private Markets)8","2878 1760"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. WONG Chun Yiu, Arthur","Associate Portfolio Mgr(Private Markets)9","2878 1754"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. LAM Tin Shing, Steven","Associate Portfolio Mgr(Private Markets)7","2878 8574"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Ms. TANG Lok Yi, Chloe","Associate Portfolio Mgr(Private Markets)10","2597 0863"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. LAU Yat Him, Lewis","Associate Portfolio Mgr(Private Markets)11","2597 0878"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. AU YEUNG Wai Kit, Wittke","Associate Portfolio Mgr(Private Markets)12","2878 1021"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Private Markets","Mr. WONG, Carson","Associate Portfolio Mgr(Private Markets)13","2878 1861"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. CHAN Shiu Lun, Christopher","Ch Investment Offr(Public Markets)","2878 8174"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. GOH Siang Chee, Albert","Dep Ch Investment Offr(Public Markets) &amp; Head(External Managers)","2878 1343"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Miss LEE Tze Sen, Frances","Head of Rates","2878 1911"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. QIAN Xinben, Garrison","Head of Credit","2878 1202"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. YUM Pak Lin, Eric","Sr Dir(External Managers)1","2878 1761"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. LAM Sau Ying, Judy","Sr Dir(External Managers)2","2878 1628"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. TANG Pui Lam, Tiffany","Dir(External Managers)2","2878 1909"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. CHUNG Shiu Chun, Jacky","Dir(External Managers)3","2878 1964"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. CHEUNG Wing Tat, Ted","Dir(External Managers)5","2878 1959"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. LEE Tak Wah, Terri","Sr Associate Dir(External Managers)1","2878 1966"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. CHENG Chin Ho, Christopher","Sr Associate Dir(External Managers)2","2878 1967"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. CHOW Wan Leung, David","Associate Dir(External Managers)1","2878 1782"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. HUEN Tat Ming, Thomas","Associate Dir(External Managers)2","2597 0897"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. TAM Margery","Associate Dir(External Managers)3","2878 1318"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. FUNG Wing Kwan, Schaffina","Associate Dir(External Managers)4","2878 1537"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. CHENG Chui Wah, Emily","Associate Dir(External Managers)5","2878 1442"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. CHONG Yuen Yee, Yvonne","Sr Dir(Fixed Income)2","2878 1832"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. TSE Lee, Jenny","Dir(Fixed Income)1","2878 1312"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. NG Yee Wah, Percy","Dir(Fixed Income)2","2878 1913"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. YIP Yiu Man, Raymond","Dir(Fixed Income)3","2878 1370"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. MAK Shui On, Rosana","Sr Associate Dir(Fixed Income)1","2878 1671"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. LAU Pok Man, Angus","Sr Associate Dir(Fixed Income)2","2878 1277"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. TAI Cheuk Man, Christine","Sr Associate Dir(Fixed Income)3","2878 8595"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. WONG Sze Man, Manfred","Sr Associate Dir(Fixed Income)4","2878 1914"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. CHUNG Wai Sze, Grace","Associate Dir(Fixed Income)2","2878 1796"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. Carin CHEUNG","Associate Dir(Fixed Income)3","2878 1463"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. CHAN Lai Yu, Iris","Associate Dir(Fixed Income)5","2597 0830"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. YIN Wei","Associate Dir(Fixed Income)6","2878 1317"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. HO Wai Keung, Terrence","Associate Dir(Fixed Income)8","2878 1462"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. PATEL Yusuf, Suhail","Associate Dir(Fixed Income)9","2878 1915"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Ms. Christina ZEE","Associate Dir(Fixed Income)10","2878 1224"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Public Markets","Mr. CHENG Ching Wai, Angus","Associate Dir(Fixed Income)11","2878 1310"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. CHONG Kim Tong, Kim","Head(Risk Mgt &amp; Compliance)","2878 1704"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. CHAN Man Wai, Peggy","Sr Dir(Risk Mgt &amp; Compliance)","2878 1953"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Miss Effie YAO","Dir(Risk Mgt &amp; Compliance)1 / Associate Dir(Risk Mgt &amp; Compliance)8","2878 1705"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. CHIU Shuk Ying, Caren","Dir(Risk Mgt &amp; Compliance)2","2878 8158"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. HUI Wei Fung, Arnold","Dir(Risk Mgt &amp; Compliance)3","2878 1440"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. MAK Lok Hin, Alan","Dir(Risk Mgt &amp; Compliance)5","2878 1703"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. LEE See Kong, Frankie","Dir(Risk Mgt &amp; Compliance)6","2878 1968"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. WONG Tsun Cheung, Thomas","Associate Dir(Risk Mgt &amp; Compliance)1","2878 1954"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. LEUNG Wai Fung, Canjo","Associate Dir(Risk Mgt &amp; Compliance)2","2878 1073"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. FAN Sheung Wei, Kelvin","Associate Dir(Risk Mgt &amp; Compliance)3","2878 1436"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. FUNG Kang Por, Laurence","Associate Dir(Risk Mgt &amp; Compliance)4","2878 8263"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. CHEUNG Chunming, Darren","Associate Dir(Risk Mgt &amp; Compliance)6","2878 1659"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. NGAI Pik Kwan, Teresa","Associate Dir(Risk Mgt &amp; Compliance)7","2878 1373"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. LAU Kwok Yan, Ian","Associate Dir(Risk Mgt &amp; Compliance)8","2878 8587"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. LEUNG Kit Ying, Kate","Associate Dir(Risk Mgt &amp; Compliance)9","2878 8818"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. LEUNG Lok Yee, Phyllis","Associate Dir(Risk Mgt &amp; Compliance)10","2878 1951"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. LEE Kar Kwok, Kelvin","Associate Dir(Risk Mgt &amp; Compliance)11","2878 1701"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. WU Wing Sze, Elsie","Associate Dir(Risk Mgt &amp; Compliance)12","2878 1732"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. LO Yu Wai, Rocky","Associate Dir(Risk Mgt &amp; Compliance)13","2878 1101"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. LIN Heung Wing, Jason","Associate Dir(Risk Mgt &amp; Compliance)14","2878 1417"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Miss YIP Man Wai, Doris","Associate Dir(Risk Mgt &amp; Compliance)15","2878 1940"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. LEE Oi Wa, Florence","Associate Dir(Risk Mgt &amp; Compliance)17","2878 1091"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. LING Kit, Jessica","Associate Dir(Risk Mgt &amp; Compliance)18","2878 8552"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. NG Chun Kit, Figo","Associate Dir(Risk Mgt &amp; Compliance)19","2878 8266"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Mr. SIU Tsz Hang, Jonathan","Associate Dir(Risk Mgt &amp; Compliance)21","2878 1385"
+"Hong Kong Monetary Authority","Exchange Fund Investment Office,Risk Management & Compliance","Ms. IP Tsz Mun, April","Associate Dir(Risk Mgt &amp; Compliance)20","2597 0823"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Risk & Compliance Department","Ms. LAU Wai Kuen, Grace, JP","Ex Dir(Risk &amp; Compliance) / Ch Risk Offr(Exchange Fund Investment Office)","2878 1957"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Monetary Management Department","Mr. LAU Chung Kin, Clement","Ex Dir(Monetary Management)","2878 8061"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Mr. YIP Kut Chiu, Barry","Head(Monetary Ops)","2878 1365"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Mr. LI Kim Hung","Sr Mgr(Monetary Ops)1","2878 1461"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. CHEUNG Shuk Yin, Zoe","Sr Mgr(Monetary Ops)2","2878 1545"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Mr. CHING Kam Cheong, Andy","Sr Mgr(Monetary Ops)3","2878 8583"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. CHENG Chi Man, Kimberly","Sr Mgr(Monetary Ops)4","2878 8515"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. LAI Wai Yee, Renny","Mgr(Monetary Ops)1","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. LEUNG Kam Yin, Cynthia","Mgr(Monetary Ops)2","2878 1031"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. LO Tik Yam, Debble","Mgr(Monetary Ops)3","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Mr. AU YEUNG Sze Ming, Adrian","Mgr(Monetary Ops)4","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. LAM Hau Wah, Gloria","Mgr(Monetary Ops)5","2878 1254"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. LEE Ka Ying, Jess","Mgr(Monetary Ops)6","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Mr. CHENG Kwong Yeung, Bart","Mgr(Monetary Ops)7","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Miss WONG Tsu Hing, Josephine","Mgr(Monetary Ops)8","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Mr. KWAN Tzi Kin, Felix","Mgr(Monetary Ops)9","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Ms. LEE Ching Man, Jessica","Mgr(Monetary Ops)10","2878 8512"
+"Hong Kong Monetary Authority","Monetary Management Department,Monetary Operations Division","Mr. NG Chun Kit, Calvin","Mgr(Monetary Ops)11","2878 8104"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. CHENG Chun Chau, Kevin","Head(Financial Stability Surveillance)","2878 1577"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. LIU Jing","Sr Mgr(Financial Stability Surveillance)1","2878 1864"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. CHENG Kin Sum, Michael","Sr Mgr(Financial Stability Surveillance)2","2878 8157"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Ms. Pezzini Silvia","Sr Mgr(Financial Stability Surveillance)3","2878 1043"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Ms. PANG Ka Po, Pansy","Sr Mgr(Financial Stability Surveillance)4","2878 1206"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. LIU Zijun","Sr Mgr(Financial Stability Surveillance)5","2878 1399"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Ms. LUO Jing, Jocelyn","Mgr(Financial Stability Surveillance)1A","2878 1612"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Ms. QIU Xiaocun, Tiffany","Mgr(Financial Stability Surveillance)1B","2597 0892"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. KWONG Wai Ming","Mgr(Financial Stability Surveillance)2B","2878 8269"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. WONG Chung Hang, Michael","Mgr(Financial Stability Surveillance)3A","2878 8269"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. CHAN Yun Fat, Henry","Mgr(Financial Stability Surveillance)3B","2597 0872"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Ms. HUI So Shan, Ceara","Mgr(Financial Stability Surveillance)4A","2878 1398"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Mr. LO Yu Pang, Ben","Mgr(Financial Stability Surveillance)4B","2567 0867"
+"Hong Kong Monetary Authority","Monetary Management Department,Financial Stability Surveillance Division","Ms. LAU Ka Wai, Kaye","Mgr(Financial Stability Surveillance)6","2878 1905"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. KWOK Chi Fung, Keith","Head(Retail Payment Oversight)","2878 8546"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Ms. SHUM Ka Wing, Wenda","Sr Mgr(Retail Payment Oversight)1","2878 1486"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. YUNG Chi Wai, Henry","Sr Mgr(Retail Payment Oversight)2","2878 1727"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. NG Wai, Raymond","Sr Mgr(Retail Payment Oversight)3","2878 8225"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Ms. WONG Sau Yee, Flora","Sr Mgr(Retail Payment Oversight)4","2878 8162"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. HUI Kin Kun, Clarence","Sr Mgr(Retail Payment Oversight)5","2878 1363"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. NG Luk Pan, Pan","Mgr(Retail Payment Oversight)1","2878 1663"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. LI Sun Tsing, Carl","Mgr(Retail Payment Oversight)2","2878 1614"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. NG Man Hin, Eddie","Mgr(Retail Payment Oversight)3","2878 1437"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. FUNG Chin Hung, Michael","Mgr(Retail Payment Oversight)4","2878 1139"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. LEONG Chan Fai, Coleman","Mgr(Retail Payment Oversight)5","2878 1141"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. KAN Man Chun, Samuel","Mgr(Retail Payment Oversight)6","2878 1163"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Ms. CHEUNG Po Fung, Maggie","Mgr(Retail Payment Oversight)8","2878 1815"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Ms. WU Pui Ting, Angela","Mgr(Retail Payment Oversight)8","2878 1242"
+"Hong Kong Monetary Authority","Monetary Management Department,Retail Payment Oversight Division","Mr. TO Man Chit, Joshua","Mgr(Retail Payment Oversight)9","2878 1170"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Enforcement & AML Department","Miss CHU Lap Kiu, Carmen, JP","Ex Dir(Enforcement/AML)","2878 1667"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Mr. LAU Po Won, Steve","Head(Enforcement)1","2878 8111"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Ms. CHAN Hoi Ying, Cathy","Sr Mgr(Enforcement)1B","2878 7504"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Ms. CHENG Kwun Yin, Katy","Sr Mgr(Enforcement)1C","2878 7504"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Miss CHANG, Maisy","Sr Mgr(Enforcement)1D","2878 7504"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Miss CHAN Wai Man, Ivy","Sr Mgr(Enforcement)1E","2878 7504"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Mr. WONG Lun Cheong, Eric","Sr Mgr(Enforcement)1F","2878 7504"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Ms. WONG Yee Wah, Eva","Sr Mgr(Enforcement)1G","2878 7504"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 1","Mr. CHING Kai Hong, Herbert","Sr Mgr(Enforcement)1H","2878 7504"
+"Hong Kong Monetary Authority","Enforcement Division 1,Complaint Processing Centre","","",""
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 2","Ms. COUPE Margaret, Elizabeth","Head(Enforcement)2","2516 7067"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 2","Ms. SMYTH Karen","Sr Mgr(Enforcement)2A / Sr Mgr(Enforcement)2G","2516 7250"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 2","Ms. CHEUNG Sun Yee, Cinni","Sr Mgr(Enforcement)2B","2878 7594"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 2","Mr. WONG Kwok Kan, Ronnie","Sr Mgr(Enforcement)2C","2516 7215"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 2","Mr. YEUNG Lap Yan","Sr Mgr(Enforcement)2D","2878 7594"
+"Hong Kong Monetary Authority","Enforcement & AML Department,Enforcement Division 2","Mr. WONG Chau Tung, Thomas","Sr Mgr(Enforcement)2E","2516 7479"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. Stewart MCGLYNN","Head(Anti-Money Laundering)","2878 1970"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. LAM Ching Mui, Sophia","Sr Mgr(Anti-Money Laundering)2","2878 1356"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. CHEUNG Chi Hang, Gavin","Sr Mgr(Anti-Money Laundering)1","2878 8305"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Miss WONG Lai Mui, Maggie","Sr Mgr(Anti-Money Laundering)3","2878 1601"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. CHOW Koon Kou, Alex","Sr Mgr(Anti-Money Laundering)4","2878 8769"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. CHONG Wah Lan, Valen","Sr Mgr(Anti-Money Laundering)5","2878 1950"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. CHAN Chor Yee, Joyce","Sr Mgr(Anti-Money Laundering)6","2878 8281"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. LO Hon Wai, Desmond","Sr Mgr(Anti-Money Laundering)7","2878 8496"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. CHAN I Ting, Idy","Mgr(Anti-Money Laundering)1D","2878 1714"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. CHAN Kwan Po, Jason","Mgr(Anti-Money Laundering)2A","2878 1315"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. LEUNG Cheung Wai, Ricky","Mgr(Anti-Money Laundering)2B","2878 1502"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. HUI Chun Yiu, Warren","Mgr(Anti-Money Laundering)2C","2878 1214"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. WONG Ching Man, Charlie","Mgr(Anti-Money Laundering)3A","2878 1944"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. TSE Lai Sheung, Wendy","Mgr(Anti-Money Laundering)3B","2878 1923"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. LAM Chong Ming, Dixon","Mgr(Anti-Money Laundering)4A","2878 8721"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. CHAN Kwan Ying, Teresa","Mgr(Anti-Money Laundering)4B","2878 1051"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. WONG Ka Yi, Angel","Mgr(Anti-Money Laundering)5A","2878 1681"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. CHIU Sin Ting, Christine","Mgr(Anti-Money Laundering)5B","2878 1014"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Ms. NG Lai Lang, Sally","Mgr(Anti-Money Laundering)5C","2878 1273"
+"Hong Kong Monetary Authority","Enforcement & AML Department,AML & Financial Crime Risk Division","Mr. CHAU Wing Hong, Jordan","Mgr(Anti-Money Laundering)7A","2878 1409"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Resolution Office","Mr. GANNON Michael, Stefan, JP","Commissioner, Resolution Office","2878 8133"
+"Hong Kong Monetary Authority","Hong Kong Monetary Authority,Resolution Office","Mr. KEANE Patrick, Jonathan","Sr Mgr(Resolution Office)","2878 1136"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Mr. YEUNG Tsz Kong, Arthur","Sr Mgr(Resolution Office)(Execution)1","2878 1845"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Ms. LI Ang","Sr Mgr(Resolution Office)(Execution)2","2878 1424"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Mr. Patrick Robert BITTNER","Sr Mgr(Resolution Office)(Execution)3","2878 8695"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Ms. WONG Kai Lam, Lucy","Mgr(Resolution Office)(Execution)1","2878 1364"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Ms. CHAU Ka Wun, Kathy","Mgr(Resolution Office)(Execution)2","2878 8492"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Ms. HO Pui Hang, Joyce","Mgr(Resolution Office)(Execution)3","2878 1269"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Ms. TAM Yi Lam, Janice","Mgr(Resolution Office)(Execution)4","2878 8598"
+"Hong Kong Monetary Authority","Resolution Office,Execution","Mr. LAM Tat Ming, Elton","Mgr(Resolution Office)(Execution)6","2878 1135"
+"Hong Kong Monetary Authority","Resolution Office,Policy","Ms. CHENG Yan Yan, Olivia","Head (Resolution Office) / Sr Mgr(Resolution Office)(Policy)1","2878 1266"
+"Hong Kong Monetary Authority","Resolution Office,Policy","Ms. CHAN Kim Yi, Helen","Sr Mgr(Resolution Office)(Policy)2","2878 8532"
+"Hong Kong Monetary Authority","Resolution Office,Policy","Ms. RICHARDSON Anne, Tracy","Mgr(Resolution Office)(Policy)1","2878 1284"
+"Hong Kong Monetary Authority","Resolution Office,Policy","Ms. HAN WANG Xiangyi, Deborah","Mgr(Resolution Office)(Policy)2","2878 1263"

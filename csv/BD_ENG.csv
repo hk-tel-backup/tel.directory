@@ -1,264 +1,1009 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=BD&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DBD%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Buildings Department","Dr. CHEUNG Tin Cheung, JP","Dir of Buildings","3842 3001"
+"Buildings Department","Mr. YU Tak Cheung, JP","Dep Dir of Buildings","3842 3003"
+""
+"Organisation","Service Name","Office Tel"
+"Buildings Department","Enquiries","2626 1616"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Buildings Department","Buildings Department","","",""
+"Buildings Department","Buildings Department,Senior Directorate","Dr. CHEUNG Tin Cheung, JP","Dir of Buildings","3842 3001"
+"Buildings Department","Buildings Department,Senior Directorate","Miss LEUNG Wai Ping, Rebecca","SPS to Dir of Buildings","3842 3002"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. CHAN Wing Man","Adm Asst/Director of Buildings","3842 3055"
+"Buildings Department","Buildings Department,Senior Directorate","Mr. YU Tak Cheung, JP","Dep Dir of Buildings","3842 3003"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. KAN Tze Yang, Joyce","PS to Dep Dir of Buildings","3842 3004"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. CHEUNG Yuk Ching, Karen","Asst Dir/New Buildings 1","2626 1133"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. LEUNG Yuk Ping, Emily","PS to Asst Dir/New Buildings 1","2626 1134"
+"Buildings Department","Buildings Department,Senior Directorate","Mr. HO Hon Kit, Humphrey","Asst Dir/New Buildings 2","2626 1138"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. LAM Yin Yee, Peony","PS to Asst Dir/New Buildings 2","2626 1139"
+"Buildings Department","Buildings Department,Senior Directorate","Mrs. HUI Ming Fong","Asst Dir/Existing Buildings 1","3842 3006"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. HO Lai Kuen, Sally","PS to Asst Dir/Existing Buildings 1","3842 3007"
+"Buildings Department","Buildings Department,Senior Directorate","Mr. HO Chun Hung","Asst Dir/Existing Buildings 2","3842 3008"
+"Buildings Department","Buildings Department,Senior Directorate","Mrs. LEE YUEN Yuen Ning, Yonny","PS to Asst Dir/Existing Buildings 2","3842 3009"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. YU Po Mei, Clarice","Asst Dir/Corporate Services","3842 3012"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. CHAN Leung Yuk, Eva","PS to Asst Dir/Corporate Services","3842 3013"
+"Buildings Department","Buildings Department,Senior Directorate","Mr. NG Kin Shing, Ken","Asst Dir/Mandatory Building Inspection","3842 3010"
+"Buildings Department","Buildings Department,Senior Directorate","Ms. CHAN Yin Yin, Fiona","PS to Asst Dir/Mandatory Building Inspection","3842 3011"
+"Buildings Department","Buildings Department,Buildings Department Homepage","","",""
+"Buildings Department","Buildings Department,General Enquiries & Emergencies (Office Hr)","","",""
+"Buildings Department","Buildings Department,Unauthorised Bldg Works Under Construction (24Hr)","","",""
+"Buildings Department","Buildings Department,Departmental Administration Section","Mr. WU Tin Hung, Patrick","DS","3842 3060"
+"Buildings Department","Buildings Department,Departmental Administration Section","Ms. YIP Lai Ling, Yuki","PS to DS","3842 3061"
+"Buildings Department","Buildings Department,Departmental Administration Section","Mr. CHIU Wing Fai, Alfred","Dep DS/Gen Adm","3842 3063"
+"Buildings Department","Buildings Department,Departmental Administration Section","Ms. LEE Tsz Yee, Katherine","Dep DS/Human Resources","3842 3062"
+"Buildings Department","Departmental Administration Section,Administration Unit","Ms. YIP Lai Ling","ADS/Adm","3842 3085"
+"Buildings Department","Departmental Administration Section,Administration Unit","Miss YICK Wing Shan, Teresa","SCO/Gen 1","3842 3190"
+"Buildings Department","Departmental Administration Section,Administration Unit","Ms. YIP Yin Ling, Elaine","SCO/Gen 2","3842 3198"
+"Buildings Department","Departmental Administration Section,Administration Unit","Ms. WONG Chau Yin, Mit","CO/Gen","3842 3199"
+"Buildings Department","Departmental Administration Section,Administration Unit","Ms. LAM Pui Yue","CO/Transport","3842 3293"
+"Buildings Department","Departmental Administration Section,Administration Unit","Mr. LAU Po Ki, Anthony","CO/G/R&amp;D","3842 5486"
+"Buildings Department","Departmental Administration Section,Personnel Unit","Ms. NG Yan Sien, Cindy","ADS/P","3842 3080"
+"Buildings Department","Departmental Administration Section,Personnel Unit","Ms. CHIU Ting Ting, Teresa","EO II/P","3842 3081"
+"Buildings Department","Departmental Administration Section,Personnel Unit","Ms. NGAI Suk Mui, Phoebe","SCO/A&amp;P","3842 3168"
+"Buildings Department","Departmental Administration Section,Personnel Unit","Ms. FOK Sui Chu, Carmen","CO/PR","3842 3164"
+"Buildings Department","Departmental Administration Section,Establishment Unit","Mr. LAM Chi Wai, Joe","ADS/E","3842 3086"
+"Buildings Department","Departmental Administration Section,Establishment Unit","Ms. TSUI Sui Ying, Sherraine","CO/Est","3842 3169"
+"Buildings Department","Departmental Administration Section,Appointment Unit","Miss HO Kin Yan, Tracy","ADS/Appt","3842 3082"
+"Buildings Department","Departmental Administration Section,Appointment Unit","Ms. TSUI Kai Kai, Kathryn","EO II/Appt 1","3842 3083"
+"Buildings Department","Departmental Administration Section,Appointment Unit","Ms. CHEUNG Ka Man","EO II/Appt 2","3842 3084"
+"Buildings Department","Departmental Administration Section,Appointment Unit","Ms. NGAI Suk Mui, Phoebe","SCO/A&amp;P","3842 3168"
+"Buildings Department","Departmental Administration Section,Appointment Unit","Ms. CHEUNG Yee Ling, Elaine","CO/Appt","3842 3176"
+"Buildings Department","Departmental Administration Section,Accommodation Unit","Mr. CHAN Shing Fung","ADS/Accom","3842 3088"
+"Buildings Department","Departmental Administration Section,Accommodation Unit","Mr. LEE Marcus Lok Hay","EO II/Accom 1","3842 3089"
+"Buildings Department","Departmental Administration Section,Accommodation Unit","Mr. CHAN Ho Cheung, Raymond","EO II/Accom 2","3842 3090"
+"Buildings Department","Departmental Administration Section,Accommodation Unit","Ms. LAM Chui Wah","Admin Asst 5/Admin","3842 3189"
+"Buildings Department","Departmental Administration Section,Accommodation Unit","Ms. LEUNG Yuen Yee, Debby","CO/Accom","3842 3174"
+"Buildings Department","Departmental Administration Section,Grade Management Unit","Ms. FUNG Hoi Ha, Martha","ADS/GM","3842 3087"
+"Buildings Department","Departmental Administration Section,Grade Management Unit","Ms. LAM Wan Yim, Ivy","Conf Asst","3842 3200"
+"Buildings Department","Departmental Administration Section,Grade Management Unit","Ms. YIP Yin Ling, Elaine","SCO/Gen 2","3842 3198"
+"Buildings Department","Departmental Administration Section,Translation Unit","Miss YEUNG Suet Fan, Rita","Sr Official Languages Officer","3842 3064"
+"Buildings Department","Departmental Administration Section,Translation Unit","Ms. KWOK Ching Man, Erika","Official Languages Officer I","3842 3178"
+"Buildings Department","Departmental Administration Section,Translation Unit","Ms. LAU Lai Yi","Official Languages Officer II 1","3842 3177"
+"Buildings Department","Departmental Administration Section,Translation Unit","Mr. CHIU Chun Fai","Official Languages Officer II 2","3842 3181"
+"Buildings Department","Departmental Administration Section,Translation Unit","Miss CHUNG Pui Chong, Eunice","Official Languages Officer II 3","3842 3186"
+"Buildings Department","Departmental Administration Section,Translation Unit","Mr. CHOW Hung Kit, Jethro","Official Languages Officer II 4","3842 3182"
+"Buildings Department","Departmental Administration Section,Translation Unit","Miss YU Ming Yu, Venus","Official Languages Officer II 5","3842 3185"
+"Buildings Department","Buildings Department,Information Unit","Ms. HO Sau Wa, Betty","Prin Info Offr","3842 3071"
+"Buildings Department","Buildings Department,Information Unit","Mr. LAM Chi Lok, Dominic","Info Offr 1","3842 3072"
+"Buildings Department","Buildings Department,Information Unit","Ms. WONG Wing Chi, Margaret","Info Offr 2","3842 3073"
+"Buildings Department","Buildings Department,Information Unit","Ms. LEUNG Yuet Ying, Sharon","EO II/Public Education &amp; Publicity","3842 3074"
+"Buildings Department","Buildings Department,Accounts & Supplies Section","Ms. CHAN Chui Mei, Grace","Sr Treasury Accountant","3842 3070"
+"Buildings Department","Buildings Department,Accounts & Supplies Section","Mr. TANG Kwok Fai, Dixon","Acct Offr I (Revenue &amp; Supplies)","3842 3128"
+"Buildings Department","Buildings Department,Accounts & Supplies Section","Ms. LAU Ho Yee, Nancy","Acct Offr I (Expenditure)","3842 3138"
+"Buildings Department","Buildings Department,Accounts & Supplies Section","Ms. CHOI Chun Chun, Tiffany","Acct Offr II (Revenue &amp; Supplies)","3842 3129"
+"Buildings Department","Buildings Department,Accounts & Supplies Section","Ms. LIU Tsz Man, Rice","Acct Offr II (Expenditure)","3842 3139"
+"Buildings Department","Buildings Department,Accounts & Supplies Section","Ms. AU May Fung, Amy","CO i/c Acct 2","3842 3150"
+"Buildings Department","Buildings Department,Accounts & Supplies Section","Ms. LAM Wing Yin, Wing","SSI","3842 3125"
+"Buildings Department","Buildings Department,Internal Audit Unit","Mr. KO Kiu Kin, Keith","Sr Prof Offr/Internal Audit","3842 3102"
+"Buildings Department","Buildings Department,Internal Audit Unit","Mr. LEUNG Pui Kwong","Structural Engr/Internal Audit","3842 3101"
+"Buildings Department","Buildings Department,Internal Audit Unit","Mr. CHOW Po Hee, Martin","Bldg Surveyor/Internal Audit","3842 3100"
+"Buildings Department","Buildings Department,New Buildings Division 1","Ms. CHEUNG Yuk Ching, Karen","Asst Dir/New Buildings 1","2626 1133"
+"Buildings Department","Buildings Department,New Buildings Division 1","Ms. LEUNG Yuk Ping, Emily","PS to Asst Dir/New Buildings 1","2626 1134"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Mr. LAM Siu Kay, Junkers","Ch Bldg Surveyor/Hong Kong East and Heritage","2626 1390"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Mr. TSUI Ka Kim, Kim","Sr Bldg Surveyor/Hong Kong East 1","2626 1419"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Mr. MA Ho Wai, August","Sr Bldg Surveyor/Hong Kong East 2","2626 1425"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Mr. LO Kong, Alvin","Sr Bldg Surveyor/SD","3106 5743"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Ms. SO Wing Ting, Janise","Bldg Surveyor/Hong Kong East 1","2626 1421"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Ms. LAM King Yee, Ada","Bldg Surveyor/Hong Kong East 2","2626 1422"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Mr. CHOI Hung Kei, Ken","Bldg Surveyor/Hong Kong East 3","2626 1414"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Mr. LEE Sai Kit, Jacky","Bldg Surveyor/Hong Kong East 4","2626 1424"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Ms. TANG Wing Yu, Winnie","Bldg Surveyor/Hong Kong East 5","2626 1423"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Ms. WONG Pui Fung, Iris","Bldg Surveyor/Hong Kong East 6","3162 8807"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Ms. CHU Yuet Man, Nichol","Bldg Surveyor/Hong Kong East 7","3106 8265"
+"Buildings Department","New Buildings Division 1,Hong Kong East and Heritage Section","Mr. AU Chi Kong","Sr Survey Offr/Hong Kong East","2626 1416"
+"Buildings Department","Hong Kong East and Heritage Section,Heritage Unit","Ms. WONG Yan Yan","Sr Bldg Surveyor/Heritage","2626 1354"
+"Buildings Department","Hong Kong East and Heritage Section,Heritage Unit","Ms. WONG Nga Chi, Gigi","Bldg Surveyor/Heritage 1","2626 1154"
+"Buildings Department","Hong Kong East and Heritage Section,Heritage Unit","Ms. TAN Yui Ching, Jenny","Bldg Surveyor/Heritage 2","3106 5742"
+"Buildings Department","Hong Kong East and Heritage Section,Hong Kong Section Registry","Ms. SUEN  Mei Yuk, Doris","SCO/HK","2626 1381"
+"Buildings Department","Hong Kong East and Heritage Section,Hong Kong Section Registry","Ms. YUNG Suet Mui, Becky","CO i/c HK1","2626 1384"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. CHUN Ka Hung","Ch Bldg Surveyor/Hong Kong West","2626 1389"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. YUE Chak Sang, Lawsons","Sr Bldg Surveyor/Hong Kong West 1","2626 1370"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. CHAN Tin Lun, Peter","Sr Bldg Surveyor/Hong Kong West 2","2626 1377"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. LI Ming Cham, Gordon","Sr Bldg Surveyor/Hong Kong West 3","2626 1379"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. CHENG Kai Fat, Newman","Bldg Surveyor/Hong Kong West 1","2626 1729"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. CHENG Hong Ling, Ivan","Bldg Surveyor/Hong Kong West 2","2626 1371"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. LEE Chung Fun, Franz","Bldg Surveyor/Hong Kong West 3","2626 1376"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. YEUNG Chung Yin, Gordon","Bldg Surveyor/Hong Kong West 4","2626 1392"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Ms. WONG Kam Ling, Candy","Bldg Surveyor/Hong Kong West 5","2626 1375"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. WONG Kin Chung","Bldg Surveyor/Hong Kong West 6","2626 1380"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. NG Tsz Kin, Daemond","Bldg Surveyor/Hong Kong West 7","2626 1378"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. WONG Chung Kin, CanKan","Bldg Surveyor/Hong Kong West 8","3106 2440"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. MUI Kai Yin, Marcus","Bldg Surveyor/Hong Kong West 9","3106 8263"
+"Buildings Department","New Buildings Division 1,Hong Kong West Section","Mr. WONG Bing Yuen, Grant","Sr Survey Offr/Hong Kong West","2626 1374"
+"Buildings Department","Hong Kong West Section,Hong Kong Section Registry","Ms. SUEN  Mei Yuk, Doris","SCO/HK","2626 1381"
+"Buildings Department","Hong Kong West Section,Hong Kong Section Registry","Ms. YUNG Suet Mui, Becky","CO i/c HK1","2626 1384"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. KWONG Wai Lun, Godwin","Ch Bldg Surveyor/Kowloon","2626 1546"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. LAI Wing Hong, Mark","Sr Bldg Surveyor/Kowloon 1","2626 1508"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. SHIU Wai Ho","Sr Bldg Surveyor/Kowloon 2","2626 1539"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. WAT Ngai Kwong, Arthur","Sr Bldg Surveyor/Kowloon 3","2626 1535"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Ms. HO Sze Man, Mandy","Bldg Surveyor/Kowloon 1","2626 1526"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. LO Chi Wang","Bldg Surveyor/Kowloon 2","2626 1530"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Ms. DOPSON CHEUNG Yuen Lam, Stacy","Bldg Surveyor/Kowloon 3","2626 1523"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. NG Siu Hong, Rex","Bldg Surveyor/Kowloon 4","2626 1524"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. HA Chun Lung, Monte","Bldg Surveyor/Kowloon 5","2626 1532"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. TO Kam Fai, Tony","Bldg Surveyor/Kowloon 6","2626 1529"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Ms. LIN Choi Hien, Maggie","Bldg Surveyor/Kowloon 7","2626 1443"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. CHUI Man Chung","Bldg Surveyor/Kowloon 8","2626 1445"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. YAN Tik Pang","Bldg Surveyor/Kowloon 9","2626 1446"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Ms. LUI Wing Yan, Doris","Bldg Surveyor/Kowloon 10","2626 1490"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. TAM Yu Ching, Roger","Bldg Surveyor/Kowloon 11","3106 2196"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. NG Siu Lun, Alan","Bldg Surveyor/Kowloon 12","3104 2011"
+"Buildings Department","New Buildings Division 1,Kowloon Section","Mr. LEE Kin Moon","Sr Survey Offr/Kowloon","3106 2197"
+"Buildings Department","Kowloon Section,Kowloon Section Registry","Mr. FONG Kwok Kay","SCO/Kowloon","2626 1548"
+"Buildings Department","Kowloon Section,Kowloon Section Registry","Ms. LI Sau Wai","CO i/c Kowloon 1","2191 4475"
+"Buildings Department","Kowloon Section,Kowloon Section Registry","Mr. CHEUNG Ka Yip, Jimmy","CO i/c Kowloon 2","2626 1549"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Ms. CHAN Yuen Ming, Mary","Ch Bldg Surveyor/New Territories East (1) &amp; Licensing","2626 1478"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Ms. LAM Lai Sang, Zoe","Sr Bldg Surveyor/Airport 1","3104 2186"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Ms. WONG Wai Man, Emily","Sr  Bldg Surveyor/Airport 2","2626 1043"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Mr. LEUNG Kwok To, Mike","Sr Bldg Surveyor/New Territories East 3","2152 2514"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Ms. MAN Siu Kuen, Ada","Bldg Surveyor/Airport 1","2626 1489"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Mr. CHUNG Wing Keung, Bishop","Bldg Surveyor/Airport 2","2626 1500"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Mr. HUNG Man Kit, Martin","Bldg Surveyor/Airport 3","2152 2592"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Ms. HA Man Chi, Mandy","Bldg Surveyor/Airport 4","2626 1495"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Ms. CHOW Wing Man, Fatima","Bldg Surveyor/New Territories East 1","2626 1278"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Mr. NG Siu Fai, Brian","Bldg Surveyor/New Territories East 5","2626 1293"
+"Buildings Department","New Buildings Division 1,New Territories East (1) and Licensing Section","Ms. TAM Po Yan, Agnes","Bldg Surveyor/New Territories East 9","3106 8953"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. LEUNG Chi Tim, Robin","Sr Bldg Surveyor/Licensing 1","3842 3282"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. KAN Sik Keung, Joe","Sr Bldg Surveyor/Licensing 2","3842 3283"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. FUNG Wai Huen","Sr Structural Engr/Licensing","3842 3284"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. KWOK Shui Shum, Sam","Structural Engr/Licensing 1","3842 3306"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. LEUNG Kwong Man, Henry","Bldg Surveyor/Licensing 1","3842 3240"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. HO Kar Wing, Kelvin","Bldg Surveyor/Licensing 2","3842 3241"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Ms. LAW Suet Yee, Louie","Bldg Surveyor/Licensing 3","3842 3300"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. TSE Chee Kiu, Kelvin","Bldg Surveyor/Licensing 4","3842 3242"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Ms. KWOK Sau Man, Sammi","Bldg Surveyor/Licensing 5","3842 3243"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. SO Wai Lau, Jason","Bldg Surveyor/Licensing 6","3842 3301"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. WU Chun Fai, Andy","Bldg Surveyor/Licensing 7","3842 3302"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. CHAN Hung Yu","Bldg Surveyor/Licensing 8","3842 3303"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. WONG Kam Yin, Edward","Bldg Surveyor/Licensing 9","3842 3304"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. TSOI  Lap San, Lapson","Bldg Surveyor/Licensing 10","3842 3247"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. LO Yan Kit, Stephen","Bldg Surveyor/Licensing 11","3842 3305"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Mr. CHAN Man Chun, Ivan","Bldg Surveyor/Licensing 12","3842 3297"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Ms. LAW Lai Lin, Lilian","Bldg Surveyor/Licensing 13","3842 3299"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Ms. LEUNG Yuen Han, Yumi","Bldg Surveyor/Licensing 16","3842 3309"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Ms. NG Siu Ling, Elaine","Bldg Surveyor/Licensing(SD)","3842 3298"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit","Ms. LAM Lai Lai, Lily","Sr Survey Offr/Lic","3842 3310"
+"Buildings Department","New Territories East (1) and Licensing Section,New Territories Section Registry","Miss LO Yuen Wan, Joyce","SCO/NT","2626 1481"
+"Buildings Department","New Territories East (1) and Licensing Section,New Territories Section Registry","Ms. TSUI Bo Chun, Lillian","CO/NTE","2626 1483"
+"Buildings Department","New Territories East (1) and Licensing Section,Licensing Unit Registry","Ms. CHEUNG Ngan Chun, Amy","CO i/c Licensing","3842 3253"
+"Buildings Department","New Buildings Division 1,New Territories East (2) and Rail Section","Ms. PANG Mei Tuan, Pauline","Ch Bldg Surveyor/New Territories East (2) and Rail","2626 1555"
+"Buildings Department","New Buildings Division 1,New Territories East (2) and Rail Section","Mr. LEUNG Chi Keung, Pal","Sr Bldg Surveyor/New Territories East 2","2626 1492"
+"Buildings Department","New Buildings Division 1,New Territories East (2) and Rail Section","Mr. KWONG Cheuk Fai, Jonathan","Bldg Surveyor/New Territories East 3","2626 1491"
+"Buildings Department","New Buildings Division 1,New Territories East (2) and Rail Section","Mr. SUEN Yu Po, Samuel","Bldg Surveyor/New Territories East 4","2152 2558"
+"Buildings Department","New Buildings Division 1,New Territories East (2) and Rail Section","Mr. TUNG Man Kit, Jay","Bldg Surveyor/New Territories East 7","2626 1496"
+"Buildings Department","New Buildings Division 1,New Territories East (2) and Rail Section","Mr. IP Pui Leung, Herman","Bldg Surveyor/New Territories East 10","3106 8951"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. HUI Heung Yeung","Sr Bldg Surveyor/Rail 1","2626 1558"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. LEE Wai Hou, Truman","Sr Bldg Surveyor/Rail 2","3106 5170"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. HO Chun Sang","Sr Bldg Surveyor/Rail-ST",""
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. LO Kai Cheung","Sr Bldg Surveyor/Railway Development","3582 3519"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Ms. YEUNG Sai Yu, Miko","Bldg Surveyor/Rail 1","2626 1560"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. TSE Wing Lun, Alan","Bldg Surveyor/Rail 3","3106 3532"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. LEE Ching Yeung, Gabriel","Bldg Surveyor/Rail 4","3168 2400"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. CHEUNG Wai Keung, Andrew","Bldg Surveyor/Rail 5","2626 1561"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. HUI Tsz Chun, Cyrus","Bldg Surveyor/Rail 6","3105 3263"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Miss MAK Cho Kwan","Bldg Surveyor/Rail 7","3104 3092"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Ms. KEUNG Chau Yu, Alice","Bldg Surveyor/Rail 8","3105 3428"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. CHENG Kam Ming, Anson","Bldg Surveyor/Rail ST2","3106 3532"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. YEUNG Pak Shing, Perry","Bldg Surveyor/Rail ST3","2626 1489"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Mr. LAI Yiu Lam, Calvin","Bldg Surveyor/Railway Development","3106 3531"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Ms. LUNG Hoi Man, Shirley","Bldg Surveyor/Railway Development 2","3106 2490"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit","Ms. CHENG Mei Ling","Sr Survey Offr/Rail","2626 1567"
+"Buildings Department","New Territories East (2) and Rail Section,New Territories Section Registry","Miss LO Yuen Wan, Joyce","SCO/NT","2626 1481"
+"Buildings Department","New Territories East (2) and Rail Section,New Territories Section Registry","Ms. TSUI Bo Chun, Lillian","CO/NTE","2626 1483"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit Registry","Ms. TONG Chung Shuen, Sharon","SCO/Rail &amp; NT(S)","2626 1709"
+"Buildings Department","New Territories East (2) and Rail Section,Rail Unit Registry","Ms. LI Po Chu, Polly","CO/Rail","2626 1568"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. HUNG  Ling Chi, Anthony","Ch Bldg Surveyor/New Territories West","2626 1477"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Ms. TSANG Po King, Aileen","Sr Bldg Surveyor/New Territories West 1","2626 1433"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Ms. LAW Pui Sze, Anny","Sr Bldg Surveyor/New Territories West 2","2626 1431"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Ms. NG Lai Shan, Yennie","Sr Bldg Surveyor/New Territories West 3","2626 1432"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. CHAN Tsz Chung, Joe","Sr Bldg Surveyor/New Territories West 4","2152 2175"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. LEUNG Ping Fai, Stanley","Bldg Surveyor/New Territories West 1","2626 1428"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Ms. WONG Yuen Shun, Iris","Bldg Surveyor/New Territories West 2","2626 1430"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. LO Chun Chin, Kevin","Bldg Surveyor/New Territories West 3","2626 1429"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. CHONG Ka Kit, Wilson","Bldg Surveyor/New Territories West 4","2626 1435"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. WONG Ka Wai, Gary","Bldg Surveyor/New Territories West 5","2626 1440"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. CHOW Chun Fai, Cyrus","Bldg Surveyor/New Territories West 6","2626 1434"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. WONG Kai Wah, Joseph","Bldg Surveyor/New Territories West 7","2626 1427"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Ms. HO Man Ming, Carol","Bldg Surveyor/New Territories West 8","2626 1469"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. SEE Ming Chun, Jason","Bldg Surveyor/New Territories West 9","2626 1455"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Ms. CHAN Yuen Kwan, Cindy","Bldg Surveyor/New Territories West 10","2625 5204"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Ms. WONG Yuen Shun, Iris","Bldg Surveyor/New Territories West 11","3104 2615"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. KUNG Ching Hong, Vincent","Bldg Surveyor/New Territories West 12","2152 2174"
+"Buildings Department","New Buildings Division 1,New Territories West Section","Mr. WONG Yiu Chung","Sr Survey Offr/New Territories West 1","2626 1602"
+"Buildings Department","New Territories West Section,New Territories Section Registry","Miss LO Yuen Wan, Joyce","SCO/NT","2626 1481"
+"Buildings Department","New Territories West Section,New Territories Section Registry","Ms. LAM Yin Ling, Angela","CO/NTW","2626 1485"
+"Buildings Department","Buildings Department,New Buildings Division 2","Mr. HO Hon Kit, Humphrey","Asst Dir/New Buildings 2","2626 1138"
+"Buildings Department","Buildings Department,New Buildings Division 2","Ms. LAM Yin Yee, Peony","PS to Asst Dir/New Buildings 2","2626 1139"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. HO Chi Shun","Ch Structural Engr/Hong Kong &amp; Heritage","2626 1394"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. CHAU Kwai Fong","Sr Structural Engr/Hong Kong 1","2626 1698"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. LAM Chun Wai","Sr Structural Engr/Hong Kong 2","2626 1395"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. YEUNG Kwok Wei, Wales","Sr Structural Engr/Hong Kong 3","2626 1398"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. LAM Kin Ching","Structural Engr/Hong Kong 1","2626 1407"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. LI Yick Man, Eric","Structural Engr/Hong Kong 2","2626 1413"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. PANG Ka Wai, Eddy","Structural Engr/Hong Kong 3","3106 2505"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. TSUI Chi Man","Structural Engr/Hong Kong 4","2626 1411"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Ms. YEUNG Ho Yan","Structural Engr/Hong Kong 5","2626 1761"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. LIU Man Faat, Rick","Structural Engr/Hong Kong 6","2626 1408"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. CHEUNG Kwok Choi","Structural Engr/Hong Kong 7","2626 1406"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. TSE Chun Kei, Godvin","Structural Engr/Hong Kong 8","2626 1401"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. CHOI Sai Chiu","Structural Engr/Hong Kong 9","2626 1410"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. LAI Man Ho, Chris","Structural Engr/Hong Kong 10","2626 1403"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Mr. LIU Sen Yu, Nelson","Structural Engr/Hong Kong 11","2626 1412"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Ms. WONG Ka Lai, Kelly","Sr Tech Offr/Hong Kong 1","2626 1397"
+"Buildings Department","New Buildings Division 2,Hong Kong & Heritage Section","Ms. YAM Keen Man, Amy","Sr Tech Offr/Hong Kong 2","2626 1404"
+"Buildings Department","Hong Kong & Heritage Section,Heritage Unit","Mr. YAM Kwok Kit","Sr Structural Engr/Heritage1","2626 1694"
+"Buildings Department","Hong Kong & Heritage Section,Heritage Unit","Mr. CHAU Lap Kong, Nelson","Structural Engr/Heritage1","3106 5714"
+"Buildings Department","Hong Kong & Heritage Section,Heritage Unit","Ms. FUNG Chung Yee, Kitty","Structural Engr/Heritage 2","2626 1436"
+"Buildings Department","Hong Kong & Heritage Section,Hong Kong Section Registry","Ms. SUEN  Mei Yuk, Doris","SCO/HK","2626 1381"
+"Buildings Department","Hong Kong & Heritage Section,Hong Kong Section Registry","Ms. YUNG Suet Mui, Becky","CO i/c HK1","2626 1384"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LI Kwok Leung","Ch Structural Engr/Kowloon and Rail","2626 1556"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. CHAN Chi Wah, Brian","Sr Structural Engr/Kowloon 1","2626 1450"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. CHAN Wai Ching","Sr Structural Engr/Kowloon 2","2626 1533"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. YIP Chi Wang, Johnny","Sr Structural Engr/Rail 1","2626 1396"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. KWAN Wing Cheung, Vincent","Sr Structural Engr/Rail 2","3106 2116"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. HUNG Siu Chuen, Alex","Sr Structural Engr/Rail-ST1","2626 1576"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LAM Kin Fai, Kevin","Sr Structural Engr/Airport","3106 3850"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LOK Pui Fai, Andrew","Sr Structural Engr/Railway Development","2626 1571"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LEUNG Kwok Ching, John","Structural Engr/Kowloon 1","2626 1499"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LAU Ka Shun","Structural Engr/Kowloon 2","2626 1494"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. CHUNG Pui Kit, Jacky","Structural Engr/Kowloon 3","2626 1540"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. YEUNG Shing Yam, Jacky","Structural Engr/Kowloon 4","2398 3427"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. TONG Tin Yan, Timothy","Structural Engr/Kowloon 5","2626 1527"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. HO Ming Ho, Steve","Structural Engr/Kowloon 6","2626 1542"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. WONG Sau Tak, Michael","Structural Engr/Kowloon 7","3104 2038"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. WONG Ho Yin, Kenneth","Structural Engr/Rail 1","2626 1577"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Ms. LEE Siu Wai, Bertha","Structural Engr/Rail 3","3104 2583"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. CHOI Chi Wa, Andy","Structural Engr/Rail 4","3105 3216"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LING Chun Man, Joseph","Structural Engr/Rail 5","3106 5217"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. WONG Yue Ka, Edgar","Structural Engr/Rail 7","2626 1575"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LAM Yeuk Hon, John","Structural Engr/Rail 8","2191 4275"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. CHAN Chi Kit, Rick","Structural Engr/Airport 1","2383 4025"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. CHAN Chun Kit, Andrew","Structural Engr/Airport 2","3106 3175"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. YEUNG Kin Sun","Structural Engr/Airport 3","2626 1564"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. WONG Wing Wah","Structural Engr/Railway Development 1","3582 3576"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. FAN Tak Pun, Patrick","Structural Engr/Railway Development 2","2626 1454"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LO Chi Wai, Roger","Sr Tech Offr/Kowloon 1","2626 1537"
+"Buildings Department","New Buildings Division 2,Kowloon and Rail Section","Mr. LUM Ho Tak","Sr Tech Offr/Rail","2383 1124"
+"Buildings Department","Kowloon and Rail Section,Kowloon Section Registry","Mr. FONG Kwok Kay","SCO/Kowloon","2626 1548"
+"Buildings Department","Kowloon and Rail Section,Kowloon Section Registry","Ms. LI Sau Wai","CO i/c Kowloon 1","2191 4475"
+"Buildings Department","Kowloon and Rail Section,Kowloon Section Registry","Mr. CHEUNG Ka Yip, Jimmy","CO i/c Kowloon 2","2626 1549"
+"Buildings Department","Kowloon and Rail Section,Rail Unit Registry","Ms. TONG Chung Shuen, Sharon","SCO/Rail &amp; NT(S)","2626 1709"
+"Buildings Department","Kowloon and Rail Section,Rail Unit Registry","Ms. LI Po Chu, Polly","CO/Rail","2626 1568"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. WAN Che Wing, Wilson","Ch Structural Engr/New Territories","2626 1476"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. NG Lai Lok","Sr Structural Engr/New Territories 1","2626 1473"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. TANG Hing Fung","Sr Structural Engr/New Territories 3","2626 1463"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. WONG Po Suen, Simon","Sr Structural Engr/New Territories 4","3105 3193"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. LAI Ho Cheong","Sr Structural Engr/New Territories 5","3104 2073"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. LUI Kwok Man","Structural Engr/New Territories 1","2626 1464"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. LO Ming Kay, Vincent","Structural Engr/New Territories 2","3104 2137"
+"Buildings Department","New Buildings Division 2,New Territories Section","Ms. KWONG Tin Ki","Structural Engr/New Territories 3","2626 1459"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. WONG Chiu Yeung, Raymond","Structural Engr/New Territories 4","2626 1461"
+"Buildings Department","New Buildings Division 2,New Territories Section","Ms. NGAN Sing Yan, Anne","Structural Engr/New Territories 5","2626 1343"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. AU Ying Wah, Samuel","Structural Engr/New Territories 6","2626 1689"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. WONG Kam Wing, Joe","Structural Engr/New Territories 7","2626 1456"
+"Buildings Department","New Buildings Division 2,New Territories Section","Ms. LUI Wai Man","Structural Engr/New Territories 8","2626 1441"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. CHIN Wai Lim, William","Structural Engr/New Territories 9","2626 1457"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. CHENG Pui Wan, Paul","Structural Engr/New Territories 10","3579 2398"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. WAN Chi Hong, William","Structural Engr/New Territories 11","3105 3197"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. CHUI Lap Yan","Structural Engr/New Territories 12","2152 2815"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. TSO Kwong Wing, Tommy","Structural Engr/New Territories 13","3106 5744"
+"Buildings Department","New Buildings Division 2,New Territories Section","Ms. WONG Pik Han, Phoebe","Structural Engr/New Territories 14","3106 3499"
+"Buildings Department","New Buildings Division 2,New Territories Section","Mr. FUNG Wing Wah, Ricky","Sr Tech Offr/New Territories 1","2626 1054"
+"Buildings Department","New Buildings Division 2,New Territories Section","Ms. TANG Pui King","Sr Tech Offr/New Territories 2","2626 1470"
+"Buildings Department","New Territories Section,New Territories Section Registry","Miss LO Yuen Wan, Joyce","SCO/NT","2626 1481"
+"Buildings Department","New Territories Section,New Territories Section Registry","Ms. TSUI Bo Chun, Lillian","CO/NTE","2626 1483"
+"Buildings Department","New Territories Section,New Territories Section Registry","Ms. LAM Yin Ling, Angela","CO/NTW","2626 1485"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LEUNG Wai Kau, Sergeant","Ch Offr/Site Monitoring","2626 1515"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Ms. YIM Yuen Ling, Monika","Sr Bldg Surveyor/Site Monitoring 1","2626 1513"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Ms. CHAN Miu Ling, Flora","Sr Bldg Surveyor/Site Monitoring 2","2115 8073"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. HUI Hok Keung","Sr Structural Engr/Site Monitoring (A)","3162 0961"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. CHIM Sui Pang","Sr Structural Engr/Site Monitoring (B)","2626 1512"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. WONG Wai To, Basil","Sr Structural Engr/Site Monitoring (C)","3162 0960"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. FUNG Wai Cheong, Fred","Bldg Surveyor/Site Monitoring 1","3549 6325"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LI Ka Ming, Ray","Bldg Surveyor/Site Monitoring 2","3162 0988"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. YEUNG Yau Tak, William","Bldg Surveyor/Site Monitoring 3","3162 0971"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. CHUNG Hung Yu, Rex","Bldg Surveyor/Site Monitoring 4","3162 0980"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. FUNG Jackey","Bldg Surveyor/Site Monitoring 5","3549 6324"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LOO Tai Keung","Bldg Surveyor/Site Monitoring 6","3549 6325"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Ms. WONG Hung, Elvina","Bldg Surveyor/Site Monitoring 7","3162 0963"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LAI Kam On","Structural Engr/Site Monitoring (A) 2","3162 0979"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LAM Chi Yung, George","Structural Engr/Site Monitoring (A) 3","3162 0972"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LEUNG Ka Chuen","Structural Engr/Site Monitoring (A) 4","3102 3370"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. TSANG Chi Wai, Terence","Structural Engr/Site Monitoring (B) 1","3162 0970"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Ms. CHAN Yuen Wing, Wing","Structural Engr/Site Monitoring (B) 2","3162 0974"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. FOK Yik Cheung, Tommy","Structural Engr/Site Monitoring (B) 3","3162 0973"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. TAM Siu Kei, Alex","Structural Engr/Site Monitoring (B) 4","3167 7451"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LAI Siu Fai","Structural Engr/Site Monitoring (C) 1","3549 6282"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. AU YEUNG Kin Ho, Kenneth","Structural Engr/Site Monitoring (C) 2","3162 0990"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. MA Yuen Mok, Michael","Structural Engr/Site Monitoring (C) 3","3162 0989"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. CHAN Man Yiu","Structural Engr/ST-IT1","3102 3590"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. NG Wai Chi, Sam","Sr Survey Offr/Site Monitoring","2626 1774"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. SUM Ka Shing","Sr Tech Offr/Site Monitoring (A)","2626 1701"
+"Buildings Department","New Buildings Division 2,Site Monitoring Section","Mr. LEUNG Wai Ching","Sr Tech Offr/Site Monitoring (B)","3162 0965"
+"Buildings Department","Site Monitoring Section,Site Monitoring Section Registry","Ms. IP Chuen Mei, May","CO i/c Site Monitoring","2191 4142"
+"Buildings Department","Buildings Department,Existing Buildings Division 1","Mrs. HUI Ming Fong","Asst Dir/Existing Buildings 1","3842 3006"
+"Buildings Department","Buildings Department,Existing Buildings Division 1","Ms. HO Lai Kuen, Sally","PS to Asst Dir/Existing Buildings 1","3842 3007"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. NG Pelene","Ch Bldg Surveyor/A","3842 3020"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. LEE Ming Tong, Timothy","Sr Bldg Surveyor/A1","3842 4715"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. TSE Kam Ming, Franco","Sr Bldg Surveyor/A2","3842 4724"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. CHEUNG Hiu Wai, George","Sr Bldg Surveyor/A3","3842 4725"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. TSANG Kim Chung","Sr Bldg Surveyor/A4","3842 4726"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. CHOW Wai Keung, Keith","Sr Bldg Surveyor/A5","3842 4714"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. FUNG Lok Yan, Esther","Bldg Surveyor/A1-1","3842 4716"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. CHAN Lik Hang, Alex","Bldg Surveyor/A1-2","3842 4717"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. O Man, David","Assistant Bldg Surveyor/A1-4","3842 4707"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. AU Yuen Ling, Stephanie","Bldg Surveyor/A2-1","3842 4719"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. FOK Kwai Chuen, John","Bldg Surveyor/A2-2","3842 4718"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. LEE Tat Chuen","Bldg Surveyor/A2-3","3842 4720"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. LAM Pui Ying, Elsa","Bldg Surveyor/A2-4","3842 4721"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. LAI On Ki, Angel","Bldg Surveyor/A3-2","3842 4793"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. SIU Sun Hung, Heron","Bldg Surveyor/A3-4","3842 4722"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. LAM Wan Ching, Erica","Bldg Surveyor/A3-SD","3842 4723"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. CHAN Miu Ping","Bldg Surveyor/A4-1","3842 4792"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. SIU Pak Heng, Patrick","Bldg Surveyor/A4-2","3842 4791"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. KO Tak Yan, Wilson","Bldg Surveyor/A4-3","3842 4790"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. HO Chi Ping, Jason","Bldg Surveyor/A4-4","3842 4784"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. NG Tsz Yan, Flora","Bldg Surveyor/A4-5","3842 4783"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. YICK Chi Hung, William","Bldg Surveyor/A5-2","3842 4700"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. CHU Chun Ming, Ken","Bldg Surveyor/A5-3","3842 4701"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. LEE Chung Kit, Victor","Bldg Surveyor/A5-4","3842 4702"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. HUI Wai Man, Peggy","Prin Survey Offr/A1-3","3842 4706"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. CHEUNG Ki Cheung, Jacky","Prin Survey Offr/A3-3","3842 4785"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. LEE Ho Yin","Prin Survey Offr/A5-1","3842 4703"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. FUNG Tak Shing, Thomas","Sr Survey Offr/A1","3842 4705"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. CHOW Fu Keung","Sr Survey Offr/A2","3842 4780"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. YU Man Wai","Sr Survey Offr/A3","3842 4781"
+"Buildings Department","Existing Buildings Division 1,Section A","Ms. TSE Hang Yi, Iris","Sr Survey Offr/A4-1","3842 4779"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. NG Chun Yik","Sr Survey Offr/A4-2","3842 4778"
+"Buildings Department","Existing Buildings Division 1,Section A","Mr. LEUNG Hoi Lun","Sr Survey Offr/A5","3842 4704"
+"Buildings Department","Section A,Section A Registry","Ms. CHOI Siu Chun, Sara","SCO/A&amp;B","3842 4815"
+"Buildings Department","Section A,Section A Registry","Ms. LAM Mui Chu, Judy","CO/A","3842 4816"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. SO Tsang Chuen, Chris","Ch Bldg Surveyor/B","3842 3022"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. WAN Chi Wai, Terry","Sr Bldg Surveyor/B1","3842 4856"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. LAU Gown Yeung","Sr Bldg Surveyor/B2","3842 4857"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. CHAN Kai Chu, Ivy","Sr Bldg Surveyor/B3","3842 4870"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. LAM Sui Pui, Perry","Sr Bldg Surveyor/B4","3842 4871"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. LEUNG Sau Wai, Benita","Sr Bldg Surveyor/B5","3842 4800"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. YEUNG Shing, Dennis","Bldg Surveyor/B1-1","3842 4855"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. WONG Shek Sau, Eddie","Bldg Surveyor/B1-2","3842 4854"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. CHEUNG Ngai Fan, Kelvin","Bldg Surveyor/B1-4","3842 4852"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. YIU Cho Hong, Jonathan","Bldg Surveyor/B2-1","3842 4851"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. WONG Ho Man, Justin","Bldg Surveyor/B2-2","3842 4849"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. WONG Ho Wah, Jerry","Bldg Surveyor/B2-3","3842 4858"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. TZE Chung Hon, Alfred","Bldg Surveyor/B2-4","3842 4859"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. LEUNG Chin Pang","Bldg Surveyor/B3-1","3842 4860"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. SINN Ting Pekk, Bette","Bldg Surveyor/B3-2","3842 4861"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. LAU Ka Yan, Connie","Bldg Surveyor/B3-3","3842 4862"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. CHAN Hoi Yan, Helie","Bldg Surveyor/B3-4","3842 4863"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. CHAN Chun Nam, Donald","Bldg Surveyor/B4-1","3842 4864"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. LI Yuk Lai, Leon","Bldg Surveyor/B4-2","3842 4865"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. CHOI Tak Man, Bennett","Bldg Surveyor/B4-4","3842 4867"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. YUEN Chun-yip, Royus","Bldg Surveyor/B5-1","3842 4868"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. CHAN Po Chi, Joyce","Bldg Surveyor/B5-2","3842 4869"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. FUNG Man Kit, Geoff","Bldg Surveyor/B5-4","3842 4796"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. CHAN Chi Fung, Andy","Bldg Surveyor/B-BC1","3842 4797"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. LUI Wai Yeung, Anthony","Bldg Surveyor/B-BC2","3842 4798"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. CHEUNG Wai Leung","Prin Survey Offr/B1-3","3842 4853"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. LAI Yuk Nin, Andy","Prin Survey Offr/B4-3","3842 4866"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. YUNG Shu Yan","Prin Survey Offr/B5-3","3842 4795"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. LEUNG Lai Lai, Heidi","Sr Survey Offr/B1-1","3842 4844"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. POON Chi Fai, Albert","Sr Survey Offr/B1-2","3842 4839"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. LEE Wing Tat","Sr Survey Offr/B2-1","3842 4850"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. MA Po Ling","Sr Survey Offr/B3-1","3842 4872"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. KWAN Chuk Sang","Sr Survey Offr/B4-1","3842 4873"
+"Buildings Department","Existing Buildings Division 1,Section B","Mr. TSUI Kam Fai, Jackal","Sr Survey Offr/B5-1","3842 4874"
+"Buildings Department","Existing Buildings Division 1,Section B","Ms. LAU Po Yin, Peggy","Sr Survey Offr/B-SDF","3842 4887"
+"Buildings Department","Section B,Section B Registry","Ms. CHOI Siu Chun, Sara","SCO/A&amp;B","3842 4815"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. PUN Chi Cheung","Ch Structural Engr/C","3842 3026"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. KU Wai Ming","Sr Structural Engr/C1","3842 4144"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. SOONG Ngar Ting, Martin","Sr Structural Engr/C2","3842 4169"
+"Buildings Department","Existing Buildings Division 1,Section C","Ms. NG Ka Yin, Pamina","Sr Structural Engr/C3","3842 4168"
+"Buildings Department","Existing Buildings Division 1,Section C","Ms. LIAUW Hak Ka, Carol","Sr Structural Engr/C4","3842 4155"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. CHU Ka Fai, Eric","Sr Structural Engr/C5","3842 4154"
+"Buildings Department","Existing Buildings Division 1,Section C","Ms. LEUNG Suet Sum, Sandy","Sr Structural Engr/C6","3842 4148"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WONG Lam Kin, Felix","Structural Engr/C1-1","3842 4152"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. LUNG Chi Wang, Frankie","Structural Engr/C1-2","3842 4151"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. CHUNG Yiu On , Ricky","Structural Engr/C1-3","3842 4150"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. CHAN Chi Yeung, Christopher","Structural Engr/C1-4","3842 4149"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. LAI Lik King, Gordon","Structural Engr/C2-1","3842 4176"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. CHEUNG Ho Man","Structural Engr/C2-2","3842 4175"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WAT Ka Fai, John","Structural Engr/C2-3","3842 4174"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. TIN  Kong , Rolland","Structural Engr/C2-4","3842 4173"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. LAI Yee Hong, Thomas","Structural Engr/C3-1","3842 4172"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WONG Lui Keung, Larry","Structural Engr/C3-2","3842 4171"
+"Buildings Department","Existing Buildings Division 1,Section C","Ms. WONG Ting Kwan, Stella","Structural Engr/C3-3","3842 4170"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. NG King Hung","Structural Engr/C3-4","3842 4167"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. FOK Chun Ho, Raymond","Structural Engr/C4-1","3842 4166"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. TUNG Wai Wah, Alex","Structural Engr/C4-2","3842 4165"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WONG Shing Kit, Samuel","Structural Engr/C4-3","3842 4164"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. YU Tak Wai, Tommy","Structural Engr/C4-4","3842 4163"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WOO Chun Kwok, Roy","Structural Engr/C5-1","3842 4162"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. KWONG WAI HOU Vincent","Structural Engr/C5-3","3842 4161"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WONG Chun Pong, Frank","Structural Engr/C5-4","3842 4160"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. CHAN Wai, Terry","Structural Engr/C5-5","3842 4159"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. LEUNG See Chung, Deniel","Structrual Engr/C6-1","3842 4158"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WONG Wai Chun, Wilson","Structural Engr/C6-2","3842 4157"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. CHAN Lit Ming, Andus","Structural Engr/C6-3","3842 4156"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. KO Kai Yeung, Edgar","Structural Engr/C6-4","3842 4153"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. TAM Tsz Wai","Sr Tech Offr/C1","3842 4130"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. LO Chi Keung, Jacky","Sr Tech Offr/C2","3842 4182"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. CHAN Chi Hung","Sr Tech Offr/C3","3842 4177"
+"Buildings Department","Existing Buildings Division 1,Section C","Ms. TSANG Chiu Lai, Cody","Sr Tech Offr/C4","3842 4229"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WONG Yu Che","Sr Tech Offr/C5","3842 4233"
+"Buildings Department","Existing Buildings Division 1,Section C","Mr. WONG Man Kit","Sr Tech Offr/C6","3842 4234"
+"Buildings Department","Section C,Section C Registry","Ms. KAN Yin Ming, Kanly","SCO/C&amp;F","3842 4225"
+"Buildings Department","Section C,Section C Registry","Ms. LAU Yuk Mei, Monza","CO/C","3842 4217"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. TAM A Ray, Albert","Ch Offr/VH","3842 3050"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. CHIANG Wai Leung","Sr Structural Engr/VH1","3842 4957"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Ms. MOK Sim Ping, Sam","Sr Professional Offr/VH2","3842 4958"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Ms. NG Mee Chi, Alice","Sr Bldg Surveyor/VH3","3842 4959"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. LEUNG Hin Pong, Frankie","Structural Engr/VH1-1","3842 4930"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. LAI Shui Piu, Bill","Structural Engr/VH1-2","3842 4931"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. LUI Shu Kai","Structural Engr/VH1-3","3842 4932"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. YIM Hoi Yan, Ryan","Structural Engr/VH1-5","3842 4944"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. LIU Chi Wah, Alfred","Structural Engr/VH2-1","3842 4945"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. HO Hung Yat, Kevin","Structural Engr/VH2-2","3842 4946"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. KWONG Man Lam, Kenneth","Bldg Surveyor/VH2-1","3842 4948"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. CHEUNG Ka Hei, Vincent","Bldg Surveyor/VH2-2","3842 4949"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. HO Kwok Chu","Bldg Surveyor/VH3-1","3842 4950"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. CHAN Tsz Hsin, Leo","Bldg Surveyor/VH3-2","3842 4951"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. WONG Kwan Nang","Bldg Surveyor/VH3-3","3842 4952"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. KO Sin Tak, Kenneth","Bldg Surveyor/VH3-5","3842 4954"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. TANG Wing Yiu, Mark","Sr Tech Offr/VH1","3842 4934"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. CHING Chi Wai","Sr Tech Offr/VH2","3842 4935"
+"Buildings Department","Existing Buildings Division 1,Village Houses Section","Mr. TANG Wai Ming","Sr Survey Offr/VH3","3842 4936"
+"Buildings Department","Village Houses Section,Village Houses Section Registry","Ms. CHUNG Lai Fong, Fonnie","Ci/c VH","3842 4971"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Mr. DAI Lap Phat, William","SEO/Building Safety Loan Scheme","3842 3811"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Mr. LEE  Philip","EOI(1)/Building Safety Loan Scheme","3842 3812"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Ms. CECILIA CHOI","EOI(2)/Building Safety Loan Scheme","3842 3813"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Ms. LEUNG Cheuk Ying, Canice","EOII/Buillding Safety Loan Scheme","3842 3814"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Ms. FONG Yuet Ha, Mandy","Acct Offr I/Building Safety Loan Scheme","3842 3815"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Mr. LEE Nok Him, Alvin","Acct Offr II (1)/Building Safety Loan Scheme","3842 3816"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Miss NG Lai Chun, Jane","Acct Offr II (2)/Building Safety Loan Scheme","3842 3817"
+"Buildings Department","Existing Buildings Division 1,Building Safety Loan Scheme Unit","Ms. WONG Wing Sze, Winze","CO/Buillding Safety Loan Scheme","3842 3818"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHING Po Tim, Tim","Sr Bldg Surveyor/A-SU","3842 4291"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. WONG Tsz Hong, Prince","Sr Bldg Surveyor/B-SU","3842 4307"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LAM Tsz Fung","Sr Bldg Surveyor/VH-SU","3842 4400"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Ms. FONG Suk Wai, Wendy","Sr Structural Engr/C-SU1","3842 4292"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. TANG Chun Ming, Johnson","Sr Structural Engr/C-SU2","3842 4401"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHAU Yu Hong, Tommy","Sr Structural Engr/VH-SU","3842 4308"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Ms. MAK Chung Pui, Sophia","Bldg Surveyor/A-SU1","3842 4280"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Ms. LI Tsz Ying, Kobo","Bldg Surveyor/A-SU2","3842 4281"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHAN Ka Lap, Ben","Bldg Surveyor/A-SU3","3842 4282"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. YUNG Chun Wai, Amen","Bldg Surveyor/A-SU4","3842 4283"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LEUNG Tak Shun","Bldg Surveyor/B-SU1","3842 4301"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Ms. YAM Pui Man, Crystal","Bldg Surveyor/B-SU2","3842 4302"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LUK Ka Wai, Steven","Assistant Bldg Surveyor/B-SU3","3842 4303"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Ms. LAU Oi Man, Lydia","Bldg Surveyor/VH-SU1","3842 4396"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. NG Fa Wing, Arick","Bldg Surveyor/VH-SU2","3842 4397"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHOR Chun Hay","Bldg Surveyor/VH-SU3","3842 4398"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LO Kin Wai, Tiger","Structural Engr/C-SU11","3842 4296"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Ms. CHEUNG Hoi Ying, Heidi","Structural Engr/C-SU12","3842 4297"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHAN Kin Fai, Leo","Structural Engr/C-SU14","3842 4299"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHAN Cheuk Leung, Marco","Sturctural Engr/C-SU21","3842 4418"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHENG Chuen Kei, Harold","Structural Engr/C-SU22","3842 4419"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. HO Siu Hang, David","Structural Engr/C-SU23","3842 4384"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. NG Ka Lok, Cyrus","Sturctural Engr/VH-SU1","3842 4306"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. WONG Kai Fat, Brian","Sturctural Engr/VH-SU2","3842 4347"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LEUNG Tat Hei","Sturctural Engr/VH-SU3","3842 4348"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. YIP Samson","Sturctural Engr/VH-SU4","3842 4347"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. FAN Chu Kay, Ricky","Prin Survey Offr/A-SU5","3842 4293"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. SO Kwok Leung","Prin Survey Offr/B-SU5","3842 4305"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LI Chi Hung, Louis","Prin Tech Offr/C-SU1","3842 4300"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. AU Chak Fu","Prin Tech Offr/VH-SU","3842 4350"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHOW Chun Man, German","Sr Survey Offr/A-SU","3842 4294"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LI Kit Chi, Sam","Sr Survey Offr/B-SU6","3842 4343"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. CHENG Chun Kit","Sr Survey Offr/VH-SU","3842 4395"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. LAI Siu Fan, Derek","Sr Tech Offr/C-SU1","3842 4295"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. WONG Wah Yu","Sr Tech Offr/C-SU2","3842 4417"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Mr. NGAN Chun Ming","Sr Tech Offr/VH-SU","3842 4344"
+"Buildings Department","Existing Buildings Division 1,Squad Unit","Ms. LOI Sin Wai, Shayla","Structural Engr/C-SU24","3842 4420"
+"Buildings Department","Squad Unit,Squad Unit Registry","Ms. YIP Man Hung, Manee","CO/SU","3842 4313"
+"Buildings Department","Buildings Department,Existing Buildings Division 2","Mr. HO Chun Hung","Asst Dir/Existing Buildings 2","3842 3008"
+"Buildings Department","Buildings Department,Existing Buildings Division 2","Mrs. LEE YUEN Yuen Ning, Yonny","PS to Asst Dir/Existing Buildings 2","3842 3009"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. CHAN Wai Ming, Stella","Ch Bldg Surveyor/D","3842 3030"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. CHOI Siu Fan, Fanny","Sr Bldg Surveyor/D1","3842 4477"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. KWOK Chee On, Angus","Sr Bldg Surveyor/D2","3842 4468"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHOW Wai Man, Dicky","Sr Bldg Surveyor/D3","3842 4469"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. LEE Wai Kay, Eric","Sr Bldg Surveyor/D4","3842 4478"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHOY Lap Shing, Eddie","Sr Bldg Surveyor/D5","3842 4479"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. TSE Kai Lun, Alan","Sr Bldg Surveyor/D6","3842 4551"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. CHUNG Wai King","Bldg Surveyor/D1-1","3842 4474"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. WONG Lai Lee, Lesley","Bldg Surveyor/D1-2","3842 4475"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. KWOK Chun Man, Roger","Bldg Surveyor/D1-3","3842 4476"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. LEE Chun Yin, Fred","Bldg Surveyor/D2-1","3842 4460"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. WONG Chun Wo, Stanley","Bldg Surveyor/D2-2","3842 4461"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. CHEUNG Lai Sze, Pauline","Bldg Surveyor/D2-3","3842 4462"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. LAW Lit Hei, Hayton","Bldg Surveyor/D3-1","3842 4470"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHAN Tsz Hei, Keith","Bldg Surveyor/D2-4","3842 4463"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHAN Lap Kit, Derek","Bldg Surveyor/D3-2","3842 4471"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. LI Yee Man, Pluto","Bldg Surveyor/D4-1","3842 4542"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. WONG Yuk For, Anthony","Bldg Surveyor/D4-2","3842 4482"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. WONG Yui Shing","Bldg Surveyor/D4-3","3842 4483"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHAU William","Bldg Surveyor/D4-4","3842 4484"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. SUNG Ka Yi, Eva","Bldg Surveyor/D5-1","3842 4485"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. WONG Man Long, Longman","Bldg Surveyor/D5-2","3842 4548"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. WAN Kin Chung, Jeremy","Assistant Bldg Surveyor/D5-3","3842 4546"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. LAU Ka Ni, Vicky","Bldg Surveyor/D5-4","3842 4544"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. TAM Chi Leung, Leo","Bldg Surveyor/D6-1","3842 4553"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. YUE Wai Chu, Jessie","Bldg Surveyor/D6-3","3842 4552"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHEUNG Kwok Leung, Andy","Bldg Surveyor/D-SD2","3842 4554"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. LEUNG  Chi Kai, Alfred","Bldg Surveyor/SDF","3549 6360"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. WONG Wai Chung","Prin Survey Offr/D2-5","3842 4464"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. AU Fung Ming","Prin Survey Offr/D3-3","3842 4473"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHO Wah Wing, Raymond","Prin Survey Offr/D3-4","3842 4472"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. SO Wing Wa, Joe","Sr Survey Offr/D1","3842 4488"
+"Buildings Department","Existing Buildings Division 2,Section D","Ms. FOK Ngan Ying","Sr Survey Offr/D2","3842 4486"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. SO Sik Nin, Stanley","Sr Survey Offr/D3","3842 4487"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHAN Yung Kit, Ben","Sr Survey Offr/D4","3842 4540"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. LI Chi Hung","Sr Survey Offr/D5","3842 4547"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHO Pui Lam","Sr Survey Offr/D6","3842 4652"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. LEUNG Siu Kuen, Andy","Sr Survey Offr/D7","3842 4539"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. HO  Man Kit, Paul","Bldg Safety Offr/D-OBB","3549 6946"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. CHEUNG Kwok Wai, Jacky","Bldg Safety Offr/D-OBB2","3549 6942"
+"Buildings Department","Existing Buildings Division 2,Section D","Mr. LAU Chin To, Harry","Bldg Safety Offr/D-RAS","3162 8314"
+"Buildings Department","Section D,Section D Registry","Mr. CHAN Chi Kin, Terry","SCO/D&amp;E","3842 4625"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. TAM Wing Cheung, Tommy","Ch Bldg Surveyor/E","3842 3032"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. TANG Kin Cheong, Sammy","Sr Bldg Surveyor/E1","3842 4561"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. CHAU Kwok Leung, Wilson","Sr Bldg Surveyor/E2","3842 4562"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. TSE Alisa","Sr Bldg Surveyor/E3","3842 4575"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. NG Kam Tung, Browning","Sr Bldg Surveyor/E4","3842 4576"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. CHOI Chi Man, Michael","Sr Bldg Surveyor/E5","3842 4555"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. LEE Ki Yeuk, Ki","Bldg Surveyor/E1-1","3842 4577"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. CHOW Shouk Yee, Phyllis","Bldg Surveyor/E1-3","3842 4578"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. LAW Hoi Man, Man","Bldg Surveyor/E1-5","3842 4580"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. TSANG Nok Ki","Bldg Surveyor/E2-1","3842 4581"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. LUI Man Ki, Mandy","Bldg Surveyor/E2-2","3842 4583"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. CHAN Kim Wai, Issac","Assistant Bldg Surveyor/E2-4","3842 4564"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. KAN Hang Ching, Isabel","Bldg Surveyor/E3-1","3842 4565"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. CHAN Sze Chun, Frank","Bldg Surveyor/E3-2","3842 4566"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. LAM Ka Lai, Carly","Bldg Surveyor/E3-4","3842 4568"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. WONG Kit Yee, Fiona","Bldg Surveyor/E4-1","3842 4569"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. MAN Kwok Wai, Acman","Bldg Surveyor/E4-2","3842 4570"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. SHAM Wing Chung, Feon","Bldg Surveyor/E4-3","3842 4571"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. LO Pui Kuen, Peter","Bldg Surveyor/E4-4","3842 4572"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. WONG San Kuen, San","Bldg Surveyor/E4-5","3842 4573"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. CHAN Chi Pan, Samuel","Bldg Surveyor/E5-1","3842 4574"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. PUN Wing Shan, Karen","Bldg Surveyor/E5-2","3842 4559"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. TANG Shuk Yu, Ruby","Bldg Surveyor/E5-4","3842 4558"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. KWAN Yu Kit, Patrick","Bldg Surveyor/E5-5","3842 4557"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. WAN Tin Lap, Ivan","Prin Survey Offr/E1-4","3842 4579"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. LAN Kam On","Prin Survey Offr/E2-3","3842 4563"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. MA Man Yuk, Mandy","Prin Survey Offr/E3-3","3842 4567"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. WONG Tak Fuk","Prin Survey Offr/E5-3","3842 4560"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. CHAN Chi Man, Redmond","Sr Survey Offr/E1-1","3842 4590"
+"Buildings Department","Existing Buildings Division 2,Section E","Ms. SUM Pui Shan","Sr Survey Offr/E1-2","3842 4584"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. LAI Wai Yeung, Andy","Sr Survey Offr/E2","3842 4582"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. LUI On Tung, Tony","Sr Survey Offr/E3","3842 4640"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. LIN Ho Wing","Sr Survey Offr/E4","3842 4650"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. WONG Man Wai","Sr Survey Offr/E5","3842 4651"
+"Buildings Department","Existing Buildings Division 2,Section E","Mr. CHAN Kwun Wing","Bldg Safety Offr/E-OBB2","3549 6844"
+"Buildings Department","Section E,Joint Office 1","Ms. YEUNG Yee Man, Ella","Sr Professional Offr/Joint Office 1","3589 4901"
+"Buildings Department","Section E,Joint Office 1","Mr. LIN Ka Hing, Steve","Professional Offr 1-1/Joint Office 1","3589 4906"
+"Buildings Department","Section E,Joint Office 1","Ms. NG Pui Mei, Teresa","Professional Offr 1-2/Joint Office 1","3589 4905"
+"Buildings Department","Section E,Joint Office 1","Mr. NG Kwok Kei, Kim","Professional Offr 1-3/Joint Office 1","3589 4907"
+"Buildings Department","Section E,Joint Office 1","Mr. KIANG Tsz-chiu, Derek","Professional Offr 1-4/Joint Office 1","3102 7345"
+"Buildings Department","Section E,Joint Office 3","Mr. YEUNG Ho Chuen, Thomas","Sr Professional Offr /Joint Office 3","3104 2701"
+"Buildings Department","Section E,Joint Office 3","Ms. LEUNG Angel","Professional Offr 3-1/Joint Office 3","3104 2496"
+"Buildings Department","Section E,Joint Office 3","Ms. WONG Suet Ching, Grace","Professional Offr 3-2/Joint Office 3","3104 2174"
+"Buildings Department","Section E,Joint Office 3","Ms. NG Man King","Professional Offr 3-3/Joint Office 3","3104 3067"
+"Buildings Department","Section E,Section E Registry","Mr. CHAN Chi Kin, Terry","SCO/D&amp;E","3842 4625"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. TANG Hung Wai, Benny","Ch Structural Engr/F","3842 3028"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. HO Wai Kuen","Sr Structural Engr/F1","3842 4064"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. LAI Chi Kin","Sr Structural Engr/F2","3842 4065"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. POON Tin Hang","Sr Structural Engr/F3","3842 4074"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. CHENG Chi Lung","Sr Structural Engr/F4","3842 4075"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. HO Wai Kei, Rickie","Sr Structural Engr/F5","3842 4076"
+"Buildings Department","Existing Buildings Division 2,Section F","Ms. CHENG Yan Na, Anna","Structural Engr/F1-2","3842 4051"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. CHAN Ming Tat, Gordon","Structural Engr/F1-3","3842 4052"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. YU Kin Ho","Structural Engr/F1-4","3842 4053"
+"Buildings Department","Existing Buildings Division 2,Section F","Ms. CHAN Sum Yee","Structural Engr/F1-5","3842 4057"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. PANG Tsz Kin","Structural Engr/F1-6","3842 4066"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. CHEUNG Wang, William","Structural Engr/F2-1","3842 4067"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. LEE Hoi Yat, Eric","Structural Engr/F2-2","3842 4068"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. LUK Chi Yung, Herman","Structural Engr/F2-3","3842 4069"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. CHONG Ka Fu","Structural Engr/F2-4","3842 4070"
+"Buildings Department","Existing Buildings Division 2,Section F","Ms. LAU Mei Ching","Structural Engr/F2-5","3842 4071"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. CHAN Kam Hung","Structural Engr/F3-1","3842 4072"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. KO Ngai Chiu, Samuel","Structural Engr/F3-2","3842 4139"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. MA Chun Hung","Structural Engr/F3-3","3842 4140"
+"Buildings Department","Existing Buildings Division 2,Section F","Ms. CHAN Hoi Yan, Heidi","Structural Engr/F3-4","3842 4141"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. LO Wing Shing, Vincent","Structural Engr/F3-5","3842 4142"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. MO Kam Pan","Structural Engr/F4-1","3842 4143"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. CHAN Wai Hung, Vincent","Structural Engr/F4-2","3842 4145"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. CHAN Ka Chun, Jeff","Structural Engr/F4-3","3842 4146"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. LAM Chi Leung","Structural Engr/F4-4","3842 4147"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. LEUNG Chi Kit","Structural Engr/F4-5","3842 4138"
+"Buildings Department","Existing Buildings Division 2,Section F","Ms. WONG Kin, Jane","Structural Engr/F5-1","3842 4137"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. MOK Hon Suen","Structural Engr/F5-2","3842 4136"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. LEE Man Chung, Eric","Structural Engr/F5-3","3842 4135"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. YU Chung Wah, Michael","Structural Engr/F5-4","3842 4132"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. WONG Kin Sun, Eric","Sr Tech Offr/F1","3842 4054"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. KWAN Siu Fung","Sr Tech Offr/F2","3842 4055"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. YIP Kwan Ho, Dick","Sr Tech Offr/F3","3842 4056"
+"Buildings Department","Existing Buildings Division 2,Section F","Ms. LOW Man Ki, Maggie","Sr Tech Offr/F4","3842 4133"
+"Buildings Department","Existing Buildings Division 2,Section F","Mr. KWOK Chung Yin","Sr Tech Offr/F5","3842 4131"
+"Buildings Department","Existing Buildings Division 2,Section F","Ms. TANG Man Ying, Mandy","Sr Tech Offr/F5-2","3842 4126"
+"Buildings Department","Section F,Joint Office 2","Mr. CHAN Wai Tai","Sr Professional Offr/Joint Office 2","2383 0714"
+"Buildings Department","Section F,Joint Office 2","Mr. FUNG Man Hon","Professional Offr 2-1/Joint Office 2","2383 0469"
+"Buildings Department","Section F,Joint Office 2","Mr. CHEUNG Wai Ting","Professional Offr 2-2/Joint Office 2","2383 7204"
+"Buildings Department","Section F,Joint Office 2","Mr. LEUNG Kwok Kan, Kent","Professional Offr 2-3/Joint Office 2","2383 1404"
+"Buildings Department","Section F,Joint Office 2","Mr. SHEK King Fai","Professional Offr 2-4/Joint Office 2","2382 2452"
+"Buildings Department","Section F,Joint Office 2","Mr. TSE Chung Kwai","Sr Tech Offr/Joint Office 2","2383 0438"
+"Buildings Department","Section F,Joint Office 4","Mr. NG Pak Cheong","Sr Professional Offr/Joint Office 4","2383 0322"
+"Buildings Department","Section F,Joint Office 4","Mr. LAI Ching Ho, Dennis","Professional Offr 4-1/Joint Office 4","2382 7571"
+"Buildings Department","Section F,Joint Office 4","Mr. CHAN Fuk Hung","Professional Offr 4-2/Joint Office 4","2383 2452"
+"Buildings Department","Section F,Joint Office 4","Mr. LEUNG Kwok Keung","Professional Offr 4-3/Joint Office 4","2749 3610"
+"Buildings Department","Section F,Section F Registry","Ms. KAN Yin Ming, Kanly","SCO/C&amp;F","3842 4225"
+"Buildings Department","Section F,Section F Registry","Ms. CHIU Ka Wai, Joyce","CO/F","3842 4221"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. CHENG Miu Miu, Janet","Ch Bldg Surveyor/Slope Safety","3842 3036"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. CHU Wai Yiu, Dick","Sr Bldg Surveyor/Slope Safety (HKW)","3842 3919"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. KUK Chun Ming, Albert","Sr Bldg Surveyor/Slope Safety (ML)","3842 3918"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. WONG Wai Man, Raymond","Sr Bldg Surveyor/Slope Safety (HKE)","3842 3917"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. CHOW Siu Yin, Kennis","Sr Bldg Surveyor/Slope Safety (BSI)","3842 3908"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. CHOW Hing, Stephen","Sr Structural Engr/Slope Saftey (MW)","3842 3911"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. HO Kai Cheong, Henry","Sr Structural Engr/Slope Safety (ME)","3842 3910"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. ZHOU Ning Jun, Titus","Structural Engr/Slope Safety 1","3842 3915"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. WU Chi Man, Paul","Sr Geo Engr/Slope Safety","3842 3909"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. NG Chi Pong, Gary","Bldg Surveyor/Slope Safety 1","3842 3938"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. NGAI Chi Choy, Ben","Bldg Surveyor/Slope Safety 2","3842 3925"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. HUI Man Yam, Ryan","Bldg Surveyor/Slope Safety 4","3842 3934"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. CHOW Kui Wah, Jimi","Bldg Surveyor/Slope Safety 5","3842 3932"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. LEUNG Wai Nor, Cherry","Bldg Surveyor/Slope Safety 6","3842 3927"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. YIM Yat Yee","Bldg Surveyor/Slope Safety 7","3842 3923"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. MAK Hang Lam, Almond","Bldg Surveyor/Slope Safety 9","3842 3935"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. WONG Yuen Ling, Jessica","Bldg Surveyor/Slope Safety 10","3842 3926"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. WONG Chi Kwan, Connie","Bldg Surveyor/Slope Safety 12","3842 3933"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. TAM Yuen Ling, Selina","Bldg Surveyor/Slope Safety 13","3842 3936"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. KONG Yuk Yin, Kristy","Structural Engr/Slope Safety 2","3842 3922"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Ms. FONG Chui Fung","Structural Engr/Slope Safety 3","3842 3921"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. TAM Yu Chung, Winfred","Structural Engr/Slope Safety 4","3842 3914"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. NG Kwan Pok","Structural Engr/Slope Safety 5","3842 3920"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. LI Chi Shing","Structural Engr/Slope Safety 6","3842 3913"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. HO Man To, Boris","Structural Engr/Slope Safety 7","3842 3916"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. LEUNG Ki Hop, Keith","Geo Engr/Slope Safety 1","3842 3912"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. YUNG Chiu Yin, Peter","Geo Engr/Slope Safety 2","3842 3984"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. FUNG Kuen Sun, Kelvin","Sr Survey Offr/Slope Safety 1","3842 3940"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. YIP Hung To, Wilson","Sr Survey Offr/Slope Safety 2","3842 3941"
+"Buildings Department","Existing Buildings Division 2,Slope Safety Section","Mr. CHONG Hon Pan","Sr Tech Offr/Slope Safety","3842 3983"
+"Buildings Department","Slope Safety Section,Slope Safety Section Registry","Ms. SZETO Man Yee","CO i/c Slope Safety","3842 3944"
+"Buildings Department","Buildings Department,Mandatory Building Inspection Division","Mr. NG Kin Shing, Ken","Asst Dir/Mandatory Building Inspection","3842 3010"
+"Buildings Department","Buildings Department,Mandatory Building Inspection Division","Ms. CHAN Yin Yin, Fiona","PS to Asst Dir/Mandatory Building Inspection","3842 3011"
+"Buildings Department","Mandatory Building Inspection Division,Fire Safety Section","Mr. YU Kwok Hung, Joseph","Ch Bldg Surveyor/Fire Safety","3842 3042"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Mr. WONG  Kin Yip, Andy","Sr Bldg Surveyor/Fire Safety 1","3842 3689"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Mr. CHAN Kam Wa, Arthur","Bldg Surveyor/Fire Safety 1","3842 3670"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Ms. TONG Yee Man, Connie","Bldg Surveyor/Fire Safety 2","3842 3671"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Ms. FUNG Po Yi","Bldg Surveyor/Fire Safety 3","3842 3672"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Mr. KAM Yan Kin, Cyrus","Bldg Surveyor/Fire Safety 8","3842 3673"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Mr. LAI Kin Ming, Colin","Bldg Surveyor/Fire Safety 18","3842 3735"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Mr. LO Tung Ming, Tony","Sr Survey Offr/Fire Safety 1","3842 3736"
+"Buildings Department","Fire Safety Section,Specified Commercial Buildings Unit","Mr. YU King Fat","Sr Survey Offr/Fire Safety 19","3842 3737"
+"Buildings Department","Fire Safety Section,Prescribed Commercial Premises Unit","Mr. TONG Lap Pun","Sr Bldg Surveyor/Fire Safety 2","3842 3694"
+"Buildings Department","Fire Safety Section,Prescribed Commercial Premises Unit","Mr. SUN Ka Kit","Bldg Surveyor/Fire Safety 4","3842 3738"
+"Buildings Department","Fire Safety Section,Prescribed Commercial Premises Unit","Mr. CHAN Tsz Ho","Bldg Surveyor/Fire Safety 5","3842 3739"
+"Buildings Department","Fire Safety Section,Prescribed Commercial Premises Unit","Mr. WONG Kwok Wai, Chicks","Bldg Surveyor/Fire Safety 6","3842 3740"
+"Buildings Department","Fire Safety Section,Target Composite Buildings Unit","","",""
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Mr. WONG Kwok Ping, Ronnie","Sr Bldg Surveyor/Fire Safety 3","3842 3714"
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Ms. WONG Sze Nga, Iris","Bldg Surveyor/Fire Safety 9","3842 3741"
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Ms. MAK Kam Yee","Bldg Surveyor/Fire Safety 11","3842 3742"
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Mr. KWOK Chi Hing, Kelvin","Bldg Surveyor/Fire Safety 12","3842 3743"
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Mr. LO Wai Keung","Sr Survey Offr/Fire Safety 9","3842 3744"
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Mr. CHAIR Wai Hung","Sr Survey Offr/Fire Safety 10A","3842 3753"
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Mr. CHAN Kwun Sing, Barry","Sr Survey Offr/Fire Safety 11","3842 3745"
+"Buildings Department","Target Composite Buildings Unit,Unit 3","Mr. KWONG Siu Ming","Sr Survey Offr/Fire Safety 12","3842 3752"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Mr. KAN Yu Sing, Kelvin","Sr Bldg Surveyor/Fire Safety 4","3842 3804"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Ms. KWONG Wing Kam, Fiona","Bldg Surveyor/Fire Safety 13","3842 3758"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Ms. LAM Nga Chi, Michelle","Bldg Surveyor/Fire Safety 14","3842 3759"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Ms. CHAN Chit Han, Bobo","Bldg Surveyor/Fire Safety 15","3842 3760"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Mr. TSE Wai Kuen","Sr Survey Offr/Fire Safety 10","3842 3757"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Ms. CHEUNG Pui Man, Miranda","Sr Survey Offr/Fire Safety 13","3842 3754"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Mr. WOO Ho Fai","Sr Survey Offr/Fire Safety 14","3842 3755"
+"Buildings Department","Target Composite Buildings Unit,Unit 4","Mr. CHAN Chi Kwan","Sr Survey Offr/Fire Safety 15","3842 3756"
+"Buildings Department","Target Composite Buildings Unit,Unit 5","Ms. LO Mun Sze, Anita","Sr Bldg Surveyor/Fire Safety 5","3842 3803"
+"Buildings Department","Target Composite Buildings Unit,Unit 5","Mr. CHAU Lai Kuen, Felix","Bldg Surveyor/Fire Safety 7","3842 3761"
+"Buildings Department","Target Composite Buildings Unit,Unit 5","Mr. WU Chiu Kwan, Ben","Bldg Surveyor/Fire Safety 16","3842 3762"
+"Buildings Department","Target Composite Buildings Unit,Unit 5","Mr. TSANG Ping Kei, Alan","Bldg Surveyor/Fire Safety 17","3842 3763"
+"Buildings Department","Target Composite Buildings Unit,Unit 5","Mr. LUI Kin Lap, Aaron","Sr Survey Offr/Fire Safety 16","3842 3764"
+"Buildings Department","Target Composite Buildings Unit,Unit 5","Mr. LEUNG Earnest","Sr Survey Offr/Fire Safety 17","3842 3765"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Mr. WONG Cheuk Ki, Eric","Sr Bldg Surveyor/Fire Safety 6","3842 3796"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Mr. CHAN Wan Yu, Anthony","Bldg Surveyor/Fire Safety 20","3842 3781"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Ms. TANG Wing Sum, Clotie","Bldg Surveyor/Fire Safety 21","3842 3780"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Mr. LUK Wai Kui, Alex","Bldg Surveyor/Fire Safety 22","3842 3779"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Mr. MAK Leung Kui","Sr Survey Offr/Fire Saftey 20","3842 3777"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Mr. HO Chung Wai","Sr Survey Offr/Fire Safety 21","3842 3776"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Ms. CHUNG Yuen Shan","Sr Survey Offr/Fire Safety 22","3842 3778"
+"Buildings Department","Target Composite Buildings Unit,Unit 6","Mr. CHENG Man Ho, Willy","Sr Survey Offr/Fire Safety 23","3842 3766"
+"Buildings Department","Fire Safety Section,Structural Consultancy Unit","Mr. HUI Ho Yin, Lawrence","Sr Structural Engr/Fire Safety 1","3842 3795"
+"Buildings Department","Fire Safety Section,Structural Consultancy Unit","Mr. YEE Wing Kan","Sr Structural Engr/Fire Safety 2","3842 3794"
+"Buildings Department","Fire Safety Section,Structural Consultancy Unit","Mr. CHAN Kai Wing","Structural Engr/Fire Safety 1","3842 3785"
+"Buildings Department","Fire Safety Section,Structural Consultancy Unit","Mr. FUNG Kin Yip, Tom","Structural Engr/Fire Safety 2","3842 3784"
+"Buildings Department","Fire Safety Section,Structural Consultancy Unit","Ms. WEN Lina","Structural Engr/Fire Safety 3","3842 3783"
+"Buildings Department","Fire Safety Section,Structural Consultancy Unit","Mr. POON Kwok Kei","Sr Tech Offr/Fire Safety 1","3842 3782"
+"Buildings Department","Fire Safety Section,Fire Safety Section Registry","Ms. LAM Pik Kwan","CO/Fire Safety 1","3842 3688"
+"Buildings Department","Fire Safety Section,Fire Safety Section Registry","Ms. HO Lai Ching","CO/Fire Safety 2","3842 3700"
+"Buildings Department","Mandatory Building Inspection Division,Mandatory Building Inspection Section 1","Mr. LING Wai Kit","Ch Structural Engr/Mandatory Building Inspection 1","3842 3038"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit A","Mr. CHAN Chun Kong, Michael","Sr Structural Engr/MBI1-A","3842 5134"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit A","Mr. TAM Wai Yu, Terence","Structural Engr/MBI1-A2","3842 5122"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit A","Mr. LAM Man Kin, Kenneth","Structural Engr/MBI1-A3","3842 5120"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit A","Mr. LUK Wing Hung","Assistant Structural Engr/MBI1-A4","3842 5130"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit A","Mr. KOO Pak Yin","Structural Engr/MBI1-A5","3842 5123"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit A","Mr. HO Tak Lung","Sr Tech Offr/MBI1-1","3842 5126"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit B","Ms. CHAN Yin Chi, Shirley","Sr Structural Engr/MBI1-B","3842 5143"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit B","Mr. LEUNG Fat Lo, Jacky","Structural Engr/MBI1-B1","3842 5137"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit B","Mr. TSE Kam Wong","Structural Engr/MBI1-B2","3842 5140"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit B","Mr. LAM Kin Ho, Bryan","Structural Engr/MBI1-B3","3842 5182"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit B","Ms. LIU Hong, Cherry","Structural Engr/MBI1-B4","3842 5183"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit B","Mr. NG Kwok San, Sunny","Structural Engr/MBI1-B5","3842 5136"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit B","Ms. CHOI Sze Wan, Candy","Sr Tech Offr/MBI1-2","3842 5174"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit C","Mr. TAI Chi Ho","Sr Structural Engr/MBI1-C","3842 5144"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit C","Mr. WONG Kai Kin","Structural Engr/MBI1-C1","3842 5187"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit C","Mr. YEUNG Ting Chun","Structural Engr/MBI1-C2","3842 5147"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit C","Ms. LI Fong, Lillian","Structural Engr/MBI1-C3","3842 5142"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit C","Mr. CHIU Kar Him","Structural Engr/MBI1-C4","3842 5201"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit C","Ms. CHIANG Ching Yan, Jackie","Structural Engr/MBI1-C5","3842 5141"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit C","Mr. LAM Ying Luen","Sr Tech Offr/MBI1-3","3842 5180"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit D","Mr. SUN Kwan","Sr Structural Engr/MBI1-D","3842 5145"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit D","Mr. WAN Tak Wan, Anson","Structural Engr/MBI1-D1","3842 5199"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit D","Mr. YUEN Wing Yuk, Lawrence","Structural Engr/MBI1-D2","3842 5198"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit D","Ms. WONG Wing","Structural Engr/MBI1-D3","3842 5186"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit D","Mr. WONG Wai Kai, Ben","Structural Engr/MBI1-D5","3842 5200"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit D","Mr. LEUNG Yuet Wai, Stephen","Sr Tech Offr/MBI1-4","3842 5181"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit E","Mr. KO Po Leung","Sr Structural Engr/MBI1-E","3842 5146"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit E","Mr. CHOI Hok Hoi, Andy","Structural Engr/MBI1-E1","3842 5179"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit E","Mr. LEE Chun Yin , Sunny","Structural Engr/MBI1-E2","3842 5194"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit E","Ms. AU Ming Chu, Julie","Structural Engr/MBI1-E4","3842 5195"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit E","Mr. CHAN Chi Wing","Structural Engr/MBI1-E5","3842 5184"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit E","Ms. LIU Ka Man, Carmen","Prin Tech Offr/MBI1-E6","3842 5196"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit E","Mr. LEUNG Yiu Wah","Sr Tech Offr/MBI1-5","3842 5304"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. CHAN Hon Wai, Eric","Sr Structural Engr/MBI1-OBB/F","3842 3865"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. LEUNG Kin Kwong","Structural Engr/MBI1-OBB/F1","3842 3852"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. DAI Ka Yiu","Structural Engr/MBI1-OBB/F2","3842 3851"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. CHIU Chi Kong, Raymond","Assistant Structural Engr/MBI1-OBB/F3","3842 3855"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. LEE Kai Pong, Sam","Structural Engr/MBI1-OBB/F4","3842 3850"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. CHUNG Hon Ting","Structural Engr/MBI1-Prosecution1","3842 4394"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. CHAN Wai Kei","Sr Survey Offr/MBI1-Prosecution 1","3842 4393"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Ms. CHAN Wing Sum","Sr Survey Offr/MBI1-Prosecution 2","3842 4410"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. TSOI Man Fai","Sr Survey Offr/MBI1-Prosecution 3","3842 4421"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit F (OBB)","Mr. CHAU Man Ngai","Sr Survey Offr/MBI1-Prosecution 4","3842 4422"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit G (OBB)","Mr. LAU Wing Hung, Otto","Sr Structural Engr/MBI1-OBB/G","3842 3861"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit G (OBB)","Mr. CHEUNG Pat Wang","Structural Engr/MBI1-OBB/G1","3842 3853"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit G (OBB)","Mr. TANG Wan Fung, Wallace","Structural Engr/MBI1-OBB/G2","3842 3854"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit G (OBB)","Mr. KWONG Shing Fai, Vanis","Assistant Structural Engr/MBI1-OBB/G3","3842 3856"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit G (OBB)","Mr. WONG Ho Ching, Derek","Structural Engr/MBI1-OBB/G4","3842 3876"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit H (OBB)","Ms. WONG Tak Yiu, Noel","Sr Structural Engr/MBI1-OBB/H","3842 3869"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit H (OBB)","Mr. YIU Moon Ning, Eric","Structural Engr/MBI1-OBB/H1","3842 3879"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit H (OBB)","Mr. TANG Chun Ming, Dominic","Structural Engr/MBI1-OBB/H2","3842 3886"
+"Buildings Department","Mandatory Building Inspection Section 1,Unit H (OBB)","Mr. MA Kai Sin, Jack","Assistant Structural Engr/MBI1-OBB/H3","3842 3857"
+"Buildings Department","Mandatory Building Inspection Section 1,Mandatory Building Inspection Section 1 Registry","Mr. LAM Yan Wing","SCO/MBI","3842 5263"
+"Buildings Department","Mandatory Building Inspection Section 1,Mandatory Building Inspection Section 1 Registry","Ms. WONG Wai Kwan, Emily","CO i/c MBI-OBB","3842 3859"
+"Buildings Department","Mandatory Building Inspection Division,Mandatory Building Inspection Section 2","Ms. CHU  Yuen Man, Lisa","Ch Bldg Surveyor/Mandatory Building Inspection 2","3842 3040"
+"Buildings Department","Mandatory Building Inspection Section 2,Team A","Mr. WONG Wing Chi, Vickie","Sr Bldg Surveyor/MBI2-A","3842 5202"
+"Buildings Department","Mandatory Building Inspection Section 2,Team A","Mr. LAU Wing Hon, Hugo","Bldg Surveyor/MBI2-A2","3842 5218"
+"Buildings Department","Mandatory Building Inspection Section 2,Team A","Ms. NG Wun Yin, Natalie","Bldg Surveyor/MBI2-A3","3842 5224"
+"Buildings Department","Mandatory Building Inspection Section 2,Team A","Mr. WONG Kin Pong","Bldg Surveyor/MBI2-A5","3842 5221"
+"Buildings Department","Mandatory Building Inspection Section 2,Team A","Mr. FAN Kam Yiu","Prin Survey Offr/MBI2-A4","3842 5220"
+"Buildings Department","Mandatory Building Inspection Section 2,Team A","Mr. CHU Chun Wah","Sr Survey Offr/MBI2-A1","3842 5225"
+"Buildings Department","Mandatory Building Inspection Section 2,Team B","Mr. LIU Wai Hung, Derek","Sr Bldg Surveyor/MBI2-B","3842 5203"
+"Buildings Department","Mandatory Building Inspection Section 2,Team B","Mr. WONG Ho Man, William","Bldg Surveyor/MBI2-B1","3842 5206"
+"Buildings Department","Mandatory Building Inspection Section 2,Team B","Ms. SHUM Ying","Bldg Surveyor/MBI2-B4","3842 5204"
+"Buildings Department","Mandatory Building Inspection Section 2,Team B","Mr. YIP Yui","Bldg Surveyor/MBI2-B5","3842 5205"
+"Buildings Department","Mandatory Building Inspection Section 2,Team B","Mr. LIU Fuk Hing","Ch Survey Offr/MBI2-B3","3842 5223"
+"Buildings Department","Mandatory Building Inspection Section 2,Team B","Mr. CHOW Chung Nin, Roger","Sr Survey Offr/MBI2-B1","3842 5230"
+"Buildings Department","Mandatory Building Inspection Section 2,Team C","Mr. POON Yau Man, Norman","Sr Bldg Surveyor/MBI2-C","3842 5216"
+"Buildings Department","Mandatory Building Inspection Section 2,Team C","Mr. CHUNG Min Chung, Thomas","Bldg Surveyor/MBI2-C1","3842 5211"
+"Buildings Department","Mandatory Building Inspection Section 2,Team C","Mr. HUI Kwok Hung, Steve","Bldg Surveyor/MBI2-C2","3842 5207"
+"Buildings Department","Mandatory Building Inspection Section 2,Team C","Ms. CHEUNG Wai Ting","Bldg Surveyor/MBI2-C3","3842 5208"
+"Buildings Department","Mandatory Building Inspection Section 2,Team C","Mr. LAM Yat Ming","Prin Survey Offr/MBI2-C4","3842 5209"
+"Buildings Department","Mandatory Building Inspection Section 2,Team C","Ms. KWAN Siu Ling, Wendy","Sr Survey Offr/MBI2-C1","3842 5294"
+"Buildings Department","Mandatory Building Inspection Section 2,Team D","Mr. KOT Hon Tak","Sr Bldg Surveyor/MBI2-D","3842 5217"
+"Buildings Department","Mandatory Building Inspection Section 2,Team D","Mr. YEUNG Chun Hing","Bldg Surveyor/MBI2-D1","3842 5215"
+"Buildings Department","Mandatory Building Inspection Section 2,Team D","Mr. MAN Wing Kai, Vincent","Bldg Surveyor/MBI2-D2","3842 5212"
+"Buildings Department","Mandatory Building Inspection Section 2,Team D","Mr. CHOY Hei Yeung, Kevin","Bldg Surveyor/MBI2-D3","3842 5213"
+"Buildings Department","Mandatory Building Inspection Section 2,Team D","Mr. LEUNG Wai Lun, Alan","Bldg Surveyor/MBI2-D4","3842 5214"
+"Buildings Department","Mandatory Building Inspection Section 2,Team D","Ms. CHUI Kit Ching, Crystal","Assistant Bldg Surveyor/MBI2-D5","3842 5282"
+"Buildings Department","Mandatory Building Inspection Section 2,Team D","Mr. HO Chun Sing","Sr Survey Offr/MBI2-D1","3842 5293"
+"Buildings Department","Mandatory Building Inspection Section 2,Team E","Mr. CHEUNG Hin Man, German","Sr Bldg Surveyor/MBI2-E","3842 5193"
+"Buildings Department","Mandatory Building Inspection Section 2,Team E","Mr. LAU Ping Hang, Andrew","Bldg Surveyor/MBI2-E1","3842 5188"
+"Buildings Department","Mandatory Building Inspection Section 2,Team E","Mr. WONG Shu Ho, Eric","Bldg Surveyor/MBI2-E2","3842 5189"
+"Buildings Department","Mandatory Building Inspection Section 2,Team E","Ms. LAM Wai Nar, Nicole","Bldg Surveyor/MBI2-E3","3842 5190"
+"Buildings Department","Mandatory Building Inspection Section 2,Team E","Ms. WONG Fung Sang, Mandy","Bldg Surveyor/MBI2-E4","3842 5191"
+"Buildings Department","Mandatory Building Inspection Section 2,Team E","Mr. CHONG Yeuk Hing, Justin","Bldg Surveyor/MBI2-E5","3842 5192"
+"Buildings Department","Mandatory Building Inspection Section 2,Team E","Ms. FU Po Han","Sr Survey Offr/MBI2-E1","3842 5292"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Mr. DING Choi Fung, Donald","Sr Bldg Surveyor/MBI2-OBB/F","3842 5135"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Ms. CHOI Sandy","Bldg Surveyor/MBI2-OBB/F1","3842 5124"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Mr. KO Hin Lun, Ken","Bldg Surveyor/MBI2-OBB/F2","3842 5125"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Mr. YEUNG Ka Man, Thomas","Assistant Bldg Surveyor/MBI2-OBB/F3","3842 3904"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Ms. CHU Kwun, Kurff","Bldg Surveyor/MBI2-Prosecution 1","3842 4387"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Mr. LEE Kwok Wai","Sr Survey Offr/MBI2-Prosecution 1","3842 4388"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Mr. LAM Siu Ching","Sr Survey Offr/MBI2-Prosecution 2","3842 4389"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Mr. LO Wai Ching","Sr Survey Offr/MBI2-Prosecution 3","3842 4390"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team F","Mr. CHENG She Hing","Sr Survey Offr/MBI2-Prosecution 4","3842 4392"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team G","Mr. LAM Wai Man, Raymond","Sr Bldg Surveyor/MBI2-OBB/G","3842 3873"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team G","Mr. TSANG Chi Shing, Jason","Bldg Surveyor/MBI2-OBB/G1","3842 3893"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team G","Mr. CHUNG Wing Fai","Bldg Surveyor/MBI2-OBB/G2","3842 3894"
+"Buildings Department","Mandatory Building Inspection Section 2,OBB - Team G","Ms. LAU Pik Ying, Yolly","Assistant Bldg Surveyor/MBI2-OBB/G3","3842 3901"
+"Buildings Department","Mandatory Building Inspection Section 2,Mandatory Building Inspection Section 2 Registry","Mr. LAM Yan Wing","SCO/MBI","3842 5263"
+"Buildings Department","Mandatory Building Inspection Section 2,Mandatory Building Inspection Section 2 Registry","Ms. WONG Sau Ching, Jacqueline","CO i/c MBI2-A","3842 5278"
+"Buildings Department","Mandatory Building Inspection Section 2,Mandatory Building Inspection Section 2 Registry","Ms. YIU Yuet Ming, Freda","CO i/c MBI2-B","3842 5260"
+"Buildings Department","Mandatory Building Inspection Section 2,Mandatory Building Inspection Section 2 Registry","Ms. WONG Wai Kwan, Emily","CO i/c MBI-OBB","3842 3859"
+"Buildings Department","Buildings Department,Corporate Services Division","Ms. YU Po Mei, Clarice","Asst Dir/Corporate Services","3842 3012"
+"Buildings Department","Buildings Department,Corporate Services Division","Ms. CHAN Leung Yuk, Eva","PS to Asst Dir/Corporate Services","3842 3013"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LI Ho Ping, Michael","Ch Bldg Surveyor/Legal Services","3842 3046"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LEE Kai Hong, Clement","Sr Bldg Surveyor/Legislation","3842 3411"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. CHEUNG Wood Man, Caritta","Sr Bldg Surveyor/Litigation 1","2626 1172"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. TAM Chun Cheung, Terence","Sr Structural Engr/Litigation2","3842 3413"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. SHEK Ka Yan, Karin","Bldg Surveyor/JA","3842 3317"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. LAM Sze Man, Chloe","Bldg Surveyor/Legal Services 1","3842 3322"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. HO Hing Pong, Joseph","Structural Engr/Legal Services 2","3842 3316"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. CHAN Shuk Ying, Chiara","Bldg Surveyor/Legislation 1","3842 3327"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. CHOI Wai Yee, Chloe","Bldg Surveyor/Legislation 2","3842 3326"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. YUEN Wing Shan, Rosen","Bldg Surveyor/Legislation 3","3842 3325"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LEUNG Kwok Fu, Edwin","Bldg Surveyor/Legislation 4","3842 3324"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LEE Siu Wo, Rex","Bldg Surveyor/Legislation 5","3842 3323"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. PONG Chi Fai, Wilson","Bldg Surveyor/Litigation 1-1","3842 3318"
+"Buildings Department","Corporate Services Division,Legal Services Section","Miss LAM Wai Ling, Judy","Bldg Surveyor/Litigation 1-2","3842 3319"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. TANG Chi Hang","Bldg Surveyor/Litigation 1-3","3842 3320"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LEE  Shui Tak, Benji","Bldg Surveyor/Litigation 1-4","3842 3321"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LEUNG Wing Sun, Steven","Bldg Surveyor/Litigation 2-4","3842 3314"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. TANG York Wan, Angela","Bldg Surveyor/Litigation 2-5","3842 3315"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LO Yu Hung, Kenny","Structural Engr/Litigation 2-1","3842 3311"
+"Buildings Department","Corporate Services Division,Legal Services Section","Ms. YU Kong Chi, Connie","Structural Engr/Litigation 2-2","3842 3312"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. CHAN Yun Keung, Andy","Structural Engr/Litigation 2-3","3842 3313"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. LEUNG Ying Wa, Iris","Sr Survey Offr/Litigation 1-1","3842 3374"
+"Buildings Department","Corporate Services Division,Legal Services Section","Mr. CHAN Chi Sing","Sr Tech Offr/Litigation 2-1","3842 3414"
+"Buildings Department","Legal Services Section,Small Claims Unit","Ms. NG Ka Yue, Yui","EO II/Small Claims Unit","3842 3426"
+"Buildings Department","Legal Services Section,Legal Section Registry","Ms. LO Yun Chun, Stella","Clerical Offr/Legal Services","3842 3381"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. TANG Tai Yuen","Sr Bldg Surveyor/Prosecution 1","3842 3409"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. FUNG Man Fai, Ronald","Sr Bldg Surveyor/Prosecution 2","3842 3408"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. WONG Siu Pong","Sr Structural Engr/Prosecution 3","3842 3392"
+"Buildings Department","Legal Services Section,Prosecution Unit","Ms. WONG Yuen Man, Candy","Bldg Surveyor/Prosecution 1-1","3842 3341"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHEE Shiu Ki","Bldg Surveyor/Prosecution 1-2","3842 3340"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. U Man Yiu, Man","Bldg Surveyor/Prosecution 1-3","3842 3339"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHUNG Nang Fat, Herman","Bldg Surveyor/Prosecution 1-5","3842 3337"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LAU Yiu Cheung, Ivan","Bldg Surveyor/Prosecution 2-1","3842 3347"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LEE Po Keung","Bldg Surveyor/Prosecution 2-2","3842 3346"
+"Buildings Department","Legal Services Section,Prosecution Unit","Ms. TSANG Man Hei, Crystal","Bldg Surveyor/Prosecution 2-3","3842 3345"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. FONG Chi Wing, Wingle","Bldg Surveyor/Prosecution 2-5","3842 3343"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. HUI Wai Kit, Kevin","Bldg Surveyor/Prosecution 3-3","3842 3334"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LEE Ming Cheung, Dick","Structural Engr/Prosecution 1-4","3842 3338"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. HO Siu Fung, Peter","Structural Engr/Prosecution 2-4","3842 3344"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHENG Pang Kwan, Ian","Structural Engr/Prosecution 3-1","3842 3329"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHAN Cheuk Ming, Eric","Structural Engr/Prosecution 3-2","3842 3332"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LAU Wai Hin, Lincoln","Structural Engr/Prosecution 3-4","3842 3336"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHEUNG Chun Yu","Structural Engr/Prosecution 3-5","3842 3330"
+"Buildings Department","Legal Services Section,Prosecution Unit","Ms. SHU Sum Yin, Yvonne","Sr Survey Offr/Prosecution 1-1","3842 3358"
+"Buildings Department","Legal Services Section,Prosecution Unit","Ms. WOO Mei Hang, Anna","Sr Survey Offr/Prosecution 1-2","3842 3363"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LO Kin Pun","Sr Survey Offr/Prosecution 1-3","3842 3405"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHAN Wai Hon","Sr Survey Offr/Prosecution 1-4","3842 3362"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHAN Tsz Kin","Sr Survey Offr/Prosecution 1-5","3842 3361"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHUNG Kam Tak","Sr Survey Offr/Prosecution 1-6","3842 3406"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LEE Yu Lun","Sr Survey Offr/Prosecution 1-7","3842 3360"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. YAU Yee Wing, Eric","Sr Survey Offr/Prosecution 1-8","3842 3359"
+"Buildings Department","Legal Services Section,Prosecution Unit","Ms. NG Suk Hing, Rebecca","Sr Survey Offr/Prosecution 2-1","3842 3348"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHAN Wan Tung, Joseph","Sr Survey Offr/Prosecution 2-2","3842 3350"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHAN Yiu Fai","Sr Survey Offr/Prosecution 2-3","3842 3351"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHEANG Kin Wai, Desmond","Sr Survey Offr/Prosecution 2-4","3842 3352"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. YAN Kwok Keung","Sr Survey Offr/Prosecution 2-5","3842 3353"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LAM Yat Hin","Sr Survey Offr/Prosecution 2-6","3842 3349"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHEUNG Tsz Chung","Sr Survey Offr/Prosecution 2-10","3842 3357"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. TSE Yan Lai, Leo","Sr Survey Offr/Prosecution 3-3","3842 3366"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. TSANG Kai Tim, Jacky","Sr Survey Offr/Prosecution 3-4","3842 3369"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. YUEN Siu Hay, Stephen","Sr Survey Offr/Prosecution 3-7","3842 3371"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHUNG Kai Wah","Sr Tech Offr/Prosecution 1-9","3842 3364"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. CHAN Chi Kwan, Alex","Sr Tech Offr/Prosecution 1-10","3842 3365"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. TAM Hung Po","Sr Tech Offr/Prosecution 2-7","3842 3354"
+"Buildings Department","Legal Services Section,Prosecution Unit","Ms. LEUNG Oi Ha","Sr Tech Offr/Prosecution 2-8","3842 3355"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. YUEN De Pool","Sr Tech Offr/Prosecution 2-9","3842 3356"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. WONG Ka Hang, Carson","Sr Tech Offr/Prosecution 3-1","3842 3331"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. WONG Tin Ngai","Sr Tech Offr/Prosecution 3-2","3842 3368"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. NGAN Kwok Fai","Sr Tech Offr/Prosecution 3-5","3842 3367"
+"Buildings Department","Legal Services Section,Prosecution Unit","Ms. LAI Mei Kwan","Sr Tech Offr/Prosecution 3-6","3842 3335"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. YIP Chun Lam, Rex","Sr Tech Offr/Prosecution 3-8","3842 3370"
+"Buildings Department","Legal Services Section,Prosecution Unit","Mr. LI Tsz Fung","Sr Tech Offr/Prosecution 3-9","3842 3372"
+"Buildings Department","Corporate Services Division,Technical Services Section","Mr. AU YEUNG Hoi Pang","Chief Officer/Technical Services","3842 3052"
+"Buildings Department","Technical Services Section,Building Information Centre","Mr. PUN Chun Ting, Rodney","Ch Survey Offr/Building Information","3842 5425"
+"Buildings Department","Building Information Centre,Data Administration Unit","Ms. LUNG Tsui Ping","Sr Survey Offr/Building Information 1","3842 5424"
+"Buildings Department","Building Information Centre,Data Administration Unit","Ms. CHAN Yuen Yi, Iris","Sr Survey Offr/Building Information 2","3842 5426"
+"Buildings Department","Building Information Centre,Data Administration Unit","Mr. PANG Kwok Wai","Sr Survey Offr/Building Information 3","3842 5422"
+"Buildings Department","Building Information Centre,Data Administration Unit","Ms. LAM Yee Yan","Sr Survey Offr/Building Information 5","3842 5421"
+"Buildings Department","Building Information Centre,Data Administration Unit","Mr. WONG Kwok Yiu, Joey","Sr Survey Offr/Building Information 6","3842 5397"
+"Buildings Department","Building Information Centre,Customer Service Unit","Mr. TANG Kwok Leung","Sr Survey Offr/Building Information 4","3842 5377"
+"Buildings Department","Building Information Centre,Customer Service Unit","Miss LEUNG Lok Ling, Connie","EOII/Building Information 1","3842 5384"
+"Buildings Department","Building Information Centre,Customer Service Unit","Miss YAU Wing Yan, Kalonice","EOII/Building Information 2","3842 5392"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Mr. CHIK Kin Hang, Alex","Tech Secy/Bldg","3842 3453"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Ms. MAK Yuen Mei, Mandy","Sr Bldg Surveyor/Technical Services","3842 3458"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Mr. WONG Chau Shing, Kelvin","Bldg Surveyor/Technical Services 1","3842 3442"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Mr. CHAN Ming Yin, Danny","Bldg Surveyor/Technical Services 2","3842 3444"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Mr. CHEUNG Ka Lai, Gally","Bldg Surveyor/Technical Services 3","3842 3447"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Ms. LO Mei Tak, Rebecca","Bldg Surveyor/Technical Services 4","3842 3443"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Ms. TSANG Wan Chi, Corine","Bldg Surveyor/Technical Services 5","3842 3440"
+"Buildings Department","Technical Services Section,Technical Services Unit (Building)","Mr. TANG Ka Ming","Bldg Surveyor/Technical Services 6","3842 3446"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Ms. AU Pui Ling, Fion","Tech Secy/Structural","3842 3507"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Mr. NG Siu Leung, Daniel","Sr Structural Engr/Technical Services","3842 3496"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Mr. LAM Yat Wah, Edward","Structural Engr/Technical Services 1","3842 3509"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Ms. CHOW Pui Ling, Mandy","Structural Engr/Technical Services 2","3842 3510"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Mr. SZE Charles","Structural Engr/Technical Services 3","3842 3441"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Mr. SO Hoi Ying, Peter","Structural Engr/Technical Services 4","3842 3445"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Mr. LUK Man Kit","Structural Engr/Technical Services 5","3842 3508"
+"Buildings Department","Technical Services Section,Technical Services Unit (Structure)","Mr. LAM Chun Keung, Walton","Structural Engr/Technical Services 6","3842 3511"
+"Buildings Department","Technical Services Section,Registration Unit","Ms. LEUNG Sham Yee, Wendy","Sr Prof Offr/Registration","3842 5087"
+"Buildings Department","Technical Services Section,Registration Unit","Ms. YU Wing Wah, Wendy","Bldg Surveyor/Registration 1","3842 5026"
+"Buildings Department","Technical Services Section,Registration Unit","Mr. CHENG Wai Kit, Raymond","Bldg Surveyor/Registration 2","3842 5027"
+"Buildings Department","Technical Services Section,Registration Unit","Ms. TEE Lee Wai, Hazel","Bldg Surveyor/Registration 3","3842 5028"
+"Buildings Department","Technical Services Section,Registration Unit","Mr. LEUNG Chi Keung, Arthur","Structural Engr/Registration 1","3842 5086"
+"Buildings Department","Technical Services Section,Registration Unit","Mr. PAU Wing Hong, Kelvin","Assistant Structural Engr/Registration 2","3842 5085"
+"Buildings Department","Technical Services Section,Registration Unit","Mr. CHUNG Yiu Wah, Raymond","Structural Engr/Registration 3","3842 5084"
+"Buildings Department","Technical Services Section,Registration Unit","Mr. SHEK Kam Cheung, Andy","Structural Engr/Registration 4","3842 5083"
+"Buildings Department","Technical Services Section,Registration Unit","Ms. YU Chi Ki, Yuki","Structural Engr/Registration 5","3842 5082"
+"Buildings Department","Technical Services Section,Registration Unit","Mr. YEUNG Chun Wing","Structural Engr/Registration 6","3842 5081"
+"Buildings Department","Technical Services Section,Registration Unit","Mr. KWONG Chun Tong","Sr Survey Offr/Registration","3842 5080"
+"Buildings Department","Technical Services Section,Registration Unit","Ms. FU Yuk Ting, Vienna","EOII / Registration","3842 5064"
+"Buildings Department","Technical Services Section,Registration Unit","Ms. CHAN  Suk Yin, Cathy","CO/Registration","3842 5048"
+"Buildings Department","Technical Services Section,Registration Unit","Ms. LAI Shuk Mei, Ida","CO/Registration 2","3842 5068"
+"Buildings Department","Technical Services Section,Contract Management Unit","Mr. LAU Chun Ki","Sr Bldg Surveyor/Contract Management","3842 3103"
+"Buildings Department","Technical Services Section,Contract Management Unit","Ms. KOO Tien Tien","Bldg Surveyor/Contract Management 1","3842 3104"
+"Buildings Department","Technical Services Section,Contract Management Unit","Mr. HONG Edwin","Bldg Surveyor/Contract Management 2","3842 3105"
+"Buildings Department","Technical Services Section,Contract Management Unit","Ms. TSUI Oi Wa, Cimberly","Bldg Surveyor/Contract Management 3","3842 3106"
+"Buildings Department","Technical Services Section,Contract Management Unit","Mr. SHIU Kwok Wai, Patrick","Bldg Surveyor/Contract Management 4","3842 3107"
+"Buildings Department","Technical Services Section,Contract Management Unit","Mr. HUI Yiu Keung, Leo","Sr Survey Offr/Contract Management","3842 3111"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. WAI For, Frankie","Tech Secy/Information Technology","3842 3523"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. LEE Kai Yiu, Eric","Sr Bldg Surveyor/Information Technology","3842 3521"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. CHENG Robert","Sr Prof Offr/Information Technology","3842 3526"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. SIT Sai Wo, Kaph","Bldg Surveyor/Information Technology 1","3842 3518"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. CHAN Hok Mo, Owen","Bldg Surveyor/Information Technology 2","3842 3519"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. WONG Chi Hung, Wallace","Structural Engr/Information Technology 1","3842 3505"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. WONG Ka Hing, Benjamin","Structural Engr/Information Technology 2","3842 3524"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. WONG Ka Ho, Patrick","Structural Engr/Information Technology 3","3842 3520"
+"Buildings Department","Technical Services Section,Information Technology Unit","Ms. LO Chau Ling, Connie","Sr Tech Offr/Information Technology","3842 3522"
+"Buildings Department","Technical Services Section,Information Technology Unit","Mr. WONG Ming On","Sr Survey Offr/Information Technology 1","3842 3506"
+"Buildings Department","Technical Services Section,Public Education and Publicity Unit","Mr. AU YEUNG Hoi Pang","Head/Public Education and Publicity Unit","3842 3052"
+"Buildings Department","Technical Services Section,Public Education and Publicity Unit","Mr. AU YEUNG Hoi Pang","Chief Officer/Technical Services","3842 3052"
+"Buildings Department","Technical Services Section,Public Education and Publicity Unit","Mr. NG Yue Yan, Joe","Bldg Surveyor/Public Education and Publicity","3842 3114"
+"Buildings Department","Technical Services Section,Public Education and Publicity Unit","Ms. CHAN Hiu Kwan, Winzie","Structural Engr/Public Education &amp; Publicity","3842 3115"
+"Buildings Department","Technical Services Section,Research and Development Unit","Ms. WONG Nga Ling, Emy","Sr Prof Offr/Research and Development","3842 4014"
+"Buildings Department","Technical Services Section,Research and Development Unit","Mrs. CHEUNG CHOY Suk Ling, Aka","Bldg Surveyor/Research and Development 1","3842 3529"
+"Buildings Department","Technical Services Section,Research and Development Unit","Ms. MAK Kin Sze, Angela","Bldg Surveyor/Research and Development 2","3842 3527"
+"Buildings Department","Technical Services Section,Research and Development Unit","Mr. CHAN Kin","Structural Engr/Research and Development 1","3842 4008"
+"Buildings Department","Technical Services Section,Research and Development Unit","Mr. SUM Kwok Leung, Marco","Sturctural Engr/Research and Development 2","3842 4010"
+"Buildings Department","Corporate Services Division,Minor Works & Signboard Control Section","Mr. PANG Yuk Lung, Michael","Chief Officer/Minor Works &amp; Signboard Control","3842 3048"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. KWOK Kin Man, Tony","Sr Bldg Surveyor/Minor Works","3842 3552"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Ms. SHUM Sui Wah, Samantha","Sr Structural Engr/Minor Works","3842 3551"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. MA Ming Chi, Victor","Bldg Surveyor/Minor Works 1","3842 3557"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. LEUNG Chi Man, Ken","Bldg Surveyor/Minor Works 2","3842 3556"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. LO Chi Ming","Bldg Surveyor/Minor Works 3","3842 3562"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. CHIK Yik Yue, Kurt","Bldg Surveyor/Minor Works 6","3842 3564"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. CHEUNG Kin Ming","Chief Survey Offr/Minor Works","3842 3558"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. LEUNG Kwok Chung, Tony","Structural Engr/Minor Works 1","3842 3553"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. WONG Ho Yin, Daniel","Structural Engr/Minor Works 3","3842 3561"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. LEE Yau Shing","Structural Engr/Minor Works 4","3842 3555"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Mr. LOK Sau Wing, Edward","Structural Engr/Minor Works 5","3842 3563"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works Unit","Ms. LEUNG Shu Ki, Laurel","Structural Engr/Minor Works 6","3842 3554"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. CHAN Ka Po","Sr Bldg Surveyor/Signboard Control","3842 3546"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Ms. KO Mei Yee, Bon","Sr Prof Offr/Signboard Control 1","3842 3539"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. CHENG Yu Hon, Daniel","Sr Prof Offr/Signboard Control 2","3842 3538"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Ms. WONG Pui Yee","Chief Tech Offr/Signboard Control","3842 3534"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. HEUNG  Man Ching, Paul","Bldg Surveyor/Signboard Control 1","3842 3550"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Ms. SZETO Man","Bldg Surveyor/Signboard Control 2","3842 3549"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LEE Sin Cheung, Brian","Assistant Bldg Surveyor/Signboard Control 3","3842 3548"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. TSUI Man Kwong, Wick","Bldg Surveyor/Signboard Control 4","3842 3545"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. CHAN Yuk","Bldg Surveyor/Signboard Control 5","3842 3532"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. NG Man Kam, Keith","Structural Engr/Signboard Control 1","3842 3537"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. AU YEUNG Lai Tak, Samuel","Structural Engr/Signboard Control 2","3842 3544"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. CHOW Chun Man, Henry","Structural Engr/Signboard Control 4","3842 3543"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. NG Ho Chi, James","Structural Engr/Signboard Control 6","3842 3535"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LI Mengyu, Alan","Structural Engr/Signboard Control 8","3842 3547"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LEUNG See Hon, Anson","Structural Engr/Signboard Control 9","3842 3531"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. CHEUNG Pok Man, Zeo","Structural Engr/Signboard Control 10","3842 3530"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LUI Wai Hung, Michael","Prin Survey Offr/Signboard Control 1","3842 3540"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LEUNG Siu Kuen, Mike","Prin Survey Offr/Signboard Control 2","3842 3541"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LEUNG Kwok Yung","Prin Tech Offr/Signboard Control 1","3842 3542"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. FUNG Kwan Kin","Prin Tech Offr/Signboard Control 2","3842 3536"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. YU Man Wah","Sr Survey Offr/Signboard Control 1","3842 3589"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. CHEUNG Tang","Sr Survey Offr/Signboard Control 2","3842 3588"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. CHUNG Yee Shun, Eason","Sr Survey Offr/Signboard Control 3","3842 3626"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LAM Ming Shun, Tony","Sr Survey Offr/Signboard Control 4","3842 3627"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LEUNG Man Kwan, Simon","Sr Tech Offr/Signboard Control 1","3842 3533"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. LAI Wing Cheung","Sr Tech Offr/Signboard Control 2","3842 3624"
+"Buildings Department","Minor Works & Signboard Control Section,Signboard Control Unit","Mr. YAN Li Shing","Sr Tech Offr/Signboard Control 3","3842 3625"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works & Signboard Control Section Registry","Ms. LEE Bik Yuk, Angel","SCO/Minor Works &amp; Signboard Control","3842 3613"
+"Buildings Department","Minor Works & Signboard Control Section,Minor Works & Signboard Control Section Registry","Ms. NG Siu Fun, Queenie","CO/Minor Works &amp; Signboard Control","3842 3586"

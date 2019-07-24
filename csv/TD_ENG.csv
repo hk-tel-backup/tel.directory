@@ -1,780 +1,264 @@
-"Organisation","Full Name","Post Title","Office Tel"
-"Transport Department","Ms. CHAN Mable, JP","Comr for Transp","3842 5501"
-"Transport Department","Ms. LEE Sui Chun, Macella, JP","Dep Comr/Transp Services and Management","3842 5503"
-"Transport Department","Mr. TANG Wai Leung","Dep Comr/Planning & Technical Services","3842 5505"
-""
-"Organisation","Service Name","Office Tel"
-"Transport Department","TD General Enquiry Hotline","2804 2600"
-""
-"Organisation","Department","Full Name","Post Title","Office Tel"
-"Transport Department","Transport Department","","",""
-"Transport Department","Transport Department,Headquarters","","",""
-"Transport Department","Headquarters,Office of the Commissioners","Ms. CHAN Mable, JP","Comr for Transp","3842 5501"
-"Transport Department","Headquarters,Office of the Commissioners","Ms. LEE Sui Chun, Macella, JP","Dep Comr/Transp Services and Management","3842 5503"
-"Transport Department","Headquarters,Office of the Commissioners","Mr. TANG Wai Leung","Dep Comr/Planning &amp; Technical Services","3842 5505"
-"Transport Department","Headquarters,Office of the Commissioners","Mr. CHAN Ying Kit, Reginald","Asst Comr/Adm &amp; Licensing","3842 5511"
-"Transport Department","Headquarters,Office of the Commissioners","Mr. WONG Chi Kwong, Patrick","Asst Comr/Bus &amp; Railway","3842 5515"
-"Transport Department","Headquarters,Office of the Commissioners","Ms. KWOK Wai Ying, Candy","Asst Comr/Mgt &amp; Paratransit","3842 5513"
-"Transport Department","Headquarters,Office of the Commissioners","Ms. LEE Yim Fong, Stella","Asst Comr/NT","2399 2525"
-"Transport Department","Headquarters,Office of the Commissioners","Mr. LAM Sau Sang, Samson","Asst Comr/Planning","3842 5509"
-"Transport Department","Headquarters,Office of the Commissioners","Mr. YAU Kwok Ting, Tony (on leave : 11.7.2019 - 26.7.2019)","Asst Comr/Technical Services","3842 5507"
-"Transport Department","Headquarters,Office of the Commissioners","Mr. LAW Hing Sun, Michael  (on leave : 27.7.2019 - 4.8.2019)","Asst Comr/Urban","3842 5517"
-"Transport Department","Headquarters,Information and Public Relations Unit","Ms. KONG Pui Yan, Sally","Prin Information Offr","3842 5522"
-"Transport Department","Headquarters,Information and Public Relations Unit","Miss AU Lai Kei, Iris","Sr Information Offr","3842 5523"
-"Transport Department","Headquarters,Information and Public Relations Unit","Miss LEUNG Hin Hin, Chrissie","Information Offr/Transp 1","3842 5524"
-"Transport Department","Headquarters,Information and Public Relations Unit","Mr. LO Anson","Information Offr/Transp 2","3842 5525"
-"Transport Department","Headquarters,Corporate Communication Unit","Mr. HO Kwan Hang, Albert","Ch Transp Offr/Corporate Communication","3842 5529"
-"Transport Department","Headquarters,Corporate Communication Unit","Ms. TSE Che Ching, Maria","Sr Transp Offr/Corporate Communication 1","3842 5530"
-"Transport Department","Headquarters,Corporate Communication Unit","Ms. LIU Ching Man, Lisa","Sr Transp Offr/Corporate Communication 2","3842 5531"
-"Transport Department","Headquarters,Corporate Communication Unit","Miss YEUNG Yuk Shan","Transp Offr/Corporate Communication","3842 5532"
-"Transport Department","Headquarters,Human Resource Development unit","Mrs. SHUEN LAU  Mee Yue, Polly","Ch Trg Offr","3842 5535"
-"Transport Department","Headquarters,Human Resource Development unit","Ms. LUI Man Ying, Sonia","Sr Trg Offr","3842 5536"
-"Transport Department","Headquarters,Human Resource Development unit","Ms. WONG Shun Ting, Sandy","Trg Offr","3842 5537"
-"Transport Department","Headquarters,Departmental Secretariat","Ms. MAK Wai Ting, Sandra","Departmental Secretary","3842 5542"
-"Transport Department","Departmental Secretariat,Administration Section","Ms. LAI Chui Po, Katrina","Dep DS/Adm","3842 5573 "
-"Transport Department","Departmental Secretariat,Administration Section","Miss CHIM Shuk Kwan, Dorothy","AS/Adm 1","3842 5574"
-"Transport Department","Departmental Secretariat,Administration Section","Ms. SIU Sze Man, Jennifer","AS/Adm 2","3842 5575"
-"Transport Department","Departmental Secretariat,Administration Section","Ms. SIN Ching Yi","SCO/Gen","3842 5577"
-"Transport Department","Departmental Secretariat,Administration Section","Ms. TAI Kit Man, Sheeny","CO/GR","3842 5588"
-"Transport Department","Departmental Secretariat,Confidential Registry","Ms. YEONG Lai Yin","Conf Asst 1","3842 5592"
-"Transport Department","Departmental Secretariat,Confidential Registry","Miss CHAU Ka Po, Pian","Conf Asst 2","3842 5593"
-"Transport Department","Departmental Secretariat,Personnel Section","Miss LAI Bik Ki, Peggy","Dep DS/Per 1","3842 5544"
-"Transport Department","Departmental Secretariat,Personnel Section","Ms. TAM Mei Yee, Rita","Dep DS/Per 2","3842 5548"
-"Transport Department","Departmental Secretariat,Personnel Section","Miss CHING Hiu Lam, Ada","AS/Per 1","3842 5546"
-"Transport Department","Departmental Secretariat,Personnel Section","Ms. HO Yim Tung, Catherine","AS/Per 2","3842 5547"
-"Transport Department","Departmental Secretariat,Personnel Section","Mr. LI Chun Yat, Martin","AS/Per 3","3842 5550"
-"Transport Department","Departmental Secretariat,Personnel Section","Mr. LEE Kin Kee, Ricky","AS/Per 4","3842 5549"
-"Transport Department","Departmental Secretariat,Personnel Section","Miss WONG Sze Wing, Jacqueline","AS/Per 5","3842 5545"
-"Transport Department","Departmental Secretariat,Personnel Section","Ms. LEUNG Wai Hing, Cammie","CO/Per Ser","3842 5567"
-"Transport Department","Departmental Secretariat,Personnel Section","Mrs. CHAN LAI Wing Mui, Mandy","CO/Appt","3842 5562"
-"Transport Department","Departmental Secretariat,Personnel Section","Mrs. WONG CHEUNG Suk Yee, Jessica","CO/Est","3842 5553"
-"Transport Department","Departmental Secretariat,Personnel Section","Ms. LAM Pui Mei, May","CO/Performance Appraisal","3842 5564"
-"Transport Department","Departmental Secretariat,Personnel Section","Miss KAN Mei Yee, Linda","CO/Per &amp; Gen","3842 5555"
-"Transport Department","Departmental Secretariat,Personnel Section","Mr. WONG Man Wai","CO(PR)SD","3842 5569"
-"Transport Department","Departmental Secretariat,Translation Section","Ms. IP York Pik, Iris","Sr OLO","3842 5594"
-"Transport Department","Departmental Secretariat,Translation Section","Ms. LAM Yueh Yi, Iris","OLO I","3842 5595"
-"Transport Department","Departmental Secretariat,Translation Section","Mr. LO Man Cho, Cyrus","OLO II","3842 5596"
-"Transport Department","Headquarters,Finance and Supplies Unit","Mr. YU Chi Hung","Sr Try Acct","3842 5597"
-"Transport Department","Headquarters,Finance and Supplies Unit","Ms. YUEN Yee Man, Eileen","Try Acct (Mgt Acct &amp; Fin Mgt)1","3842 5599"
-"Transport Department","Headquarters,Finance and Supplies Unit","Miss LEUNG Wei Kei, Vikki","Try Acct (Mgt Acct &amp; Fin Mgt)2","3842 5598"
-"Transport Department","Headquarters,Finance and Supplies Unit","Ms. SEE Sin Chun, Regina","Acct Offr I (Mgt Acct &amp; Fin Mgt)","3842 5600"
-"Transport Department","Headquarters,Finance and Supplies Unit","Mr. CHAN Tsz Fung, John","Acct Offr II (Mgt Acct &amp; Fin Mgt)1","3842 5602"
-"Transport Department","Headquarters,Finance and Supplies Unit","Miss LEUNG Wai Man, Connie","Acct Offr II (Mgt Acct &amp; Fin Mgt)2","3842 5601"
-"Transport Department","Headquarters,Finance and Supplies Unit","Ms. HO Yuen Ki, Janice","EO I/Acct &amp; Supplies","3842 5604"
-"Transport Department","Headquarters,Finance and Supplies Unit","Miss LEE Ka Po, Stella","EO II/Acct &amp; Supplies","3842 5605"
-"Transport Department","Headquarters,Finance and Supplies Unit","Mr. IP Kam Kong, Michael","CO/Acct","3842 5606"
-"Transport Department","Headquarters,Finance and Supplies Unit","Ms. CHAN Lai Mei, Adele","SS I","3842 5610"
-"Transport Department","Headquarters,Finance and Supplies Unit","Ms. SHUM Wai Shan, Fiona","SS II","3842 5611"
-"Transport Department","Headquarters,Finance and Supplies Unit","Ms. LEE  Nga Sheung","SS II","3842 5612"
-"Transport Department","Headquarters,Internal Audit Unit","Miss WONG Pui Yi, Kathy","Try Acct/Internal Audit","3842 5618"
-"Transport Department","Headquarters,Internal Audit Unit","Mr. LAM Pak Huen, Eric","Acct Offr I/Internal Audit","3842 5619"
-"Transport Department","Headquarters,Internal Audit Unit","Mr. NGAI Kam Tai, Matthew","Acct Offr I/Tsing Ma Control Area","3842 5620"
-"Transport Department","Headquarters,Internal Audit Unit","Ms. HO Cho Lin, Joanne","Acct Offr II(Rev)/Internal Audit","3842 5621"
-"Transport Department","Headquarters,Internal Audit Unit","Miss WONG Wing Ting, Olivia","Acct Offr II/Tsing Sha Control Area","3842 5623"
-"Transport Department","Headquarters,Internal Audit Unit","Mr. CHUNG Kin Cheung, Kenneth","Acct Offr II(Exp)/Internal Audit","3842 5622"
-"Transport Department","Transport Department,Administration and Licensing Branch","","",""
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Ms. FUNG Wai Kwan, Louisa","Ch Transp Offr/Driving Services","2714 1708"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Mr. LI Hui Fung, Kevin","Sr Transp Offr/Driving Services","2714 9872"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Mr. LEUNG Kan Yan, Ken","Sr Executive Offr/Driving Test 1","2713 5820"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Ms. CHAN Ching Han, Pearl","Sr Executive Offr/Driving Test 2","2714 9872"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Mr. HO Pui Man, Kelvin","Sr Executive Offr/Driving Test (Special Duties)","2545 4834"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Miss CHAN Ka Yin, Alice","EO/Driving Adm","2624 7689"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Mr. CHAN Kwok Hung, Kevin","EO/Driving Op","2194 0432"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Ms. NGAI Hoi  Ying, Ivy","EO/Driving Test (Projects)","2545 4828"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Miss TSOI Sin Yee, Maggie","EO II/Driving Test","2651 7566"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Mr. YEUNG Shing Hin, Ben","Transp Offr/Driving Services 1","2714 3602"
-"Transport Department","Administration and Licensing Branch,Driving Services Section","Mr. AU Kak Loi, Peter","Transp Offr/Driving Services 2","2694 7265"
-"Transport Department","Driving Services Section,Driving Test General Enquiry","","",""
-"Transport Department","Driving Services Section,Driving Test Complaint Office","","",""
-"Transport Department","Driving Services Section,Driving Test Appointment Office","Ms. FUNG Ka Wai, Kelly (on leave)","EO/Appointment office","2150 7781"
-"Transport Department","Driving Services Section,Driving Test Appointment Office","Mr. CHAN Ka Chun, Vince","EO/Written Test","2150 7778"
-"Transport Department","Driving Services Section,Driving Test Appointment Office","Miss HO Sui Wa, Alison","EO/Appointment &amp; E-Services","2150 7786"
-"Transport Department","Administration and Licensing Branch,E-Strategy Division","","",""
-"Transport Department","E-Strategy Division,Harcourt House Office","Ms. LAU Kwei Lan, Rita","Sr Systems Mgr/E-Strategy","3101 5567"
-"Transport Department","E-Strategy Division,Harcourt House Office","Mr. FOK Tung Ho, Stanley","Systems Mgr/Information Systems 2","3101 5593"
-"Transport Department","E-Strategy Division,Harcourt House Office","Mr. TSAI Chi Hung, Gary","Systems Mgr/E-Strategy 1","3101 5536"
-"Transport Department","E-Strategy Division,Harcourt House Office","Ms. CHUNG Man, Emily","Sr Transp Offr/E-Strategy 2","3101 5575"
-"Transport Department","E-Strategy Division,Harcourt House Office","Mr. WONG Hung Ki, Richard","Analyst Programmer I 1/Information Systems 1","3101 5588"
-"Transport Department","E-Strategy Division,Harcourt House Office","Mr. HO  Yeuk Chuen, Holtin","Analyst Programmer I 1/Information Systems 2","3101 5580"
-"Transport Department","E-Strategy Division,Harcourt House Office","Ms. LAM Tin Wai, Winey","Analyst Programmer I 1/Information Systems 4","3101 5584"
-"Transport Department","E-Strategy Division,Harcourt House Office","Mr. LO Cho Hung, Louis","Sr Computer Operator 1/Information Systems 2","3101 5590"
-"Transport Department","E-Strategy Division,Harcourt House Office","Mr. LEE Kang Sun, Peter","Computer Operator I 1/Information Systems 2","3101 5570"
-"Transport Department","E-Strategy Division,Harcourt House Office","Mr. CHUNG Tsz Ho, Endy","Ex Offr II/E-Strategy 1","3101 5591"
-"Transport Department","E-Strategy Division,Eastern Law Courts Building Sub-Office","Mr. YAO SAI KIT Frankie","Analyst Programmer II 1/Information Systems 3","2886 6845"
-"Transport Department","E-Strategy Division,Eastern Law Courts Building Sub-Office","Mr. CHEUNG  Chun Hin, Harry","Analyst Programmer II 1/Information Systems 5","2886 6852"
-"Transport Department","Administration and Licensing Branch,Public Vehicles and Prosecutions Section","Mr. YU Tai Ho, Haiko","Ch Transp Offr/Public Vehicles and Prosecutions","2529 3354"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Mr. TANG Wai Wah, Russell","SEO/Public Vehicles","2804 2563"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Mr. WONG  Chow Ho, Mike","EO/Sch Transp &amp; Adm","2804 2506"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Miss NG Po Wan, Priscilla","EO/Public Vehicles 1","2804 2569"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Miss WONG Hei Yee, Lusita","EO/Public Vehicles 2","2804 2570"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Miss HO Pak Yee, Abbie","EO/Public Vehicles 3","2804 2571"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Miss YIP Carman","EO/Public Vehicles 4","2804 2109 "
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Miss CHAN Tik Yan, Cherry","EO/Public Vehicles 5","2804 2533"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Ms. WONG Ling, Ivy","Transp Offr/Non-franchised Bus 1","2804 2713"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Mr. SIN Wai Ting, Eric","Transp  Offr/Non-franchised Bus 2","2804 2101"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Mr. SHEK Ho Tak, Jimmy","Transp Executive/Public Vehicles 1","2865 0836"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Mr. CHEUNG Ka Po, Stephen","Transp Executive/Public Vehicles 2","2804 2572"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Ms. YIM Kwai  Ngor, Joyce","CO/Public Bus","2804 2574"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Ms. YUK Oi Kwan","CO/Pte Bus &amp; Taxi","2804 2450"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Ms. LAW Pui Ling, Kitty","CO/Gen Adm &amp; Public Light Bus","2804 2500"
-"Transport Department","Public Vehicles and Prosecutions Section,Public Vehicles Unit","Ms. YEUNG Pui Lun, Helen","CO/Pte Light Bus &amp; Hire Car","2804 2263"
-"Transport Department","Public Vehicles Unit,Bus Team (Non-franchised Public Bus)","","",""
-"Transport Department","Public Vehicles Unit,Bus Team (Non-franchised Private Bus)","","",""
-"Transport Department","Public Vehicles Unit,Public Light Bus Team","","",""
-"Transport Department","Public Vehicles Unit,Private Light Bus and Hire Car Team","","",""
-"Transport Department","Public Vehicles Unit,Taxi Team","","",""
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Mr. WONG Pui Chung, William","Sr Transp Offr/Prosecutions 1","2529 8365"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Mr. HO Ka Fai","Sr Transp Offr/Prosecutions 2","2529 8201"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Mr. CHAN Yau Yau, Leo","Transp Offr/Prosecutions 1","2529 8375"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Miss LAU Yan Yee, Edith","Transp Offr/Prosecutions 2","2529 8384"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Ms. LAU Pui Tan, Alison","Transp Offr/Prosecutions 3","2529 8270"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Miss MAK Choi Chu, Queenie","Transp Offr/Prosecutions 4","2529 8139"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Miss MAK Choi Chu, Queenie","Transp Offr/Prosecutions &amp; Non-Franchised Bus","2529 8139"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Mr. HO  Tak Ming","Senior Transport Inspector /  Prosecutions 1","2529 8472"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Mr. CHEUNG Sau To","Senior Transport Inspector / Prosecutions 2","2529 8465"
-"Transport Department","Public Vehicles and Prosecutions Section,Prosecutions Unit","Mr. TO  Ka Wah","Senior Transport Inspector / Prosecutions 3","2527 9355"
-"Transport Department","Public Vehicles and Prosecutions Section,Non-franchised Bus Enforcement Team","Ms. CHOY Yee Lam, Elke","Sr Transp Offr/Non-Franchised Bus Enforcement 1","2527 2046"
-"Transport Department","Public Vehicles and Prosecutions Section,Non-franchised Bus Enforcement Team","Mr. LAU Kin Kwok","Sr Transp Offr/Non-Franchised Bus Enforcement 2","2529 8061"
-"Transport Department","Public Vehicles and Prosecutions Section,Non-franchised Bus Enforcement Team","Ms. LAM Wai Chi, Daisy","Senior Transport Inspector/Non-Franchised Bus Enforcement 1","2529 8424"
-"Transport Department","Administration and Licensing Branch,VALID and Licensing Division","Mr. YEUNG Pa Wut, Sunny","PEO/VALID &amp; Licensing","3101 5566"
-"Transport Department","VALID and Licensing Division,VALID Project Section","Mr. TSE  Kong Wai, Eric","Ch Transp Offr/VALID Project","3101 5577"
-"Transport Department","VALID and Licensing Division,VALID Project Section","Miss WONG Fung Yue, Tina","Transp offr/VALID Project 1","3101 5531"
-"Transport Department","VALID and Licensing Division,VALID Project Section","Mr. WONG Kai Lok","Executive Officer II/VALID Project","3101 5569"
-"Transport Department","VALID and Licensing Division,VALID Project Section","Mr. WONG Chun Ming, John","Transp Executive/VALID Project 3","3101 5571"
-"Transport Department","VALID Project Section,Cross Boundary Unit","Ms. TSANG Chin Wai, Ivy","SEO/Cross Boundary","2110 8044"
-"Transport Department","VALID Project Section,Cross Boundary Unit","Mr. CHAN Ho Ching, Ivan","EO/Cross Boundary 1","2852 4987"
-"Transport Department","VALID Project Section,Cross Boundary Unit","Miss HO Shun Kwan, Teresa","EO/Cross Boundary 2","2852 4681"
-"Transport Department","VALID Project Section,Cross Boundary Unit","Miss CHEUNG Hoi Yan, Grace","EO/Cross Boundary 4","2852 4682"
-"Transport Department","VALID Project Section,Cross Boundary Unit","Miss MO Yuen Ting, Anita","EO/Cross Boundary 5","2852 4629"
-"Transport Department","VALID Project Section,Cross Boundary Unit","Mr. WONG Fu Chuen, Chris","Transport Executive II / Cross Boundary","2852 4686"
-"Transport Department","VALID Project Section,Cross Boundary Unit","Mr. TSANG Ting Wah, Terrence","Transport Licensing Officer/ Cross Boundary","2852 3407"
-"Transport Department","VALID and Licensing Division,Licensing Section","Ms. CHEUNG Ching, Jenny","CEO/Licensing 1","2804 2718"
-"Transport Department","VALID and Licensing Division,Licensing Section","Mr. CHOW Wai","CEO/Licensing 2","2804 2565"
-"Transport Department","Licensing Section,Licensing Unit","Mr. WONG Lung Yip, Kenneth","SEO/Licensing 1","2804 2567"
-"Transport Department","Licensing Section,Licensing Unit","Miss CHAN Shui Yan, Daphne","SEO/Licensing (Special Duties)","2804 2402"
-"Transport Department","Licensing Section,Licensing Unit","Miss CHAN Suet Yee, Michelle","EO/First Registration Tax","2804 2631"
-"Transport Department","Licensing Section,Licensing Unit","Mr. CHAN Chung Wai, Chris","EO/Vehicle Registration","2804 2275"
-"Transport Department","Licensing Section,Licensing Unit","Miss LAI Hoi Shan, Cici","EO/Licensing Services","2804 2590"
-"Transport Department","Licensing Section,Licensing Unit","Miss TANG Wai Ping, Heidi","EO/Gen &amp; Computerization","2804 2585"
-"Transport Department","Licensing Section,Licensing Unit","Ms. YIP Hoi Man, Victoria","EO/Special Assignment","2804 2566"
-"Transport Department","Licensing Unit,Hong Kong Licensing Office","Miss CHEUNG Ngai Lam, Rita","EO/Licensing (HK)","2804 2630"
-"Transport Department","Licensing Unit,Hong Kong Licensing Office","Mr. YEUNG Kai Sing, Kelvin","EO/Direct Issue","2804 2647"
-"Transport Department","Licensing Unit,Hong Kong Licensing Office","Miss LAU Suet Ying, Agnes","EO/Licensing Administration and Support","2804 1734"
-"Transport Department","Licensing Unit,Hong Kong Licensing Office","Miss TO Wai Yee, Vivian","SCO/Licensing (HK) 1","2804 2633"
-"Transport Department","Licensing Unit,Hong Kong Licensing Office","Ms. LAI Pui Man, Mandy","SCO/Licensing (HK) 2","2804 2634"
-"Transport Department","Licensing Unit,Hong Kong Licensing Office","Ms. LEE Sui Ping, Yolanda","SCO/Licensing (HK) 3","2804 1189"
-"Transport Department","Licensing Unit,Hong Kong Licensing Office","Mr. SO Kwok Fai, Raymond","SCO/Licensing (HK) 4","2804 1196"
-"Transport Department","Licensing Unit,Kowloon Licensing Office","Mr. WONG Ka Chi, Garrick","SEO/Licensing 2","3529 1960"
-"Transport Department","Licensing Unit,Kowloon Licensing Office","Mr. YU Kin Pong, Bond","EO/Licensing (Kln)1","3529 1959"
-"Transport Department","Licensing Unit,Kowloon Licensing Office","Ms. KWOK Yi Mei, Katherine","EO/Licensing (Kln) 2","3529 1958"
-"Transport Department","Licensing Unit,Kowloon Licensing Office","Miss LAU Yui Kiu, Sophia","EO/Licensing (Kln) /Special Duties","3529 1958"
-"Transport Department","Licensing Unit,Kowloon Licensing Office","Miss CHAN Sin Ping, Stacey","SCO/Licensing (Kln) 1","2150 7722"
-"Transport Department","Licensing Unit,Kowloon Licensing Office","Ms. LI Wai Bing, Calen, MH","SCO/Licensing (Kln) 2","2150 7732"
-"Transport Department","Licensing Unit,Kowloon Licensing Office","Ms. CHAN Chi Yin, Karie","SCO/Licensing (Kln) 3","2150 7736"
-"Transport Department","Licensing Unit,Sha Tin Licensing Office","Mr. SHIU Kan Yun, Roy","EO/Licensing (Sha Tin)","2606 5077"
-"Transport Department","Licensing Unit,Sha Tin Licensing Office","Mr. YUNG Kin Sang","SCO/Licensing (Sha Tin)","2158 5977"
-"Transport Department","Licensing Unit,Kwun Tong Licensing Office","Ms. WONG Chui Har, Lynda","SCO/Licensing (Kwun Tong)","2772 7952"
-"Transport Department","Licensing Section,Vehicle Inspection and Records Unit","Ms. CHAN Mei Kuen, Elaine","SEO/Vehicle Inspection &amp; Records","2804 2501"
-"Transport Department","Licensing Section,Vehicle Inspection and Records Unit","Ms. WONG Mei Yi, Candy","EO/VALID Support","2804 2564"
-"Transport Department","Vehicle Inspection and Records Unit,Driving Offence Points Office","Ms. IP Wan Chi, Ivy","EO/Driving-offence Points System 1","2804 2598"
-"Transport Department","Vehicle Inspection and Records Unit,Driving Offence Points Office","Miss LEUNG Hoi Tung, Tanya","EO/Driving-offence Points System 2","2804 2161"
-"Transport Department","Vehicle Inspection and Records Unit,Driving Offence Points Office","Ms. LI Suk Mei","CO/Driving-offence Points Office","2804 2594"
-"Transport Department","Vehicle Inspection and Records Unit,Driving Licence Records Office","Mr. NG Wai Chiang","CO/Driving Licence Records Office (1)","2804 2596"
-"Transport Department","Vehicle Inspection and Records Unit,Driving Licence Records Office","Mr. KWONG Ping Kuen","CO/Driving Licence Records Office (2)","2804 1120"
-"Transport Department","Vehicle Inspection and Records Unit,Vehicle Records Office","Miss LEUNG Hoi Tung, Tanya","EO/Driving-offence Points System 2","2867 4698"
-"Transport Department","Vehicle Inspection and Records Unit,Vehicle Records Office"," Vacant","CO/Vehicle Records Office","2867 4691"
-"Transport Department","Vehicle Inspection and Records Unit,Common Services Registry & Account Team","Ms. LAU Kin Foon","CO/Gen","2804 2587"
-"Transport Department","Vehicle Inspection and Records Unit,Common Services Registry & Account Team","Ms. CHAN Lai Shan, Annie","CO/Accounts","2804 2588"
-"Transport Department","Licensing Section,Vehicle Registration Marks Unit","Miss SUNG Mei Yee, Sammi","SEO/Vehicle Regn Marks","3101 5598"
-"Transport Department","Licensing Section,Vehicle Registration Marks Unit","Mr. SZE Wai Shing, Vincent","EO/Vehicle Regn Marks 1","3101 5543"
-"Transport Department","Licensing Section,Vehicle Registration Marks Unit","Mr. LAU Wing Kin, Henry","EO/Vehicle Regn Marks 2","3101 5583"
-"Transport Department","Licensing Section,Vehicle Registration Marks Unit","Mr. LAM Sui Lun, Alan","EO/Vehicle Regn Marks 3","3101 5510"
-"Transport Department","Licensing Section,Ex-gratia Payment Unit","Ms. CHEUNG Yuen Yee, Wendy","SEO/Ex-gratia Payment","2804 2775"
-"Transport Department","Licensing Section,Ex-gratia Payment Unit","Ms. LEUNG WOO, Luisa","EO/Ex-gratia Payment 1","2804 2738"
-"Transport Department","Licensing Section,Ex-gratia Payment Unit","Mr. CHU Chun Fan, Alvin","EO/Ex-gratia Payment 2","2804 2270"
-"Transport Department","Administration and Licensing Branch,Vehicle Safety and Standards Division","Mr. SHUM Ngai On, William","Chief Electrical and Mechanical Engr/Vehicle Safety and Standards","3842 5721"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Safety Sub-Division","Mr. YANG Wing Fung, Gary","Sr Engr/Vehicle Safety","3842 5723"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Safety Sub-Division","Mr. CHAN Lee Shing, Danny","Engr/Bus Safety","3842 5726"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Safety Sub-Division","Mr. CHIU Wai Yip, Leo","Engr/Bus Safety Project","3842 5732"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Safety Sub-Division","Mr. WONG Chi Keung, Brian","Engr/Monitoring and Projects","3842 5727"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Safety Sub-Division","Mr. WAT Hoi Shing","Ch Motor Vehicle Examiner","3842 5733"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Safety Sub-Division","Mr. NG Chi Kin, Eric","Executive Officer/Vehicle Safety and Standards","3842 5736"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Safety Sub-Division","Ms. CHAN Hok Ying, Yvonne","Senior Clerical Officer/Vehicle Safety and Standards","3842 5735"
-"Transport Department","Vehicle Safety Sub-Division,Bus Safety Section","Mr. CHAN Lee Shing, Danny","Engr/Bus Safety","3842 5726"
-"Transport Department","Vehicle Safety Sub-Division,Bus Safety Section","Mr. CHIU  Wai Yip, Leo","Engr/Bus Safety Project","3842 5732"
-"Transport Department","Bus Safety Section,To Kwa Wan Vehicle  Examination Centre","Mr. WONG Ping Tong","Sr Motor Vehicle Examiner/Bus","2356 1158"
-"Transport Department","Bus Safety Section,To Kwa Wan Vehicle  Examination Centre","Mr. TSANG Chiu Yeung","Motor Vehicle Examiner I/To Kwa Wan 1","2189 7082"
-"Transport Department","Bus Safety Section,To Kwa Wan Vehicle  Examination Centre","Mr. KEI Ka Man","Motor Vehicle Examiner I/To Kwa Wan 2","2189 7081"
-"Transport Department","Bus Safety Section,To Kwa Wan Vehicle  Examination Centre","Mr. CHUNG Chi Hung","Motor Vehicle Examiner I/To Kwa Wan 4","2356 7010"
-"Transport Department","Vehicle Safety Sub-Division,Monitoring and Projects Section","Mr. WONG Chi Keung, Brian","Engr/Monitoring and Projects","3842 5727"
-"Transport Department","Monitoring and Projects Section,New Kowloon Bay Vehicle Examination Centre","Mr. FONG Chi Keung","Sr Motor Vehicle Examiner/Monitor Unit","2305 1763"
-"Transport Department","Monitoring and Projects Section,New Kowloon Bay Vehicle Examination Centre","Mr. CHAN Kwok Wai","Motor Vehicle Examiner I/Monitoring Unit 1","2750 3963"
-"Transport Department","Monitoring and Projects Section,New Kowloon Bay Vehicle Examination Centre","Mr. HO Shun Yin","Motor Vehicle Examiner I/Monitoring Unit 2","2750 2202"
-"Transport Department","Monitoring and Projects Section,Vehicle Inspection Office (Defective Vehicles)","Ms. FAN Pui Man","CO/Vehicle Inspection Office","2707 4188"
-"Transport Department","Vehicle Safety Sub-Division,Vehicle Safety Enforcement Section","","",""
-"Transport Department","Vehicle Safety Enforcement Section,Kowloon Bay Vehicle Examination Centre","Mr. YUEN  Kam lun, Alan","Sr Motor Vehicle Examiner/Kowloon Bay","2759 7522"
-"Transport Department","Vehicle Safety Enforcement Section,Kowloon Bay Vehicle Examination Centre","Mr. LEUNG Chi Kin","Motor Vehicle Examiner I/KB 1","2759 7568"
-"Transport Department","Vehicle Safety Enforcement Section,Kowloon Bay Vehicle Examination Centre","Mr. WONG Chi Shing","Motor Vehicle Examiner I/Kowloon Bay 2","2759 7568"
-"Transport Department","Vehicle Safety Enforcement Section,Sheung Kwai Chung Vehicle Examination Centre","Mr. CHOW Man Kit","Motor Vehicle Examiner I/Sheung Kwai Chung","2424 5215"
-"Transport Department","Vehicle Safety Enforcement Section,Technical Support Unit","Mr. LEE Cheung Wing","Motor Vehicle Examiner I/Technical Support","2757 5011"
-"Transport Department","Vehicle Safety Sub-Division,Car Testing Centre Monitoring Unit","Mr. CHOI Chi Hung","Sr Motor Vehicle Examiner/Car Testing Centre Monitoring Unit","2707 4168"
-"Transport Department","Vehicle Safety Sub-Division,Car Testing Centre Monitoring Unit","Mr. TONG Chai Wah","Motor Vehicle Examiner I/Car Testing Centre Monitoring Unit 1","2707 4218"
-"Transport Department","Vehicle Safety Sub-Division,Car Testing Centre Monitoring Unit","Mr. HO Yuen Chung","Motor Vehicle Examiner I/Car Testing Centre Monitoring Unit 2","2707 4238"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Regulations and Standards Sub-Division","Mr. CHAN Chung Yan, Joe","Sr Engr/Vehicle Regulations &amp; Standards","3842 5724"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Regulations and Standards Sub-Division","Mr. LEUNG Kim Keung, Dennis","Engr/Vehicle Regulations &amp; Standards","3842 5729"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Regulations and Standards Sub-Division","Mr. LEUNG Kim Keung, Dennis","Engr/Vehicle Approval and Planning","3842 5729"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Regulations and Standards Sub-Division","Mr. LEE Ka Fai, Wilson","Engr/New Vehicle Technologies","3842 5728"
-"Transport Department","Vehicle Regulations and Standards Sub-Division,Type Approval Section","Mr. SO Chi Lok","Sr Motor Vehicle Examiner/Type Approval","2753 9130"
-"Transport Department","Vehicle Regulations and Standards Sub-Division,Type Approval Section","Mr. YU Christopher","Motor Vehicle Examiner I/Type Approval 1","2757 4160"
-"Transport Department","Vehicle Regulations and Standards Sub-Division,Type Approval Section","Mr. SIN Chiu Ming","Motor Vehicle Examiner I/Type Approval 2","2753 9132"
-"Transport Department","Vehicle Regulations and Standards Sub-Division,Vehicle Inspection Office (Defective Vehicles)","","",""
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Project Sub-Division","Mr. CHOY Wing Keung, Chris","Sr Engr/Vehicle Project","2829 5488"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Project Sub-Division","Mr. CHEUK Chak Wai, Peter","Engr/Vehicle Project","2829 5829"
-"Transport Department","Vehicle Safety and Standards Division,Vehicle Project Sub-Division","Mr. LI Wai Man","Ch Motor Vehicle Examiner/Vehicle Project","2829 5498"
-"Transport Department","Transport Department,Bus and Railway Branch","","",""
-"Transport Department","Bus and Railway Branch,Bus Development Division","Miss TSE Sen Yee, Amy (on leave : 22.7.2019 - 4.8.2019)","Prin Transp Offr/Bus &amp; Railway 1","3842 5762"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Ms. KWAN Kwok Yan, Vivian","Ch Transp Offr/Bus &amp; Railway 1","3842 5748"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. LEUNG Cheong Kit, Keke","Ch Transp Offr/Bus &amp; Railway 2","3842 5749"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Miss HUI Ka Yee, Judy","Sr Transp Offr/Bus/NTE","3842 5750"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. LIU Kin Wai, Rick","Sr Transp Offr/Bus/NTW","3842 5751"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. FU Ting Hong, Derek","Sr Transp Offr/Bus/Kln","3842 5783"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. YEUNG Chun Wing, Jun","Sr Transp Offr/Bus/HK 1","3842 5754"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Miss TSUI Shuk Ting, Yvonne","Sr Transp Offr/Bus/HK 2","3842 5766"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. YUEN Kin Hang, Tom","Transp Offr/Bus/NTE","3842 5753"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Miss SIU Ka Yan, Catherine","Transp Offr/Bus/NTW","3842 5756"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. LEE Sui Kit, Donald","Transp Offr/Bus/Kln","3842 5755"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. MOK Chun Hei, Gilbert","Transp Offr/Bus/HK 1","3842 5752"
-"Transport Department","Bus and Railway Branch,Bus Development Division","Mr. MAK Hin Shun, Thomas","Transp Offr/Bus/HK 2","3842 5758"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. LEE Man Ho","Prin Transp Offr/Bus &amp; Railway 2","3842 5746"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. LO Ka Kan, Gregory","Ch Transp Offr/Bus &amp; Railway 3","3842 5764"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. CHAN Chi Kin, Simon","Ch Transp Offr/Bus &amp; Railway 4","3842 5765"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. TO Chi Keung, Gary","Sr Transp Offr/Railway 1","3842 5767"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Ms. WONG Wing Chow, Cherry","Sr Transp Offr/Railway 3","3842 5769"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Miss WONG Ho Yan, Doris","Sr Transp Offr/Railway 4","3842 5770"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. MOK Ka Sing, Mark","Sr Transp Offr/Railway 5","3842 5768"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Miss HSU Leung Fan, Amanda","Sr Transp Offr/Non-Franchised Bus","3842 5788"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Miss LEE Siu Ping, Sonia","Transp Offr/Railway 1","3842 5759"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. CHUNG Chi Kin, Dickson","Transp Offr/Railway 3","3842 5775"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. LEUNG Chung Ching, Andrew","Transp Offr/Railway 4","3842 5778"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Miss WONG On Yu, Ann","Transp Offr/Railway 5","3842 5757"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. LEE  Wai Kit, Jay","Transp Offr/Railway 7","3842 5776"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. WAI Wing Chun, Vincent","Transp Offr/PTIs &amp; Ferry Piers","3842 5777"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Miss TSO Wing Shan, Linda","Transp Offr/Non-Franchised Bus","3842 5774"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. YEUNG Shui Fung, Oscar","Transp Offr/Special Duties 1","3842 5779"
-"Transport Department","Bus and Railway Branch,Railway Monitoring Division","Mr. LAM Tin Hung, Stanley","Transp Offr/Special Duties 2","3842 5780"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Mr. YIM Kai Lung, Felix","Prin Transp Offr/Bus &amp; Railway 3","3842 5784"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Ms. NG Kam Han","Ch Transp Offr/Bus &amp; Railway 5","3842 5785"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Ms. KAM Wai Ming, Esther","Ch Transp Offr/Bus &amp; Railway 6","3842 5786"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Mr. WONG Yuk Ki, Mark","Sr Transp Offr/Railway 2","3842 5787"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Mr. CHEUNG Cheuk Wai, Jeffrey","Sr Transp Offr/Railway 6","3842 5771"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Miss YU Wing Sze, Natalie","Sr Transp Offr/Bus/Lantau","3842 5789"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Mr. WONG Yuk Ki, Mark","Transp Offr/Railway 2","3842 5787"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Miss LEUNG Ka Man, Eunice","Transp Offr/Bus/Lantau","3842 5790"
-"Transport Department","Bus and Railway Branch,Railway Planning Division","Miss CHENG Wai Yan, Melody","Transp Offr/Railway 6","3842 5791"
-"Transport Department","Transport Department,Management and Paratransit Branch","","",""
-"Transport Department","Management and Paratransit Branch,Ferry and Paratransit Division","Mr. YUEN Hong Shing, Honson","Prin Transp Offr/Ferry and Paratransit","3528 0633"
-"Transport Department","Ferry and Paratransit Division,Disabled Transport Section","Ms. WONG Yee Fang, Eva","Ch Transp Offr/Planning/Disabled Transp","3583 3710"
-"Transport Department","Ferry and Paratransit Division,Disabled Transport Section","Mr. LEUNG Yat Kiu, Silas","Sr Transp Offr/Planning/Disabled Transp","3583 3711"
-"Transport Department","Ferry and Paratransit Division,Disabled Transport Section","Mr. FAN Wang Kei, Ken","Transp Offr/Planning/Disabled Transp","3583 3712"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Ms. YEUNG  Min Jing, Anna","Ch Transp Offr/Planning/Ferry","3528 0584"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Ms. CHU Wai Sze, Fiona","Ch Transp Offr/Planning/Ferry Review","3528 0588"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Mr. CHE Kin Wong, Eric","Ch Transp Offr/Planning/Special Duties","3525 1618"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Mr. LI Wai Fan, Edmond","Sr Transp Offr/Planning/Ferry 1","3528 0609"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Miss HO Kit Ying, Florence","Sr Transp Offr/Planning/Ferry 2","3528 0602"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Miss CHENG Wing Yin","Transp Offr/Planning/Ferry 1","3528 0585"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Ms. WAN Yuet Sheung, Amy","Transp Offr/Planning/Ferry 2","3528 0624"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Miss YIP Nga Ching, Cynthia","Transp Offr/Planning/Ferry 3","3528 0623"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Ms. LEE Ka In, Charis","Transp Offr/Planning/Ferry 4","3528 0622"
-"Transport Department","Ferry and Paratransit Division,Ferry Section","Mr. LEUNG Pak Fung, Kazaf","Transp Offr/Planning/Ferry 5","3525 1619"
-"Transport Department","Ferry and Paratransit Division,Public Light Bus Section","Mr. TSUI  Chun Fai, Joseph","Ch Transp Offr/Public Light Bus &amp; Administration","2829 5570"
-"Transport Department","Ferry and Paratransit Division,Public Light Bus Section","Mr. TAM Lai Ming","Sr Transp Offr/Public Light Bus 1","2829 5370"
-"Transport Department","Ferry and Paratransit Division,Public Light Bus Section","Mr. WU King Hoi, Stanley","Sr Transp Offr/Public Light Bus 2","2829 5372"
-"Transport Department","Ferry and Paratransit Division,Public Light Bus Section","Mr. CHUNG Yat San, Yosan","Transp Offr/Public Light Bus","2829 5371"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. TAM Pui Wah, Alice","Chief Transport Officer/ Fare Scheme","3842 5831"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Miss AYALA Yi Sum, Sammi","Senior Transport Officer/Fare Scheme 1","3842 5832"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Mr. LUK Fong Tin, Alex","Senior Transport Officer/Fare Scheme 2","3842 5833"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. HO Siu Yu, Juliana","Senior Transport Officer/Fare Scheme 3","3842 5834"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. YAU Man Wah, Ida","Transport Officer/ Fare Scheme 1","3842 5835"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section"," Vacant","Transport Officer/ Fare Scheme 2","3842 5836"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Mr. TSUI Yik Tung, Michael","Transport Officer/ Fare Scheme 3","3842 5837"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. TSANG Wing Chi, Fanny","Transp Offr/Fare Scheme 4","3842 5838"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. TOM Ka Yun, Ivy","Senior Treasury Accountant/ Fare Scheme","3842 5839"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. HUNG Po Ting, Jennifer","Treasury Accountant/ Fare Schem 1","3842 5840"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Miss CHAN Lo Sin, Tracy","Treasury Accountant/Fare Scheme 2","3842 5841"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. LEE Wai Sze, Eleanor","Treasury Accountant/Fare Scheme 3","3842 5842"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Ms. LEE Mei Lin, Ellen","Accounting Officer I/ Fare Scheme","3842 5843"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Mr. CHAN Hak Chun, Curtis","Accounting Officer II/ Fare Schem 1","3842 5844"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Concession Scheme Section","Miss LEE Lai Ying, Candy","Accounting Officer II/ Fare Schem 2","3842 5845"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Miss LAI Suet Yan, Janice","Ch Transp Offr/Subsidy Scheme","3842 5847"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Mr. CHAN Chi Man, Chapman","Sr Transp Offr/Subsidy Scheme 1","3842 5850"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Mr. MAN Yui Chit, Michael","Sr Transp Offr/Subsidy Scheme 2","3842 5849"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Mr. HO Chun Kit, Ethan","Transp Offr/Subsidy Scheme 2","3842 5851"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section"," Vacant","Transp Offr/Subsidy Scheme 3","3842 5852"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Miss LI Wai Chu, Anna","Transp Offr/Subsidy Scheme 4","3842 5853"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section"," Vacant","Transp Offr/Subsidy Scheme 5","3842 5854"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Mr. KONG Chun Hung, Dennis","Sr Treasury Accountant/Subsidy Scheme","3842 5855"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Ms. LAU Hoi Lam, Veronica","Treasury Accountant/Subsidy Scheme","3842 5856"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Ms. CHIANG Wai Shan, Serena","Treasury Accountant/Subsidy Scheme/Planning","3842 5857"
-"Transport Department","Ferry and Paratransit Division,Public Transport Fare Subsidy Scheme Section","Miss NG Man Ting","Accounting Officer II/Subsidy Scheme","3842 5858"
-"Transport Department","Ferry and Paratransit Division,Special Duties Team","Miss HO Fung Yee, Janet","Ch Transp Offr/Planning/Taxi 2","2829 5511"
-"Transport Department","Ferry and Paratransit Division,Special Duties Team","Miss CHAN Ho Yee, Christy","Sr Transp Offr/Special Duties","2829 5278"
-"Transport Department","Ferry and Paratransit Division,Taxi Section","Mr. NG Hon Lai, Patrick","Ch Transp Offr/Planning/Taxi 1","2829 5315"
-"Transport Department","Ferry and Paratransit Division,Taxi Section"," Vacant","Sr Transp Offr/Planning/Taxi 1","2829 5303"
-"Transport Department","Ferry and Paratransit Division,Taxi Section","Mr. CHEUNG Chun Lung, Johnny","Transp Offr/Planning/Taxi 1","2829 5808"
-"Transport Department","Ferry and Paratransit Division,Taxi Section"," Vacant","Transp Offr/Planning/Taxi 2","2829 5832"
-"Transport Department","Ferry and Paratransit Division,Taxi Section","Miss TONG Sin Yee, Joyce","Transp Offr/Planning/Taxi 3","2829 5326"
-"Transport Department","Ferry and Paratransit Division,Taxi Section","Mr. WONG Chi To, Desmond","Sr Transp Offr/Planning/Taxi 2","2829 5309"
-"Transport Department","Management and Paratransit Branch,Management Services Division","Ms. LEE Mei Fung, Amy (on leave : 29.7.2019 - 9.8.2019)","Prin Transp Offr / Management","3842 6353"
-"Transport Department","Management Services Division,Business Management Section","Mr. YU Kwok Wai, Simon","Ch Transp Offr/Management Contracts","3842 5865"
-"Transport Department","Management Services Division,Business Management Section","Mr. PAN Cheung Chit, Wesley","Sr TA/Management Contracts","3842 5864"
-"Transport Department","Management Services Division,Business Management Section","Mr. LI Chiu Kit, Joe","Sr Transp Offr/Management Contracts 1","3842 5867"
-"Transport Department","Management Services Division,Business Management Section","Miss TSE Hau Ming, Pauline","Sr Transp Offr/Management Contracts 2","3842 5868"
-"Transport Department","Management Services Division,Business Management Section","Mr. TSANG Kwong Wing, Kelvin","Sr Transp Offr/Management Contracts 3","3842 5869"
-"Transport Department","Management Services Division,Business Management Section","Miss NG Ah Ting, Amanda","TA/Management Contracts 1","3842 5866"
-"Transport Department","Management Services Division,Business Management Section","Ms. FOK Ka Bo, Kitty","TA/Management Contracts 2","3842 5870"
-"Transport Department","Management Services Division,Business Management Section","Ms. TSANG Yuk King, Hendrix","Transp Offr I/Management Contracts","3842 5871"
-"Transport Department","Management Services Division,Business Management Section"," Vacant","Transp Offr II/Management Contracts","3842 5872"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Mr. WONG Chak Kwan, Byon","Ch Transp Offr/Infrastructure Management Planning","3842 5874"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Miss KWAN Ka Mun, Karen","Sr Transp Offr/Infrastructure Mgt Planning 1","3842 5875"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Mr. TSUI Ho Wing, Stan","Sr Transp Offr/Infrastructure Mgt Planning 2","3842 5876"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Ms. CHAN Suk Yin, Kitty","Sr Transp Offr/Infrastructure Management Planning 3","3842 5877"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Miss WONG Tsui Ying, Catherine","Sr Transp Offr/Infrastructure Management Planning 4","3842 5884"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Mr. CHAN Tak Fat","System Manager/Infrastructure Mgt Planning","3842 5885"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Mr. CHAN Shue, Rain","Transp Offr/Infrastructure Mgt Planning 1","3842 5878"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Ms. LI Ching Yee, Bonnie","Transp Offr/Infrastructure Mgt Planning 4","3842 5880"
-"Transport Department","Management Services Division,Infrastructure Management Planning Section","Mr. LEE Fu On, Wallace","Contract Project Manager/Infrastructure Management Planning","3842 5882"
-"Transport Department","Management Services Division,Transport Facilities Management Section","Mr. WONG Pak Kin, Ken","Ch Transp Offr/Transport Facilities Management","3842 5928"
-"Transport Department","Management Services Division,Transport Facilities Management Section","Mr. WONG Wai Lim, William","Sr Transp Offr/Transport Facilities Management 1","3842 5929"
-"Transport Department","Management Services Division,Transport Facilities Management Section","Mr. YEUNG Lau Kong, Ali","Sr Transp Offr/Transport Facilities Management 2","3842 5930"
-"Transport Department","Management Services Division,Transport Facilities Management Section","Ms. YEUNG Yuet, Leann","Transp Offr I//Transport Facilities Management 1","3842 5931"
-"Transport Department","Management Services Division,Transport Facilities Management Section","Mr. CHOY Ka yeung, Gavin","Transp Offr I//Transport Facilities Management 3","3842 5933"
-"Transport Department","Management Services Division,Transport Facilities Management Section","Mr. TONG Chun Yu, Jack","Transport Executive/Transport Facilities Management 2","3842 5932"
-"Transport Department","Management Services Division,Transport Incident Management Section","Ms. LEUNG Pui Yin, Wendy","Ch Transp Offr/Incident Management 1","3842 6355"
-"Transport Department","Management Services Division,Transport Incident Management Section","Ms. LAI Chui Ying, Cecilia","Ch Transp Offr/Incident Management 2","3842 6356"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. WU Chun Fai, Carpe","Sr Transp Offr/Incident Management 1","3842 6357"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. YUEN Wing Cheong","Sr Transp Offr/Incident Management 2","3842 6358"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. LEE Wing Wa","Sr Transp Offr/Incident Managment 3","3842 6359"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. LAU Kin Hei, Louis","Sr Transp Offr/Incident Management 4","3842 6360"
-"Transport Department","Management Services Division,Transport Incident Management Section","Miss LIU Tung Yee, Virginia","Sr Transp Offr/Incident Management 5","3842 6361"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. LEUNG Kwok Man, Lautrec","Sr Transp Offr/Incident Management 6","3842 6362"
-"Transport Department","Management Services Division,Transport Incident Management Section"," Vacant","Sr Transp Offr/Incident Management 7","2829 5289"
-"Transport Department","Management Services Division,Transport Incident Management Section","Ms. SO Pui Man, Coco","Transp Offr/Incident Management 1","3842 6363"
-"Transport Department","Management Services Division,Transport Incident Management Section"," Vacant","Transp Offr/Incident Management 2","3842 6364"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. CHIU Chun Hang, Kelvin","Transp Offr/Incident Management 3","3842 6365"
-"Transport Department","Management Services Division,Transport Incident Management Section","Miss LAM Tik, Landy","Transp Offr/Incident Management 4","3842 6366"
-"Transport Department","Management Services Division,Transport Incident Management Section","Ms. TING Tsz Yuk, Connie","Transp Offr/Incident Management 5","3842 6367"
-"Transport Department","Management Services Division,Transport Incident Management Section","Miss CHAN Ka Ki, Priscilla","Transp Offr/Incident Management 6","3842 6368"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. CHOW Man To, Thomas","Transp Offr/Incident Management 7","3842 6369"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. TONG Lok Tung, Anson","Transp Offr/Incident Management 8","3842 6370"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. KWOK Yue Fung, Samuel","Transp Offr/Incident Management 9","3842 6371"
-"Transport Department","Management Services Division,Transport Incident Management Section","Miss LEUNG Ching Yiu, Jessica","Transp Offr/Incident Management 10","3842 6372"
-"Transport Department","Management Services Division,Transport Incident Management Section"," Vacant","Transp Offr/Incident Management 11","3842 6373"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. CHAN Kin Wa, Edward","Sr Engr/Incident Management","3842 6375"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. LAM Chi Ho, Raymond","Engr/Incident Management Support","3842 6378"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. LAM Shui Wah, Daniel","Engr/Incident Management 1","3842 6376"
-"Transport Department","Management Services Division,Transport Incident Management Section","Mr. CHAN Kar Ping, Wilson","Engr/Incident Management 2","3842 6377"
-"Transport Department","Management Services Division,Tunnels and Tsing Ma Section","Mr. SO Chun Chuen","Ch Transp Offr/Tunnels &amp; Tsing Ma 1","3842 5886"
-"Transport Department","Management Services Division,Tunnels and Tsing Ma Section","Mr. HUE Ka Yiu, Daniel","Ch Transp Offr/Tunnels &amp; Tsing Ma 2","3842 5887"
-"Transport Department","Tunnels and Tsing Ma Section,Tsing Ma Monitoring Team","Mr. TSANG Yee Yeung, Ian","Sr Transp Offr/Tunnels &amp; Tsing Ma 1","3842 5889"
-"Transport Department","Tunnels and Tsing Ma Section,Tsing Ma Monitoring Team","Mr. CHAN Chi Pong, Steven","Transp Offr/Tunnels &amp; Tsing Ma 1","3842 5894"
-"Transport Department","Tunnels and Tsing Ma Section,Tsing Ma Monitoring Team","Miss TSANG Man Wai, Isabel","Transp Offr/Tunnels &amp; Tsing Ma 4","3842 5897"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Mr. HO Ming Yin, Jim","Sr Transp Offr/Tunnels &amp; Tsing Ma 2","3842 5890"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Miss FUNG Sin Yee, Mini","Sr Transp Offr/Tunnels &amp; Tsing Ma 3","3842 5891"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Mr. YEUNG Lok Man, Icarus","Sr Transp Offr/Tunnels &amp; Tsing Ma 4","3842 5892"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Miss SOO Lai Sze, Nancy","Contract TA/Tunnels &amp; Tsing Ma","3842 5893"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Mr. WU Ho Man, Kenneth","Transp Offr I/Tunnels &amp; Tsing Ma 2","3842 5895"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Mr. WU Ho Man, Kenneth","Transp Offr II/Tunnels &amp; Tsing Ma 3","3842 5895"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Miss LEUNG Hoi Kei, Christina","Transp Offr I/Tunnels &amp; Tsing Ma 5","3842 5898"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Mr. LEUNG Wing Chiu, Erik","Transp Offr II/Tunnels &amp; Tsing Ma 6","3842 5901"
-"Transport Department","Tunnels and Tsing Ma Section,Tunnels Monitoring Team","Mr. LEUNG Wing Chiu, Erik","Transp Offr II/Tunnels &amp; Tsing Ma 8","3842 5901"
-"Transport Department","Transport Department,NT Regional Office","","",""
-"Transport Department","NT Regional Office,Traffic Engineering (NTE) Division","Mr. YIP Koon Keung, Ken","Ch Traffic Engr/NTE","2399 2400"
-"Transport Department","Traffic Engineering (NTE) Division,Housing & Planning Section","Mr. KO Chi Wai, Stephen","Sr Engr/Housing &amp; Planning/NT East","2399 2402"
-"Transport Department","Traffic Engineering (NTE) Division,Housing & Planning Section","Mr. MA Chi Hung, Daniel","Engr/Pedestrian Improvements","2399 2391"
-"Transport Department","Traffic Engineering (NTE) Division,Housing & Planning Section","Ms. LAW Wai Ka, Rica","Engr /Sai Kung","2399 2224"
-"Transport Department","Traffic Engineering (NTE) Division,Housing & Planning Section","Mr. MA Chi Hung, Daniel","Engr/Special Duties 1","2399 2391"
-"Transport Department","Traffic Engineering (NTE) Division,Housing & Planning Section","Ms. LAW Wai Ka, Rica","Engr/Special Duties 1","2399 2224"
-"Transport Department","Traffic Engineering (NTE) Division,Housing & Planning Section","Ms. WONG Po Ling","Sr Tech Offr (Traffic)/Housing &amp; Planning/NTE","2399 2412"
-"Transport Department","Traffic Engineering (NTE) Division,North Section","Mr. HUI Ka Chun, Billy","Sr Engr/North","2399 2228"
-"Transport Department","Traffic Engineering (NTE) Division,North Section","Mr. KWONG Siu Ming, Kelvin","Engr/North 1","2399 2411"
-"Transport Department","Traffic Engineering (NTE) Division,North Section","Ms. TSANG Chui Shan, Jocelyn","Engr/North 2","2399 2405"
-"Transport Department","Traffic Engineering (NTE) Division,North Section","Ms. WONG  Wing Sei, Winnie","Engr/Projects","2399 2549"
-"Transport Department","Traffic Engineering (NTE) Division,North Section","Mr. CHENG Tak Yiu","Prin Tech Offr (Traffic)/NTE 1","2399 2410"
-"Transport Department","Traffic Engineering (NTE) Division,North Section","Ms. KU Mee Yee","Sr Tech Offr( Traffic)/North","2399 2413"
-"Transport Department","Traffic Engineering (NTE) Division,Project & Tai Po Section","Miss KWOK Sze Wan, Cynthia","Sr Engr/Project &amp;Tai Po","2399 6936"
-"Transport Department","Traffic Engineering (NTE) Division,Project & Tai Po Section","Ms. PUN Fun Yu, Winnie","Engr/Tai Po 1","2399 2563"
-"Transport Department","Traffic Engineering (NTE) Division,Project & Tai Po Section","Mr. CHEUNG Wai Fung","Engr/Tai Po 2","2399 2406"
-"Transport Department","Traffic Engineering (NTE) Division,Project & Tai Po Section","Mr. LAM Tack Ho, Alex","Engr/Tai Po 3","2399 2731"
-"Transport Department","Traffic Engineering (NTE) Division,Project & Tai Po Section","Mr. CHAN Wan Man","Sr Tech Offr (Traffic)/Project &amp; Tai Po","2399 2414"
-"Transport Department","Traffic Engineering (NTE) Division,Project & Tai Po Section","Mr. LEE Shu Wing, John","Prin Tech Offr (Traffic)/NTE 2","2399 6964"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. POON Wing Hong","Sr Engr/Shatin1","2399 2409"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. CHIU Sung Ko","Sr Engr/Shatin2","2399 2403"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. HU  Yueming, Alan","Engr/Shatin 1","2399 2407"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. LO Hoi Wing, Jeff","Engr/Shatin 1","2399 6966"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. HU Yueming, Alan","Engr/Shatin 2","2399 2407"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. LO Hoi Wing, Jeff","Engr/Shatin 3","2399 6966"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. NGAI Hiu kan, Wilfred","Engr/Ma On Shan","2399 2408"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Miss WONG Ho Yin, Michelle","EO/Bicycle Parking","3575 8145"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Ms. LI Yuet Fong","Sr Tech Offr (Traffic)/Bicycle Parking","3575 8145"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Ms. CHOW Yuk Chun","Sr Tech Offr (Traffic)/Shatin","2399 2538"
-"Transport Department","Traffic Engineering (NTE) Division,Shatin Section","Mr. YIU Ka Lap, Caleb","Engr/Bicycle Parking","3575 8132"
-"Transport Department","NT Regional Office,Traffic Engineering (NTW) Division","Mr. CHOW Bing Kay","Chief Traffic Engineer / New Territories West","2399 2433"
-"Transport Department","Traffic Engineering (NTW) Division,Boundary Section","Mr. YEUNG Shiu Wing, Chris","Sr Engr/Boundary","2399 2718"
-"Transport Department","Traffic Engineering (NTW) Division,Boundary Section","Mr. CHAN Ting Hong, Terence","Engr/Boundary","2399 2778"
-"Transport Department","Traffic Engineering (NTW) Division,Boundary Section","Mr. LAM Kai Yuen, Ambrose","Engr/Infrastructure Projects 1","2399 2727"
-"Transport Department","Traffic Engineering (NTW) Division,Boundary Section","Mr. CHOW Muk Shing","Prin Tech Offr (Traffic)/W1","2399 2419"
-"Transport Department","Traffic Engineering (NTW) Division,Boundary Section","Ms. CHAN Hang Kit, Miranda","Sr Tech Offr (Traffic )/Infrastructure Project","2399 2432"
-"Transport Department","Traffic Engineering (NTW) Division,Boundary Section","Mr. CHAN Ting Hong, Terence","Engr/Infrastructure Projects","2399 2778"
-"Transport Department","Traffic Engineering (NTW) Division,Housing & Planning Section","Mr. MAN Ka Ming, Alex","Sr Engr/Housing &amp; Planning/NTW","2399 2428"
-"Transport Department","Traffic Engineering (NTW) Division,Housing & Planning Section","Miss CHING Hoi Ying, Janet","Engr/Housing &amp; Planning/NTW","2399 2261"
-"Transport Department","Traffic Engineering (NTW) Division,Housing & Planning Section","Mr. MA Yik Kau, Victor","Engr/Tuen Mun Central","2399 2225"
-"Transport Department","Traffic Engineering (NTW) Division,Housing & Planning Section","Mr. NG Ho Leung, Jacky","Engr/Tuen Mun North","2399 2425"
-"Transport Department","Traffic Engineering (NTW) Division,Housing & Planning Section","Ms. AU YEUNG Miu Yee","Sr Tech Offr (Traffic)/Tuen Mun","2399 2430"
-"Transport Department","Traffic Engineering (NTW) Division,Kwai Tsing Section","Mr. CHAN Chi Tak","Sr Engr/Kwai Tsing","2399 2496"
-"Transport Department","Traffic Engineering (NTW) Division,Kwai Tsing Section","Miss LEE Che Ying, Emily","Engr/Kwai Chung","2399 2420"
-"Transport Department","Traffic Engineering (NTW) Division,Kwai Tsing Section","Mr. FUNG Ka Kit, Peter","Engr/Tsing Yi","2399 2426"
-"Transport Department","Traffic Engineering (NTW) Division,Kwai Tsing Section","Mr. LI Hok Lai, Matthew","Engr/Special Duties 1","2399 2738"
-"Transport Department","Traffic Engineering (NTW) Division,Kwai Tsing Section","Miss LEE Che Ying, Emily","Engr/District Facilities","2399 2420"
-"Transport Department","Traffic Engineering (NTW) Division,Kwai Tsing Section","Mr. AU Chun For","Sr Tech Offr (Traffic)/Kwai Tsing","2399 2390"
-"Transport Department","Traffic Engineering (NTW) Division,North West Section","Mr. LAI Yau Choi, Ray","Sr Engr/North West","2399 2156"
-"Transport Department","Traffic Engineering (NTW) Division,North West Section","Mr. AU Man Yu, Derek","Engr/Yuen Long Central","2399 2565"
-"Transport Department","Traffic Engineering (NTW) Division,North West Section","Mr. MAN Ka Ho, Wilson","Engr/Yuen Long West","2399 2422"
-"Transport Department","Traffic Engineering (NTW) Division,North West Section","Ms. POON Kwai Mei","Sr Tech Offr (Traffic )/Yuen Long","2399 2239"
-"Transport Department","Traffic Engineering (NTW) Division,Drawing Office","Mr. HO Chi Hung","Sr Tech Offr (Civil)","2399 2415"
-"Transport Department","Traffic Engineering (NTW) Division,Drawing Office","Ms. TAM Wai Man","Sr Tech Offr (Civil)/NTE","2399 2102"
-"Transport Department","Traffic Engineering (NTW) Division,Drawing Office","Mr. LO Yiu Wai, Anson","Sr Tech Offr (Civil)","2399 2455"
-"Transport Department","Traffic Engineering (NTW) Division,Special Duties Section","Mr. YEUNG Shiu Wing, Chris","Sr Engr/Special Duties","2399 2418"
-"Transport Department","Traffic Engineering (NTW) Division,Special Duties Section","Mr. WONG Yui Wai, Rex","Engr/Special Duties 2","2399 2427"
-"Transport Department","Traffic Engineering (NTW) Division,Special Duties Section","Mr. LEE Kar Chun, Wilson","Engr/Yuen Long East","2399 2421"
-"Transport Department","Traffic Engineering (NTW) Division,Special Duties Section","Mr. LAM Chi Kwong","Prin Tech Offr (Traffic)/W2","2399 2176"
-"Transport Department","NT Regional Office,Traffic Survey & Support Division","","",""
-"Transport Department","Traffic Survey & Support Division,Islands Section","Mr. YIP Wai Lun","Sr Engr/Islands","2399 2227"
-"Transport Department","Traffic Survey & Support Division,Islands Section","Mr. WAN King Ming, Alex","Engr/Islands 1","2399 2769"
-"Transport Department","Traffic Survey & Support Division,Islands Section","Ms. YUEN Kit Fung","Engr/Islands 2","2399 2423"
-"Transport Department","Traffic Survey & Support Division,Islands Section","Ms. WONG Shuk Man, Suman","Engr/Lantau Development","2399 2730"
-"Transport Department","Traffic Survey & Support Division,Islands Section","Mr. HO Cheuk Kin","Sr Tech Offr( Traffic)/ Island","2399 2564"
-"Transport Department","Traffic Survey & Support Division,Tsuen Wan Section","Mr. KAN  Pui Leung","Sr Engr/Tsuen Wan","2399 2706"
-"Transport Department","Traffic Survey & Support Division,Tsuen Wan Section","Mr. YUEN Ting Fung, Jacky","Engr/Tsuen Wan 1","2399 2424"
-"Transport Department","Traffic Survey & Support Division,Tsuen Wan Section","Mr. CHEUNG Kim Hung, Michael","Engr/Tsuen Wan 2","2399 2233"
-"Transport Department","Traffic Survey & Support Division,Tsuen Wan Section","Mr. LAU Tin","Sr Tech Offr( Traffic)/Tsuen Wan","2399 2431"
-"Transport Department","NT Regional Office,Transport Operations (NT) Division","Mr. CHIU Hak Pui, Christopher","Prin Transp Offr/NT 1","2399 2460"
-"Transport Department","NT Regional Office,Transport Operations (NT) Division","Mr. WAN Pak Yan, Eric","Prin Transp Offr/NT 2","2399 6977"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Mr. TSANG Chi Yan","Sr Transp Offr/Boundary 1","3106 8434"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Ms. YUE Ka Ka","Sr Transp Offr/Boundary 2","3106 8430"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Ms. TSE Lai Kuen, Quin","Transp Offr/Boundary 1","3106 8362"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Mr. LIN Pak Yin","Transp Offr/Boundary 2","3106 8251"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Miss WONG Cheong Yin, Claudia","Transp Offr/Boundary 3","3106 8249"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Mr. WONG Ping Cheung, William","Transp Offr/Boundary 4","3106 8444"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Ms. AU Ting Chi, Suki","Transp Offr/Boundary 5","2399 2714"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Trade Square Office)","Mr. CHEUNG Pok, Vico","Sr Engr/Boundary Special Duties","3106 8446"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Ms. CHAN  Siu Mui, Polly","Ch Transp Offr/Goods Vehicle","2399 2396"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Mr. WAN Yuen Hung, Eddie","Sr Transp Offr/Public Pier","2399 2161"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Mr. CHU Cheuk King","Sr Transp Offr/Sai Kung","2399 2438"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Mr. NG Koon Hung, John","Sr Transp Offr/North","2399 2464"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Ms. LUI Chui Man, Tracy","Transp Offr /Goods Vehicle","2399 2395"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Mr. HUI Yin Hang, Daniel","Transp Offr/North","2399 2439"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Mr. LEUNG Kwok Hang, Michael","Transp Offr/Sai Kung","2399 2168"
-"Transport Department","Transport Operations (NT) Division,Goods Vehicle Section","Mr. WAN  Yuen Hung, Eddie","Transp Offr/Public Pier","2399 2700"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Mr. KWONG Ka Yin","Ch Transp Offr/NT East","2399 2463"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Mr. YAU Kung Yuen, Corwin","Sr Transp Offr/Ma On Shan","2399 2440"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Ms. TSANG Hing Kwan, Natalie","Sr Transp Offr/Shatin","2399 2180"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Miss MA Flora","Sr Transp Offr/Tai Po","2399 2442"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Mr. MAK Cheong Yuen, Charles","Transp Offr/Ma On Shan 1","2399 2100"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Ms. FU Sau Man, Carmen","Transp Offr/Ma On Shan 2","2399 2758"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Miss YUEN Nga Man","Transp Offr/Shatin 1","2399 2443"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Mr. LI Kin Yip,  Charles","Transp Offr/Tai Po","2399 2441"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Mr. LAM Koon Sing","Sr Transp Insp/NT East","2399 2782"
-"Transport Department","Transport Operations (NT) Division,NT East Section","Mr. TANG Kwan Yiu, Eric","Transp Offr/Shatin 2","2399 2234"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Ms. YUEN Miu Chun, Christine","Ch Transp Offr/NT North West","2399 2462"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Mr. LEUNG Chun Him, Damon","Sr Transp Offr/Tuen Mun 1","2399 2450"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Ms. TSE Sau Ching, Cammy","Sr Transp Offr/Tuen Mun 2","2399 2181"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Ms. TAM Lok Yan, Carol","Sr Transp Offr/Yuen Long 1","2399 2452"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Mr. LEUNG Ka Lok, Kelvin","Sr Transp Offr/Yuen Long 2","2399 2774"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Miss CHU Lai Yee, Rachel","Transp Offr/Tuen Mun 1","2399 2449"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Ms. TANG Hau Yan, Jenny","Transp Offr/Tuen Mun 2","2399 2701"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Mr. LI Wang Fung, Gareth","Transp Offr/Tuen Mun 3","2399 2768"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Mr. CHUNG Wing Shan, Jason","Transp Offr/Yuen Long 1","2399 2451"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Miss WONG Lui, Christine","Transp Offr/Yuen Long 2","2399 2447"
-"Transport Department","Transport Operations (NT) Division,NT North West  Section","Ms. KWOK Ka Yan, Annie","Transp Offr/Yuen Long 3","2399 2775"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Ms. LUI Hiu Fai, Monica","Ch Transp Offr/NT South West","2399 2547"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Miss CHOI Siu Man, Sherman","Sr Transp Offr/Islands1","2399 2454"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Miss SIN Kai Wai Marie","Sr Transp Offr/Island2","2399 2162"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Mr. LAU Wing Hang, Will","Sr Transp Offr/Tsuen Wan","2399 2446"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Mr. WONG Ka Chun, Danny","Sr Transp Offr/Kwai Tsing 1","2399 2448"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Miss LAW Hoi Ching, Janice","Sr Transp Offr/Kwai Tsing 2","2399 2703"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Ms. CHAN Wing Yu, Petrina","Transp Offr/Kwai Tsing1","2399 2236"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Miss LEE Pui Chi, Maggie","Transp Offr/Kwai Tsing2","2399 2170"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Mr. NG Che Pong","Transp Offr/Tsing Yi","2399 2235"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Mr. CHUA Ying Wai, Stephen","Transp Offr/Islands 1","2399 2453"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Ms. LEE Fuk On, Fion","Transp Offr/Islands 2","2399 2169"
-"Transport Department","Transport Operations (NT) Division,NT South West Section"," Vacant","Transp Offr/Islands 3","2399 2770"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Mr. CHAN Pak Hei, Stephen","Transp Offr/Tsuen Wan 2","2399 2445"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Miss NG Ka Wing, Karen","Transp Offr/Tsuen Wan 1","2399 2437"
-"Transport Department","Transport Operations (NT) Division,NT South West Section","Mr. SO Wing Shing","Sr Transp Insp/NT West","2399 2786"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Mongkok Office)","Ms. CHOW Pui Sze, Alice","Ch Transp Offr/Boundary","2399 6935"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Mongkok Office)"," Vacant","Transp Offr/Boundary 7","2399 2770"
-"Transport Department","Transport Operations (NT) Division,Boundary Section (Mongkok Office)","Ms. KWAN Kwai Heung","Transp Executive /Boundary","2399 2231"
-"Transport Department","Transport Operations (NT) Division,Boundary/Projects Section","Mr. CHIU Ho ming, Curtis","Ch Transp Offr/Boundary/Projects","3106 8400"
-"Transport Department","Transport Operations (NT) Division,Boundary/Projects Section","Mr. CHEUNG Chi Yeung, Fabian","Sr Transp Offr/Boundary/Projects","3106 8411"
-"Transport Department","NT Regional Office,Administration Support","Miss CHAN Yuk Fung, Phoenix","EO/Urban (Kln) &amp; NT","2399 2533"
-"Transport Department","NT Regional Office,Administration Support","Ms. LI Lai Sheung, Anita","CO/NT Region","2399 2194"
-"Transport Department","Transport Department,Planning Branch","","",""
-"Transport Department","Planning Branch,Major Projects Division","Mr. SIU Kin Man, Kelvin","Ch Engr/Major Projects","3842 6001"
-"Transport Department","Planning Branch,Major Projects Division","Mr. KWOK Ka Chun, Gordon","Sr Engr/Major Projects 1","3842 6003"
-"Transport Department","Planning Branch,Major Projects Division","Mr. CHAN Hon Wing, Francis","Sr Engr/Major Projects 2","3842 6004"
-"Transport Department","Planning Branch,Major Projects Division","Mr. LEUNG Shu Yan, Billy","Sr Engr/Major Projects 3","3842 6005"
-"Transport Department","Planning Branch,Major Projects Division","Mr. CHEUNG Kin Hung, Eric","Sr Engr/Major Projects 4","3842 6006"
-"Transport Department","Planning Branch,Major Projects Division","Miss TO Wing Sheung, Carrie","Sr Engr/Major Projects 5","3842 6007"
-"Transport Department","Planning Branch,Major Projects Division","Ms. KANG Pu, kappa","Engr/Major Projects 1","3842 6008"
-"Transport Department","Planning Branch,Major Projects Division","Mr. LAI Bo Yin, Wilson","Engr/Major Projects 2","3842 6009"
-"Transport Department","Planning Branch,Major Projects Division","Mr. NG Ting Chun, Patrick","Engr/Major Projects 3","3842 6010"
-"Transport Department","Planning Branch,Major Projects Division","Mr. KWOK Wai Yin, Terry","Engr/Major Projects 4","3842 6011"
-"Transport Department","Planning Branch,Major Projects Division","Ms. FOK Sze Man, Grace","Engr/Major Projects 5","3842 6012"
-"Transport Department","Planning Branch,Major Projects Division","Mr. TSE Chi Wai, Jeff","Engr/Major Projects 6","3842 6013"
-"Transport Department","Planning Branch,Major Projects Division","Ms. KWAN Tak Yee, Florence","Engr/Major Projects 7","3842 6014"
-"Transport Department","Planning Branch,Major Projects Division","Ms. WU Wing Yue, Phoebe","Engr/Major Projects 8","3842 6015"
-"Transport Department","Planning Branch,Major Projects Division","Mr. LAM Fuk Wah, Lawrence","Engr/Major Projects 9","3842 6016"
-"Transport Department","Planning Branch,Major Projects Division","Mr. WAN Kwun Chiu","Engr/Major Projects 10","3842 6017"
-"Transport Department","Planning Branch,Major Projects Division","Mr. CHENG Ho Lun","Engr/Major Projects 11","3842 6018"
-"Transport Department","Planning Branch,Strategic Studies Division","Mr. LAU Hon Wai, Simon","Ch Engr/Strategic Studies","3842 5942"
-"Transport Department","Planning Branch,Strategic Studies Division","Mr. TSANG King Man","Transp Specialist/Electronic Road Pricing","3842 5944"
-"Transport Department","Strategic Studies Division,Section 1","Ms. SHIU Lai Ming, Nana","Sr Engr/Strategic Studies 1","3842 5945"
-"Transport Department","Strategic Studies Division,Section 1","Miss CHAN Hiu Tung, Winnie","Engr/Strategic Studies 1","3842 5949"
-"Transport Department","Strategic Studies Division,Section 1","Mr. CHOW Kai Hang, Daniel","Engr/Strategic Studies 9","3842 5955"
-"Transport Department","Strategic Studies Division,Section 2","Mr. YEUNG Wing Kin, Calvin","Sr Engr/Strategic Studies 2","3842 5946"
-"Transport Department","Strategic Studies Division,Section 2","Mr. KWONG Ning Sum, Samuel","Engr/Strategic Studies 6","3842 5952"
-"Transport Department","Strategic Studies Division,Section 2","Mr. YEUNG Wai Shing, Wilson","Engr/Strategic Studies 11","3842 5956"
-"Transport Department","Strategic Studies Division,Section 3","Mr. YAO Pe Min, David","Sr Engr/Strategic Studies 3","3842 5947"
-"Transport Department","Strategic Studies Division,Section 3","Ms. LEE Wing Sum, Summer","Engr/Strategic Studies 5","3842 5951"
-"Transport Department","Strategic Studies Division,Section 3","Ms. KWOK Chau Ling","Prin Tech Offr (Traffic)/Strategic Studies","3842 5958"
-"Transport Department","Strategic Studies Division,Section 4, Section 6 & Section 7","Mr. TANG Kam Fai, Keith","Principal Project Coordinator/Parking","3150 8209"
-"Transport Department","Section 4, Section 6 & Section 7,Section 4","Miss WONG Ying, Samantha","Sr Engr/Strategic Studies 4","3150 8243"
-"Transport Department","Section 4, Section 6 & Section 7,Section 4","Miss WONG Ying, Samantha","Engr/Strategic Studies 4","3150 8243"
-"Transport Department","Section 4, Section 6 & Section 7,Section 4","Ms. QIU Yujing, Eugene","Engr/Strategic Studies 12","3150 8222"
-"Transport Department","Section 4, Section 6 & Section 7,Section 6","Mr. FUNG Man Leung","Sr Engr/Strategic Studies 6","3150 8260"
-"Transport Department","Section 4, Section 6 & Section 7,Section 6","Mr. IP Ka Wing, Kevin","Engr/Strategic Studies 2","3150 8232"
-"Transport Department","Section 4, Section 6 & Section 7,Section 6","Mr. SIN Ho Pong, Stanley","Engr/Strategic Studies 13","3150 8256"
-"Transport Department","Section 4, Section 6 & Section 7,Section 7","Miss YEUNG Lok Kei, Kiki","Sr Engr/Strategic Studies 7","3150 8239"
-"Transport Department","Section 4, Section 6 & Section 7,Section 7","Mr. FUNG Siu Cheuk, Peter","Engr/Strategic Studies 10","3150 8203"
-"Transport Department","Strategic Studies Division,Section 5","Mr. CHAN Kam Leung, Jimmy","Sr Engr/Strategic Studies 5","3842 5948"
-"Transport Department","Strategic Studies Division,Section 5","Mr. CHAN Ka Lai, Keith","Engr/Strategic Studies 3","3842 5950"
-"Transport Department","Strategic Studies Division,Section 5","Mr. NGAI Wing Yin, Eric","Engr/Strategic Studies 7","3842 5953"
-"Transport Department","Strategic Studies Division,Section 5","Mr. CHAN Ka Lai, Keith","Engr/Strategic Studies 8","3842 5954"
-"Transport Department","Strategic Studies Division,Section 5","Mr. NGAI Wing Yin, Eric","Engr/Strategic Studies 8","3842 5954"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. SHEA Tin Cheung (on leave : 22.7.2019 - 25.7.2019)","Ch Engr/Transport Planning","3842 6019"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. CHIAO Ying Kit","Sr Engr 1/Transport Planning","3842 6021"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. FUNG Yuk Choi, Rayson","Sr Engr 2/Transport Planning","3842 6022"
-"Transport Department","Planning Branch,Transport Planning Division","Ms. SUM Wai Lam, Vilian","Sr Engr 3/Transport Planning","3842 6023"
-"Transport Department","Planning Branch,Transport Planning Division","Ms. TSE Wai, Yvonne","Sr Engr 4/Transport Planning","3842 6024"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. LAM Chiu Yu, Alfred","Transp Specialist/Transport Planning","3842 6025"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. NG Kei Bok, Nelson","Engr 1/Transport Planning","3842 6032"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. HUI Wang Kin, Dave","Engr 2/Transport Planning","3842 6030"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. HUANG Pang Yen, Andrew","Engr 3/Transport Planning","3842 6029"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. NG Kei Bok, Nelson","Engr 4/Transport Planning","3842 6032"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. LAU Chung Ki, Elton","Engr 5/Transport Planning","3842 6028"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. LO Chi Keung","Engr 6/Transport Planning","3842 6027"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. NG Shiu Nam, Matthew","Engr 7/Transport Planning","3842 6036"
-"Transport Department","Planning Branch,Transport Planning Division","Ms. CHEUNG King Sze, Cici","Engr 8/Transport Planning","3842 6031"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. WONG Chak Kwan, Peter","Engr 9/Transport Planning","3842 6033"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. LOK Yu Fat","Engr 10/Transport Planning","3842 6034"
-"Transport Department","Planning Branch,Transport Planning Division","Mr. CHAN Che Keung","Prin Tech Offr (Traffic)/1","3842 6037"
-"Transport Department","Transport Department,Technical Services Branch","","",""
-"Transport Department","Technical Services Branch,Technical Secretariat","Miss KAN Yuet Man, Carol","Tech Secy","3842 6061"
-"Transport Department","Technical Services Branch,Technical Secretariat","Ms. LAW Shun Wa, Virginia","Engr/Technical Secretariat 1","3842 6062"
-"Transport Department","Technical Services Branch,Technical Secretariat","Ms. LAW Shun Wa, Virginia","Engr/Technical Secretariat 2","3842 6063"
-"Transport Department","Technical Services Branch,Road Safety and Standards Division","Mr. WU Kin Kwok, Eddy","Ch Engr/Road Safety &amp; Standards","2829 5279"
-"Transport Department","Road Safety and Standards Division,Road Safety 1 Section","Mr. HO Chi Tat, Chris","Sr Engr/Road Safety 1","2294 2521"
-"Transport Department","Road Safety and Standards Division,Road Safety 1 Section","Mr. CHAN Yee Hing, Paul","Engr 1/Road Safety 1","2294 2526"
-"Transport Department","Road Safety and Standards Division,Road Safety 1 Section"," Vacant","Engr 2/Road Safety 1","2294 2526"
-"Transport Department","Road Safety and Standards Division,Road Safety 1 Section","Miss CHAN Mei Ling","Sr Tech Offr/Road Safety 1","2294 2546"
-"Transport Department","Road Safety and Standards Division,Road Safety 1 Section","Mr. WU King Hung","Tech Offr/Road Safety 1","2294 2538"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mr. FU Shing Chi, Sam","Sr Engr/Road Safety 2","2294 2533"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mr. WONG Wing Sum, Stephen","Engr 1/Road Safety 2","2294 2529"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mr. YIP Cho Yam, Joseph","Engr 3/Road Safety 2","2294 2530"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mrs. WONG LI Sau Fan, Annette","Ch Tech Offr (Traffic)","2294 2536"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mr. WONG Lik Keung, Sunny","Sr Tech Offr 1/Road safety 2","2294 2541"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Ms. SUEN Oi Ling, katy","Sr Tech Offr 2/Road Safety 2","2294 2542"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mr. WONG Wai Kwong","Sr Tech Offr 3/Road Safety 2","2294 2540"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mr. LAM Ka Wing, Patrick","Tech Offr1/Road Safety 2","2294 2592"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Mr. LAM Tsz Hei","Tech Offr 2/Road Safety 2","2294 2592"
-"Transport Department","Road Safety and Standards Division,Road Safety 2 Section","Ms. CHOW Wing Yee, Whitney","Tech Offr3/Road Safety 2","2294 2542"
-"Transport Department","Road Safety and Standards Division,Standards Section","Mr. HO Kin Sing, Charles","Sr Engr/Standards","2294 2523"
-"Transport Department","Road Safety and Standards Division,Standards Section","Mr. CHENG Hung Leung","Transport Specialist (Standards)","2294 2627"
-"Transport Department","Road Safety and Standards Division,Standards Section","Mr. YIP Cho Yam, Joseph","Engr 1/Standards","2294 2530"
-"Transport Department","Road Safety and Standards Division,Standards Section","Mr. PIUS Hugo","Engr 2/Standards","2294 2528"
-"Transport Department","Road Safety and Standards Division,Standards Section","Mr. LAI Chin Wan","Engr 3/Standards","2294 2532"
-"Transport Department","Road Safety and Standards Division,Standards Section","Mr. YAN Mok Wai","Sr Tech Offr (Civil)","2294 2543"
-"Transport Department","Road Safety and Standards Division,Standards Section","Mr. TSANG Chi Hung","Tech Offr (Civil)","2294 2544"
-"Transport Department","Road Safety and Standards Division,Road Safety Audit Section","Mr. WONG Chi Hang, Gary","Sr Engr/Road Safety Audit","2294 2522"
-"Transport Department","Road Safety and Standards Division,Road Safety Audit Section","Mr. HUEN Ka Yu, Cyrus","Engr/Road Safety Audit","2294 2531"
-"Transport Department","Road Safety and Standards Division,Road Safety Audit Section","Mr. LAM Ka Wing, Patrick","Tech Offr/Road Safety Audit","2294 2592"
-"Transport Department","Road Safety and Standards Division,Statistics Section","Mr. SHARMA Parmod K.","Sr Statistician","3842 6064"
-"Transport Department","Road Safety and Standards Division,Statistics Section","Mr. WONG Chi Keung, Simon","Statistician","3842 6067"
-"Transport Department","Road Safety and Standards Division,Statistics Section","Ms. YEE Po Ying, Pinky","Stat Offr I (1)","3842 6068"
-"Transport Department","Road Safety and Standards Division,Statistics Section","Mr. MAN Ka Wah, Tommy","Stat Offr I (2)","3842 6069"
-"Transport Department","Technical Services Branch,Traffic Control Division","Mr. LI Sze Ming, Catar","Ch Engr/Traffic Control","3842 6111"
-"Transport Department","Technical Services Branch,Traffic Control Division","Mr. LI Kam Hung, Gary","Ch Tech Offr/Traffic Control","3842 6106"
-"Transport Department","Technical Services Branch,Traffic Control Division","Mr. NG Wang Kai, Desmond","Prin Tech Offr/P1","3842 6138"
-"Transport Department","Technical Services Branch,Traffic Control Division","Mr. TAM Chi Ching","Prin Tech Offr/P2","3842 6123"
-"Transport Department","Traffic Control Division,Hong Kong Section","Mr. LO Kong Sai, Isaac","Sr Engr/HK","3842 6119"
-"Transport Department","Traffic Control Division,Hong Kong Section","Mr. WONG Kin Nam, Kenny","Engr/HK E","3842 6120"
-"Transport Department","Traffic Control Division,Hong Kong Section","Mr. WONG Kin Nam, Kenny","Engr/HK W","3842 6121"
-"Transport Department","Traffic Control Division,Hong Kong Section","Ms. CHENG Wing Mui, Bonnie","Electronic Engr/HK","3842 6122"
-"Transport Department","Traffic Control Division,Kowloon Section","Mr. WONG Wai Man, Raymond","Sr Engr/Kln","3842 6134"
-"Transport Department","Traffic Control Division,Kowloon Section","Ms. CHU Ching Yee, Sophia","Engr/Kln E","3842 6149"
-"Transport Department","Traffic Control Division,Kowloon Section","Mr. LEUNG Wai Kit","Engr/Kln W","3842 6135"
-"Transport Department","Traffic Control Division,Kowloon Section","Mr. CHAU Chuk Keung","Electronic Engr /Kln 1","3842 6137"
-"Transport Department","Traffic Control Division,New Territories Section","Mr. HO King Chung, Stephen","Sr Engr/NT","3842 6146"
-"Transport Department","Traffic Control Division,New Territories Section","Ms. CHAN Ka Yan, Jodie","Engr/Tai Po &amp; North District","3842 6147"
-"Transport Department","Traffic Control Division,New Territories Section","Ms. CHAN Ka Yan, Jodie","Engr/Tuen Mun &amp; Yuen Long","3842 6147"
-"Transport Department","Traffic Control Division,New Territories Section","Mr. CHAN Shui Yu, Alex","Engr/Tsuen Wan &amp; Shatin","3842 6148"
-"Transport Department","Traffic Control Division,New Territories Section","Mr. NG Man To","Electronic Engr/NT","3842 6150"
-"Transport Department","Traffic Control Division,New Territories Section","Ms. CHAN Wai Man, Amy","Prin Tech Offr/P2","3842 6123"
-"Transport Department","Traffic Control Division,New Territories Section","Mr. CHAN Shui Yu, Alex","Engr/Tuen Mun &amp; Yuen Long","3842 6148"
-"Transport Department","Traffic Control Division,Project 1Section","Mr. CHAN Wai Tak","Sr Engr/Project 1","3842 6113"
-"Transport Department","Traffic Control Division,Project 1Section","Mr. WU Man Kit","Electronic Engr/Project 1/1","3842 6160"
-"Transport Department","Traffic Control Division,Project 1Section","Mr. LEE Ho Fung","Electronic Engr/Project 1/2","3842 6136"
-"Transport Department","Traffic Control Division,Project 2 Section","Mr. WONG Wing Kwong, Freeman","Sr Engr/Project 2","3842 6128"
-"Transport Department","Traffic Control Division,Project 2 Section","Mr. THAM Chun Yin, Johnny","Engr/ Project 2 Planning","3842 6167"
-"Transport Department","Traffic Control Division,Project 2 Section","Mr. LAI Pak Cheung","Electronic Engr/Project 2/1","3842 6168"
-"Transport Department","Traffic Control Division,Project 2 Section","Mr. LAI Pak Cheung","Electronic Engr /Project 2/ 2","3842 6169"
-"Transport Department","Traffic Control Division,Special Duties Section","Mr. LI  Chi Chiu","Transport Specialist/Traffic Control","3842 6170"
-"Transport Department","Traffic Control Division,Special Duties Section","Mr. LAM Wang Kei, Kiwanis","Engr/Special Duties (Project)","3842 6171"
-"Transport Department","Traffic Control Division,Special Duties Section","Mr. SIN Chun Ho, Leon","Electronic Engr/Special Duties","3842 6161"
-"Transport Department","Technical Services Branch,Traffic Survey & Support Division","Mr. LEE Chi Shing","Ch Engr/Traffic Survey &amp; Support","2829 5335"
-"Transport Department","Traffic Survey & Support Division,Survey and Projects Section","Ms. LEUNG Cheuk Lam, Shirley","Sr Engr/Survey and Projects","2294 2513"
-"Transport Department","Traffic Survey & Support Division,Survey and Projects Section","Mr. LAW Man Chor","Engr/Projects 1","2829 5806"
-"Transport Department","Traffic Survey & Support Division,Survey and Projects Section","Mr. LEUNG See Yuen, Gary","Engr/Projects 2","2294 2514"
-"Transport Department","Traffic Survey & Support Division,Survey and Projects Section","Ms. TANG Oi Tai, Zara","Engr/Survey 1","2829 5310"
-"Transport Department","Traffic Survey & Support Division,Survey and Projects Section","Mr. LIU Po Wa, Paul","Engr/Survey 2","2829 5393"
-"Transport Department","Traffic Survey & Support Division,Information Technology Section","Mr. WONG Lai Man","Sr Engr/Information Technology","2294 2581"
-"Transport Department","Traffic Survey & Support Division,Information Technology Section","Mr. TAM Ka Chun, Tommy","Engr/Information Technology 1","2294 2509"
-"Transport Department","Traffic Survey & Support Division,Information Technology Section","Ms. LI Wing Yee, Wendy","Engr/Information Technology 2","2829 5527"
-"Transport Department","Technical Services Branch,Smart Mobility Division","Mr. HO Wai Kee, Ricky","Ch Engr/Smart Mobility","2829 5531"
-"Transport Department","Smart Mobility Division,Smart Mobility Section","Ms. HO Choi Yan, Candy","Sr Engr/Smart Mobility 1","2829 5385"
-"Transport Department","Smart Mobility Division,Smart Mobility Section","Mr. CHOI Kai Bong, Martin","Engr/Smart Mobility 11","2829 5310"
-"Transport Department","Smart Mobility Division,Smart Mobility Section","Ms. SUM Pui Sze, Priscilla","Engr/Smart Mobility 12","2294 2563"
-"Transport Department","Smart Mobility Division,Smart Mobility Section","Ms. YIP Pui Chi, Jacqueline","Engr/Smart Mobility 13","2829 5546"
-"Transport Department","Smart Mobility Division,Transport Information System Section","Mr. HSIE Kwun Kuen, Joe","Sr Engr/Smart Mobility 2","2294 2507"
-"Transport Department","Smart Mobility Division,Transport Information System Section","Mr. LO Chi Chung, Nelson","Engr/Smart Mobility 21","2829 5496"
-"Transport Department","Smart Mobility Division,Transport Information System Section","Mr. LO Chi Chung, Nelson","Engr/Smart Mobility 22","2829 5496"
-"Transport Department","Smart Mobility Division,Transport Information System Section","Ms. LAU Pui Shan","Prin Tech Offr (Traffic)/ Smart Mobility","3842 6243"
-"Transport Department","Smart Mobility Division,In-vehicle Unit Technology Section","Mr. FONG Shung Kit, George","Sr Engr/Smart Mobility 3","2829 5247"
-"Transport Department","Smart Mobility Division,In-vehicle Unit Technology Section","Mr. WONG Pak Hei, Patrick","Engr/Smart Mobility 31","2294 2628"
-"Transport Department","Smart Mobility Division,In-vehicle Unit Technology Section","Mr. CHAN King Sze, Gavin","Engr/Smart Mobility 32","2829 5439"
-"Transport Department","Smart Mobility Division,Integrated Mobile Applications Section","Mr. WONG Kwok Leung","Sr Engr/Smart Mobility 4","2829 5343"
-"Transport Department","Smart Mobility Division,Integrated Mobile Applications Section","Mr. IP Chun Lung, Charlie","Engr/Smart Mobility 41","2829 5567"
-"Transport Department","Smart Mobility Division,Integrated Mobile Applications Section","Mr. FUNG Ka Tsun, Simon","Engr/Smart Mobility 42","2829 5564"
-"Transport Department","Smart Mobility Division,Integrated Mobile Applications Section","Mr. CHAN Kwok Keung, Jack","Electronic Engr/Smart Mobility 43","2294 2577"
-"Transport Department","Smart Mobility Division,Drawing Office","Mr. CHEN Ping King, Victor","Tech Offr (Civil)","2829 5283"
-"Transport Department","Smart Mobility Division,General Registry","Mr. MAN Chi Kwok","CO","2294 2644"
-"Transport Department","Transport Department,Urban Regional Office","","",""
-"Transport Department","Urban Regional Office,Task Force/Walkability","Mr. LUK Fuk Man, Kevin","Programme Manager/Walkability","2829 5213"
-"Transport Department","Task Force/Walkability,Walkability Study Team","Ms. LEUNG Kar Yee, Carrie","Sr Engr/Walkability 1","2294 2506"
-"Transport Department","Task Force/Walkability,Walkability Study Team","Ms. FONG Wai Man, Selina","Sr Engr/Walkability 2","2294 2559"
-"Transport Department","Task Force/Walkability,Walkability Study Team","Mr. YEUNG Wing Lok, Sunny","Engr 1/Walkability","2294 2537"
-"Transport Department","Task Force/Walkability,Walkability Study Team","Mr. YUEN Wai Cheung, Bryan","Engr 2/Walkability","2294 2576"
-"Transport Department","Task Force/Walkability,Walkability Study Team","Mr. LAW Ho Kin, John","Engr 3/Walkability","2294 2603"
-"Transport Department","Task Force/Walkability,Walkability Study Team","Ms. NG Yu Yun, June","Engr 4/Walkability","2294 2527"
-"Transport Department","Urban Regional Office,Transport Operations (Urban) Division","Mr. POON Chi Man, Edmond","Prin Transp Offr/Urban","2829 5460"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. MOK Ying Kit, Kenneth","Ch Transp Offr / Hong Kong","2829 5461"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. AU Siu Fung, Kelvin","Sr Transp Offr / Central &amp; Western","2829 5443"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. LI Yiu Man, Louis","Sr Transp Offr / Eastern","2829 5440"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. LO Chun Hong, Dennis","Sr Transp Offr/Housing and Projects","2294 2534"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. HON Cho Yiu, Kenneth","Sr Transp Offr / Southern","2829 5442"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. LAI Sing Chuen, Gary","Sr Transp Offr / Wan Chai","2829 5441"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Miss LEE Christine","Transp Offr/Central","2294 2582"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. LEE Wing Sum, Ivan","Transp Offr / Eastern 1","2829 5447"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Miss NG Ka Yan, Yvonne","Transp Offr / Eastern 2","2829 5448"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Miss CHUNG Wai Ying, Tracy","Transp Offr / Southern 1","2829 5445"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. LAM Pok Yin, Sam","Transp Offr / Southern 2","2829 5288"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. LAI Yiu Ting, Dickson","Transp Offr / Wan Chai","2829 5816"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Mr. MO Man Hoi, Ken","Transp Offr/Housing and Projects","2829 5502"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Miss NG Ka Yan, Yvonne","Transp Offr/Western","2294 2579"
-"Transport Department","Transport Operations (Urban) Division,Hong Kong Island Section","Miss LEUNG Man Hei, Milly","Transp Offr / Projects","2829 5451"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Miss PO Pui Man, Karen","Ch Transp Offr/Kowloon","2399 2480"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. WONG  Chi Tak, Keith","Sr Transp Offr/Sham Shui Po","2399 2484"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Ms. LEUNG Man Ling, Karen","Sr Transp Offr/Wong Tai Sin","2399 2485"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. TAM Ka Kei, Eric","Sr Transp Offr/Yau Tsim Mong","2399 2482"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. WONG Kin Wai , Kelvin","Transp Offr/Wong Tai Sin","2399 2492"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. TO Cheuk Hei, Horace","Transp Offr/Sham Shui Po","2399 2491"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. CHAN Chin Hung, Joe","Transp Offr/Yau Tsim","2399 2486"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. NG Tai Wai, David","Transp Offr/Mong Kok","2399 2487"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. KU Chi Wa, Rodney","Transp Executive /Wong Tai Sin","2399 2766"
-"Transport Department","Transport Operations (Urban) Division,Kowloon Section","Mr. CHEUNG Chi Keung","Sr Transp Insp/Kowloon","3106 8462"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Mr. NG Leung Shui, Tommy","Ch Transp Offr/Housing Project","2294 2508"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Mr. WONG Yee Kui","Sr Transp Offr/Kowloon City","2399 2481"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Miss WONG Yuk Ting, Alice","Sr Transp Offr/Housing Project","2294 2636"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Miss SZE Suk Wai, Muriel","Sr Transp Offr/Kai Tak &amp; Projects","2829 5500"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Ms. CHEUNG Suk Ling, Cindy","Sr Transp Offr/Kwun Tong","2399 2483"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Mr. CHEUNG Ho Lam, Marco","Transp Offr/Kowloon City","2399 2490"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Miss WONG Ka Hei, Nicole","Transp Offr/Kwun Tong 1","2399 2488"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Miss TSANG Sze Yi, Ida","Transp Offr/Kwun Tong 2","2399 2540"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Mr. CHEUNG Kin Leung, Raymond","Transp Offr/Housing Project 1","2829 5446"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section","Miss TAM Sze Long, Sharon","Transp Offr/Housing Project 2","2294 2535"
-"Transport Department","Transport Operations (Urban) Division,Housing Project Section"," Vacant","Transp Offr/Kai Tak &amp; Projects","2829 5502"
-"Transport Department","Urban Regional Office,Traffic Engineering (HK) Division","Mr. LEUNG Siu Kong, Eddie","Chief Traffic Engineer / Hong Kong","2829 5405"
-"Transport Department","Traffic Engineering (HK) Division,Central & Western District Section","Mr. CHENG Kwan Nang, Clarence","Sr Engr/Central &amp;Western","2829 5407"
-"Transport Department","Traffic Engineering (HK) Division,Central & Western District Section","Mr. FUNG Wai Yan, Ryan","Engr/Central &amp; Western 1","2829 5426"
-"Transport Department","Traffic Engineering (HK) Division,Central & Western District Section","Mr. TAM Sze Wai, Vincent","Engr/Central &amp; Western 2","2829 5427"
-"Transport Department","Traffic Engineering (HK) Division,Central & Western District Section","Mr. YIP Wang Yu, Gordon","Engr/Central &amp; Western 3","2829 5493"
-"Transport Department","Traffic Engineering (HK) Division,Central & Western District Section","Mr. LEE Kin Yee","Sr Tech Offr (Traffic)/Central &amp; Western","2829 5413"
-"Transport Department","Traffic Engineering (HK) Division,Eastern District & General Section","Mr. LAI  Hiu Ping, Rex","Sr Engr/Eastern &amp; General","2829 5408"
-"Transport Department","Traffic Engineering (HK) Division,Eastern District & General Section","Mr. LAI Hiu Ping, Rex","Engr/Eastern 1","2829 5539"
-"Transport Department","Traffic Engineering (HK) Division,Eastern District & General Section","Mr. KWAN Wing Yip","Engr/Eastern 2","2829 5524"
-"Transport Department","Traffic Engineering (HK) Division,Eastern District & General Section","Mr. YUEN Kin Wah","Prin Tech Offr (Traffic) 2","2829 5423"
-"Transport Department","Traffic Engineering (HK) Division,Eastern District & General Section","Ms. TONG Mi Ying","Sr Tech Offr (Traffic)/Eastern &amp; General","2294 2553"
-"Transport Department","Traffic Engineering (HK) Division,Eastern District & General Section","Ms. WAN Yuen Lam, Vivian","E/E3 &amp;G","2829 5420"
-"Transport Department","Traffic Engineering (HK) Division,Housing & Planning Section","Mr. WU Kwok Keung, Tony","Sr Engr/Housing &amp; Planning","2829 5458"
-"Transport Department","Traffic Engineering (HK) Division,Housing & Planning Section","Mr. TANG Weian, Mark","Engr/Housing &amp; Planning 1","2829 5261"
-"Transport Department","Traffic Engineering (HK) Division,Housing & Planning Section","Mr. LI Yick Chun, Wing","Engr/Housing &amp; Planning 2","2829 5424"
-"Transport Department","Traffic Engineering (HK) Division,Housing & Planning Section","Mr. CHIU Chi Pong","Sr Tech Offr (Traffic)/Housing &amp; Planning","2829 5411"
-"Transport Department","Traffic Engineering (HK) Division,Southern District","Mr. CHEUNG Kwok Fai, Ivan","Sr Engr/Southern","2829 5410"
-"Transport Department","Traffic Engineering (HK) Division,Southern District","Mr. SO Wing Kin","Engr/Southern 1","2829 5802"
-"Transport Department","Traffic Engineering (HK) Division,Southern District","Mr. HUNG Tsz Hin","Engr/Southern 2","2829 5428"
-"Transport Department","Traffic Engineering (HK) Division,Southern District","Mr. LAM Yun Hei, Brian","Engr/Peak","2829 5429"
-"Transport Department","Traffic Engineering (HK) Division,Southern District","Ms. CHO Man Yee, Gennifer","Prin Tech Offr (Traffic) 1","2829 5419"
-"Transport Department","Traffic Engineering (HK) Division,Southern District","Ms. TONG  Suk Ha","Sr Tech Offr (Traffic)/Southern","2829 5412"
-"Transport Department","Traffic Engineering (HK) Division,Wan Chai District Section","Mr. AU Ka Kit, Alex","Sr Engr/Wan Chai","2829 5569"
-"Transport Department","Traffic Engineering (HK) Division,Wan Chai District Section","Ms. FONG Hau Yin, Fiona","Engr/Wan Chai 1","2294 2600"
-"Transport Department","Traffic Engineering (HK) Division,Wan Chai District Section","Mr. TANG Siu Chung","Engr/Wan Chai 2","2829 5425"
-"Transport Department","Traffic Engineering (HK) Division,Wan Chai District Section","Mr. TANG Weian, Mark","Engr/Wan Chai 3","2829 5421"
-"Transport Department","Traffic Engineering (HK) Division,General Registry","Ms. HO Ho Yuen, Circle","CO/ Gen Reg","2829 5815"
-"Transport Department","Traffic Engineering (HK) Division,Drawing Office","Ms. CHAN Hau Chun","Sr Tech Offr (Civil)/1","2829 5430"
-"Transport Department","Traffic Engineering (HK) Division,Drawing Office","Mr. HEUNG Chung Fai, Alfred","Sr Tech Offr (Civil)/2","2829 5433"
-"Transport Department","Traffic Engineering (HK) Division,Hillside Escalator Links and Elevator Systems Team","Mr. TANG Lai Yin, Ricky","Sr Engr/Hillside Escalator Links","3842 6218"
-"Transport Department","Traffic Engineering (HK) Division,Hillside Escalator Links and Elevator Systems Team","Ms. CHAM Shuk Wun","Engr/ Hillside Escalator Links 1","3842 6219"
-"Transport Department","Traffic Engineering (HK) Division,Hillside Escalator Links and Elevator Systems Team","Miss CHAN Fung Ping, Innes","Engr/ Hillside Escalator Links 2","3842 6220"
-"Transport Department","Urban Regional Office,Traffic Engineering (Kln.) Division","Mr. NGU Chi Vi, David","Chief Traffic Engineer / Kowloon","2399 2522"
-"Transport Department","Traffic Engineering (Kln.) Division,Housing & Planning Section","Mr. CHAN Chung Hin","Sr Engr/Housing &amp; Planning/Kln","2399 2500"
-"Transport Department","Traffic Engineering (Kln.) Division,Housing & Planning Section","Miss YIU Ka Yi, Connie","Engr/Housing &amp; Planning 2 /Kln","2399 2510"
-"Transport Department","Traffic Engineering (Kln.) Division,Housing & Planning Section","Mr. CHENG Chi Wai, Raymond","Engr/Housing &amp; Planning 3/Kln","2399 2767,2399 2777"
-"Transport Department","Traffic Engineering (Kln.) Division,Housing & Planning Section","Mr. TAI Hoi Yau, Marco","Engr/Energizing Kowloon East","2399 2711"
-"Transport Department","Traffic Engineering (Kln.) Division,Housing & Planning Section","Mr. LAM Kar Kit, Alex","Sr Tech Offr/Housing &amp; Planning /Kln","2399 2467"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District Central Section","Mr. TUNG Chun Yin, Clyde","Sr Engr/Kln District Central","2399 2523"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District Central Section","Mr. MACK Ting Kai","Engr/Hung Hom","2399 2504"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District Central Section","Ms. LUK Nga Yee, Christine","Engr/Kowloon City","2399 2512"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District Central Section","Mr. CHOW Ka Lok, Vincent","Engr/Yau Tsim","2399 2511"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District Central Section","Mr. TSANG Kwok Wing","Prin Tech Offr (Traffic)/Kln","2399 2466"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District Central Section","Mr. YEUNG Wai Chung, Sunny","Sr Tech Offr (Traffic)/Kln Central","2399 2517"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Mr. WONG Siu Man, Simon","Sr Engr/Kln District West","2399 2520"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Ms. LAW Ming Chu, Cecilia","Engr/Planning West 1","2399 2478"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Mr. HUANG Hiu Chung, Sam","Engr/Planning West 2","2399 2506"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Mr. HUANG Hiu Chung, Sam","Engr/Mongkok &amp; Yaumatei","2399 2509"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Ms. LAW Ming Chu, Cecilia","Engr/Mongkok &amp; Yaumatei","2399 2509"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Miss LO Ka Wai, Patsy","Engr/Sham Shui Po","2399 2479"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Mr. TAI Seung Kun","Engr/Special Duties 1","2399 2501"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District West Section","Mr. TAM Wai Hung","Sr Tech Offr (Traffic)/Kln West","2399 2518"
-"Transport Department","Traffic Engineering (Kln.) Division,Administration Support","Miss CHAN Yuk Fung, Phoenix","EO/Urban (Kln) &amp; NT","2399 2533"
-"Transport Department","Traffic Engineering (Kln.) Division,Administration Support","Mrs. YIP LEUNG Pui Fong, Rosita","CO/Kln Region","2399 2193"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (North) Section","Ms. NG Ka Wai, Annisa","Sr Engr/Kln District East (North)","2399 2503"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (North) Section","Ms. WONG Ka Lin, Janet","Engr/Housing &amp; Planning 1/Kln","2399 2507"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (North) Section","Ms. CHAN Ka Yan","Engr/Kwun Tong 3","2399 2513"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (North) Section","Mr. KWOK Chin Yeung, Ronald","Engr/Wong Tai Sin","2399 2524"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (North) Section","Mr. KWOK Chin Yeung, Ronald","Engr/Universal Accessibility Programme","2399 2524"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (North) Section","Mr. LAI Wai Ming, Alex","Sr Tech Offr(Traffic)/Kln East","2399 2516"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (South) Section","Mr. FUNG Kin Ip, Kevin","Sr Engr/Kln District East (South)","2399 2776"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (South) Section","Mr. HO Ming Him, Donald","Engr/Kwun Tong 1","2399 2502"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (South) Section","Mr. FUNG Cho Kin, Joe","Engr/Kwun Tong 2","2399 2459"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (South) Section","Mr. LEUNG Pak Wa","Engr/Kwun Tong 4","2399 2732"
-"Transport Department","Traffic Engineering (Kln.) Division,Kln. District East (South) Section","Mr. LAW Sai Yau, Alex","Sr Tech Offr(Traffic)/Land Supply","2399 2476"
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="zh-hk">
+<head>
+<base href="/"/>
+<META HTTP-EQUIV="last_modified" CONTENT="NOW">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
+<link type="text/css" rel="stylesheet" href="./css/reset.css">
+<link type="text/css" rel="stylesheet" href="./css/common.css">
+<link type="text/css" rel="stylesheet" href="./css/style.css">
+<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
+<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
+<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
+<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
+<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
+<script type="text/JavaScript" src="./js/jquery.js"></script>
+<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
+<script type="text/JavaScript" src="./js/gtd.js"></script>
+</head>
+<body class="chi">
+<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
+<table id="tbl_header">
+<tr>
+	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
+	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
+	<td class="col_lang"><a href='/TelFileDownload?dept=TD&lang=ENG&fileType=csv' title="Display In English">English</a></td>
+</tr>
+</table>
+<TABLE id="tbl_menu_bar">
+  <TBODY>
+  <TR>
+    <td class="col_logo">
+    <IMG alt="政府資訊中心" 
+      src="images/hksar2.gif" width="45" height="41"></td>
+    <TD>
+    <div id="menu_tab">
+    <ul>
+    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
+    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
+    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
+    </ul>
+    </div>    
+    </TD>
+    <td>
+    	<div id="menu_toolbar">
+	    	<ul>
+	    		<li>
+					<div id="mycolorPos">
+						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
+						<div id="mycolorDiv">
+							<table>
+								<tr>
+									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
+									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
+									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
+									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
+								</tr>
+							</table>
+						</div>
+					</div>
+	    		</li>
+	    		<li style="margin-right:15px;">										    			
+					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
+					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
+					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
+	    		</li>
+	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
+	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
+	    	</ul>
+    	</div>
+    </td>    
+    </TR></TBODY>
+</TABLE>
+<div class="offscreen"><a name="skipToContent"></a></div>
+<div id="content_container">
+
+<table >
+	<tr>
+	<td align="center">
+		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
+			<tr>
+				<td style="text-align: justify;text-justify: inter-ideograph;">
+					
+<style>
+
+table.ou td{	
+	vertical-align:top;	
+}
+
+table.ou td.num{
+	width:2em;
+}
+
+div.disclaimer_pt_wrapper:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+div.disclaimer_pt_label{
+	float:left;	
+	display:inline-block;
+	
+}
+
+div.disclaimer_pt_content{
+	 padding-left:1.3em;	
+}
+ 
+</style>						
+				<strong>免責聲明</strong>
+				<br><br>
+				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
+				<br>
+				<strong><a id="copyright"></a>版權公告</strong>
+				<br><br>
+
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">1.</div>
+					<div class="disclaimer_pt_content">
+						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
+					</div>
+				</div>
+				
+				<br>
+				
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">2.</div>
+					<div class="disclaimer_pt_content">
+						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
+					</div>
+				</div>
+				
+				<div style="padding-left:1.3em;">			
+					<table class="ou">
+					<tr>
+						<td class="num">(i)</td>
+						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
+					</tr>
+					<tr>
+						<td class="num">(ii)</td>
+						<td>宣傳及／或推廣任何貨品及服務；以及</td>
+					</tr>
+					<tr>
+						<td class="num">(iii)</td>
+						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
+					</tr>										
+					</table>
+					<p>(統稱“受限制用途”)</p>				
+				</div>
+				<br>			
+							
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">3.</div>
+					<div class="disclaimer_pt_content">
+						在不損害上文第2條的情況下，
+					</div>
+				</div>
+								
+				<br>
+				<div style="padding-left:1.3em">					
+					<div class="disclaimer_pt_wrapper">
+						<div class="disclaimer_pt_label">(a)</div>
+						<div class="disclaimer_pt_content">
+							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
+						</div>
+					</div>										
+					<div style="padding-left:1.5em">
+						<br>
+						<table class="ou">
+						<tr>
+							<td class="num">(i)</td>
+							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
+						</tr>
+						<tr>
+							<td class="num">(ii)</td>
+							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
+						</tr>
+						<tr>
+							<td class="num">(iii)</td>
+							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
+						</tr>
+						<tr>
+							<td class="num">(iv)</td>
+							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
+						</tr>															
+						</table>
+					</div>
+				</div>	
+				<br>
+				<div style="padding-left:1em">
+					<div class="disclaimer_pt_wrapper">
+						<div class="disclaimer_pt_label">(b)</div>
+						<div class="disclaimer_pt_content">
+							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
+						</div>
+					</div>									
+				</div>
+				<br>
+				<div style="padding-left:1em">
+					<div class="disclaimer_pt_wrapper">
+						<div class="disclaimer_pt_label">(c)</div>
+						<div class="disclaimer_pt_content">
+							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
+						</div>
+					</div>					
+				</div>
+				<br>
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">4.</div>
+					<div class="disclaimer_pt_content">
+						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
+					</div>
+				</div>
+					
+					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
+						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
+						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
+						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
+						</label>
+					</div>								
+				</td>
+			</tr>
+		</table>
+				 
+		<form action="/ack_disclaimer_CHI.jsp" method="post">
+			<input type="hidden" name="isSubmit" value="Y">
+			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DTD%26lang%3DENG%26fileType%3Dcsv">				
+			<table style="width:83%">			
+				<tr>
+					<td align="center">
+					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
+					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
+					</td>
+				</tr>
+			</table>
+		</form>
+	</td>
+	</tr>
+</table>
+
+	<div id="badges">
+		<ul id="conformance">
+			<li>
+				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
+					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
+				</a>
+			</li>
+			<li>
+				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
+					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+</body></html>

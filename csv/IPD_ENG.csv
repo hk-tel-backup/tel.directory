@@ -1,264 +1,157 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=IPD&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DIPD%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Intellectual Property Department","Mr. WONG Fuk Loi, David, JP","Director of Intellectual Property","2961 6888"
+"Intellectual Property Department","Ms. NG Maria Kaiser","Deputy Director of Intellectual Property","2961 6821"
+""
+"Organisation","Service Name","Office Tel"
+"Intellectual Property Department","Enquiry","2961 6901"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Intellectual Property Department","Intellectual Property Department","","",""
+"Intellectual Property Department","Intellectual Property Department,Directorate & Legal Officers","","",""
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Mr. WONG Fuk Loi, David, JP","Director of Intellectual Property","2961 6888"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. NG Maria Kaiser","Deputy Director of Intellectual Property","2961 6821"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. CHONG Lai Kuen, Michelle","Asst Dir of Intellectual Property (Advisory)","2961 6956"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Mr. WONG Man Tai, Frederick","Asst Dir of Intellectual Property (Hearings)","2961 6952"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. POON Man Han, Joyce","Asst Dir of Intellectual Property (Copyright)","2961 6822"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. TSE Ba Sai, Elsie","Asst Dir of Intellectual Property (Trade Marks)","2961 6806"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Miss QUEK Finnie","Assistant Principal Solicitor (Hearings) 1","2961 6838"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. LAW Suk Yee, Connie","Assistant Principal Solicitor (Hearings) 2","2961 6896"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. HUI Lai Shan, Sandra","Sr. Solicitor (Advisory) 1","2961 6897"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Miss WONG Ching Yan, Maggie","Sr. Solicitor (Advisory) 2","2961 6870"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Miss WONG Wai Pik, Emily","Sr. Solicitor (Copyright) 1","2961 6941"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Miss CHUNG Tsui Chi, Gigi","Sr. Solicitor (Advisory) 3","2961 6975"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Mr. SAE-NG Kitti, Ryan","Sr. Solicitor (Copyright) 3","2961 6854"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. NG Wah Hung, Winnie","Sr. Solicitor (Hearings) 1","2961 6859"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. KUN Sze Ki, Jasmine","Sr. Solicitor (Hearings) 2","2961 6955"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. WAN Chung Ying, Doreen","Sr. Solicitor (Hearings) 3","2961 6944"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. MAK Wing Yee, Winnie","Sr. Solicitor (Trade Marks) 1","2961 6869"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Mr. LAM Wong Sheung, Raymond","Sr. Solicitor (Trade Marks) 2","2961 6927"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Miss MOK Carole","Sr. Solicitor (Trade Marks) 3","2961 6933"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Miss TSANG Kin Mei, Michelle","Sr. Solicitor / Special Duties","2961 6971"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. LUK Wai Wun, Vivien","Solicitor (Copyright)","2961 6841"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Mr. CHAN Kwok Wai, Alvin","Solicitor (Advisory) 2","2961 6959"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. IP Oi Yee, Irene","Solicitor (Hearings)","2961 5637"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. LEE Cheuk Yan, Dora","Solicitor (Trade Marks) 3","2961 6932"
+"Intellectual Property Department","Directorate & Legal Officers,Headquarters","Ms. YIP Hong Yiu, Janice","Solicitor (Trade Marks) 4","2961 6835"
+"Intellectual Property Department","Directorate & Legal Officers,Sub-Office","Mr. TSANG Chi Sham, Thomas","Asst Dir of Intellectual Property (Patents &amp; Designs)","3547 2287"
+"Intellectual Property Department","Directorate & Legal Officers,Sub-Office","Mr. SHAY Leslie","Sr. Solicitor (Patents &amp; Designs) 1","3543 1578"
+"Intellectual Property Department","Directorate & Legal Officers,Sub-Office","Mr. LAU Kwok Keung, Derek","Sr. Solicitor (Patents &amp; Designs) 2","3547 2244"
+"Intellectual Property Department","Directorate & Legal Officers,Sub-Office","Mr. YEUNG Kin Hang, Joseph","Solicitor (Patents &amp; Designs) 1","3543 1575"
+"Intellectual Property Department","Directorate & Legal Officers,Sub-Office","Mr. KWOK Pak Chi, Frederick","Solicitor (Patents &amp; Designs) 2","3543 1576"
+"Intellectual Property Department","Directorate & Legal Officers,Sub-Office","Mr. OEY Pui Fat, Vincent","Solicitor (Patents &amp; Designs) 3","3543 1587"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Ms. TSANG Yuen Pui, Emily","Departmental Secretary","2961 6812"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Ms. HO Wing Yin, Elaine","Deputy Departmental Secretary (1)","2961 6813"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Ms. POON Chui Wah, Annie","Deputy Departmental Secretary (2)","2961 6810"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Ms. CHEUNG Hoi Yin, Idy","Executive Officer (Human Resources &amp; Finance)","2961 6974"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Miss CHU Lok Yin, Lorin","Executive Officer (General)","2961 6899"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Ms. MAK Wai Ping, Kynie","Senior Clerical Officer (Administration Unit)","2961 6918"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Ms. LIU Lai Sim, Elsa","Clerical Officer (Per)","2961 6814"
+"Intellectual Property Department","Intellectual Property Department,Administration Unit","Mr. TANG Chu Kei, Terry","Clerical Officer (Accts)","2961 6815"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss WAN Shuk Man, Brenda","Principal Intellectual Property Examiner","2961 6872"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. WONG Mei Yee, Joey","Chief Intellectual Property Examiner (Automation)/Chief Intellectual Property Examiner (Operations)2","2961 6865"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. YU Pik Ha, Vivian","Chief Intellectual Property Examiner (Strategy)","2961 6894"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. CHIU Wai Ching, Livia","Chief Intellectual Property Examiner (Operations)1/Chief Intellectual Property Examiner(Operations)2","2961 6857"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LEE Kit Yee, Paula","Sr. Intellectual Property Examiner","2961 6953"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. SIN Sung Ho, Belinda","Sr. Intellectual Property Examiner","2961 6849"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. PAU Yee Wa, Eva","Sr. Intellectual Property Examiner","2961 6856"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mrs. WONG YU Lee Hua, Joyce","Sr. Intellectual Property Examiner","2961 6906"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LEE Cheung Lan, Shina","Sr. Intellectual Property Examiner","2961 6827"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. HO Lai Fong, Ellen","Sr. Intellectual Property Examiner","2961 6936"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. HO Wai Man, Raymond","Sr. Intellectual Property Examiner","2961 6878"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LAM Ching Fa, Rebecca","Sr. Intellectual Property Examiner","2961 6858"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss WONG So Wan, Wannie","Sr. Intellectual Property Examiner","2961 6880"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss KAN Mee Yuk, Teresa","Sr. Intellectual Property Examiner","2961 6909"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. NG Lai Chu, Winnie","Sr. Intellectual Property Examiner","2961 6873"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. YANG Yin King, Maggie","Intellectual Property Examiner I","2961 5638"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LAW Wai Nar, Vienna","Intellectual Property Examiner I","2961 6898"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LAO Wai Wun, Petra","Intellectual Property Examiner I","2961 6860"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. FOK Yee Ping, Rita","Intellectual Property Examiner I","2961 6826"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LEUNG Ka Wa, Karen","Intellectual Property Examiner I","2961 6800"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss YU Wing Mei, Joanna","Intellectual Property Examiner I","2961 6867"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. WONG Pui Ching, Patrick","Intellectual Property Examiner I","2961 6904"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. WONG Yau Yam, Tony","Intellectual Property Examiner I","2961 8349"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LI Yuk Wah, Veness","Intellectual Property Examiner I","2961 6864"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LAM Kwai Heung, Venus","Intellectual Property Examiner I","2961 6915"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss CHUNG Shun Ming, Jacqueline","Intellectual Property Examiner I","2961 6830"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LEE Siu Lan, Ellie","Intellectual Property Examiner I","2961 6853"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss TAI Wing Yee, Queenie","Intellectual Property Examiner I","2961 6934"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. WU Yu Kwan, Francis","Intellectual Property Examiner I","2961 6958"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. HO Oi Ling","Intellectual Property Examiner II","2961 6881"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. FAN Lai Chun, Christine","Intellectual Property Examiner II","2961 6935"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. WONG Oi Ling, Iris","Intellectual Property Examiner II","2961 6905"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LEUNG Po Ying, Enique","Intellectual Property Examiner II","2961 6886"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LAI Ka Ming, Florence","Intellectual Property Examiner II","2961 5624"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. SHUM Wai Ming, Alex","Intellectual Property Examiner II","2961 6926"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LEE Katherine","Intellectual Property Examiner II","2961 6961"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss CHAN Lai Sha, Lisa","Intellectual Property Examiner II","2961 6949"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. CHAN Chun Hung, Stephen","Intellectual Property Examiner II","2961 6947"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. CHEUNG Ka Yan, Amy","Intellectual Property Examiner II","2961 6884"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss WONG Wai Man, Kitty","Intellectual Property Examiner II","2961 6836"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. LAW Tsz Yi, Felix","Intellectual Property Examiner II","2961 5629"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss SZE Pui Yee, Ingrid","Intellectual Property Examiner II","2961 6957"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss CHAN Yi Yu, Connie","Intellectual Property Examiner II","2961 7246"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss WO Hoi Yee, Shania","Intellectual Property Examiner II","2961 7245"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss CHONG Hiu Tung, Kennis","Intellectual Property Examiner II","2961 6805"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. WAT Chi Ki, Jacky","Intellectual Property Examiner II","2961 7244"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss CHENG Yuk Ki, Yuki","Intellectual Property Examiner II","2961 6929"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LI Yuen Ki, Margaret","Intellectual Property Examiner II","2961 6871"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. CHAN Siu Wing, Angelle","Intellectual Property Examiner II","2961 8357"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LAM Tak Hung, Chrystie","Intellectual Property Examiner II","2961 6943"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. HO Dip Yee, Steph","Intellectual Property Examiner II","2961 6861"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. YU Siu Ching, Amy","Intellectual Property Examiner II","2961 6837"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. TONG Chi Lap, Ronald","Intellectual Property Examiner II","2961 5639"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. NGAI Tsz Ho, Justin","Intellectual Property Examiner II","2961 6969"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. CHAN Ka Fai, Clement","Intellectual Property Examiner II","2961 6945"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LEE Wing Nok, Truska","Intellectual Property Examiner II","2961 6981"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. MOK Wai Chi, Chloe","Intellectual Property Examiner II","2961 8350"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. YEUNG Chun Fa, Josephy","Intellectual Property Examiner II","2961 6892"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LEUNG Yuk Chun, Yuki","Intellectual Property Examiner II","2961 8343"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Ms. LEE Siu Chuen, Kasey","Intellectual Property Examiner II","2961 6842"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Mr. CHAN Yee Tat, Felix","Intellectual Property Examiner II","2961 6985"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss NG Pui Fong, Clara","Intellectual Property Examiner","2961 6963"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss NG Hoi Yan, Yan","Intellectual Property Examiner","2961 6968"
+"Intellectual Property Department","Intellectual Property Department,Trade Marks Registry","Miss LEUNG Yee Ki, Minnie","Intellectual Property Examiner","2961 6976"
+"Intellectual Property Department","Trade Marks Registry,E-commerce","Ms. WONG Mei Yee, Joey","Chief Intellectual Property Examiner (Automation)/Chief Intellectual Property Examiner (Operations)2","2961 6865"
+"Intellectual Property Department","Trade Marks Registry,E-commerce","Mr. LI Tsz Yeung, Alex","Clerical Officer (Registries)","2961 6951"
+"Intellectual Property Department","Trade Marks Registry,Hearings","Miss WONG Wai Mei, Angela","Sr. Intellectual Property Examiner","2961 6855"
+"Intellectual Property Department","Trade Marks Registry,Hearings","Mr. LUI Kwan Tat, Edmund","Intellectual Property Examiner I","2961 6883"
+"Intellectual Property Department","Trade Marks Registry,Hearings","Miss WAN Lai Ngar, Leia","Intellectual Property Examiner I","2961 6950"
+"Intellectual Property Department","Trade Marks Registry,Hearings","Miss LEUNG Fong Ting, Fontaine","Intellectual Property Examiner I","2961 6876"
+"Intellectual Property Department","Trade Marks Registry,Hearings","Mr. LI Tsz Yeung, Alex","Clerical Officer (Registries)","2961 6951"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. LI Yung Cheung, Simpson","Chief Intellectual Property Examiner (Patents &amp; Designs)","3543 1588"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. LEE Nai Lap, Nigel","Sr. Patent Examiner(Electricity)","3543 1464"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. LUO Xiaoteng, Hugo","Sr. Patent Examiner(Mechanical Engineering)","3543 1574"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Ms. LI Bing Ai, Carol","Sr. Patent Examiner(Chemistry)","3543 1570"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Ms. KWAN Hiu Tung, Dawna","Patent Examiner(Chemistry)","3188 8058"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. HO Kam Hoi, Harvey","Sr. Intellectual Property Examiner","3543 1573"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. HAU Wang Chun, Andy","Intellectual Property Examiner I","3188 8023"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Ms. YIP Chiu Ying, Rita","Intellectual Property Examiner I","3188 8059"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. POON Wang Kee, Steve","Intellectual Property Examiner I","3543 1589"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Ms. HUI Mo Chee, Monica","Intellectual Property Examiner II","3188 8021"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Miss TAM Yee Man, Angela","Intellectual Property Examiner II","3188 8056"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. TSE Man Lung, Leon","Intellectual Property Examiner II","3188 8022"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. MUI Cheuk Ming, Matthew","Intellectual Property Examiner II","3188 8049"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Ms. YU Wang, Grace","Intellectual Property Examiner II","3188 5327"
+"Intellectual Property Department","Intellectual Property Department,Patents And Designs Registries","Mr. SIU Kin Lung","Intellectual Property Examiner","3188 8057"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Ms. WONG Siu Ling, Jenny","Head (Marketing Division)","2961 6818"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Ms. LAW Beg Shan, Janet","Senior Manager 1 (Marketing Division)","2961 6931"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Ms. TSE Pui Shan, Catherine","Senior Manager 2 (Marketing Division)","2961 6962"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Miss TSE Siu Yin, Agnes","Senior Manager 4 (Marketing Division)","2961 6948"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Miss TSE Wing Tung, Vreneli","Assistant Manager 1 (Marketing Division)","2961 6912"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Mr. LAM Hoi Hung, Dave","Assistant Manager 2 (Marketing Division)","2961 6960"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Miss CHING Chi Ying, Mandy","Assistant Manager 3 (Marketing Division)","2961 6907"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Ms. NG Choi Yan, Lois","Assistant Manager 4 (Marketing Division)","2961 6829"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Miss AU Ching Laam, Jamay","Assistant Manager 7 (Marketing Division)","2961 6844"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Ms. LIN Yonglang, Lyn","Assistant Manager 8 (Marketing Division)","2961 5635"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Mr. CHUNG Sin Hang, Andrew","Marketing Co-ordinator 1 (Marketing Division)","2961 5625"
+"Intellectual Property Department","Intellectual Property Department,Marketing Division","Miss TSANG Chui Yee, Tweety","Marketing Co-ordinator 2 (Marketing Division)","2961 6833"
+"Intellectual Property Department","Intellectual Property Department,Mainland Networking","Ms. YU Pik Ha, Vivian","Chief Intellectual Property Examiner (Strategy)","2961 6894"
+"Intellectual Property Department","Intellectual Property Department,Outsourcing Contractor Staff","Mr. NG Yiu Kwan, William","Project Manager (Information Technology Services)","2961 6845"
+"Intellectual Property Department","Intellectual Property Department,Outsourcing Contractor Staff","Ms. Man Chui Yu, Carman","Office Operation Services Manager","2961 8352"
+"Intellectual Property Department","Intellectual Property Department,Contract Management and Information Technology","Mr. TIN Chi Wah, Lawrence","Senior Systems Manager (Contract Management and Information Technology)","2961 6917"
+"Intellectual Property Department","Intellectual Property Department,Contract Management and Information Technology","Mr. CHAN Chun Hung, Albert","Systems Manager (Contract Management and Information Technology)","2961 6823"
+"Intellectual Property Department","Intellectual Property Department,Contract Management and Information Technology","Mr. HO Hiu Fung, Jacky","Analyst/Programmer I (Contract Management and Information Technology)","2961 6938"
+"Intellectual Property Department","Intellectual Property Department,Contract Management and Information Technology","Mr. CHOW Wai On, Lawrence","Project Manager 2","2961 6824"
+"Intellectual Property Department","Intellectual Property Department,Contract Management and Information Technology","Mr. LEE Kai Chuen, Keith","Systems Analyst 1","2961 6843"
+"Intellectual Property Department","Intellectual Property Department,Contract Management and Information Technology","Mr. CHOW Chun Fung","Systems Analyst 2","2961 8351"
+"Intellectual Property Department","Intellectual Property Department,Contract Management and Information Technology","Mr. LAI  Wai Hung, Craig","Systems Analyst 4","2961 6916"

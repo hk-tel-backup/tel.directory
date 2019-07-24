@@ -1,264 +1,969 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=WSD&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DWSD%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Water Supplies Department","Mr. WONG Chung Leung, JP","Dir of Water Supplies","2829 4400"
+"Water Supplies Department","Mr. CHAU Sai Wai, JP","Dep Dir of Water Supplies","2829 4466"
+""
+"Organisation","Service Name","Office Tel"
+"Water Supplies Department","Customer Telephone Enquiry Hotline (Water Supply and General Matters)(24 hrs)","2824 5000"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Water Supplies Department","Water Supplies Department","Mr. WONG Chung Leung, JP","Dir of Water Supplies","2829 4400"
+"Water Supplies Department","Water Supplies Department","Mr. CHAU Sai Wai, JP","Dep Dir of Water Supplies","2829 4466"
+"Water Supplies Department","Water Supplies Department,Development Branch","Mr. WONG Yan Lok, Roger","Asst Dir/Dev","2829 4361"
+"Water Supplies Department","Development Branch,Development (1) Division","Mr. LEUNG Chi Hung, Simon","Ch Engr/Dev 1 (on leave from 22.7.2019 to 4.8.2019)","2829 4446"
+"Water Supplies Department","Development Branch,Development (1) Division","Mr. LEE Kwun Chung","Ch Engr/Dev 1 (Acting)","2829 4446"
+"Water Supplies Department","Development Branch,Development (1) Division","Mr. WONG Yee Shing","Ch Engr/Dev 1 (Acting)","2829 4446"
+"Water Supplies Department","Development (1) Division,Training and Quality Management Unit","Mr. WONG Yee Shing","Sr Engr/Trg and Quality Mgt","2829 4373 "
+"Water Supplies Department","Development (1) Division,Training and Quality Management Unit","Ms. NG Ka Man, Dionne","Engr/Quality Mgt","2829 5883"
+"Water Supplies Department","Development (1) Division,Training and Quality Management Unit","Mr. HUNG Kin Hing","Engr/Trg","2829 5858"
+"Water Supplies Department","Development (1) Division,Training and Quality Management Unit","Mr. YEUNG Ho Ming, David","Ch Tech Offr/Grade Mgt","2829 4787"
+"Water Supplies Department","Development (1) Division,Training and Quality Management Unit","Mr. LAM Wai Keung","Ch Tech Offr/Trg","2829 4792"
+"Water Supplies Department","Development (1) Division,Training and Quality Management Unit","Mr. WONG Ka Kuen","Sr Insp/Trg","3427 2313,3701 5428"
+"Water Supplies Department","Development (1) Division,Training and Quality Management Unit","Mr. HO Tze Wah","Insp/Grade Mgt","2829 4772"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. FAN Chak Ming","Sr Engr/Water Loss Mgt 1 (Acting)","2829 5864"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. LEE Kwun Chung","Sr Engr/Water Loss Mgt 2","2294 2657"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. CHUNG Wai Fung","Sr Engr/Water Loss Mgt 3","2294 2725"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. FUNG Yuk Ming","Sr Engr/Asset Mgt (Acting)","2294 2662"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. LEUNG Wing Lim","Water Loss Team Leader","2829 4412"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit"," WONG Man Ching","Asst Mgt Team Leader","2829 5687"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. KWOK Ue Mo","Engr/Water Loss Mgt 1","2829 5684"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. LEE Cho Yin, Jason","Engr/Water Loss Mgt 2","2829 4791"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. CHEUNG Kwan Shek","Engr/Water Loss Mgt 3","2829 4440"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. LUI  Chun Fung","Engr/Water Loss Mgt 4","2829 4768"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Ms. CHUNG Sau Mui","Engr/Water Loss Mgt 5","2829 5604"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. YU Yat Hang","Engr/Water Loss Mgt 7","2829 4423"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. LO Chun Hin","Engr/Water Loss Mgt 8","2829 4453"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. SIU Kin Keung","Engr/Asset Mgt","2829 4451"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. WONG  Kwok Wa","Ch Tech Offr/Leak Detection 1","2829 4483 ,2152 5583"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. IP Wing Kwong","Ch Tech Offr/Leak Detection 2","2829 5679 ,2360 6248"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. NG Ping Kuen","Sr Insp/Leak Detection 1 (Acting)","3701 5419,2152 5582"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. SINN Tak Wah","Sr Insp/Water Loss Mgt 1","2829 5878"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. WONG Yiu Wai","Sr Insp/Water Loss Mgt 3","2829 5877"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. CHAN Chi Hang, Thomas","Insp/Leak Detecrion (2) 1","2360 6242"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. CHEUNG Tung","Insp/Leak Detection (2)  2","2856 8110"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. CHU Chit Kin, Johnny","Insp/Water Loss Mgt 1","2294 2706"
+"Water Supplies Department","Development (1) Division,Water Loss Management Unit","Mr. SIU Shui Kei","Insp/Water Loss Mgt 2","2829 4722"
+"Water Supplies Department","Development (1) Division,Planning Policy Unit","Mr. FU Sau Bong","Sr Engr/Planning Policy 1 (Acting)","2829 4447"
+"Water Supplies Department","Development (1) Division,Planning Policy Unit","Ms. WONG Yu Yu","Engr/Planning Policy 1","2829 4450"
+"Water Supplies Department","Development (1) Division,Planning Policy Unit","Ms. WANG Qijun","Engr/Planning Policy 2","2829 4477"
+"Water Supplies Department","Development (1) Division,Planning Policy Unit","Mr. KWOK  Tsz Man","Project Coordinator/Planning Policy","2294 2661"
+"Water Supplies Department","Development Branch,Development (2) Division","Mr. YIP Ka Chun, Gary","Ch Engr/Dev 2 (on leave from 25.7.2019 to1.8.2019)","2829 4413"
+"Water Supplies Department","Development Branch,Development (2) Division","Mr. LAU Cheuk Fung, Calvin","Ch Engr/Dev 2 (Acting)","2829 4413"
+"Water Supplies Department","Development Branch,Development (2) Division","Mr. LAW Yuk Fat","Ch Engr/Dev 2 (Acting)","2829 4413"
+"Water Supplies Department","Development (2) Division,Research & Development Unit","Ms. CHENG Sze Nga","Sr Engr/Research &amp; Dev  (Acting)","2829 4422"
+"Water Supplies Department","Development (2) Division,Research & Development Unit","Mr. CHAN Kwok Fai","Sr Engr/Research &amp; Dev (Acting)","2829 4422"
+"Water Supplies Department","Development (2) Division,Research & Development Unit","Ms. CHENG Sze Nga","Engr/Research &amp; Dev 2","2829 5627"
+"Water Supplies Department","Development (2) Division,Research & Development Unit","Mr. CHAN Kwok Fai","Engr/Research &amp; Dev 3","2829 4790"
+"Water Supplies Department","Development (2) Division,Research & Development Unit","Mr. CHENG Tsz Kin, Kent","Project Coordinator/Research &amp; Dev 1","2829 4417"
+"Water Supplies Department","Development (2) Division,Resources Planning Unit","Ms. LAM Ka Man","Sr Engr/Resources Planning","2829 4395"
+"Water Supplies Department","Development (2) Division,Resources Planning Unit","Ms. CHENG Kwan Yu","Engr/Resources Planning 1","2829 5867"
+"Water Supplies Department","Development (2) Division,Resources Planning Unit","Mr. KWOK  Tsz Ho, Derrick","Engr/Resources Planning  2","2829 4428"
+"Water Supplies Department","Development (2) Division,Resources Planning Unit","Ms. CHENG Kwan Yu","Engr/Resources Planning 5 (Acting)","2829 5867"
+"Water Supplies Department","Development (2) Division,Resources Planning Unit","Mr. KWOK Tsz Ho, Derrick","Engr/Resources Planning 5 (Acting)","2829 4428"
+"Water Supplies Department","Development (2) Division,Supply Planning Unit","Mr. LAW Yuk Fat","Sr Engr/Supply Planning","2829 4448"
+"Water Supplies Department","Development (2) Division,Supply Planning Unit","Mr. LAU Chun Yuen","Engr/Supply Planning 1","2829 4457"
+"Water Supplies Department","Development (2) Division,Supply Planning Unit","Ms. TAM Ka Yan","Engr/Supply Planning 2","2829 4478"
+"Water Supplies Department","Development (2) Division,Supply Planning Unit","Mr. WU Kwong Ho, Thomson","Stat","2829 5660"
+"Water Supplies Department","Development (2) Division,Supply Planning Unit","Mr. CHOW Yiu Hung","Sr Tech Offr( Hydrological)/Supply Planning 2","2829 4432"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Mr. LAU Cheuk Fung , Calvin","Sr Eng/Water Conservation 1","2829 5866"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Ms. TONG Sze Yin","Sr Engr/Water Conservation 2","2829 4777"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Mr. CHOW Wan Yin","Engr/Water Conservation 1","2294 2737"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Ms. POON  Fong Kwan","Engr/Water Conservation 2","2829 4776"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Mr. AU Jim Shing, Jason","Engr/Water Conservation 3","2829 4494"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Mr. AU Jim Shing, Jason","Engr/Water Conservation 5 (Acting)","2829 4429"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Ms. POON Fong Kwan","Engr/Water Conservation  5 (Acting)","2829 4429"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Ms. LAU Rebecca Bik Yan","Engr/Water Conservation 7","2829 4454"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Miss LAM Ka Yun, Maggie","EO/Water Conservation","2294 2710"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Miss POON Wing Yam","Public Relations Mgr/Water Conservation","2294 2714"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Ms. WONG Kit Man","Adm Mgr 1/Water Conservation","2294 2740"
+"Water Supplies Department","Development (2) Division,Water Conservation Unit","Mr. YEUNG Bun Yun","Centre Mgr/Water Conservation","2640 2500"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. KWOK Yau Ting, Kelvin","Ch Chemist","2829 4443 "
+"Water Supplies Department","Development Branch,Water Science Division","Mr. YAN Ka Chun","Sr Chemist 1","2634 3776"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. CHOY Tak Yip","Sr Chemist 2","2829 5602"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. LI Lun Ho, Joseph","Sr Chemist 3","2829 4727"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. HO Sing Yiu","Sr Chemist 4","2829 5610"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. NG Kin Man","Chemist/Dev 1","2684 3155"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. YU  Chun Wing","Chemist/Dev 2","2891 9276"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. CHEUNG Hung Wai","Chemist/Planning 1","3102 9376"
+"Water Supplies Department","Development Branch,Water Science Division","Ms. CHAN On Yee","Chemist/Planning 2","3425 4102"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. CHAN Chi Keung","Chemist/Radiation","2693 5761 "
+"Water Supplies Department","Development Branch,Water Science Division","Mr. WONG Cheok Lam","Chemist/Research &amp; Dev","3428 6042"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. TANG Ho Wai","Chemist/Resources Mgt 1","2360 6144"
+"Water Supplies Department","Development Branch,Water Science Division","Ms. LEUNG Chui Fan","Chemist/Resources Mgt 2","2360 6143"
+"Water Supplies Department","Development Branch,Water Science Division","Ms. CHU Yik Fai, Sunny Rachel","Chemist/Resources Mgt 3","2360 6142"
+"Water Supplies Department","Development Branch,Water Science Division","Miss LAU Wai Sum","Chemist/SD 3","2294 2738 "
+"Water Supplies Department","Development Branch,Water Science Division","Ms. KWONG Ka Ping","Chemist/Scientific Support","2294 2707"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. WONG Yiu Wa","Chemist/Treatment 1","2294 2738"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. CHENG Ching Man, Edward","Chemist/Treatment 2","2691 7689"
+"Water Supplies Department","Development Branch,Water Science Division","Ms. SO Lai Wah","Chemist/Treatment 3","2294 2707"
+"Water Supplies Department","Development Branch,Water Science Division","Miss WANG Pui Ling, Alan","Chemist/Treatment 4","2691 7085"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. CHAN Yuk Chi","Chemist/Treatment 5","2791 0208"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. LEE Kim Chung","Chemist/Treatment 6","2492 4009"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. TANG Ki Lai","Chemist/Treatment 8","2638 3194"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. LEE Chi Kin","Chemist/Treatment 9","2482 4758"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. KAN Kwok Wai","Chemist/Treatment 11","2984 1490"
+"Water Supplies Department","Development Branch,Water Science Division","Mr. NG Kam Keung","PRSC Specialist Waterworks Chemist","2294 2738"
+"Water Supplies Department","Water Science Division,Water Safety Unit","Mr. YU Man Tat","Sr Chemist/Water Safety","3427 2271"
+"Water Supplies Department","Water Science Division,Water Safety Unit","Miss LO Wing Yin","Chemist/Water Safety 1","2829 4350"
+"Water Supplies Department","Water Science Division,Water Safety Unit"," WONG Man Ching","Asst Mgt Team Leader","2829 5687"
+"Water Supplies Department","Water Science Division,Water Safety Unit","Mr. LEE Siu Fung","Chemist/Water Safety 2","2614 8880 "
+"Water Supplies Department","Water Supplies Department,New Works Branch","Mr. PANG Wai Shing","Asst Dir/New Works","2829 4365"
+"Water Supplies Department","New Works Branch,Design Division","Mr. LO Yu Bun","Ch Engr/Design (on leave from 21.6.2019 to 4.8.2019)","2829 4353"
+"Water Supplies Department","New Works Branch,Design Division","Mr. CHAN Shu To, Antonio","Ch Engr/Design (Acting)","2829 4353"
+"Water Supplies Department","Design Division,Group 1","Mr. CHENG  Chun Wai","Sr Engr/Design 1","2829 4469"
+"Water Supplies Department","Design Division,Group 1","Miss KWOK Wing Man","Engr/Design 1","2829 4784"
+"Water Supplies Department","Design Division,Group 1","Mr. SO Chi Him","Engr/Design 3","2829 4748"
+"Water Supplies Department","Design Division,Group 1","Mr. NG Kai Cheung","Engr/Design 4","3643 1326,2829 4729"
+"Water Supplies Department","Design Division,Group 2","Mr. CHIU Chung Ming","Sr Engr/Design 2","2829 4468"
+"Water Supplies Department","Design Division,Group 2","Ms. WONG Ching Kwan, Crystal","Engr/Design 6","2829 4476"
+"Water Supplies Department","Design Division,Group 2","Ms. LEE Cheuk Wing","Engr/Design 7","2829 4558"
+"Water Supplies Department","Design Division,Group 2","Mr. PANG Cho Wa","Engr/Design 9","2829 4475"
+"Water Supplies Department","Design Division,Group 3","Mr. LEE Hong Nin, Kevin","Sr Engr/Design 3 (Acting)","2829 4471"
+"Water Supplies Department","Design Division,Group 3","Ms. LO Pui Yee","Engr/Design 11 (Acting)","2829 4480"
+"Water Supplies Department","Design Division,Group 3","Mr. CHAN Ka Kit","Engr/Design 12","2829 4742"
+"Water Supplies Department","Design Division,Group 3","Ms. LO Pui Yee","Engr/Design 18","2829 4481"
+"Water Supplies Department","Design Division,Group 4","Mr. TO Wing Yiu, Ellis","Sr Engr/Design 4","2829 4470"
+"Water Supplies Department","Design Division,Group 4","Mr. LEUNG Chun Wah","Engr/Design 5","2829 4733"
+"Water Supplies Department","Design Division,Group 4","Mr. YAN Tung Hin, Borze","Engr/Design 20","2829 4752"
+"Water Supplies Department","Design Division,Group 4","Miss TSANG Wai Ching","Engr/Design 16","3428 6064"
+"Water Supplies Department","Design Division,Group 4","Mr. CHEUNG Chun Chiu","Insp/Design 5","2152 5701"
+"Water Supplies Department","Design Division,Drawing Office","Mr. LO Chi Man","Ch Tech Offr/Drawing Off","2829 4497"
+"Water Supplies Department","Drawing Office,Cheung Sha Wan Office","Mr. WONG Wai Ip","Sr Tech Offr (Civil)/K","2360 6254"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHAN  Shu To, Antonio","Sr Engr/Bldg Infn Modelling","3101 9263"
+"Water Supplies Department","Drawing Office,Head Office","Mr. HO  Man Wai, Mackins","Electrical Engr/Bldg Infn Modelling","3101 9264"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHAU Chun Hing","Prin Tech Offr (Civil) 1","2829 4763"
+"Water Supplies Department","Drawing Office,Head Office","Mr. KWOK Ping Sum","Prin Tech Offr (Civil) 2","2829 4498"
+"Water Supplies Department","Drawing Office,Head Office","Mr. LIU Man Keong","Prin Tech Offr (Civil) 3","2829 4499"
+"Water Supplies Department","Drawing Office,Head Office","Mr. LO Cheung Tat","Bldg Infn ModellingTech Mgr","2829 4764"
+"Water Supplies Department","Drawing Office,Head Office","Mr. FUNG  Wah Shing","Sr Tech Offr/Bldg Infn Modelling","3101 9265"
+"Water Supplies Department","Drawing Office,Head Office","Mr. LI Yuet Hung, Kelvin","Sr Tech Offr (Civil)/Design 1","2829 4504"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHAN  Hei Pak","Sr Tech Offr (Civil)/Design 2","2829 4502"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHAN Wai Keung","Sr Tech Offr (Civil)/Design 4","2829 4510"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHEUNG Yu Kam","Sr Tech Offr (Civil)/Design 5","2829 4511"
+"Water Supplies Department","Drawing Office,Head Office","Mr. LAM Yiu On","Sr Tech Offr /C3 (Acting)","2829 4502"
+"Water Supplies Department","Drawing Office,Head Office","Mr. WONG Sheung Yin","Sr Tech Offr (Civil)/Gen","2829 4797"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHONG Tsan Chun","Sr Tech Offr (Civil)/Lands Records","2829 4678"
+"Water Supplies Department","Drawing Office,Head Office","Mr. LAU Wai Man","Sr Tech Offr (Civil)/Library","2829 4506"
+"Water Supplies Department","Drawing Office,Head Office","Mr. TAM Wa Kwong","Sr Tech Offr (Civil)/Mains 1","2829 4512"
+"Water Supplies Department","Drawing Office,Head Office","Mr. NG Cheung Wah , Eddy","Sr Tech Offr (Civil)/Mains 2","2829 4712"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHEUNG Nang Ip","Sr Tech Offr (Civil)/Mains 3","2829 4505"
+"Water Supplies Department","Drawing Office,Head Office","Ms. POON Mee Yun, Psyche","Sr Tech Offr (Civil)/Mains 4","2829 4508"
+"Water Supplies Department","Drawing Office,Head Office","Mr. LEE Chung Hin, Oscar","Sr Tech Offr(Civil)/ Mains 5","2829 4509"
+"Water Supplies Department","Drawing Office,Head Office","Mr. WONG Kwok Lung","Sr Tech Offr (Civil)/Planning","2152 5595"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHAN Chun Man","Sr Tech Offr (Civil)/Records","2829 4503"
+"Water Supplies Department","Drawing Office,Head Office","Mr. CHAN Chi Kau","Sr Tech Offr (Civil)/Repository","2829 4507"
+"Water Supplies Department","Drawing Office,Hong Kong and Islands Regional Office","Mr. MOK Hon Ting, Honestkey","Sr Tech Offr (Civil)/HK &amp; Islands","2880 2559"
+"Water Supplies Department","Drawing Office,Kowloon Bay Office","Mr. CHAN Ka Fu, Thomas","Prin Tech Offr (Civil) 4","2152 5590"
+"Water Supplies Department","Drawing Office,Kowloon Bay Office","Mr. CHAN Wai Ho","Sr Tech Offr (Civil)/Construction 1","2152 5591"
+"Water Supplies Department","Drawing Office,Kowloon Bay Office","Mr. SIN Kwok Kwong, Toma","Sr Tech Offr (Civil)/Construction 2","2152 5592"
+"Water Supplies Department","Drawing Office,Kowloon Bay Office","Mr. NG Kai Tong","Sr Tech Offr (Civil)/NTE","2152 5594"
+"Water Supplies Department","Drawing Office,Sha Tin Office","","",""
+"Water Supplies Department","Sha Tin Office,Electrical Section","Mr. YU Kin San","Prin Tech Offr (Electrical)","2634 3610"
+"Water Supplies Department","Sha Tin Office,Electrical Section","Mr. FOK King Wai","Sr Tech Offr (Electrical)/Maintenance 1","2634 3614"
+"Water Supplies Department","Sha Tin Office,Electrical Section","Mr. HO Lap Yan, Leyun","Sr Tech Offr (Electrical)/Maintenance 2","2634 3611"
+"Water Supplies Department","Sha Tin Office,Electrical Section","Mr. CHAN Wai Lap","Sr Tech Offr (Electrical)/Projects 1","2634 3615"
+"Water Supplies Department","Sha Tin Office,Electrical Section","Mr. NG Chi Keung","Sr Tech Offr (Electrical)/Projects 2","2634 3616"
+"Water Supplies Department","Sha Tin Office,Electrical Section","Mr. CHAN  Pak Chiu","Sr Tech Offr (Electrical)/Projects 3","2634 3612"
+"Water Supplies Department","Sha Tin Office,Electrical Section","Mr. LUM Hip Wo","Sr Tech Offr (Electrical)/Projects 4","2634 3613"
+"Water Supplies Department","Sha Tin Office,Mechanical Section","Mr. MA Hing San","Prin Tech Offr (Mechanical)","2634 3600"
+"Water Supplies Department","Sha Tin Office,Mechanical Section","Mr. LAW Kam Lun","Sr Tech Offr (Mechanical)/Maintenance 1","2634 3606"
+"Water Supplies Department","Sha Tin Office,Mechanical Section","Mr. CHOW Wai Biu","Sr Tech Offr (Mechanical)/Planned Maintenance","2634 3673,2634 3637"
+"Water Supplies Department","Sha Tin Office,Mechanical Section","Mr. NG Chi Chung, Francis","Sr Tech Offr (Mechanical)/Projects 1","2634 3603"
+"Water Supplies Department","Sha Tin Office,Mechanical Section","Mr. SHUM Wai Leung, Patrick","Sr Tech Offr (Mechanical)/Projects 2","2634 3602"
+"Water Supplies Department","Sha Tin Office,Mechanical Section","Mr. NG Wo Ming","Sr Tech Offr (Mechanical)/Projects 3","2634 3601"
+"Water Supplies Department","Sha Tin Office,Mechanical Section","Mr. LAM Wai Kui","Sr Tech Offr (Mechanical)/Projects 4","2634 3604"
+"Water Supplies Department","Drawing Office,WSD Tin Shui Wai Building","Ms. AU Ka Mai","Sr Tech Offr (Civil)/NTW","3701 5391"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. WONG Chung Tak","Sr Project Coordinator/Design","3700 6101"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. TAM Chi Sing","Engr/Design (Project Coordinator)","3643 1327"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. NG Lung Po","Project Coordinator/Design 1","3700 6105"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. CHAN Pak Fong","Project Coordinator/Design 2","370 06107"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. TSAO Chin Kiu, Isaac","Project Coordinator/Design 3","3700 6103"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. LAU Yan Cheuk, Louis","Project Coordinator/Design 4","3700 6102"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. HO  Chi Keung, Johnny","Project Coordinator/Design 5","3700 6106"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. TSO  Si On","Sr Site Supr Mgr/Design 1","3700 6110"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. YU Wang Che","Sr Site Supr Mgr/Design 2","3643 1328"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. LEE Ah Wong","Sr Site Supr Mgr/Design 3","3643 1329"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. LEUNG Yuk Sang, Jack","Sr Site Supr Mgr/Design 4","3700 6113"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. TANG Wing Hong","Sr Site Supr Mgr/Design 5","3700 6122"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. LAI Wing Keung","Site Supr Mgr/Design 6","3700 6123"
+"Water Supplies Department","Design Division,Project Coordination Team","Mr. YEUNG Wing Leung","Site Supr Mgr/Design 7","3643 1322"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. LAM Shing Tim","Ch Engr/Consultants Mgt (on leave from 22.7.2019 to 26.7.2019)","2634 3500"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. TAM Man Hing","Ch Engr/Consultants Mgt (Acting)","2634 3500"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. TAM Man Hing","Sr Engr/Consultants Mgt 2","2634 3573"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. POON Man Hei","Sr Engr/Consultants Mgt 3 (Acting)","2634 3502"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. TAI Wang Kei","Sr Engr/Consultants Mgt 3 (Acting)","2634 3502"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. LIN Tang Tai","Sr Engr/Consultants Mgt 4","2634 3572"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. CHAN Man Yin","Sr Engr/Consultants Mgt 5 (Acting)","2634 3772"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. HO  Chui Hang","Sr Engr/Consultants Mgt 6","2634 3688"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. TSANG Hiu Sum","Engr/Consultants Mgt 3 (Acting)","2634 3683"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. WONG Ngai Fung","Engr/Consultants Mgt 4","2634 3505"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. HO Lok Man, Simon","Engr/Consultants Mgt 5","2634 3574"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. TSANG Hiu Sum","Engr/Consultants Mgt 6","2634 3576 "
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. TAM Yu Hung","Engr/Consultants Mgt 7","2634 3570"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. LAU Chiu Wah","Engr/Consultants Mgt  8","2634 3575"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Miss WONG Sin Yan","Engr/Consultants Mgt 11","2634 3641"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. CHUNG Wai Ching, Christy","Engr/Consultants Mgt 13","2634 3694"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Mr. TAI Wang Kei","Engr/Consultants Mgt 14","2634 3506"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. POON Man Hei","Engr/Consultants Mgt 15","2634 3577"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. KWOK Sui Ki","Engr/Consultants Mgt 18","2634 3507 "
+"Water Supplies Department","New Works Branch,Consultants Management Division","Miss WONG Ka Ka, Elaine","Knowledge Mgt Mgr/Consultants Mgt","2634 3773"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. LEE Yeung Ming","Knowledge Mgt Offr/Consultants Mgt","2634 3510"
+"Water Supplies Department","New Works Branch,Consultants Management Division","Ms. CHEN Yao","Project Coordinator /Consultants Mgt 12","2634 3686"
+"Water Supplies Department","New Works Branch,Project Management Division","Mr. TAM Wai Kwong","Ch Engr/Project Mgt","2829 5655"
+"Water Supplies Department","Project Management Division,Project Management","Mr. LAU Wing Keung","Sr Engr/Project Mgt 1","2829 5633"
+"Water Supplies Department","Project Management Division,Project Management","Ms. KWAN Kai Yin","Sr Engr/Project Mgt 2","2829 5652"
+"Water Supplies Department","Project Management Division,Project Management","Mr. LAM Wai Kei","Sr Engr/Project Mgt 4","2829 5693"
+"Water Supplies Department","Project Management Division,Project Management","Mr. LAU Chi Ming","Sr Engr/Project Mgt 5","2829 4490"
+"Water Supplies Department","Project Management Division,Project Management","Mr. CHU Ka Hei","Engr/Project Mgt 1","2829 5632"
+"Water Supplies Department","Project Management Division,Project Management","Miss CHO Kwok Wai","Engr/Project Mgt 2","2829 4786"
+"Water Supplies Department","Project Management Division,Project Management","Mr. KEI Chun Fai, Freeman","Engr/Project Mgt 3","2829 5638"
+"Water Supplies Department","Project Management Division,Project Management","Mr. FUNG King Pong","Engr/Project Mgt 4","2829 5694"
+"Water Supplies Department","Project Management Division,Project Management","Mr. YEUNG Chun Kit","Engr/Project Mgt 7","2294 2666"
+"Water Supplies Department","Project Management Division,Project Management","Ms. WONG Yuet Wa","Engr/Project Mgt 8","2294 2677"
+"Water Supplies Department","Project Management Division,Project Management","Mr. CHO Man Kin","Engr/Project Mgt 11","2829 5653"
+"Water Supplies Department","Project Management Division,Project Management"," KWOK  Wai Kay, Kenton","Engr/Project Mgt 13","2829 5651"
+"Water Supplies Department","Project Management Division,Project Management","Ms. YIP On Yee, Annie","Engr/Project Mgt 14","2829 4783"
+"Water Supplies Department","Project Management Division,Project Management","Mr. WONG Cheuk Lun","Asst Engr/Project Mgt 9","2829 5630"
+"Water Supplies Department","Project Management Division,Project Management","Mr. TSANG Chak Hong","Sr Tech Offr/Project Mgt","2829 5695"
+"Water Supplies Department","Project Management Division,Project Management","Mr. CHAN Man Tai","Project Coordinator/project Mgt 16","2829 5662"
+"Water Supplies Department","Project Management Division,Public Works Programme","Mr. CHAN Kwok Cheung","Sr Engr/Public Works Programme","2829 4493"
+"Water Supplies Department","Project Management Division,Public Works Programme","Mr. QIAN  Yifeng","Engr/Public Works Programme 1","2829 4472"
+"Water Supplies Department","Project Management Division,Public Works Programme","Mr. CHEUNG Man Chung","Engr/Public Works Programme 2","2829 4491"
+"Water Supplies Department","Project Management Division,Cost Estimate","Mr. KU Kwok Pun","Sr Engr/Cost Estimate","2829 5637"
+"Water Supplies Department","Project Management Division,Cost Estimate","Mr. WONG Hin Chi","Engr/Project Mgt 5","2829 4798"
+"Water Supplies Department","Project Management Division,Cost Estimate","Mr. YEUNG Chun Kit","Engr/Project Mgt  6 (Acting)","2829 4786"
+"Water Supplies Department","Project Management Division,Cost Estimate","Miss CHAN Wai Ying","Engr/Project Mgt 9","2829 5630"
+"Water Supplies Department","New Works Branch,Construction Division","Ms. PANG Oi Ling, Irene","Ch Engr/Construction","2152 5735"
+"Water Supplies Department","Construction Division,Group (2)","Mr. WAN Wai Yin","Sr Engr/Construction 2","2152 5732"
+"Water Supplies Department","Construction Division,Group (2)","Mr. CHENG Kin Fung","Engr/Construction 7","2152 5737,3650 3417"
+"Water Supplies Department","Construction Division,Group (2)","Mr. CHUNG Shing Hing","Engr/Construction 8","2152 5744"
+"Water Supplies Department","Construction Division,Group (2)","Mr. CHAN Yue Lap","Engr/Construction 11","2152 5741"
+"Water Supplies Department","Construction Division,Group (2)","Mr. LEUNG King Sing","Sr Insp/Construction (8) 2","2152 5714"
+"Water Supplies Department","Construction Division,Group (2)","Mr. LI Kwok Yiu","Insp/Construction 7","2152 5717"
+"Water Supplies Department","Construction Division,Group (2)","Mr. SO Ping Man","Insp/Construction (8) 1","2152 5709"
+"Water Supplies Department","Construction Division,Group (2)","Mr. TANG Kwan Hei","Insp/Construction (11) 1 (Acting)","2152 5714"
+"Water Supplies Department","Construction Division,Group (3)","Mr. LAM Kwan","Sr Engr/Construction 3","2152 5733"
+"Water Supplies Department","Construction Division,Group (3)","Mr. TO Chi Hung","Engr/Construction 6","2152 5743"
+"Water Supplies Department","Construction Division,Group (3)","Mr. FUNG Wai Sin","Engr/Construction 9","2152 5747"
+"Water Supplies Department","Construction Division,Group (3)","Mr. LEE Chung Yam","Engr/Construction 12","2152 5754"
+"Water Supplies Department","Construction Division,Group (3)","Ms. PAU Chui Yi","Engr/Construction 21","2152 5740"
+"Water Supplies Department","Construction Division,Group (3)","Mr. LIU Kei Hung","Insp/Construction 6","2152 5711"
+"Water Supplies Department","Construction Division,Group (3)","Mr. WONG Hoi Fai","Insp/Construction 9 (Acting)","2152 5728"
+"Water Supplies Department","Construction Division,Group (3)","Mr. TANG Kwong Hing","Insp/Construction 18 (Acting)","2152 5710"
+"Water Supplies Department","Construction Division,Group (3)","Mr. WONG San Wa","Insp/Construction 21","2152 5715"
+"Water Supplies Department","Construction Division,Group (4)","Mr. CHOW Pak Cheong, Andy","Sr Engr/Construction 4","2152 5734"
+"Water Supplies Department","Construction Division,Group (4)","Mr. NG Kin Hon","Engr/Construction 2","2152 5751,2325 1725"
+"Water Supplies Department","Construction Division,Group (4)","Mr. HO Cheung","Engr/Construction 4","2152 5532"
+"Water Supplies Department","Construction Division,Group (4)","Mr. LEUNG  Ka Tung","Asst Engr/Construction 10","2152 5532"
+"Water Supplies Department","Construction Division,Group (4)","Mr. CHIN Tak keung, Paul","Sr Insp/Construction 2","2152 5711"
+"Water Supplies Department","Construction Division,Group (4)","Mr. NG Chu Ping","Insp/Construction 10","2152 5714"
+"Water Supplies Department","Construction Division,Group (4)","Mr. YEUNG Chi Bun","Sr Insp/Construction (12)","2152 5706,3549 8670"
+"Water Supplies Department","Construction Division,Group (4)","Mr. AU Chi Fan","Insp/Construction (12) 2 (Acting)","2152 5708"
+"Water Supplies Department","Construction Division,Group (4)","Mr. CHENG Kin Fung","Engr/Construction 5 (Acting)","2152 5753"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. TONG Man Kong","Land Surveyor 1","2152 5540"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. TANG Wai Leung","Prin Survey Offr (Engineering) 1","2152 5542"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. WOO Kwok Yuen , Webb","Prin Survey Offr (Engineering) 2","2152 5543"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. PO Hok Chung","Sr Survey Offr (Engineering) 1","2152 5544"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. KEE Shun Kwong","Sr Survey Offr (Engineering) 3","2152 5547"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. WONG Ka Leung","Sr Survey Offr (Engineering) 4","2152 5551"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. MAO William","Sr Survey Offr (Engineering) 6","2152 5548"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. CHAN Chi Wai","Sr Survey Offr (Engineering) 7","2152 5549"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. HUI Yeuk Mong","Sr Survey Offr (Engineering) 8","2152 5550"
+"Water Supplies Department","Construction Division,Land Surveying Section","Mr. WONG Yuk Leung","Survey Ex 1","2152 5838"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. WONG Kwok Chuen","Sr Engr/Planning 1 (Acting)","2152 5756"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. MAK Sai King","Sr Engr/Planning 2","2152 5731"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. LEE Ka Kin","Engr/Planning 1","2152 5748"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. WONG Fuk Hing","Engr/Planning 2","2152 5746"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. LIU Wai Hung, Thomas","Engr/Planning 3","2152 5779"
+"Water Supplies Department","Construction Division,System Planning Section","Ms. CHAU Hoi Yi, Shirley","Engr/Planning 4","2152 5752"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. CHUNG Yu Ho","Engr/Planning 5","2152 5764 "
+"Water Supplies Department","Construction Division,System Planning Section","Ms. CHIM Shuk Ngan, Agnes","Engr/Planning 6","2152 5759"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. TSE  Chi Wai","Engr/Planning 7","2152 5739"
+"Water Supplies Department","Construction Division,System Planning Section","Ms. CHAN Oi Ming","Engr/Planning 8","2152 5772"
+"Water Supplies Department","Construction Division,System Planning Section","Mr. CHEUNG King Min","Project Coordinator/Planning","2152 5533"
+"Water Supplies Department","Water Supplies Department,Supply and Distribution (Urban) Branch","Mr. NG Vitus","Asst Dir/Urban","2829 4367"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. CHUNG Wing Kee, Philip","Ch Engr/HK","2880 2555"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. NG Chi Yuen","Sr Engr/HK 1 (Acting)","2880 2556"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. LAU Wai Leung","Sr Engr/HK 2","2880 2557"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. YEUNG Tak Hoi","Sr Engr/HK 3","2856 8178"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. WONG Man Kei","Sr Engr/HK 4","2880 2547"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. HO Wai Ming","Engr/HK (Distribution 4)","2856 8105"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. CHOY Wing Keung","Sr Insp/HK (Distribution 4) 1","2856 8158"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Hong Kong & Islands Region","Mr. LEE Wai Kin","Insp/HK (Distribution 4) 2","2856 8104"
+"Water Supplies Department","Hong Kong & Islands Region,Administration Section","Mr. TSUI Ngo Hin, Andre","EO/HK","2856 8132"
+"Water Supplies Department","Hong Kong & Islands Region,Administration Section","Ms. POON Mui Lin, Susan","CO/Gen Regy (HK Off)","2880 2577"
+"Water Supplies Department","Hong Kong & Islands Region,Administration Section","Ms. TANG Shuk Yee, Olivia","CO/HK (Customer Services Regy)","2856 8151"
+"Water Supplies Department","Hong Kong & Islands Region,General Duties","Mr. NG Sek Kwan","Project Coordinator/HK (Gen Duties)","2880 2560"
+"Water Supplies Department","Hong Kong & Islands Region,General Duties","Mr. LAU Yung Wa","Ch Tech Offr/SD (Acting)","2564 9606,2360 6145"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. CHIU Man Fat","Engr/HK (Headworks 1)","2880 2567"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. POON Chung Wah","Engr/HK (Headworks 2)","2880 2580"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. LEUNG Ka Fai","Engr/HK (Headworks 3)","2880 2569"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. CHOW Man Lung, Andrew","Engr/HK (Headworks 4) (Acting)","2856 8150"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. YUEN  Chau Ming","Sr Insp/HK (Headworks 1) 1","2880 2568"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. FUNG King Yu","Sr Insp/HK (Headworks 2) 1 (Acting)","2856 8138"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. KAM Chun Fat","Sr Insp/HK (Headworks 2) 1 (Acting)","2856 8138"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. LEE Hoi Tim","Sr Insp/HK (Headworks 2) 1 (Acting)","2856 8138"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. HO Wing Ming","Sr Insp/HK (Headworks 3) 1","2856 8125"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. CHOW Ho Yin","Insp/HK (Headworks 1) 2","2880 2571"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. KWONG Siu Wing","Insp/HK (Headworks 2) 2","2984 3220"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. LIU King Chuen","Insp/HK (Headworks 3) 2","2856 8126"
+"Water Supplies Department","Hong Kong & Islands Region,Headworks","Mr. HUI Che Hong","Insp/HK (Headworks 4) 1","2856 8148"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong East)","Mr. NG Cheuk Hang, Peter","Engr/HK (Distribution 1)","2880 2534"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong East)","Mr. CHEUNG Kwok Keung","Sr Insp/HK (Distribution 1) 1","2880 2595"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong East)","Mr. WONG Tak Wa","Insp/HK (Distribution 1) 2","2880 2535"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong West)","Mr. LOK Yin Ming","Engr/HK (Distribution 2)","2880 2529"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong West)","Mr. CHAN Wai Sum","Sr Insp/HK (Distribution 2) 1","2856 8182"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong West)","Mr. LI Chin Hung","Insp/HK (Distribution 2) 2","2880 2594"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong South)","Ms. WONG Cho Kwan","Engr/HK (Distribution 3)","2880 2537"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong South)","Mr. HEUNG Hing Fat","Sr Insp/HK (Distribution 3) 1","2880 2538"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong South)","Mr. CHENG Chi Yung","Insp/HK (Distribution 3) 2 (Acting)","2880 2596"
+"Water Supplies Department","Hong Kong & Islands Region,Distribution (Hong Kong South)","Mr. CHAN Tak Wai","Insp/HK (Inspection)","2880 2536"
+"Water Supplies Department","Hong Kong & Islands Region,Lantau and Outlying Islands Section","Mr. AU Wai Hung, Philip","Engr/HK (Distribution 5)","2880 2566"
+"Water Supplies Department","Hong Kong & Islands Region,Lantau and Outlying Islands Section","Mr. CHOW Man Lung, Andrew","Engr/HK (Distribution 6)","2880 2558"
+"Water Supplies Department","Hong Kong & Islands Region,Lantau and Outlying Islands Section","Ms. NG Wan Ki, Maye","Engr/HK (Distribution 7)","2856 8171"
+"Water Supplies Department","Hong Kong & Islands Region,Lantau and Outlying Islands Section","Mr. CHEUNG Chin Nang","Sr Insp/HK (Distribution 6) 1","2856 8115"
+"Water Supplies Department","Hong Kong & Islands Region,Lantau and Outlying Islands Section","Mr. WONG Chi Ming","Insp/HK (Distribution 5) 1","2880 2519"
+"Water Supplies Department","Hong Kong & Islands Region,Lantau and Outlying Islands Section","Mr. SO Wan Chi","Insp/HK (Distribution 7) 1","2856 8155"
+"Water Supplies Department","Hong Kong & Islands Region,Lantau and Outlying Islands Section","Mr. HO Kang Ho, Sam","Insp/HK (SD) 1","2564 9607 "
+"Water Supplies Department","Hong Kong & Islands Region,Mechanical and Electrical Operation","Mr. LEUNG Chi Chung","Mechanical Engr/HK (Ops)","2880 2525"
+"Water Supplies Department","Hong Kong & Islands Region,Mechanical and Electrical Operation","Mr. LIU Tat Kuen","Sr Insp Mechanical/HK (Ops) 1","2880 2526"
+"Water Supplies Department","Hong Kong & Islands Region,Mechanical and Electrical Operation","Mr. HO David","Insp Mechanical/HK (Ops) 2","2880 2528"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Ms. CHAN Wing Man","Engr/HK (Customer Services) Applications 1","2880 2550"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. LAM Hiu Cheung","Engr/ HK (Customer Services) Applications 2","2856 8118"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. PUN Chi Sung","Engr/HK (Customer Services) Inspection","2880 2540"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. LEUNG Man Wai","Engr/HK (Customer Services) Lantau 1","2856 8107"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. HON Chun Sing","Engr/HK (Customer Services) Lantau 2","2856 8118"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. CHEUNG Wai Ming","Ch Tech Offr/HK (Customer Services) Works","2880 2544"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. TO Yiu Ming","Sr Insp/HK (Customer Services) Works 1","2856 8128"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. NG Kam Wing","Sr Insp/HK (Customer Services) Works  2","2880 2541"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. YEUNG Chi Wai","Insp/HK (Customer Services) Applications 1","2880 2553"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. LEUNG Ka Wa","Insp/HK (Customer Services) Applications 2","2880 2552"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. HO Kwok Fai","Insp/HK (Customer Services) Applications 3","2856 8146 "
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. LAI Kai Leung","Insp/HK (Customer Services) Lantau 1","2856 8171"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. LEE Wai Keung","Insp/HK (Customer Services) Inspection 1","2880 2543"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. YUNG Kam Wing","Insp/HK (Customer Services) Inspection 2 (Acting)","2880 2542"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. NG Wai Ying","Insp/HK (Customer Services) Water Loss Control","2880 2546"
+"Water Supplies Department","Hong Kong & Islands Region,Customer Services","Mr. WONG Wai Pong","PWI(Customer Services)/HK (Customer Services) Lautau 2","2880 2548"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. LAI Wing Kwong, Anthony","Ch Engr/Kln","2360 6100"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. TANG Hon Yin","Sr Engr/Kln 1","2360 6101"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. YUEN  Tik Hong","Sr Engr/Kln 2","2360 6102"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. HO Lai Wa","Sr Engr/Kln 3","2360 6103"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. LUI Shing Chung, Freeman","Engr/Kln (SD 1)","2360 6230"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. LIU Chin Ho","Engr/Kln (SD 2)","2360 6234"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. NG Kam Yeung","Sr Insp/Kln (SD 2) 1","2360 6233"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. WONG Yat Hong, Max","Insp/Kln (SD 1) 1","2360 6169"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Kowloon Region","Mr. MOK Tak Sun","Insp/Kln (SD 3) 1","2361 8290"
+"Water Supplies Department","Kowloon Region,Administration Section","Miss LUI Cheuk Wing","EO/Kln","2360 6116"
+"Water Supplies Department","Kowloon Region,Administration Section","Ms. LEUNG Tat Ming","CO/Gen Regy (Kln Off)","2360 6117"
+"Water Supplies Department","Kowloon Region,Administration Section","Ms. LAU Fung Chun","CO/Kln (Customer Services Regy)","2360 6123"
+"Water Supplies Department","Kowloon Region,General Duties","Mr. PANG Hiu Fung","Engr/Kln (Gen Duties) (Acting)","2360 6106"
+"Water Supplies Department","Kowloon Region,Headworks","Mr. CHUNG Hon Wai , Thomas","Engr/Kln (Headworks 1)","2360 6113"
+"Water Supplies Department","Kowloon Region,Headworks","Mr. CHAN San Hong, Fraser","Engr/Kln (Headworks 2)","2360 6104"
+"Water Supplies Department","Kowloon Region,Headworks","Mr. TAM Kin Keung","Sr Insp/Kln (Headworks 1) 1","2360 6253"
+"Water Supplies Department","Kowloon Region,Headworks","Mr. TSANG Kwai Sun","Insp/Kln (Headworks 2) 1","2360 6322"
+"Water Supplies Department","Kowloon Region,Distribution (Yau Tsim and Ho Man Tin)","Mr. LEUNG Pui Yin","Engr/Kln (Distribution 1)","2360 6108"
+"Water Supplies Department","Kowloon Region,Distribution (Yau Tsim and Ho Man Tin)","Mr. HO Wai Pong","Sr Insp/Kln (Distribution 1) 1 (Acting)","2360 6161"
+"Water Supplies Department","Kowloon Region,Distribution (Yau Tsim and Ho Man Tin)","Mr. YEUNG Sai Ping","Insp/Kln (Distribution 1) 2","2360 6182"
+"Water Supplies Department","Kowloon Region,Distribution (Yau Tsim and Ho Man Tin)","Mr. WONG Yuen Keung","Insp/Kln (Inspection)","2360 6544"
+"Water Supplies Department","Kowloon Region,Distribution (Mong Kok, Sham Shui Po and Mei Foo)","Mr. PANG Hiu Fung","Engr/Kln (Distribution 2)","2360 6109"
+"Water Supplies Department","Kowloon Region,Distribution (Mong Kok, Sham Shui Po and Mei Foo)","Mr. CHAN Hon Keung","Sr Insp/Kln (Distribution 2) 1 (Acting)","2360 6172"
+"Water Supplies Department","Kowloon Region,Distribution (Mong Kok, Sham Shui Po and Mei Foo)","Mr. MOK Tak Sun","Insp/Kln (Distribution 2) 2","2360 6168"
+"Water Supplies Department","Kowloon Region,Distribution (Wong Tai Sin, Ngau Tau Kok and Kowloon Tong)","Mr. HA Chun Wai","Engr/Kln (Distribution 3)","2360 6110"
+"Water Supplies Department","Kowloon Region,Distribution (Wong Tai Sin, Ngau Tau Kok and Kowloon Tong)","Mr. YEUNG Kam Chau","Sr Insp/Kln (Distribution 3) 1","2360 6175"
+"Water Supplies Department","Kowloon Region,Distribution (Wong Tai Sin, Ngau Tau Kok and Kowloon Tong)","Mr. CHOI Kwok Hung","Insp/Kln (Distribution 3) 2","2360 6533"
+"Water Supplies Department","Kowloon Region,Distribution (Kwun Tong, Sau Mau Ping and Hung Hom)","Mr. KWAN Yee Lap","Engr/Kln (Distribution 4)","2360 6111"
+"Water Supplies Department","Kowloon Region,Distribution (Kwun Tong, Sau Mau Ping and Hung Hom)","Mr. LI Chun Man, Stanley","Sr Insp/Kln (Distribution 4) 1 (Acting)","2360 6195"
+"Water Supplies Department","Kowloon Region,Distribution (Kwun Tong, Sau Mau Ping and Hung Hom)","Mr. NGAI Tin Yan","Insp/Kln (Distribution 4) 2","2360 6200"
+"Water Supplies Department","Kowloon Region,Operations","Mr. LOK Kwok Wai","Mechanical Engr/Kln (Ops)","2360 6107"
+"Water Supplies Department","Kowloon Region,Operations","Mr. NG Wai Kon","Insp Mechanical/Kln (Ops) 1","2191 5115"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. LEUNG Ming Pong","Engr/Kln (Customer Services) Applications 1","2360 6112"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. LEUNG Ming Pong","Engr/Kln (Customer Services) Applications 2 (Acting)","2360 6105"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. MA Chun Hang","Engr/Kln (Customer Services) Inspection","2360 6318"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. CHAN Hong Lun","Ch Tech Offr/Kln (Customer Services) Works","2360 6114"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. YIU Chi Kan","Sr Insp/Kln (Customer Services) Works  1 (Acting)","2360 6215"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. YUEN Ho Wai, John","Sr Insp/Kln (Customer Services) Works  2","2360 6218"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. LAI Siu Wa","Insp/Kln (Customer Services) Applications 1","2360 6150"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. CHAN Mo Sun","Insp/Kln (Customer Services) Applications 2","2360 6208"
+"Water Supplies Department","Kowloon Region,Customer Services","Ms. CHEUNG Yuen Chun","Insp/Kln (Customer Services) Applications 3 (Acting)","2360 6202"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. AU Kwok Kit","Insp/Kln (Customer Services) Inspection 1","2360 6207"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. YAN Kwan Hing","Insp/ Kln (Customer Services) Inspection 2","2360 6214"
+"Water Supplies Department","Kowloon Region,Customer Services","Mr. CHAN Chun Wing","Insp/Kln (Customer Services) Water Loss Control","2360 6237"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Operations Section","Mr. NGAI Man Fai","Sr Engr/Ops","2829 4455"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Operations Section","Mr. WONG Yiu Pan","Eng/Ops 1","2294 2729"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Operations Section","Mr. TSUI Ying Yung","Engr/Ops 2","2829 4746"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Operations Section","Mr. CHOI King Wan","Engr/Ops3","2829 4775"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Quantity Surveying Section","Mr. CHENG Yu Shan","Sr Quantity Surveyor","2152 5560"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Quantity Surveying Section","Ms. LAM Shuk Yee","Quantity Surveyor","2152 5561"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Quantity Surveying Section","Ms. LEUNG Kit Chun","Sr Survey Offr (Quantity) 1","2152 5702"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Quantity Surveying Section","Mr. SUN Wing Yip, Ronald","Sr Survey Offr (Quantity) 2","2152 5564"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Quantity Surveying Section","Mr. LAM Yiu Chor","Sr Survey Offr (Quantity) 3","2152 5566"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Quantity Surveying Section"," LAM Ching Kau","SSO(Q)/M5","2152 5528"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Quantity Surveying Section"," LAU Shui King","SSO(Q)/M4","2152 5526"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Mr. LAM Chun Ngai","Sr Engr/Reservoir Safety (Acting)","2152 5713 "
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Mr. LAM Wing Yu, Vincent","Engr/Reservoir Safety 1","2152 5738 "
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Ms. KUNG Wai Han","Engr/Reservoir Safety 3","2152 5761"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Mr. KONG Kwai Sau","Engr/Reservoir Safety 4","2152 5749"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Mr. WONG Sai Kai","Insp/Reservoir Safety 1","2152 5780 "
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Mr. MUN Ka Kit, Pius","Insp/Reservoir Safety 2","2152 5782"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Mr. MUN Ka Kit, Pius","Insp/Reservoir Safety 3 (Acting)","2152 5785"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Reservoir Safety Section","Mr. WONG Sze King","Insp/Reservoir Safety 4 (Acting)","2152 5760"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Mr. LAU Chi Ming","Sr Engr/Slope Safety 1","2829 4562"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Mr. FAN Kwok Ning","Sr Engr/Slope Safety 2 (Acting)","2829 4414"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Mr. CHAN Bun Tat, Lucas","Engr/Slope Safety 1","2829 4456"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Mr. HUI Sik Kai, Simon","Engr/Slope Safety 4","2829 4771"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Mr. LAU Chi Lun, Jimmy","Geo Engr/Slope Safety 3","2829 4358"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Miss WONG Kwai Lin, Christine","Geo Engr/Slope Safety  5","2829 5596"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Miss SO Hoi Yan","Landscape Architect/Landscape Services","2829 4487"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Ms. YIU Wing Chi, Gi Gi","Insp/Slope Safety 3","2829 4359"
+"Water Supplies Department","Supply and Distribution (Urban) Branch,Slope Safety Section","Mr. LAW  Chi Hung","Field Officer I / LS","2829 4717"
+"Water Supplies Department","Water Supplies Department,Supply and Distribution ( NT) Branch","Mr. CHAN Chung Kun","Asst Dir/NT","2829 4355"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories East Region","Mr. CHAN Kwok Tai","Ch Engr/NTE","2152 5668"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories East Region","Mr. FOK Kai Fai","Sr Electrical &amp; Mechanical Engr/NTE  1","2152 5508"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories East Region","Mr. LAM Kwok Chuen","Sr Engr/NTE 2","2152 5602 "
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories East Region","Mr. TSUI Kwok On","Sr Engr/NTE 3","2152 5601"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories East Region","Mr. LAW Wai Ho","Sr Engr/NTE 4","2152 5603"
+"Water Supplies Department","New Territories East Region,Administration Section","Miss CHAM Novel","EO/NTE","2152 5622"
+"Water Supplies Department","New Territories East Region,Administration Section","Ms. LAW Po Lin","CO/ Gen Regy (Kln Bay Off)","2152 5774,2152 5775"
+"Water Supplies Department","New Territories East Region,Administration Section","Ms. LAM Ling Fun","CO/NTE (Customer Services Regy)","2152 5618"
+"Water Supplies Department","New Territories East Region,General Duties","Mr. TSANG Ka Kin","Project Coordinator/NTE (Gen Duties)","2152 5656"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. CHAN  Sik Chun","Engr/NTE (Headworks 1)","2152 5610"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. LEE Kam Cheong","Engr/NTE (Headworks 2)","2152 5611"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. WU Hang Kin","Engr/NTE (Headworks 3)","2152 5623"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. WONG Hei Nok","Engr/NTE (Headworks 4)","2152 5604"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. HO Tak Kei","Engr/NTE (Headworks 5)","2152 5612"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. LAU Shiu Kwong","Sr Insp/NTE (Headworks 1) 1","2152 5646"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. LAM Man Ching","Sr Insp/NTE (Headworks 2) 1","2152 5666"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. YU Kwok Kin","Insp/NTE (Headworks 3) 1","2152 5688"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. HUI Kin Ping","Insp/NTE (Headworks 4) 1","2152 5505"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. KWOK Kam Tao","Insp/NTE (Headworks 5) 1","2152 5663"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. FUNG Chi Kei","Insp Mechanical/NTE (Treatment Works)","2791 4191"
+"Water Supplies Department","New Territories East Region,Headworks","Mr. CHU Tin Sik","Insp Mechanical/NTE (Treatment Works) 1","2653 4719"
+"Water Supplies Department","New Territories East Region,Distribution (Sha Tin)","Mr. LEUNG Chin Hung","Engr/NTE (Distribution 1)","2152 5605"
+"Water Supplies Department","New Territories East Region,Distribution (Sha Tin)","Mr. ON Sing Yin, Keith","Sr Insp/NTE (Distribution 1) 1","2152 5630"
+"Water Supplies Department","New Territories East Region,Distribution (Sha Tin)","Ms. KAM Ka Yee","Insp/NTE (Distribution 1) 2","2152 5631"
+"Water Supplies Department","New Territories East Region,Distribution (Fanling, Sheung Shui and Lo Wu)","Ms. KONG  Tsz Yan","Engr/NTE (Distribution 2)","2152 5606"
+"Water Supplies Department","New Territories East Region,Distribution (Fanling, Sheung Shui and Lo Wu)","Mr. HO Chi Yeung","Sr Insp/NTE (Distribution 2) 1","2152 5637"
+"Water Supplies Department","New Territories East Region,Distribution (Fanling, Sheung Shui and Lo Wu)","Mr. KWAN Yu Kai","PRSC Insp/NTE (Distribution 2) 1","2152 5654"
+"Water Supplies Department","New Territories East Region,Distribution (Fanling, Sheung Shui and Lo Wu)","Mr. TAI Shing Chuen","Insp/NTE (Distribution 2) 2","2152 5696"
+"Water Supplies Department","New Territories East Region,Distribution (Sai Kung and Tseung Kwan O)","Mr. HO Lok Chi, William","Engr/NTE (Distribution 3)","2152 5607"
+"Water Supplies Department","New Territories East Region,Distribution (Sai Kung and Tseung Kwan O)","Mr. LAI Yun Cheung","Sr Insp/NTE (Distribution 3) 1 (Acting)","2152 5539"
+"Water Supplies Department","New Territories East Region,Distribution (Sai Kung and Tseung Kwan O)","Mr. CHEONG Siu Kei","Insp/NTE (Distribution 3) 2 (Acting)","2152 5638"
+"Water Supplies Department","New Territories East Region,Distribution (Tai Po)","Ms. WONG Dik Chi","Engr/NTE (Distribution 4)","2152 5626"
+"Water Supplies Department","New Territories East Region,Distribution (Tai Po)","Mr. LI Tat Pun","Sr Insp/NTE (Distribution 4) 1","2152 5755"
+"Water Supplies Department","New Territories East Region,Distribution (Tai Po)","Mr. CHAN Cheuk Chi","Insp/NTE (Distribution 4) 2","2152 5745"
+"Water Supplies Department","New Territories East Region,Distribution (Inspection)","Mr. LAU Eric, Chak Hung","Engr/NTE (Distribution 5)","2152 5624"
+"Water Supplies Department","New Territories East Region,Distribution (Inspection)","Mr. LEE Cheuk Wai","Insp/NTE (Inspection) (Acting)","2152 5763"
+"Water Supplies Department","New Territories East Region,Operations","Mr. CHUNG Kam Shan","Electrical Engr/NTE (Ops 1)","2152 5625"
+"Water Supplies Department","New Territories East Region,Operations","Mr. YU Kwok Hung","Sr Insp Mechanical/NTE (Ops 1) 1","2152 5690"
+"Water Supplies Department","New Territories East Region,Operations","Mr. WAN Kam Man","Insp Mechanical/NTE (Ops 2) 1","2152 5660"
+"Water Supplies Department","New Territories East Region,Plover Cove and High Island Operations","Mr. CHEUNG Kwok Chit, Alex","Insp/NTE (Plover Cove &amp; High Island Ops) 1","2684 3121"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. CHEUNG Siu Lun","Engr/NTE (Customer Services) Applications 1","2152 5657"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. WONG Yin Fun, Andrew","Engr/NTE (Customer Services) Applications 2","2152 5609"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. TUNG Ching Ho","Engr/NTE (Customer Services) Inspection","2152 5608"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. MOK Kwok Keung, Stephen","Ch Tech Offr/NTE (Customer Services) Works (Acting)","2152 5519"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. CHAN Hon Yim","Sr Insp/NTE (Customer Services) Works 1 (Acting)","2152 5670"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. TONG Chi Hang","Sr Insp/NTE (Customer Services) Works 1 (Acting)","2152 5670"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. WU Fai Wing","Insp/NTE (Customer Services)  Applications 1 (Acting)","2152 5676"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. WU Fai Wing","Insp/NTE (Customer Services) Applications 2","2152 5678"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. HO Ying Kit","Insp/NTE (Consumer Services) Applications 3","2152 5679"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. HO Ying Kit","Insp/NTE (Customer Services) Applications 4 (Acting)","2152 5621"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. WONG Fun Wai","Insp/NTE (Customer Services) Inspection 1","2152 5677"
+"Water Supplies Department","New Territories East Region,Customer Services","Mr. NG Ka Hing","Insp/NTE (Customer Services) Water Loss Control","2152 5680"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories West Region","Mr. PANG Kwok Fan","Ch Engr/NTW","3701 5001"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories West Region","Mr. CATLIN Kit Wai , Stephen","Sr Engr/NTW 1","3701 5002"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories West Region","Mr. CHAN Chi Wai, Eric","Sr Engr/NTW 2","3701 5003"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories West Region","Mr. LEUNG Wai Kwong","Sr Engr/NTW 3","3701 5004"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,New Territories West Region","Mr. YIP Ming Wah, Stanley","Insp/NTW (Distribution 6) 1","3701 5089"
+"Water Supplies Department","New Territories West Region,Administration Section","Ms. CHAU Hiu Yan, Belinda","EO/NTW","3701 5403"
+"Water Supplies Department","New Territories West Region,Administration Section","Ms. WONG Hung Yuk","CO/NTW(Gen Regy)","3701 5404"
+"Water Supplies Department","New Territories West Region,Administration Section","Ms. KAN Wai Yin","CO/Gen Regy (Shatin Off)","2634 3567"
+"Water Supplies Department","New Territories West Region,Administration Section","Ms. LAM Fung Yuk","CO/Gen Regy (Lung Cheung Rd Off)","2339 3573"
+"Water Supplies Department","New Territories West Region,Administration Section","Ms. LAU Yuen Ling","CO/NTW (Customer Services Regy)","3701 5206"
+"Water Supplies Department","New Territories West Region,General Duties","Mr. KWOK Ka Shing","Engr/NTW (Gen Duties) (Acting)","3701 5006"
+"Water Supplies Department","New Territories West Region,General Duties","Mr. TUNG Chi Man","Engr/NTW (Gen Duties) (Acting)","3701 5006"
+"Water Supplies Department","New Territories West Region,General Duties","Mr. YIP Lam Fung","Engr/NTW (Gen Duties) (Acting)","3701 5006"
+"Water Supplies Department","New Territories West Region,General Duties","Mr. YIM Pak Kai, Eddie","Engr/NTW (SD)","3701 5015"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. CHAN Yuk Ming","Engr/NTW (Headworks 2)","3701 5010"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. NG Ki Yiu","Engr/NTW (Headworks 3)","3701 5009"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. KWOK  Ka Shing","Engr/NTW (Headworks 4)","3701 5011"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. LI Ting Lun","Mechanical Engr/NTW (Treatment Works)","3701 5008"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. WONG King Shiu, Francis","Sr Insp/NTW (Headworks 3) 1","3701 5027"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. HO Hing Kai","Insp/NTW (Headworks 2) 1 (Acting)","3701 5028"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. CHAN Chiu On","Insp/NTW (Headworks 2) 2","3701 5032"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. CHAN Wai Kee","Insp/NTW (Headworks 3) 2 (Acting)","3701 5071"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. LAW Chap Fat, Peter","Insp Mechanical-Electrical/NTW (Treatment Works) 1","3701 5408"
+"Water Supplies Department","New Territories West Region,Headworks","Mr. CHU Chi Ming","Insp/NTW (Treatment Works) 2","3701 5465"
+"Water Supplies Department","New Territories West Region,Distribution (Tsuen Wan)","Mr. HO Ho Yuan","Engr/NTW (Distribution 1)","3701 5012"
+"Water Supplies Department","New Territories West Region,Distribution (Tsuen Wan)","Mr. YIP Chi Keung, Edmon","Sr Insp/NTW (Distribution 1) 1","3701 5080"
+"Water Supplies Department","New Territories West Region,Distribution (Tsuen Wan)","Mr. KWOK Yeung","Insp/NTW (Distribution 1) 2 (Acting)","3701 5081"
+"Water Supplies Department","New Territories West Region,Distribution (Tuen Mun)","Mr. YIP Lam Fung","Engr/NTW (Distribution 2)","3701 5013"
+"Water Supplies Department","New Territories West Region,Distribution (Tuen Mun)","Mr. YUEN Kam Wing","Sr Insp/NTW (Distribution 2) 1","3701 5055 "
+"Water Supplies Department","New Territories West Region,Distribution (Tuen Mun)","Mr. TSE Cheong Siu","Insp/NTW (Distribution 2) 2","2399 4351"
+"Water Supplies Department","New Territories West Region,Distribution (Tin Shui Wai and Yuen Long West)","Mr. LAI Chun Fung","Engr/NTW (Distribution 3)","3701 5014"
+"Water Supplies Department","New Territories West Region,Distribution (Tin Shui Wai and Yuen Long West)","Mr. NG Chi Ming","Sr Insp/NTW (Distribution 3) 1","3701 5101"
+"Water Supplies Department","New Territories West Region,Distribution (Tin Shui Wai and Yuen Long West)","Mr. FUNG Lap Wai","Insp/NTW (Distribution 3) 2 (Acting)","3701 5100"
+"Water Supplies Department","New Territories West Region,Distribution (Kwai Tsing)","Mr. CHEUNG Wai Lun","Engr/NTW (Distribution 4)","3701 5017"
+"Water Supplies Department","New Territories West Region,Distribution (Kwai Tsing)","Mr. CHAN Kam Tim","Sr Insp/NTW (Distribution 4) 1","3701 5051"
+"Water Supplies Department","New Territories West Region,Distribution (Kwai Tsing)","Mr. PUN Yiu Mo","Insp/NTW (Distribution 4) 2","3701 5050"
+"Water Supplies Department","New Territories West Region,Distribution (Yuen Long East)","Mr. MAN Sip Hong","Engr/NTW (Distribution 5)","3701 5016"
+"Water Supplies Department","New Territories West Region,Distribution (Yuen Long East)","Mr. CHUNG Kan Lin","Sr Insp/NTW (Distribution 5) 1","3701 5060"
+"Water Supplies Department","New Territories West Region,Distribution (Yuen Long East)","Mr. LEE Man Kwong, Toby","Insp/NTW (Distribution 5) 2","3701 5061"
+"Water Supplies Department","New Territories West Region,Distribution (Yuen Long East)","Mr. LEUNG Hoi Chuen","Insp/NTW (Inspection) (Acting)","3701 5088"
+"Water Supplies Department","New Territories West Region,Operations","Ms. CHAN On Yi","Mechanical Engr/NTW (Ops)","3701 5007"
+"Water Supplies Department","New Territories West Region,Operations","Mr. HONG Kam Yiu","Sr Insp Mechanical/NTW (Ops) 1","2399 4324"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. FUNG  Ming Hang","Engr/NTW (Customer Services) Applications 1","3701 5201"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. TUNG  Chi Man","Engr/NTW (Customer Services) Applications  2","3701 5200"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. KAN Ka Man","Engr/NTW (Customer Services) Inspection","3701 5202"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. TAO Wing Nun","Ch Tech Offr/ NTW (Customer Services) Works","3701 5203"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. SIU Yin Hong","Sr Insp/NTW (Customer Services) Works  1 (Acting)","3701 5204"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. SIU Yin Hong","Sr Insp/NTW (Customer Services) Works  2","3701 5205"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. PO Chi Yiu","Insp/NTW (Customer Services) Applications 1","3701 5220"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. LEUNG Kwok Kin","Insp/NTW (Customer Services) Applications 2","3701 5221"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. LAU Hau Wo","Insp/NTW (Customer Services) Applications 3","3701 5222"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. WU Wai Kong","Insp/NTW (Customer Services) Inspection 1","3701 5248"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. CHAN Chung Pong, Andy","Insp/NTW (Customer Services) Salt","3701 5249"
+"Water Supplies Department","New Territories West Region,Customer Services","Mr. NG Kwok Leung","Insp/NTW (Customer Services) Water Loss Control","3701 5295"
+"Water Supplies Department","Supply and Distribution ( NT) Branch,Technical Support Division","Mr. CHEUNG Yip Kui","Ch Engr/Tech Support","2829 5898"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. LAI Siu Ming","Sr Engr/Prosecution &amp; Geographic Infn System","2829 4788"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. CHAN Quan Wai, Aaron","Engr/Geographic Infn System","2829 4425"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. WONG Chi Lo, Niel","Supt/Prosecution 1","2294 2685"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. CHAN Wai Kay","Supt/Prosecution 2","3427 2274 "
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. CHAN Kong Wah","Sr Prosecution Offr","2829 4459"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. LI Kai Hung","Sr Tech Offr/Geographic Infn System","2829 4514"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. LEE  Shu Choy","Prosecution Offr (1) 1","2829 4720"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. WU Sui Wa","Prosecution Offr (1) 2","2829 4721"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. KEUNG Chi Man","Prosecution Offr (2) 1","2829 4460"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. KAM Wing Wah","Prosecution Offr (2) 2","2829 4781"
+"Water Supplies Department","Technical Support Division,Prosecution/Geographic Information System Section","Mr. NGAM Siu Lun","Insp/Random Check 2","3427 2242"
+"Water Supplies Department","Technical Support Division,Customer Contact Section","Mr. CHAN Kam Fong","Sr Engr/Customer Contact","2829 4769"
+"Water Supplies Department","Technical Support Division,Customer Contact Section","Mr. TSE Ming Por","Engr/Customer Contact","2829 4774 "
+"Water Supplies Department","Technical Support Division,Customer Contact Section","Mr. KWOK Wah Inn","Engr/Salt Water Conversion","2294 2709 "
+"Water Supplies Department","Technical Support Division,Customer Contact Section","Mr. CHAN Chi Yung","Call Centre Mgr","2829 4749"
+"Water Supplies Department","Technical Support Division,Customer Contact Section","Ms. YEUNG Wai Fan","Dep Call Centre Mgr","2829 4684"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. LAM Ching Man","Team Leader/Tech Support","3109 7479"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. IP Chit Ki","Sr Engr/Tech Support 1","2829 4415"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. LO Tsz Lung","Sr Engr/Tech Support 2 (Acting)","2829 4449"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Ms. YEUNG Sze Ling, Celine","Engr/Tech Support 1","2294 2650"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. IP Wing Ho","Engr/Tech Support 2","2829 4484"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. TSE Ming Por","Engr/Tech Support 3 (Acting)","2829 4574"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. YEUNG Chin Ho, Daniel","Engr/Tech Support 4","3428 5814 "
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. TONG Man Kit","Engr/Tech Support 5","2829 5657"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. WAN Chin Man","Engr/Tech Support 6","2829 4726"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. NG Kai Hung","Sr Tech Offr(Civil)/Tech Support 1","2399 4149"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. FAN Wing Hung","Insp/Tech Support 4","2360 6135"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. LEUNG Yuk Tak","PRSC  Insp/Tech Support","2360 6134"
+"Water Supplies Department","Technical Support Division,Technical Support Unit","Mr. FAN King Cheung, Peter","PRSC Insp (Consumer Services)/Tech Support 5","2360 6152"
+"Water Supplies Department","Technical Support Division,Material Control Unit","Mr. CHAN Kin Hung","Sr Mechanical Engr/Material Control (Acting)","2294 2744"
+"Water Supplies Department","Technical Support Division,Material Control Unit","Mr. KUNG Ting Wai, Terry","Mechanical Engr/Material Control","2294 2656"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Miss YIP Mun Wah, Janny","SEO/Mgt Support","2829 4530"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Miss SIU Wing Sze","EO/Mgt Support","2829 4682"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Ms. WONG Shuk Yee","SCO/Customer Enq","2829 4683"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Ms. FU Ya","CO/Document Mgt Centre 1","2829 4621"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Mr. LAM Wai Ming","CO/Document Mgt Centre 2 (Acting)","2294 2663"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Ms. KUNG Shiu Hung","CO/Tai Kok Tsui CEC","2797 2966"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Ms. CHAN Shau Wah, Eva","CO/Tuen Mun Customer Enq Centre","2449 2420"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Ms. LEUNG Siu Wah","CO/Shatin Customer Enq Centre","2606 5341"
+"Water Supplies Department","Technical Support Division,Management Support Unit","Ms. KWAN Kit Yu","CO/Wan Chai Customer Enq Centre","2829 4685"
+"Water Supplies Department","Technical Support Division,Material Testing Laboratory Unit","Mr. LUI Wing Kit","Sr Mechanical Engr/Material Testing Lab","2829 5663"
+"Water Supplies Department","Technical Support Division,Material Testing Laboratory Unit","Ms. WONG Chung Yan, Yannes","Mechanical Eng/Material Testing Lab","3583 4117,3578 6436"
+"Water Supplies Department","Water Supplies Department,Mechanical and Electrical Branch","Mr. LEE Tai On, JP","Asst Dir/Mechanical &amp; Electrical","2829 4357"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. WONG Chi Sing","Ch Electrical &amp; Mechanical Engr/Projects","2634 3700"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. NG Chung On","Sr Electrical Engr/Projects 1","2634 3531"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. YEUNG Hing Kai, Keith","Sr Electrical Engr/Projects 2","2634 3740"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEUNG Yiu Man, Simon","Sr Electrical Engr/Projects 3","2634 3730"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. TSE King Yiu","Sr Electrical Engr/Project Dev","2634 3710"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHOI Lok Wong","Sr Mechanical Engr/Projects 1","2634 3750"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LAU Chin Hung","Sr Mechanical Engr/Projects 2","2634 3760"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHOW Yiu Ming","Sr Mechanical Engr/Projects 3","2634 3720"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. KONG Kwong Sin","Sr Tech Mgr/Projects","2634 3712"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. YEUNG  Chi Ming","Electrical Engr/Projects 3","2634 3724"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Ms. WONG Yee Ching","Electrical Engr/Projects 4","2634 3747"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. WONG Siu Hang, Anthony","Electrical Engr/Projects 9","2634 3532"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEUNG Kwok San","Electrical Engr/Projects 10","2634 3538"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHENG Yui Shing","Electrical Engr/Projects 11","2634 3731"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LAO Yin","Electrical Engr/Projects 12","2634 3742"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. FONG Yu Chung","Mechanical Engr/Projects 1","2634 3754"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHAN Cheuk Yin","Mechanical Engr/Projects 3","2634 3763"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. WONG Chi Wai, Kevin","Mechanical Engr/Projects 6","2634 3766"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. KWONG Yiu Keung","Mechanical Engr/Projects 7","2634 3533"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. SIU Wing","Mechanical Engr/Projects 8","2634 3739"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. MAN Ka Leung","Mechanical Engr/Projects 11","2634 3768"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LAI Kim Ho","Mechanical Engr/Projects 13","2634 3725 "
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. IP Wing Cheong","Mechanical Engr/Project Dev 3","2634 3711"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHEUNG Wai Kit","Asst Electrical Engr/Projects 1","2634 3714"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEUNG Ying Yip","Asst Electrical Engr/Projects 5","2634 3744"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. TONG Che Yeung","Asst Electrical Engr/Projects 6","2634 3749"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHAN Kam Ming, Kenneth","Asst Electrical Engr/Projects 7","2634 3733"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEE  Lap Cho","Asst Electrical Engr/Project Dev 1","2634 3748"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. YAN Fu Ho","Asst Electrical Engr/Project Dev 4","2634 3715"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEUNG Chi Fung","Asst Electrical Engr/Renewable Energy","2634 3509"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LAI Wai Yin","Asst Mechanical Engr/Projects 2","2634 3762"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LOK Chun Hang","Asst Mechanical Engr/Projects 4","2634 3752"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHOI Hin Pok","Asst Mechanical Eng/Projects 10","2634 3753"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHAN Shing Hing","Sr Insp Electrical/Projects","2339 3554"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. KONG Wing Kin","Sr Insp Mechanical/Projects","2339 3555"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEUNG Siu Pang, Josiah","Prin Tech Offr Instrumentation/Projects","2339 3557"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHOW Chi Ming","Insp Electrical/Projects 2","2339 3501"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. SIT Kwok Wing","Insp Electrical/Projects 4","2339 3556"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. SIU  Pui Leung","Insp Mechanical/Projects 1","2339 3587"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHAN Chi Ho","Insp Mechanical/Projects 2","2339 3589"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEUNG Man Chu","Sr Tech Offr Instrumentation/Projects 1","2339 3580"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. CHAN Chi Hong","Sr Tech Offr Instrumentation/Projects 2","3578 6401"
+"Water Supplies Department","Mechanical and Electrical Branch,Projects Division","Mr. LEE Yung Tak","Sr Tech Offr Instrumentation/Project Dev","3578 6402"
+"Water Supplies Department","Mechanical and Electrical Branch,Maintenance Division","Mr. CHO Ping Ho","Ch Electrical &amp; Mechanical Engr/Maintenance","2634 3630"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. LAU King Ting","Sr Electrical Engr/Maintenance 1","2634 3635"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. HO Chung Ming","Electrical Engr/Maintenance (NTE1)","2634 3696"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. LAW Yiu Yip, Charles","Electrical Engr/Maintenance (NTE2)","2634 3692"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. LIEN Lik Hei","Electrical Engr/Maintenance Projects 1","2634 3680"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. MA Tsun Ting","Electrical Engr/Protection &amp; Testing","2339 3553"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Ms. LAU Helen, Hoi Yan","Asst Electrical Engr/Maintenance Projects 2","2634 3690"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. LEUNG Wai Yiu","Sr Insp Electrical/Maintenance (NTE 1)","2339 3549"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. WONG Chi Ming","Sr Insp Electrical/Maintenance (NTE 2)","2339 3545"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. CHENG Kam Wa","Sr Insp Electrical/Protection &amp; Testing","2339 3565"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. KWOK Wai Ming","Prin Tech Offr Instrumentation/Maintenance (NTE 1)","2339 3550"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. YIU Siu Cheung","Prin Tech Offr Instrumentation/Maintenance (NTE 2)","2339 3546,2691 1509"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. CHANG Chi Chung","Insp Electrical/Maintenance (NTE 1)","2339 3548"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. LEUNG Kwok Keung","Insp Electrical/Maintenance (NTE 2)","2339 3545"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. KAM Chi Man","Insp Electrical/Protection &amp; Testing","2339 3513"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. LEUNG Man Chu","Sr Tech Offr Instrumentation/Maintenance (NTE 1)","3578 6400"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. CHEUK Lim Chiu","Sr Tech Offr Instrumentation/Maintenance (NTE 2)","2691 1509,2339 3546"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. NG Chi Lap","Asst Insp Electrical/Maintenance (NTE 1) 1","2339 3548"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. WONG Wai Kei","Asst Insp Electrical/Maintenance (NTE 1) 2","2339 3548"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. BUT Chi Wai","Asst Insp Electrical/Maintenance (NTE 1) 3","2339 3548"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. CHEUNG Man Hing","Asst Insp Electrical/Maintenance (NTE 2) 1","2339 3545"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. CHAN Ming Pong","Asst Insp Electrical/Maintenance (NTE 2) 3","2339 3545"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. MO Wai Fung","Asst Insp Electrical/Maintenance (NTE  2) 4","2339 3545"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. YUEN Chi Nang","Asst Insp Electrical/Protection &amp; Testing 1","2339 3513"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (1) Sub-division","Mr. KU Siu Nam","Asst Insp Electrical/Protection &amp; Testing 2","2339 3513"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LIU Chung Ping","Sr Electrical Engr/Maintenance 2","2634 3639"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Ms. CHAN Tung Lai, Angela","Electrical Engr/Maintenance (NTW1)","2634 3698"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. HO Kai Ming","Electrical Engr/Maintenance (NTW 2)","2634 3693"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LAM Wa San","Electrical Engr/Telemetry &amp; Supervisory Control &amp; Data Acquisition System 1","2634 3699"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. CHENG Kai Lok","Asst Electrical Engr/Telemetry &amp; Supervisory Control &amp; Data Acquistion System 2","2634 3660"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. NG Man Fung, Nelson","Ch Tech Offr Instrumentation/Workshop","2339 3521"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. HO Man Sing","Sr Insp Electrical/Maintenance (NTW 1)","3578 6414"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. CHIU Tat","Sr Insp Electrical/Maintenance (NTW 2)","2339 3552"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. PANG Sze Keung","Prin Tech Offr Instrumentation/Maintenance (NTW 1)","2339 3580"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LEE Kin Wa","Prin Tech Offr Instrumentation/Maintenance (NTW 2)","2339 3522"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. TAM Kwok Hau","Prin Tech Offr Instrumentation/Telemetry &amp; Supervisory Control &amp; Data Acquisition System 1","2339 3522"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LI Kim Ming","Insp Electrical/Maintenance (NTW 1)","2339 3547"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LAM Chun On","Insp Electrical/Maintenance (NTW  2)","2339 3552"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Ms. LEE Nga In","NCS Insp/Bldg Service","3578 6439"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. CHU Wing Sheung,  Raymond","Sr Tech Offr Instrumentation/Maintenance (NTW 1)","2482 8313"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LAM Kwai Biu, Peter","Sr Tech Offr Instrumentation/Maintenance (NTW 2)","2339 3551"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. HAU Chi Sang","Sr Tech Offr Instrumentation/Telemetry &amp; Supervisory Control &amp; Data Acquisition System  (1)1","2339 3598"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. HO Kwok Ming","Sr Tech Offr Instrumentation/Telemetry &amp; Supervisory Control &amp; Data Acquisition System (1) 2","3578 6404"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. YEUNG Kwok Hung","Sr Tech Offr Instrumentation/Telemetry &amp; Supervisory Control &amp; Data Acquisition System (1)3","3578 6405"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LEUNG  Kim Ming","Sr Tech Offr Instrumentation/Workshop 1","2339 3590"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LEUNG Ka Chun","Sr Tech Offr Instrumentation/Workshop 2","2339 3590"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. YUI Chung Hei","Asst Insp Electrical/Maintenance (NTW 1) 1","2339 3547"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. CHAN  Fat Lung","Asst Insp Electrical/Maintenance (NTW 1) 2","2339 3547"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (2) Sub-division","Mr. LUM Yiu Keung","Asst Insp Electrical/Maintenance (NTW 2) 2","2339 3552"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. CHAN Cho Ming","Sr Electrical Engr/Maintenance 3","2634 3640"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. CHEUNG Hon Keung","Electrical Engr/Energy Mgt","2634 3697"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. KWAN Pak On, Anthony","Electrical Engr/Maintenance (HK)","2634 3685"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Ms. LO Cheuk Yan","Electrical Engr/Maintenance (K)","2634 3695"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. SINGH Swindar","Ch Tech Offr Electrical/Workshop","2339 3519"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. CHENG Koon Keung","Sr Insp Electrical/Maintenance (HK)","2880 2575"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. KEUNG Po Keung","Sr Insp Electrical/Maintenance (K)","2339 3544"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. LO Chun Kwong","Sr Insp Electrical/Workshop","2339 3520"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. NG Ho Man , Danny","Prin Tech Offr Instrumentation/Maintenance (HK)","2856 8117"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. LEUNG  Chun Fai","Prin Tech Offr Instrumentation/Maintenance (K)","2339 3577"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. LO Tak Ming","Insp Electrical/Maintenance (HK)","2880 2576"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. NGAI Ting Wing","Insp Electrical/Maintenance (K)","2339 3544"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. TSANG Chi Wai","Insp Electrical/Workshop","2339 3520"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. NG Yat Shing","Sr Tech Offr Instrumentation/Maintenance (HK)","2880 2524"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. AU YEUNG Shu Yan, Ian","Sr Tech Offr Instrumentation/Maintenance (K)","2339 3577"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. CHAN Pak Kai","Asst Insp Electrical/Maintenance (HK) 1 (Acting)","2880 2575"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. CHAN Pak Kai","Asst Insp Electrical/Maintenance (HK) 2","2880 2576"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. LI Man Kwong, Sammy","Asst Insp Electrical/Maintenance (K) 1","2339 3544"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. KWOK Tsz Ho","Asst Insp Electrical/Maintenance (K) 2","2339 3544"
+"Water Supplies Department","Maintenance Division,Electrical Maintenance (3) Sub-division","Mr. HO Wang Dik","Asst Insp Electrical/Workshop","2339 3520"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. WONG Yiu Wing","Sr Electrical &amp; Mechanical Engr/Support","2634 3631"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Ms. KO Yik Yan","Electrical Engr/Planned Maintenance","2339 3515"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. CHU Wai Ki, Michael","Mechanical Engr/Planned Maintenance","2634 3670"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. CHENG Tin Tak","Asst Electrical &amp; Mechanical  Engr/Quality Assurance","2634 3669"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. CHIU Shui Tim","Ch Tech Offr Electrical/Spares &amp; Trg","2339 3578"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. WONG Siu Bor","Ch Tech Offr Instrumentation/Spares &amp; Trg","2339 3579"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. LEUNG Kwai Yin","Ch Tech Offr Mechanical/Spares &amp; Trg","2339 3528"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. KWAN Hoi Fung","Sr Tech Offr Instrumentation/Planned Maintenance","2339 3517"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. LO Yuk Fai","Sr Tech Offr Instrumentation/Spares &amp; Trg","3578 6415"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. CHAN Tze Kam","Insp Electrical/Planned Maintenance","2339 3516"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. TANG Yun Wah","Insp Electrical/Spares &amp; Trg 1","2339 3543"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. LEE Man Fai","Insp Electrical/Spares &amp; Trg 2","2339 3543"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. WONG Chun Kit","Insp Mechanical/Spares &amp; Trg 1 (Acting)","2339 3560"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. TAM  Sui Cheong","Insp Mechanical/Spares &amp; Trg 2","2339 3560"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. YAU Chi Hong","Asst Insp Electrical/Planned Maintenance 1","3578 6419"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. KWOK Hoi Yung","Asst Insp Electrical/Planned Maintenance 2","3578 6419,2339 3517"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. HO Chi Ming","Asst Insp Electrical/Spares &amp; trg","2339 3543"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. WONG Chun Kit","Asst Insp Mechancial/Spares &amp; Trg 1","2339 3560"
+"Water Supplies Department","Maintenance Division,Support Sub-division","Mr. LAI Man Ho","Asst Insp Mechanical/Spares &amp; Trg 2","2339 3560"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. CHU Wai Leung","Sr Mechanical Engr/Maintenance 1","2634 3633"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. WONG Cheung Fat","Mechanical Engr/Maintenance (NTE 1)","2634 3651"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. TANG Wan Ming","Mechanical Engr/Maintenance (NTE 2)","2634 3662"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LO Ka Ho","Asst Mechanical Engr/Maintenance Projects 1","2634 3665"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. CHAN Siu Chung","Asst Mechanical Engr/Maintenance Projects 2","2634 3663"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. KI Tak Sun","Sr Insp Mechanical/Maintenance (NTE 1)","3578 6425 "
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. CHOO Shun Wing","Sr Insp Mechanical/Maintenance (NTE 2) (Acting)","3578 6422"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LEUNG Hon Kwong, Benjamin","Sr Insp Mechanical/Maintenance (NTE 2) (Acting)","3578 6422"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LEUNG Wai Yip","Insp Mechanical/Maintenance (NTE 1)","2339 3536"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. CHOO Shun Wing","Insp Mechanical/Maintenance (NTE 2)","2339 3535"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LEUNG Yau Shing","Asst Insp Mechanical/Maintenance (NTE 1) 1","2339 3531"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LAM  Chi Kong","Asst Insp Mechanical/Maintenance (NTE 1) 2","2339 3536"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LO Chung Hong","Asst Insp Mechanical/Maintenance (NTE 1) 3","2339 3531"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LAM Tat Kuen","Asst Insp Mechanical/Maintenance (NTE 2) 1","2339 3535"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LEUNG  Hon Kwong, Benjamin","Asst Insp Mechanical/Maintenance (NTE 2) 2","2339 3535"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (1) Sub-division","Mr. LO Cheuk Ngai","Asst Insp Mechanical/Maintenance (NTE 2) 3","2339 3535"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. LO Wing Keung, Derek","Sr Mechanical Engr/Maintenance 2","2634 3636"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. HO Ho Leung, Samuel","Mechanical Engr/Maintenance (NTW 1)","2634 3661"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. HO Ho Leung, Samuel","Mechanical Engr/Maintenance (NTW 2) (Acting)","2634 3661"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. TAI Ping Tat, Jackie","Mechanical Engr/Meter 1","2634 3672"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. LEUNG Wai Hung","Mechanical Engr/Meter 2","2634 3668"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. HUNG  Kee Fong","Sr Insp Mechanical/Maintenance (NTW 1)","3578 6426"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. NG Fung Tat","Sr Insp Mechanical/Maintenance (NTW 2)","2578 6416"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. LI Ching Shui","Insp Mechanical/Maintenance (NTW 1) (Acting)","2339 3532"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. WONG Ping Tong","Insp Mechanical/Maintenance (NTW 2)","2339 3530"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. YIP Ka Chun","Insp Mechanical/Meter 1","2339 3591"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. KWOK  Chi Kwong","Insp Mechanical/Meter 2","2339 3592"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. MAN Yiu Cho","Asst Insp Mechanical/ Maintenance (NTW 1) 1","2339 3532"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. TANG Kwok Leung","Asst Insp Mechanical/Maintenance (NTW 1) 1","3578 6426"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. LI Ching Shui","Asst Insp Mechanical/Maintenance (NTW 1) 2","2339 3532"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. LAM Ka Leong","Asst Insp Mechanical/Maintenance (NTW 2) 1","2339 3530"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. KONG Tit Keung","Asst Insp Mechanical/Maintenance (NTW 2) 2","2339 3530"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. HO Tze Wing","Asst Insp Mechanical/Meter 1","2339 3591"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (2) Sub-division","Mr. WONG Sai Leung, Sheldon","Asst Insp Mechanical/Meter 2","2339 3592"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. LEUNG Kai Chiu","Sr Mechanical Engr/Maintenance 3","2634 3632"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. CHENG Ka Ho","Mechanical Engr/Energy Mgt","2634 3667"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. LOK Chun Ting, Chris","Mechanical Engr/Maintenance 3","2634 3652"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. LEUNG Wai Man","Mechanical Engr/Maintenance (HK)","2634 3666 "
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. CHAN Kwok Leung","Mechanical Engr/Maintenance (K)","2634 3650"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. AU Tai Pang","Ch Tech Offr Mechanical/Workshop","2339 3523"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. YEUNG  Hon Sang","Sr Insp Mechanical/Maintenance (HK)","2880 2573"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. LAU Yi Hing","Sr Insp Mechanical/Maintenance (K)","3578 6421"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. CHUE Kwok Leung","Sr Insp Mechanical/Workshop","2339 3524"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. LEE Chi Man","Insp Mechancial/Energy Mgt","2634 3659"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. KWOK Chi Chuen","Insp Mechanical/Maintenance (HK)","2856 8108"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. KWOK Kim Hung","Insp Mechanical/Maintenance (K)","2339 3533"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. CHENG Po Wah","Insp Mechanical/Workshop","2339 3525"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. LAU Sui Fung","Asst Insp Mechanical/Energy Mgt","2634 3658"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. LAM  Hin Kong","Asst Insp Mechanical/Maintenance (K) 1","3578 6421"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. SIU King Pan","Asst Insp Mechanical/Maintenance (K) 2","2339 3533"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. CHEUNG Yuen Kwong","Asst Insp Mechanical/Workshop 1","2339 3569"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. FONG Kwok Wai","Asst Insp Mechanical/Workshop 2","2339 3529"
+"Water Supplies Department","Maintenance Division,Mechanical Maintenance (3) Sub-division","Mr. WONG Chun Kit","Asst Insp Mechanical/Workshop 3","2339 3526"
+"Water Supplies Department","Mechanical and Electrical Branch,Mechanical and Electrical Administration Unit","Mr. TSE Wai Kwok","Sr Electrical &amp; Mechanical Engr/Adm","2829 4396"
+"Water Supplies Department","Mechanical and Electrical Branch,Mechanical and Electrical Administration Unit","Mr. LAU Ying Wah","Ch Tech Offr Electrical &amp; Mechanical/Adm","3428 6049"
+"Water Supplies Department","Mechanical and Electrical Branch,Mechanical and Electrical Administration Unit","Mr. KWONG Ming Cheong","Welfare Offr (1)","2880 2509,2339 3561"
+"Water Supplies Department","Mechanical and Electrical Branch,Mechanical and Electrical Administration Unit","Mr. CHOW Cheong Shing, Samson","Welfare Offr (2)","3701 5410,2360 6250,2152 5614"
+"Water Supplies Department","Mechanical and Electrical Branch,Technical Development Unit","Mr. WONG Ming Kwong","Sr Electrical &amp; Mechanical Engr/Tech Dev","2634 3530"
+"Water Supplies Department","Mechanical and Electrical Branch,Technical Development Unit","Mr. HO Kin Bong","Electrical &amp; Mechanical Engr/Tech Dev 1","2634 3732"
+"Water Supplies Department","Mechanical and Electrical Branch,Technical Development Unit","Mr. LAU Ka Yue","Electrical &amp; Mechanical Engr/Tech Dev 2","2634 3511"
+"Water Supplies Department","Mechanical and Electrical Branch,Safety Unit","Mr. LAM Chi Man","Sr Engr/Safety","2829 4565"
+"Water Supplies Department","Mechanical and Electrical Branch,Safety Unit","Mr. YIP  Wing Sum","Electrical Engr/Safety  1","2829 4577"
+"Water Supplies Department","Mechanical and Electrical Branch,Safety Unit","Mr. KO Ka Kit, Kennet","Mechanical Engr/Safety 2","2829 4735"
+"Water Supplies Department","Mechanical and Electrical Branch,Safety Unit","Mr. NG Kit Wah, Philips","Ch Tech Offr/Safety","2829 5626"
+"Water Supplies Department","Mechanical and Electrical Branch,Safety Unit","Mr. CHEUNG Wai Kin","Asst Insp Mechanical/Safety 1","2829 4409"
+"Water Supplies Department","Mechanical and Electrical Branch,Safety Unit","Mr. TSOI Wai Wa","Asst Insp/Safety 2","2829 5661"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. LO Ka Lun","Sr Engr/Infn Technology","2829 4427"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. LO Leung Shing","Engr/Infn Systems 1","2829 4755"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. CHAN Chi Kuen","Engr/Infn Systems 3","2829 5625"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Ms. TAM Ching Yu","Engr/Infn Systems 4","3583 4198 "
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. YU Lap Ho","Engr/Infn Systems 6","2829 4418"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Miss LAM Chi Ning","Adm Mgr/Web Mgt","2829 5641"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. NG Chi Chun","Systems Mgr/Infn Systems","2294 2716"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. TSANG Ip Keung, Joe","Infn Technology Offr/Infn Systems  2","2829 4492"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Ms. MAK Siu Wai","Analyst Programmer/Maintenance Works Mgt System 1","2360 6257"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. YEUNG Chun Fai, Thomas","Insp/Maintenance Works Mgt System 1","2152 5722,2360 6268"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. CHOY Chi Shing","Insp/Maintenance Works Mgt System 2","3701 5461,2360 6269"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. WONG Chor Leung","Sr Tech Offr/Infn Systems 2","2829 5862"
+"Water Supplies Department","Mechanical and Electrical Branch,Information Technology  and Data Management Unit","Mr. WONG Wing Cheong","CO/Data Mgt","2829 5649"
+"Water Supplies Department","Water Supplies Department,Finance Branch","Mr. WONG Chun Kwong","Asst Dir/Fin","2829 4402"
+"Water Supplies Department","Finance Branch,Finance Section","Mr. PANG Chi Chiu","Sr TA/Fin","2829 4661"
+"Water Supplies Department","Finance Branch,Finance Section","Mr. LAM Ching","TA/Fin","2829 4583"
+"Water Supplies Department","Finance Branch,Finance Section","Mr. LEUNG Kin Keung","Acct Offr I/Fin","2829 4584"
+"Water Supplies Department","Finance Branch,Finance Section","Mr. YU Tai Yat","Acct Offr II /Fin","2829 4585"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. CHIU  Lai Chun, Emily","SCO/Capital Works","2829 4587"
+"Water Supplies Department","Finance Branch,Finance Section","Mr. LAI Kai Kin","SCO/Psl Emolument","2829 5665"
+"Water Supplies Department","Finance Branch,Finance Section","Mr. CHAM Chee Shing","SCO/Recurrent Exp &amp; Gen","2829 4586"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. TAM Man Chi, Mary","CO/Capital Works Reserve Fund","2829 4589"
+"Water Supplies Department","Finance Branch,Finance Section","Mr. NG Sai Ho","CO/Consultants Payment","2829 4592"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. TSANG Kam Sau","CO/Contracts &amp; Contract Payments","2829 4591"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. LUN Ping","CO/Maintenance Contract Payments","2829 4593"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. CHOI Sau Ho","CO/Psl Emoluments - Alce","2829 4595"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. LEE Ching Yee, Vera","CO/Psl Emoluments - Salaries","2829 4594"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. YUEN Ying King","CO/Recurrent Exp &amp; Gen - Deptl Fin","2829 4438"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. CHENG Shuk Ching","CO/Recurrent Exp &amp; Gen - Gen Payments","2829 5873"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. CHAN Sim Ching","CO/Recurrent Exp &amp; Gen -Integrated Materials &amp; Job Records Mgt System - Payment","2829 5870"
+"Water Supplies Department","Finance Branch,Finance Section","Ms. CHENG Wai Lin, Winnie","CO/Rev &amp; Job Pricing","2829 4590"
+"Water Supplies Department","Finance Branch,Management Accounting Unit","Ms. WONG See Wing, Selena","TA/Mgt  Acct","2829 5894"
+"Water Supplies Department","Finance Branch,Management Accounting Unit","Ms. LUK Pui Shan","Acct Offr I/Mgt Acct","2829 4663"
+"Water Supplies Department","Finance Branch,Management Accounting Unit","Ms. WONG Ngai Ching","Acct Offr II/Mgt Acct","2829 4664"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. CHOI Sum Yat","Ch SO","2829 4697"
+"Water Supplies Department","Finance Branch,Supplies Section","Ms. LEE Lai Shan","SO (Procurement)","2829 5860 "
+"Water Supplies Department","Finance Branch,Supplies Section","Ms. YEUNG Po Yan","SO (Water Supplies Dept)","2829 4698"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. CHENG Chi Ho","Asst SO (Procurement)","2294 2720"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. LAU Shu Kai","Asst SO (Water Supplies Dept)","2829 4699"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. LEE Yu Kwan, Frankie","Sr SS/Lung Cheung Rd Depot","2339 3505"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. WONG Koon Wan, Sunny","Sr SS/WSD (Acting)","3701 5415"
+"Water Supplies Department","Finance Branch,Supplies Section","Ms. LO Kwai Ling, Frances","SSI/Procurement (A)","2829 4701"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. LAU Kong Lee","SSI/Procurement (B)","2294 2711"
+"Water Supplies Department","Finance Branch,Supplies Section","Miss LI Chui Man, Cherie","SSI/Procurement Adm &amp; Contract Monitoring","2829 5861"
+"Water Supplies Department","Finance Branch,Supplies Section","Ms. LAM Kin Ying","CO/General Unit (Head Office)","2829 4700"
+"Water Supplies Department","Finance Branch,Supplies Section","Ms. CHUN Suk Fong","SS i/c Head Office Stationery Store","2829 4705"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. POON Wai Ming","SS i/c HK &amp; Islands Regional Store","2880 2503"
+"Water Supplies Department","Finance Branch,Supplies Section","Ms. TSANG Kit Ling","SS i/c Kln Regional Store","2360 6276"
+"Water Supplies Department","Finance Branch,Supplies Section","Mr. SO Chi Yip","SS i/c NTE Regional Store","2152 5525"
+"Water Supplies Department","Finance Branch,Supplies Section","Ms. HUI Wing Man","SS i/c NTW Regional Store","3701 5417"
+"Water Supplies Department","Finance Branch,Internal Audit Section","Mr. LUK Mo Kan","Sr TA/ Internal Audit","2829 5612"
+"Water Supplies Department","Finance Branch,Internal Audit Section","Ms. FUNG Suk Ping","Acct Offr I/Internal Audit","2829 4404"
+"Water Supplies Department","Finance Branch,Internal Audit Section","Mr. IP Pok Man, Matthew","Acct Offr II/Internal Audit","2829 5613"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. CHAN Wing Chow","Sr Engr/Infn Technology Project Mgt &amp; Review","2829 5640"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. AU Wing Chak","Engr/Infn Systems 5","2829 4452"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. LEE Kin Tak, Manson","Infn Technology Services Mgr 2","2829 5890"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. TJONG Kin Man","System Mgr/Infn Technology Project Mgt &amp; Review (Acting)","2829 5884"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. LEUNG Chi On","Analyst Programmer/Infn Technology Project Mgt &amp; Review 1 (Acting)","2829 5892"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. NG Yat Man","Analyst Progrommer/Infn Technology Project Mgt &amp; Review 2","2294 2692"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Ms. NG Chi Man, Juliana","Analyst Programmer/Infn Technology Project Mgt &amp; Review 3 (Acting)","3427 9859"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. LEUNG Chin Wang","Sr Tech Offr/Infn Systems 1","2829 4757"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. LEE  Kam Chiu","Sr Tech Offr(Electrical)/Infn Systems 3","2829 4433"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Ms. SZETO So Fung, Venus","Infn Technology Offr/Infn Systems  3","2829 5885"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Ms. CHAN Wai Wai, Emily","Infn Technology Offr/Infn Systems 4","2829 5886"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Ms. LEUNG Wing Shan, Sylvia","Infn Technology Offr/Infn Systems 5","2829 5893"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Mr. LEUNG  Chi On","Analyst Programmer/Information Technology Project Mgt &amp; Review 1","2829 5892"
+"Water Supplies Department","Finance Branch,Information Technology Project Management & Review Unit","Ms. NG Chi Man, Juliana","Analyst Programmer/Information Technology Project Mgt &amp; Review 2","3427 9859"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. WONG Ka Him","Sr TA /Customer Accts (Acting)","2829 4582"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Miss NG Yuet Ling, Elaine","Sr Acct Offr/Customer Accts 1","2829 4636"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. CHENG Kwai Shing","Sr Acct Offr/Customer Accts 2","2829 4655"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LEUNG Siu Ching","Sr Acct Offr/Customer Accts 3","2829 5896"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. KWOK Kwai Chun","Acct Offr I/SD","2829 5896"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. TANG Shik Yin","Acct Offr II/Rev Control","2829 4656"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. HO Hau Yi","Acct Offr II/Systems","2294 2730"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. CHAN Shiu Man","Team Leader/Customer Accts","2112 1376 "
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LEUNG Wai Han, Stephanie","SCO/Customer Accts 1 (Acting)","2829 4625"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LI  Mei Yuk","SCO/Customer Accts 2 (Acting)","2829 4624"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. TONG Moon Yee, Rosa","SCO/Customer Accts 3","2829 4637"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. CHAN Mei Kam","SCO/Customer Accts 4","2829 4597"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. AU Lai Chun","SCO/Customer Accts 5","2829 4599"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LEUNG Po Chun, Connie","SCO/Customer Accts 6","2829 4611"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. LIU Hon Man","SCO/Customer Accts 7","2829 4600"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. CHAN Ching Yee","SCO/Customer Accts 8","2829 4596"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. HO Ho Ho","SCO/Debt Recovery","2829 4651"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. YEUNG Miu Ling","SCO/Gen Unit (Acting)","2829 4645"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Miss SI Pui Ki","SCO/Gen Unit (Acting)","2829 4645"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. LAI Tai Chuen","Sr Project Offr 1/Customer Accts Sec","3583 4007"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LEUNG Yi Mei","Sr Project Offr 2/Customer Accts Sec","3583 4027"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. CHOW Mee Po, Mable","Sr Procedure Review Offr/Customer Accts Sec","2112 1378"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LI Siu Luen","CO/Customer Accts/A1","2829 4626"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. NG Lai Ping","CO/Customer Accts/A2","2829 4632"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. CHAN Suet Ying","CO/Customer Accts/B1 (Acting)","2294 2684"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. SHU Wai Man","CO/Customer Accts/B2","2829 5674"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. TSANG Yun Wah, Vinno","CO/Customer Accts/C1","2829 4644"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. NG Siu Cheong","CO/Customer Accts/C2","2829 4639"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. WONG Wai Chu","CO/Customer Accts/D1","2829 4609"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. KIU Fung Cheung, Glenda","CO/Customer Accts/D2","2829 5671"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LAM Po Yi","CO/Customer Accts/E1","2829 4610"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LEE Yee Har, Candy","CO/Customer Accts/E2","2829 4608"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LEUNG Fung Chu","CO/Customer Accts/F2","2829 5669"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mrs. TONG CHU Wai Chun, Joanna","CO/Customer Accts/F3","2829 4607"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. FUNG Suk Ching, Angel","CO/Customer Accts/G1","2829 4601"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. NG Kit Yung","CO/Customer Accts/G2","2829 4602 "
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. KWAN Yi Ching","CO/Customer Accts/G4","2829 4618"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. KOO Mei Mei","CO/Customer Accts 8.1 (Acting)","2829 4667"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. LEE Yui Sun","CO/Customer Accts 8.2 (Acting)","2294 2668"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. SO Mei Kuen, Amy","CO/Debt Recovery 1","2829 4654"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. HUI Wai Chi","CO/Debt Recovery 2","2829 4650"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. YEUNG Miu Ling","CO/Gen Unit 1","2829 4649"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. CHENG Kee Yau","CO/Gen Unit 2","2829 4647"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. SHIU Pui Yi","CO/Rev Control 1","2829 4660"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. HA Fung Chi","CO/Rev Control 2","2829 4658"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LAW Hau Ling, Rance","CO/Systems","2829 4694"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LAY Man Wai, Teresa","PRSC Asst Acct Mgr/Systems","2829 4665"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Ms. LEUNG Yee Ling","Project Offr 1/Customer Accts Sec","3580 8157"
+"Water Supplies Department","Finance Branch,Customer Accounts Section","Mr. LAM Sin Kau","Project Offr 2/Customer Accts Sec","3580 8156"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Miss LIN San Yin","EO/Meter Reading (Acting)","2829 4715"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Mr. LI Yuk Wing","Contract Asst Mgr/Finance","2511 2291"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Ms. YIP Chi Mei","CO/Meter Reading (Acting)","2829 4674"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Mr. TO Shiu Yee","Ch Meter Reader/HK","2802 4933"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Mr. TSANG Hon Cheung, Banny","Ch Meter Reader/Kln E","2152 5531"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Mr. WONG Tze Chiu","Ch Meter Reader/Kln W","2307 8826"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Mr. CHAN See Chi","Ch Meter Reader/NTE","2609 5558"
+"Water Supplies Department","Finance Branch,Meter Reading Section","Mr. KOK Shu Ming","Ch Meter Reader/NTW","2464 2912"
+"Water Supplies Department","Water Supplies Department,Special Duty Unit","Mr. LAM Saint Kit, Byron","Asst Dir/SD","2829 5680"
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Mr. NG Mang Tung, Bobby","Team Leader/Legislative Review","2294 2741 "
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Mr. CHAN  Chi Yuen","Ch Engr/SD","2829 4424"
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Mr. YEUNG Ho Sing","Sr Engr/Legislative Review 1","2829 5868"
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Mr. LEE Chi Ho","Sr Engr/Legislative Review 2","2294 2708"
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Miss SUEN Wai Ham, Victoria","Engr/Legislative Review 1","2829 4474 "
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Mr. CHOW King Cheung","Engr/Legislative Review 2","2829 4485 "
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Mr. LEE Chi Kai, Ricky","Engr/Legislative Review 3","2294 2736"
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Mr. LING Ho Yin","Engr/Legislative Review 4","2829 5895"
+"Water Supplies Department","Special Duty Unit,Legislative Review Unit","Ms. WONG Yu Ling","Mechanical Engr/Legislative Review","2829 5611"
+"Water Supplies Department","Special Duty Unit,Organisation/System Review Unit","Mr. CHAN Mang Fu, Jack","CEO/SD","2829 4560"
+"Water Supplies Department","Special Duty Unit,Organisation/System Review Unit","Mr. SY Kin Lik","Sr Engr/System Review","2829 4488"
+"Water Supplies Department","Special Duty Unit,Public Relations Unit","Mr. TSANG Chung Man","Sr Engr/Public Relations","2829 4351"
+"Water Supplies Department","Special Duty Unit,Public Relations Unit","Ms. CHAN Man Ki","Engr/Public Relations","2829 5863"
+"Water Supplies Department","Special Duty Unit,Public Relations Unit","Mr. CHENG Tsz Chung","EO/Public Relations","2829 5664"
+"Water Supplies Department","Special Duty Unit,Public Relations Unit","Ms. MAN Shuk Kwan, Kimmy","Sr Infn Offr/Public Relations (Acting)","2294 2742"
+"Water Supplies Department","Special Duty Unit,Water Quality (Standards and Monitoring) unit","Mr. YU Chi Wing","Sr Chemist/Water Quality (Standards and Monitoring)","2829 4444"
+"Water Supplies Department","Special Duty Unit,Water Quality (Standards and Monitoring) unit","Ms. FU Li Ki","Chemist/Water Quality (Standards and Monitoring)","3428 5925"
+"Water Supplies Department","Special Duty Unit,Water Safety Plan and Quality System Unit","Ms. MOK Wing Suet, Alexandra","Sr Chemist/Water Safety Plan &amp; Quality System","2829 5688"
+"Water Supplies Department","Special Duty Unit,Water Safety Plan and Quality System Unit","Ms. CHAN Ka Man, Carmen","Chemist/Water Safety Plan 1","2829 5631"
+"Water Supplies Department","Special Duty Unit,Water Safety Plan and Quality System Unit","Mr. LEE Wai San, Weekey","Chemist/Water Safety Plan 2","2146 8509"
+"Water Supplies Department","Special Duty Unit,Water Safety Plan and Quality System Unit","Mr. FUNG Cheuk Pong, Ronald","Engr/Quality System","2294 2655 "
+"Water Supplies Department","Special Duty Unit,Water Safety Plan and Quality System Unit","Mr. LUK Shiu Fai","PRSC Quality System  Chemist/Water Safety Plan &amp; Quality System","3428 5084"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss LO Shuk Yi, Sally","DS","2829 4411"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss LO Suk Ha","Dep DS/Appt","2829 4368"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Ms. CHAN Sui King, Madeline","Dep DS/Est","2829 5606"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss TAM Pui Kam, Ada","Dep DS/Staff Mgt","2829 4370"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Ms. CHEUNG Yin Ping, Ada","Dep DS/Staff Relation","2829 4467"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Ms. LI Wai Mei, Maggie","Asst DS/Adm 1","2829 5600"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Mr. KWONG  Chi Kit, Dickson","Asst DS/Adm 2","2829 4362"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Ms. HO Man Ki, Mandy","Asst DS/Appt 1","2829 4385"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss TSANG Ka Po","Asst DS/Appt 2","2294 2717"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss LAM Evien","Asst DS/Appt 3","2829 4384"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss LOO Yuen Ting","Asst DS/Est","2829 4383"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss YEUNG Lai Hung","Asst DS/Staff Mgt","2829 4382"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Mr. TANG Yuk Kong","Transp Services Offr 1/Adm","2360 6292"
+"Water Supplies Department","Water Supplies Department,Departmental Administration Division","Miss HUI Yuen Hung","Official Lang Offr II","2829 4377"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. CHOW Kwai Chun","SCO/Appt","2829 4386"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. WONG Siu Ling","PRSC SCO/Appt Regy","2294 2743"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. POON Yuk Shan, Anita","CO/Appt Regy (Deptl Grade 1)","2829 4394"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Miss LEE Miu Ning","CO/Appt Regy (Deptl Grade 2)","2829 5872"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. LIU Lai Wai, Janet","CO/Appt Regy (Filing)","2829 5618"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. LEUNG  Oi Yi, Margaret","CO/Appt Regy (Gen Grade)","2829 5620"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. LEUNG Kee Mui, Donna","PRSC CO/Appt Regy","2294 2743"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. CHENG Chor Hing","PRSC CO/Appt Regy 2","2829 4380"
+"Water Supplies Department","Departmental Administration Division,Appointment Registry","Ms. LEE Wun Ho","PRSC CO/Appt Regy 3","3427 5040"
+"Water Supplies Department","Departmental Administration Division,Establishment Registry","Ms. YAM Po Yin","SCO/Est","2829 5658"
+"Water Supplies Department","Departmental Administration Division,Establishment Registry","Ms. TSE Wai Lan","CO/Est Regy 1","2829 4387"
+"Water Supplies Department","Departmental Administration Division,Establishment Registry","Ms. WONG Lai Hing, Karen","CO/Est Regy 2","2829 4389"
+"Water Supplies Department","Departmental Administration Division,Personnel Registry","Ms. CHAN Shun Chun","SCO/Per (Acting)","2829 4390"
+"Water Supplies Department","Departmental Administration Division,Personnel Registry","Ms. CHIN Yan Yan","CO/Per Regy (Conditions of Service)","2829 4737"
+"Water Supplies Department","Departmental Administration Division,Personnel Registry","Mrs. NG LAI Yuen Ling","CO/Per Regy (Leave &amp; Passage) 1","2829 5605"
+"Water Supplies Department","Departmental Administration Division,Personnel Registry","Ms. TANG Pui Yee","CO/Per Regy (Leave &amp; Passage) 2 (Acting)","2829 5859"
+"Water Supplies Department","Departmental Administration Division,Staff Management Registry","Ms. CHUNG Shuk Wan, Suwina","CO/Staff Mgt Regy","2829 5617"
+"Water Supplies Department","Departmental Administration Division,Recruitment and Promotions Registry","Ms. LAI Yuet Han","CO/Appt Regy  (Recruitment)","2829 4391"
+"Water Supplies Department","Departmental Administration Division,Recruitment and Promotions Registry","Ms. LAU Wai King","CO/Appt Regy (Recruitment)","2829 5634"
+"Water Supplies Department","Departmental Administration Division,Recruitment and Promotions Registry","Ms. CHAN Yin Chow","CO/Appt Regy (Recruitment)","2829 4736"
+"Water Supplies Department","Departmental Administration Division,Recruitment and Promotions Registry","Ms. WONG Kwan Sai , Annie","CO/Appt Regy (Recruitment)","2829 4391,2294 2681"
+"Water Supplies Department","Departmental Administration Division,Confidential Registry","","",""
+"Water Supplies Department","Departmental Administration Division,Translation Unit","","",""
+"Water Supplies Department","Departmental Administration Division,General Registry (Headquarters)","Miss NG Wai Chun","CO/Gen Regy/HQ 1","2829 4567"
+"Water Supplies Department","Departmental Administration Division,General Registry (Headquarters)","Ms. LAM Ying Fong","CO/Gen Regy/HQ 2","2829 4759"
+"Water Supplies Department","Departmental Administration Division,General Registry (Headquarters)","Ms. CHAN Li Shan, Grace","CO/Gen Regy/HQ 3 (Acting)","2829 4566"
+"Water Supplies Department","Departmental Administration Division,General Registry (Headquarters)","Ms. SIU Yin Ping, Connie","PRSC CO/Gen Regy/HQ 4","3426 9202"
+"Water Supplies Department","Departmental Administration Division,Transport Section","Ms. TAM Fung Ling","CO/Transp (Acting)","2360 6293"
+"Water Supplies Department","Departmental Administration Division,Transport Section","Mr. LI Chun Yu","Transp Services Offr  II/HK","2880 2504"
+"Water Supplies Department","Departmental Administration Division,Transport Section","Miss NG Siu Ming, Jaime","Transp Services Offr II/Kln","2387 2263"
+"Water Supplies Department","Departmental Administration Division,Transport Section","Ms. LEE Kam Sheung","Transp Services Offr II/NT","2152 5510"
+"Water Supplies Department","Departmental Administration Division,Transport Section","Mr. MA Kam Shing, Calvin","Transp Services Offr II/Workshop","2339 3570"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Mr. ENG Ka Wah","Sr Engr/Contract Adviser (Acting)","2829 5603"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Mr. KWOK Wai Wah","Engr/Contract Adviser 1","2829 4730"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Mr. CHAU Yun Cheung","Engr/Contract Adviser 2","3583 4169"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Mr. LAU Kai Ming","Engr/Contract Adviser 3","2829 5642"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Mr. CHAN Yum Chuen","Sr Insp/Contract Adviser","2829 4376"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Ms. CHOY Yin Shan","Insp/Contract Adviser","2829 4374"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Mr. KOO Man Chung","Asst Insp/Contract Adviser 1","2294 2690"
+"Water Supplies Department","Water Supplies Department,Contract Advisory Unit","Mr. TAM Ka Ho","Asst Insp/Contract Adviser 2","2829 4513"
+"Water Supplies Department","Water Supplies Department,General Administration Section","Mr. LOUIE Ting Cheung, John","Sr Engr/HQ","2829 4709"
+"Water Supplies Department","Water Supplies Department,General Administration Section","Mr. WONG Yee Lok","Engr/HQ","2829 4756"
+"Water Supplies Department","Water Supplies Department,General Administration Section","Ms. PAK Wai Sum","Public Communications Offr/HQ","3426 9261"
