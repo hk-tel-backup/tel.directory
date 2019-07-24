@@ -1,264 +1,200 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=ICAC&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DICAC%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Independent Commission Against Corruption","Mr. PEH Yun Lu, Simon, SBS, IDSM","Comr, ICAC","2826 3111"
+"Independent Commission Against Corruption","Mr. YAU  Shu Chun, Ricky","Head/Ops","2826 4301"
+""
+"Organisation","Service Name","Office Tel"
+"Independent Commission Against Corruption","Enquiry","2826 3110"
+"Independent Commission Against Corruption","Report Corruption Hotline","2526 6366"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Independent Commission Against Corruption","Independent Commission Against Corruption","","",""
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Office of the Commissioner","Mr. PEH Yun Lu, Simon, SBS, IDSM","Comr, ICAC","2826 3111"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Office of the Commissioner","Ms. CHUNG Wai Fun, Fanny","Psl Asst to Comr","2826 3112"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Administration Branch","Ms. KWAN  Yee Lan, Sally","Asst Dir/Adm","2826 3118"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Administration Branch","Ms. LI  Kwan Chu, Judy, IMS","Ch Staff Offr/Mgt &amp; Adm","2826 3119"
+"Independent Commission Against Corruption","Administration Branch,International Liaison and Training Group","Mr. CHUNG Wan Hon, Lawrence","Prin International Liaison and Training Offr","2826 3368"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team A","Mr. LEUNG Wing Hang, Allen","Ch International Liaison and Training Offr 1","2826 3356"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team A","Mr. TAM Kwok Chu, Joe","Sr International Liaison and Training Offr 1","2899 3059"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team A","Ms. LO In, Monica","Sr International Liaison and Training Offr 2","2826 3370"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team A","Mr. CHAN Chun Man, Man","Sr International Liaison and Training Offr 3","2826 3366"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team B","Ms. AU Pui Wai, Florence","Ch International Liaison and Training Offr 2","2826 3362"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team B","Ms. LEE Ngan Yan, Crystal","Sr International Liaison and Training Offr 4","2826 3367"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team B","Ms. WONG Sin Man, Margaret","Asst International Liaison and Training Offr","2826 3361"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team C","Ms. LEE Man Yu, Mandy","Ch International Liaison and Training Offr 3","2826 3313"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team C","Mr. HUI Wing Chi, Joshua","Sr International Liaison and Training Offr 6","2826 3358"
+"Independent Commission Against Corruption","International Liaison and Training Group,Team C","Ms. CHAN Hiu Yan, Harmony","Executive Officer/International Liaison and Training","2826 3327"
+"Independent Commission Against Corruption","Administration Branch,Communications and Media Relations Office","Ms. MOK Ling Man, Charmaine","Prin Communications &amp; Media Relations Offr","2826 3251"
+"Independent Commission Against Corruption","Administration Branch,Communications and Media Relations Office","Ms. CHIK Hsuan Ting, Cecily","Ch Communications &amp; Media Relations Offr (Ag)","2826 3253"
+"Independent Commission Against Corruption","Administration Branch,Communications and Media Relations Office","Mr. TAM Kar Fai, Lewis","Ch Communications &amp; Media Relations Offr","2826 3254"
+"Independent Commission Against Corruption","Administration Branch,Communications and Media Relations Office","Ms. LEE Wai Kwan, Karen","Sr Communications &amp; Media Relations Offr","2826 3256"
+"Independent Commission Against Corruption","Administration Branch,Communications and Media Relations Office","Mr. HUI Tso Kuen, Michael","Sr Communications &amp; Media Relations Offr","2826 3257"
+"Independent Commission Against Corruption","Administration Branch,Communications and Media Relations Office","Mr. CHAN Ka Ming, Daniel","Sr Communications &amp; Media Relations Offr","2826 3244"
+"Independent Commission Against Corruption","Administration Branch,Personnel Section","Ms. WU Pui Kwan, Audrey","Sr Staff Offr/Mgt &amp; Adm 1","2826 3121"
+"Independent Commission Against Corruption","Administration Branch,Personnel Section","Mr. LEUNG Cho Yiu, Michael","EO/Per 1","2826 3123"
+"Independent Commission Against Corruption","Administration Branch,Personnel Section","Ms. KI Hoi Ying, Sandy","EO/Per 2","2826 3122"
+"Independent Commission Against Corruption","Administration Branch,Personnel Section","Ms. CHIK Nga Ting, Cynthia","EO/Per 3","2826 3113"
+"Independent Commission Against Corruption","Administration Branch,Personnel Section","Mrs. LAM FUNG Kin Sum, Judy","SCO/Per","2826 3124"
+"Independent Commission Against Corruption","Administration Branch,Finance and Supplies Section","Ms. LIN Fu Te, Tracy","Sr Staff Offr/Mgt &amp; Adm 2","2826 3109"
+"Independent Commission Against Corruption","Administration Branch,Finance and Supplies Section","Mr. HO Cheuk Pan, Edmond","EO/Fin 1","2826 3143"
+"Independent Commission Against Corruption","Administration Branch,Finance and Supplies Section","Mr. PAK Siu Chi, Bee","EO/Fin 2","2826 3159"
+"Independent Commission Against Corruption","Administration Branch,Finance and Supplies Section","Mr. LAU Shiu Pang, Teddy","SO1","2826 3139"
+"Independent Commission Against Corruption","Administration Branch,Finance and Supplies Section","Mr. FOK Kin Chun, Ken","SO 2","2826 3152"
+"Independent Commission Against Corruption","Administration Branch,Staff Relations Section","Mr. CHAN Kin Wing, Kinte","Sr Staff Offr/Mgt &amp; Adm 3 (Ag)","2826 3167"
+"Independent Commission Against Corruption","Administration Branch,Staff Relations Section","Mr. NGAN Kam Fai, Kelvin","Staff  Offr/SR (Ag)","2899 3032"
+"Independent Commission Against Corruption","Administration Branch,Staff Relations Section","Mr. LUK Hon Sam, Sam","Staff  Offr/SR (Ag)","2899 3032"
+"Independent Commission Against Corruption","Administration Branch,Staff Relations Section","Ms. CHOI Sin Ting, Yannie","Asst Staff Offr/SR","2826 3150"
+"Independent Commission Against Corruption","Administration Branch,General & Human Resource Strategies Section","Mr. TING Hoi Yan, Josiah","SEO/G&amp;HRS","2826 3163"
+"Independent Commission Against Corruption","Administration Branch,General & Human Resource Strategies Section","Mr. NGAN Kam Fai, Kelvin","EO/G","2826 3132"
+"Independent Commission Against Corruption","Administration Branch,General & Human Resource Strategies Section","Ms. SIT Yin Mei, Angela","SCO/Gen","2826 3238"
+"Independent Commission Against Corruption","Administration Branch,Human Resource Development Section","Ms. TANG Yuet Chun, Wendy","Sr Staff Offr/HRD","2826 3260"
+"Independent Commission Against Corruption","Administration Branch,Human Resource Development Section","Ms. YUEN Man Yan, Candy","Staff Offr/HRD1","2899 3005"
+"Independent Commission Against Corruption","Administration Branch,Human Resource Development Section","Ms. HUI Suk Yee, Zoe","Staff Offr/HRD 2","2826 3168"
+"Independent Commission Against Corruption","Administration Branch,Accommodation Section","Ms. LEUNG Yuen Pik, Michelle","SEO/Accom","2826 3131"
+"Independent Commission Against Corruption","Administration Branch,Accommodation Section","Mr. LUK Hon Sam, Sam","EO/Accom 1","2826 3246"
+"Independent Commission Against Corruption","Administration Branch,Accommodation Section","Mr. CHEUNG Shu sum, Sam","EO/Accom 2","2826 3137"
+"Independent Commission Against Corruption","Administration Branch,Translation Section","Ms. KONG Yuk Ying, Hazel","SCLO","2826 3160"
+"Independent Commission Against Corruption","Administration Branch,Translation Section","Ms. TSANG Wing Ping, Ella","SCLO","2826 4749"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Community Relations Department","Mr. HO Wai Chi","Dir/Community Relations (Ag)","2826 3281"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Community Relations Department","Ms. CHAN Kit Wan, Valentina","Asst Dir/Community Relations 1","2826 3283"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Community Relations Department","Ms. WONG Kit Mui, Corinna","Asst Dir/Community Relations 2","2826 3285"
+"Independent Commission Against Corruption","Community Relations Department,Division 1","","",""
+"Independent Commission Against Corruption","Division 1,Management and Strategy Office","Ms. YIM Hau Wan, Evalina","Ch Staff Offr/Mgt &amp; Strategy","2826 3261"
+"Independent Commission Against Corruption","Division 1,Management and Strategy Office","Ms. KOT Ka Ming, Linda","Sr Staff Offr/Mgt &amp; Strategy","2826 3268"
+"Independent Commission Against Corruption","Division 1,Management and Strategy Office","Ms. CHUN Chun, Doris","Staff Offr/Mgt","2826 3264"
+"Independent Commission Against Corruption","Division 1,Management and Strategy Office","Ms. KWOK Wing Yee, Angel","Staff Offr/Strategy 1","2826 3266"
+"Independent Commission Against Corruption","Division 1,Management and Strategy Office","Ms. KWOK Nga Lam","Staff Offr/Strategy 2 (Ag)","2826 3267"
+"Independent Commission Against Corruption","Division 1,Management and Strategy Office","Mr. LAI Wai lun","Asst  Staff Offr/Mgt &amp; Strategy","2826 3274"
+"Independent Commission Against Corruption","Division 1,Mass Communication Office","Ms. LUI  Lai Kwan, Patricia","Prin Mass Communication Offr","2826 3291"
+"Independent Commission Against Corruption","Mass Communication Office,Design Unit","Ms. KWOK Shuk Yee, Lucia","Art Dir","2826 3158"
+"Independent Commission Against Corruption","Mass Communication Office,Design Unit","Ms. MAN Lai Sim, Regina","Sr Design Offr 2","2826 3156"
+"Independent Commission Against Corruption","Mass Communication Office,Design Unit","Mr. LEUNG Tat Hee, Eric","Design Offr 2","2826 3156"
+"Independent Commission Against Corruption","Mass Communication Office,Design Unit","Mr. LAI Sai Kit","Design Offr 1","2826 3153"
+"Independent Commission Against Corruption","Mass Communication Office,Design Unit","Ms. SIN  Mei Yan, Mayan","Asst Design Offr","2826 3154"
+"Independent Commission Against Corruption","Mass Communication Office,Mass Media Unit","Ms. LO Heung Lan, Anita","Ch Mass Media Offr","2826 3369"
+"Independent Commission Against Corruption","Mass Communication Office,Mass Media Unit","Ms. CHAN Man Yee","Sr Mass Media Offr/I","2826 3298"
+"Independent Commission Against Corruption","Mass Communication Office,Mass Media Unit","Mr. LEE Po Yeung, Rangifer","Mass Media Offr/II","2826 3277"
+"Independent Commission Against Corruption","Mass Communication Office,Mass Media Unit","Mr. TING Ho nam, Samuel","Asst Mass Media Offr/II","2899 3898"
+"Independent Commission Against Corruption","Mass Communication Office,New Media Unit","Mr. KWAN Wai Hong, Byron","Ch New Media Offr","2826 3280"
+"Independent Commission Against Corruption","Mass Communication Office,New Media Unit","Mr. TSANG Ka Chun, Anthony","Sr IT Communication Offr","2826 3278"
+"Independent Commission Against Corruption","Mass Communication Office,New Media Unit","Mr. CHAU Chun Kit, Ronald","IT Communication Offr","2826 3378"
+"Independent Commission Against Corruption","Mass Communication Office,New Media Unit","Ms. TANG Pui See, Crystal","Sr New Mass Media Offr","2826 3377"
+"Independent Commission Against Corruption","Mass Communication Office,New Media Unit","Mr. CHUNG Sze Yuen, Tom","Sr New Mass Media Offr","2826 3379"
+"Independent Commission Against Corruption","Mass Communication Office,New Media Unit","Ms. CHU Ka Yee, Chloe","Assistant New Media Offr","2826 3376"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. CHUNG Lai Tuen, Lily","Ex Dir","2899 3783"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. LAM Shuk Yee, Anna","Dep Ex Dir","2899 3784"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. MA  Shuk Yi, Katherine","Sr Community Relations Offr1","2899 3791"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. CHOW Man Wing, Larissa","Sr Community Relations Offr 4","2899 3794"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. CHU  Wai Shan, Mabel","Sr Community Relations Offr 5","2899 3795"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. CHAN Man Ka, Yvonne","Community Relations Offr 2","2826 3287"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. CHAN Nga Kam, Jean","Community Relations Offr 3","2899 3793"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. WONG  Sin Ki, Karen","Community Relations Offr 6 (Ag)","2826 3398"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Ms. CHUNG Pui Shan, Icy","Asst Community Relations Offr 1","2826 3288"
+"Independent Commission Against Corruption","Division 1,Hong Kong Business Ethics Development Centre","Mr. LAW Chi Hang, Ken","Asst Community Relations Offr 2","2899 3799"
+"Independent Commission Against Corruption","Division 1,International & Mainland Liaison Office","","",""
+"Independent Commission Against Corruption","Division 1,Youth & Moral Education Office","Mr. NG Kwok Chi","Prin Youth &amp; Ed Offr","2826 3388"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Education Unit","Mr. CHAN Lai Chuen, Martin","Ch Youth &amp; Ed Offr/Ed","2826 3389"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Education Unit","Ms. TSANG Shuk Wah, Winnie","Sr Youth &amp; Ed Offr 4","2826 3380"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Education Unit","Ms. CHAN Wai Yu, Ada","Sr Youth &amp; Ed Offr 5","2826 3381"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Education Unit","Ms. MAN Ka Yin, Kathleen","Sr Youth &amp; Ed Offr 6","2826 3392"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Education Unit","Mr. NG Ka Hon, Kelvin","Asst Youth &amp; Ed Offr 2","2826 3374"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Youth Unit","Ms. KWONG Kar Yan, Kathleen","Ch Youth &amp; Ed Offr/Youth","2826 3371"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Youth Unit","Ms. CHAN Ka Hang, Claire","Sr Youth &amp; Ed Offr 1","2826 3387"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Youth Unit","Mr. CHOW Siu Lun, Brian","Sr Youth &amp; Ed Offr 2","2826 3391"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Youth Unit","Ms. YIU Tsz Shan, Candy","Youth &amp; Ed Offr 3","2826 3386"
+"Independent Commission Against Corruption","Youth & Moral Education Office,Youth Unit","Mr. WONG  Chun Kit, Jason","Asst Youth &amp; Ed Offr 3","2826 3359"
+"Independent Commission Against Corruption","Community Relations Department,Division 2","","",""
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Hong Kong West/Islands)","Ms. SO  Yim Ling, Brenda","Regional Offr/Hong Kong Island","2899 3868"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Hong Kong West/Islands)","Mr. CHIU Ming Wah, Lawrence","Dep Regional Offr/Hong Kong West","2899 3857"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Hong Kong East)","Ms. SO Yim Ling, Brenda","Regional Offr/Hong Kong Island","2899 3808"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Hong Kong East)","Ms. TONG Suk Yin, Doris","Dep Regional Offr/Hong Kong East","2899 3809"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Kowloon East/Sai Kung)","Ms. FAN Ching Yin, May","Regional Offr/Kowloon East/Sai Kung","2899 3780"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Kowloon East/Sai Kung)","Mr. CHUI Yu Ming, Daniel","Dep Regional Offr/Kowloon East/Sai Kung","2899 3778"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Kowloon West)","Ms. LAU Kwok Mei, Mary","Regional Offr/Kowloon West","2899 3900"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (Kowloon West)","Ms. LEUNG Ho Yee, Elis","Dep Regional Officer/Kowloon West (Ag)","2899 3910"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (New Territories East)","Ms. YU  Wai Fan, Monica","Regional Offr/New Territories East","2899 3938"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (New Territories East)","Ms. HUANG Hsiao Hsin, Karen","Dep Regional Offr/New Territories East","2899 3939"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (New Territories North West)","Ms. LEUNG Chui Ha, Jodi","Regional Offr/New Territories West (Ag)","2899 3888"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (New Territories North West)","Mr. CHIU  Yue Tat, Franklin","Dep Regional Offr/New Territories North West","2899 3889"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (New Territories South West)","Ms. LEUNG Chui Ha, Jodi","Regional Offr/New Territories  West (Ag)","2899 3838"
+"Independent Commission Against Corruption","Division 2,ICAC Regional Office (New Territories South West)","Ms. LY Uyen-g, Debbie","Dep Regional Offr/New Territories South West","2899 3839"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Corruption Prevention Department","Mr. LEE Yat Sau, Joe","Dir/Corruption Prevention (Ag)","2826 3181"
+"Independent Commission Against Corruption","Corruption Prevention Department,Division 1","Mr. WONG Kwok Hung, Kenneth","Asst Dir/Corruption Prevention 1 (Ag)","2826 3173"
+"Independent Commission Against Corruption","Division 1,Group A","Mr. CHAN  Ping Man, Nelson","Prin Corruption Prevention Offr/A Group","2826 3225"
+"Independent Commission Against Corruption","Division 1,Group A","Ms. LAI Wai Yan, Reggie","Ch Corruption Prevention Offr/A Group","2826 3220"
+"Independent Commission Against Corruption","Division 1,Group A","Ms. IP Mei Ha, Mandy","Ch Corruption Prevention Offr/A Group","2826 3201"
+"Independent Commission Against Corruption","Division 1,Group A","Ms. CHAN  Yuen Lam, Jess","Sr Corruption Prevention Offr/A Group","2826 3226"
+"Independent Commission Against Corruption","Division 1,Group A","Ms. YU Yuen Ying, Mandy","Sr Corruption Prevention Offr/A Group","2826 3188"
+"Independent Commission Against Corruption","Division 1,Group A","Mr. CHU  Kin Hung, Kelvin","Corruption Prevention Offr/A Group","2899 3585"
+"Independent Commission Against Corruption","Division 1,Group B","Ms. CHAN Sau King, Margaret","Prin Corruption Prevention Offr/B Group (Ag)","2826 3206"
+"Independent Commission Against Corruption","Division 1,Group B","Ms. LUKE Jennifer","Ch Corruption Prevention Offr/B Group","2826 3212"
+"Independent Commission Against Corruption","Division 1,Group B","Mr. WOO Ka Chun","Ch Corruption Prevention Offr/B Group","2826 3196"
+"Independent Commission Against Corruption","Division 1,Group B","Mr. CHAN Wai Lun, Lenny","Ch Corruption Prevention Offr/B Group","2826 3194"
+"Independent Commission Against Corruption","Division 1,Group B","Ms. LEUNG Wai Man, Winnie","Sr Corruption Prevention Offr/ B Group","2899 3749"
+"Independent Commission Against Corruption","Division 1,Group B","Mr. LUI Nga Man, Edwin","Corruption Prevention Offr/B Group","2826 3208"
+"Independent Commission Against Corruption","Division 1,Group B","Ms. SHIA  Wai Hung, Katherine","Corruption Prevention Offr/B Group","2899 3039"
+"Independent Commission Against Corruption","Division 1,Group C","Mr. HUI Chung Ming, George","Prin Corruption Prevention Offr/C Group","2826 3215"
+"Independent Commission Against Corruption","Division 1,Group C","Ms. AU Man Ling, Wendy","Ch Corruption Prevention Offr/C Group","2826 3219"
+"Independent Commission Against Corruption","Division 1,Group C","Mr. LO Tsz Pui, Rock","Ch Corruption Prevention Offr/C Group (Ag)","2826 3218"
+"Independent Commission Against Corruption","Division 1,Group C","Ms. YEUNG Wan Yin, Wendy","Ch Corruption Prevention Offr/C Group","2826 3211"
+"Independent Commission Against Corruption","Division 1,Group C","Ms. HO Ka Lai, Mandy","Sr Corruption Prevention Offr/C Group","2899 3031"
+"Independent Commission Against Corruption","Division 1,Group C","Ms. LAM Hoi Mei, Queenly","Sr Corruption Prevention Offr/C Group","2826 3151"
+"Independent Commission Against Corruption","Division 1,Group C","Ms. CHAU Hei Man, Hayman","Corruption Prevention Offr/C Group","2826 3209"
+"Independent Commission Against Corruption","Division 1,Management Group","Mrs. CHAN LEUNG Shuk Lai, Lillian","Prin Corruption Prevention Offr/Mgt Group","2826 3198"
+"Independent Commission Against Corruption","Division 1,Management Group","Ms. IP Wai Man, Vivian","Ch Corruption Prevention Offr /M Group","2826 3183"
+"Independent Commission Against Corruption","Management Group,Internal Audit Unit","","",""
+"Independent Commission Against Corruption","Corruption Prevention Department,Division 2","Mr. FOK Kwong Man, Kenny","Asst Dir/Corruption Prevention 2","2826 3171"
+"Independent Commission Against Corruption","Division 2,Group D","Mr. SIU Kin Foon","Prin Corruption Prevention Offr/D Group","2826 3175"
+"Independent Commission Against Corruption","Division 2,Group D","Mr. LAW Wai Hung, Edmond","Ch Corruption Prevention Offr/D Group","2826 3187"
+"Independent Commission Against Corruption","Division 2,Group D","Mrs. HUNG WONG Yeuk Man, Lucia","Ch Corruption Prevention Offr/D Group","2826 3177"
+"Independent Commission Against Corruption","Division 2,Group D","Ms. NG Tsz Wai, Eric","Sr Corruption Prevention Offr/D Group","2826 3149"
+"Independent Commission Against Corruption","Division 2,Group D","Mr. CHAN  Pak Yu, Noel","Corruption Prevention Offr/D Group","2826 3186"
+"Independent Commission Against Corruption","Division 2,Group D","Ms. CHAN Ka Yu, Karis","Corruption Prevention Offr/D Group","2826 3195"
+"Independent Commission Against Corruption","Division 2,Group E","Mr. LEUNG Chung Ping, Alpha","Prin Corruption Prevention Offr/E Group","2826 3184"
+"Independent Commission Against Corruption","Division 2,Group E","Mr. CHEUNG Chin Kit","Ch Corruption Prevention Offr/E Group","2826 3203"
+"Independent Commission Against Corruption","Division 2,Group E","Mr. HO Chi Ping, Peter","Ch Corruption Prevention Offr/E Group","2826 3189"
+"Independent Commission Against Corruption","Division 2,Group E","Mr. LO Kin Shun","Ch Corruption Prevention Offr/E Group","2826 3193"
+"Independent Commission Against Corruption","Division 2,Group E","Mr. CHU Hiu Ping, Wallace","Sr Corruption Prevention Offr/E Group","2826 3207"
+"Independent Commission Against Corruption","Division 2,Group E","Ms. YU Yan Sin, Carrie","Corruption Prevention Offr/E Group","2899 3994"
+"Independent Commission Against Corruption","Division 2,Group E","Mr. LO Tze Shun, Jason","Corruption Prevention Offr/E Group","2826 3213"
+"Independent Commission Against Corruption","Division 2,Corruption Prevention Advisory Service","Ms. Hiroko SUGAHARA","Prin Corruption Prevention Offr/Corruption Prevention Advisory Service","2826 3228"
+"Independent Commission Against Corruption","Division 2,Corruption Prevention Advisory Service","Ms. CHOY Kin Fee, Anita","Ch Corruption Prevention Offr/Corruption Prevention Advisory Service","2826 3229"
+"Independent Commission Against Corruption","Division 2,Corruption Prevention Advisory Service","Mr. CHIO Kai Ming, Stanley","Ch Corruption Prevention Offr/Corruption Prevention Advisory Service","2826 3232"
+"Independent Commission Against Corruption","Division 2,Corruption Prevention Advisory Service","Ms. LAU Yuk Kam, Eileen","Ch Corruption Prevention Offr/Corruption Prevention Advisory Service","2826 3190"
+"Independent Commission Against Corruption","Division 2,Corruption Prevention Advisory Service","Ms. LEUNG Lai Fun, Angelina","Sr Corruption Prevention Offr/Corruption Prevention Advisory Service","2826 3290"
+"Independent Commission Against Corruption","Division 2,Corruption Prevention Advisory Service","Ms. WONG Sze Mei, Amy","Sr Corruption Prevention Offr/Corruption Prevention Advisory Service","2826 3234"
+"Independent Commission Against Corruption","Division 2,Corruption Prevention Advisory Service","Ms. YIU Pik Shuen, Becky","Corruption Prevention Offr/Corruption Prevention Advisory Service","2899 3742"
+"Independent Commission Against Corruption","Division 2,Group G","Ms. LAM Yuen To, Daphne","Prin Corruption Prevention Officer/G Group","2826 3227"
+"Independent Commission Against Corruption","Division 2,Group G","Mr. LAI Wai Ki, Ricky","Ch Corruption Prevention  Offr/G Group","2826 3239"
+"Independent Commission Against Corruption","Division 2,Group G","Mr. LUI Chi Hing, Henri","Ch Corruption Prevention Offr/G Group (Ag)","2899 3612"
+"Independent Commission Against Corruption","Division 2,Group G","Ms. LO Kam Chuen, Maria","Sr Corruption Prevention Offr/G Group","2826 3191"
+"Independent Commission Against Corruption","Division 2,Group G","Mr. LAU Yip Fung, Tony","Sr Corruption Prevention Offr/G Group","2899 3431"
+"Independent Commission Against Corruption","Division 2,Group G","Mr. TSUI Chi Yan, Cyrus","Sr Corruption Prevention Offr/G Group","2826 3224"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. YAU  Shu Chun, Ricky","Head/Ops","2826 4301"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. TONG Wing Tak, Eric","D/GS (Ag)","2826 4302"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. HO King Yeung, Ken","D/PS (Ag)","2826 4307"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. CHONG Ka Lok, Bryan","Asst Dir/Ops 1 (Ag)","2826 4303"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. CHOI Shu Keung","Asst Dir/Ops 2","2826 4304"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. LAM Kin Ming, Steven","Asst Dir/Ops 3","2826 4282"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. HO Kwok Keung, Simon","Asst Dir/Ops 4","2826 4030"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Ms. WONG Yuk Fei, Brenda","Sr Prin Investigator/G Group (Ag)","2826 4235"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Ms. HSU Man Wai, Winky","Sr Prin Investigator/R Group","2899 3661"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. NG Kai Ping, Allen","Ch Forensic Acct","2826 4232"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. LEE king Man , Martin","Prin Investigator/A Group","2826 4711"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. CHAN Yin chiu, Eddie, IMS","Prin Investigator/B Group","2826 4275"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. WONG Wai Kit","Prin Investigator/C Group (Ag)","2826 4272"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. LAM Chi Wa, Roger","Prin Investigator/D Group","2826 4248"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Ms. CHEUNG Ka Po, Miranda","Prin Investigator/E Group","2826 4247"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. FUNG Chi Wai, Jamie","Prin Investigator/F Group","2826 4253"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. LEE Kin Leung, Eric","Prin Investigator/H Group","2826 3344"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Ms. CHEUK Chi Yan, Kate","Prin Investigator/J Group (Ag)","2826 4305"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. CHAN Hing Wan, Henry","Prin Investigator/K Group (Ag)","2826 4234"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. TANG Chi Kong","Prin Investigator/L Group","2826 4761"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. WILLIAMS Alexander, David","Prin Investigator/M Group","2826 4981"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. CHAN On Wai, Andy","Prin Investigator/N Group","2826 4988"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. MAK Wai Keung, Diman","Prin Investigator/ Trg &amp; Dev","2899 3001"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Ms. TO On Ki, Joey","Prin Investigator/X Group","2826 4296"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. LEE  King Shing, Albert, IMS","Prin Investigator/Y Group","2826 4018"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Ms. LIM Suet San, Daphne","Prin Investigator/Z Group","2826 4366"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Ms. LAI Man Yin, Anne","Ops Regy","2826 4363"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. LAU  Chi Ho, Paul","Ch Investigator/Report Centre","2826 4324"
+"Independent Commission Against Corruption","Independent Commission Against Corruption,Operations Department","Mr. WONG Yik chung, Randy","Ch Investigator/Report Centre","2826 4117"
