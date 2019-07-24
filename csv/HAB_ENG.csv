@@ -1,264 +1,249 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=HAB&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DHAB%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Home Affairs Bureau","Mr. LAU Kong Wah, JP","Secy for Home Affairs","2810 2528"
+"Home Affairs Bureau","Mr. CHAN Jick Chi, Jack, JP","Under Secy for Home Affairs","2810 2592"
+"Home Affairs Bureau","Mrs. TSE LING Kit Ching, Cherry, JP","Permanent Secy for Home Affairs (22/7/2019-25/7/2019 on duty visit)","3509 8111"
+""
+"Organisation","Service Name","Office Tel"
+"Home Affairs Bureau","Hotline","3509 8095"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Home Affairs Bureau","Home Affairs Bureau","","",""
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Secretary for Home Affairs","Mr. LAU Kong Wah, JP","Secy for Home Affairs","2810 2528"
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Secretary for Home Affairs","Mr. CHAN Jick Chi, Jack, JP","Under Secy for Home Affairs","2810 2592"
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Secretary for Home Affairs","Mr. MAK Chun Yu, Edward","Adm Asst to Secy for Home Affairs","2810 2588"
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Secretary for Home Affairs","Ms. YU Shuk Kuen, Ella","Press Secy to Secy for Home Affairs","2810 2403"
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Secretary for Home Affairs","Ms. LAI Wing Yu, Jade","Political Asst to Secy for Home Affairs","2810 2103"
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Secretary for Home Affairs","Miss LAM Po Yan, Pauline","SEO(POO)","2810 2511"
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Secretary for Home Affairs","Ms. KO Pui Chi, Eva","Liaison Offr(Home Affairs)","2810 2169"
+"Home Affairs Bureau","Home Affairs Bureau,Office of the Permanent Secretary for Home Affairs","Mrs. TSE LING Kit Ching, Cherry, JP","Permanent Secy for Home Affairs (22/7/2019-25/7/2019 on duty visit)","3509 8111"
+"Home Affairs Bureau","Home Affairs Bureau,Civic Affairs Branch","Mr. LI Pak Chuen, Patrick, JP","Dep Secy for Home Affairs(1) (22/7/2019-25/7/2019  acting PSHA)","3509 8113"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Mr. LEUNG Ka Lok, Sammy","Prin AS(Civic Affairs)1","3509 8118"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Mr. LI Chun Yu, Michael","AS(1)1","3509 8032"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Miss TJENDRO Ingrid","AS(1)4","3509 8146"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Mr. HON Man Bun","CEO(1)1","3509 8145"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Ms. FONG Shui Yee, Esther","Chief Executive Manager(1)","3509 8033"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Ms. LEUNG Hoi Yan, Brenda","TA(1)","3509 7747"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Ms. HUI To, Joyce","Forum Manager","3509 8058"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Ms. LO Yin Ngor, Ada","Senior Executive Manager (Creative Media)","3655 4176"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Miss HONG Hang Shan, Terry","Asst Forum Manager","3509 7058"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Ms. LAW Sui Yiu, Jo","EO(1)11","3509 7001"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (1)","Mr. YAN Ka Chun, Henry","EO(1)16","3655 4178"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Miss WONG Wing Yin, Winnie","SEO(1)1","2835 2226"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. LAI Wai Ying, Elliet","SEO(1)2","3509 8036"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Mr. HUI Chun Kwan, Simon","SEO(1)3","3509 8037"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Mr. CHOW Kwok Leung, Peter","SEO(1)6","3509 7748"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. CHOY Hau Yan, Wendy","SEM(1)1","2835 1041"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. YEUNG Kai Yan, Alice","SEM(1)2","3509 7795"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. LEUNG Wing Sze, Jenny","SEM(1)3","3509 7014"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Miss TSAO Tsz Yan, Candy","EO(1)1","3509 8087"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Mr. WONG Lung Chun, Michael","EO(1)2","3509 8088"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Miss LO Shan Shan, Mary","EO(1)3","3509 8025"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Mr. KWOK Chun Fung, Derek","EO(1)9","3509 7037"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. YOUNG Fung Ling, Winnie","EO(1)14","3509 7102"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Miss LUK See Yan, Cecile","EO(1)15","3509 8748"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Mr. KWONG Ho Kong, Entonie","Mgr(1)1","3509 7032"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Miss WONG Pui Ling, Winnie","Mgr(1)3","2835 2220"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. KAN Hoi Yan, Heidi","Mgr(1)4","3655 4164"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. CHAN Pui Shan, Shirley","Mgr(1)5","3509 7149"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. HO Ching Man, Connie","Mgr(1)6","2835 2465"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Mr. LO Yee Chung, Claus","Mgr(1)7","3655 4168"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. WONG  Ka Ki, Iris","Mgr(1)8","2835 1369"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Section","Ms. LAU Siu Yin, Phoebe","Mgr(1)9","3509 8035"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Mrs. CHOI MA On Ki, Angel","Senior Consultant","3509 8097"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Mr. LO Wai Chung, William","Senior Programme Manager","3509 7794"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Ms. LIU Ka Po, Happy","SEM(SD)1","3655 4197"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Ms. CHAN Pui Ying, Candy","SEM(SD)2","3509 7616"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Miss LAM Wing Pui, Inid","SEM(SD)3","3655 4171"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Mr. LAU Wai Lok, Calvin","EO(1)7","3509 7022"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Mr. NG Ka Fai","Mgr(SD)1","3509 8490"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Mr. LIU Yuk Man, Edmund","Mgr(SD)2","3509 7996"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Miss CHAN See Wai, Sylvia","Mgr(SD)3","3509 7053"
+"Home Affairs Bureau","Civic Affairs Division (1),Youth Development Projects Special Duties Team","Mr. MAN Tin Leung, Michael","Mgr(SD)4","3509 7041"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (2)","Ms. KONG Ka Man, Carmen","Prin AS(Civic Affairs)2","3509 8103"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (2)","Miss WONG Hoi Ming, Iris","AS(2)1","3509 8043"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (2)","Miss CHAN Xi Yu, Evelyn","AS(2)2","3509 7297"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (2)","Miss TSE Hei Yu, Heidi","EO(2)3","3509 7003"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Ms. WAN Fuk Tai, Rebecca","CEO(Community Care Fund)","2835 2231"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Ms. KUNG Ho Yan, Amy","Sr TA(Community Care Fund)","2835 2225"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Ms. WONG Chau Fei, Iris","SEO(Community Care Fund)1","2835 2106"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Ms. WONG Ka Wing, Glorious","SEO(Community Care Fund)2","2835 2287"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Mr. TSANG Chun Yan, Gary","Acct Offr II(Community Care Fund)","2835 2233"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Ms. WONG Ching Man, Claire","EO(Community Care Fund)1","2835 1407"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Miss LEUNG Yuen Ching, Charlotte","EO(Community Care Fund)2","2835 1162"
+"Home Affairs Bureau","Civic Affairs Division (2),Community Care Fund Secretariat","Miss YUEN Ching Hin, Grace","EO(Community Care Fund)3","2835 2224"
+"Home Affairs Bureau","Civic Affairs Division (2),Family Council Secretariat","Ms. LAM Wing Yan, Adia","CEO(Family Council)","3509 8045"
+"Home Affairs Bureau","Civic Affairs Division (2),Family Council Secretariat","Ms. LEUNG Man Lai, Emily","SEO(2)","3509 8046"
+"Home Affairs Bureau","Civic Affairs Division (2),Family Council Secretariat","Mr. FUNG Yat Ho, Cyrus","EO(2)1","3509 7040"
+"Home Affairs Bureau","Civic Affairs Division (2),Family Council Secretariat","Mr. MAK Chun Ning, Ken","EO(2)2","3509 8096"
+"Home Affairs Bureau","Civic Affairs Division (2),Civic Education and Youth Square","Ms. CHUNG Lai Han, Kitty","CEO(CE&amp;YS)","3509 8031"
+"Home Affairs Bureau","Civic Affairs Division (2),Civic Education Section","","",""
+"Home Affairs Bureau","Civic Education Section,Secretariat","Ms. FUNG Mei Yin, Louisa","SEO(CE)1","3509 8027"
+"Home Affairs Bureau","Civic Education Section,Secretariat","Miss WONG Ching, Cally","EO(CE)1","3509 8029"
+"Home Affairs Bureau","Civic Education Section,Secretariat","Miss YANG Nga Ki, Fiona","EO(CE)4","3509 7012"
+"Home Affairs Bureau","Civic Education Section,Education Unit","Mr. YAM Yiu Hung, Nathan","SEO(CE)2","3509 8040"
+"Home Affairs Bureau","Civic Education Section,Education Unit","Miss FU Wan Sau, Vincy","EO(CE)2","3509 8082"
+"Home Affairs Bureau","Civic Education Section,Education Unit","Ms. LAI Pui Yu, Fiona","EO(CE)3","3509 8014"
+"Home Affairs Bureau","Civic Education Section,Education Unit","Miss NG Tsz Kiu, Michelle","EO(CE)5","3509 7015"
+"Home Affairs Bureau","Civic Education Section,Education Unit","Miss NGAI Hin Yan, Ruby","EO(CERC)","2505 2163"
+"Home Affairs Bureau","Civic Affairs Division (2),Youth Square","Ms. CHAN Wai Man, Carrie","SEO(Youth Square)","2505 0165"
+"Home Affairs Bureau","Civic Affairs Division (2),Youth Square","Mr. CHAN Siu Wing, Andrew","EO(Youth Square)1","2505 0159"
+"Home Affairs Bureau","Civic Affairs Division (2),Special Duties Team","Ms. CHEUNG Wai Chi, Vicky","CEO(2)SD","3655 4152"
+"Home Affairs Bureau","Civic Affairs Division (2),Special Duties Team","Ms. SHIU Fong Ting, Fountain","SEO(2)SD","3655 4154"
+"Home Affairs Bureau","Civic Affairs Division (2),Special Duties Team","Ms. HUI  Lai Ni, Erica","EO(2)SD1","3655 4162"
+"Home Affairs Bureau","Civic Affairs Division (2),Special Duties Team","Ms. LEUNG Po Yan, Melanie","EO(2)SD2","3655 4161"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss Vinci CHAN","Prin AS(Civic Affairs)3 (22/7/2019 on vacation leave)","3509 8120"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Mr. CHUI Cheuk Yin, Matthew","AS(3)1 (22/7/2019 acting PAS(CA)3)","3509 8048"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss HUI Nga Yee, Molly","AS(3)2","3509 8049"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Mr. LEUNG Chor Fai, Tony","Chief Executive Manager(3)","3509 8134"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Ms. SHA Wing Yu, Carmen","SEO(3)1","3509 8051"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss WONG Ka Po, Kathy","SEO(3)2","3509 8047"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Ms. HO Ka Man, Emily","SEO(3)3","3509 8055"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Ms. TANG Lai Yin, Rose","SEO(3)4","3509 8057"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss SHIU Yick Man, Winnie","SEM(3)1","3509 8296"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Ms. TO Wai Tsz, Isabella","SEM(3)2","3509 7296"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)"," (VACANT)","Consultant","3509 8093"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Ms. WONG Ah Ha, Jane","EO(3)1","3509 8008"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss LAU Mei Po, Mable","EO(3)2","3509 8139"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss CHENG Yee Ting, Shirley","EO(3)3","3509 8747"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss CHOI Wai Man, Niki","EO(3)4","3509 7089"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss LAI Yin On, Yvonne","Mgr(3)11","3509 7508"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss CHU Lok Sum, Zoe","Mgr(3)21","3509 7928"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss YEUNG Po Yan, Yan","Mgr(3)22","3509 7295"
+"Home Affairs Bureau","Civic Affairs Branch,Civic Affairs Division (3)","Miss LAI Po Wa, Charis","EA(3)4","3509 8104"
+"Home Affairs Bureau","Civic Affairs Division (3),Personality Index Unit","Miss LEUNG Ming Lim, Marilyn","EO(Personality Index)","3509 8001"
+"Home Affairs Bureau","Civic Affairs Division (3),On secondment to Trust Funds and Temples Joint Secretariat","Ms. CHIU Kwok Yi, Lisa","Ex Secy","3718 6818"
+"Home Affairs Bureau","Civic Affairs Division (3),On secondment to Trust Funds and Temples Joint Secretariat","Mr. LEE Kwan Hon, Ricky","Project Mgr","3718 6828"
+"Home Affairs Bureau","Civic Affairs Division (3),On secondment to Trust Funds and Temples Joint Secretariat","Ms. LEE Nga Chi, Iris","Acct(Trust Funds)","3718 6831"
+"Home Affairs Bureau","Home Affairs Bureau,Culture Branch","Mrs. CHEUNG FUNG Wing Ping, Angelina, JP","Dep Secy for Home Affairs(2)","3509 8116"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Mr. LEE Kesson","Prin AS(Culture)1 (18/7/2019-7/8/2019 on vacation leave)","3509 8125"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Mr. TSUI Cheuk Fung, Syrus","AS(Culture)1 (18/7/2019-7/8/2019 acting PAS(C)1)","3509 8074"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Ms. LOK Mun Wai, Christine","CEO(Culture)1 (18/7/2019-7/8/2019 acting PAS(C)1)","3509 8075"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Ms. HO Ching Yee, Eva","SEO(Culture)1A","3509 8076"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Ms. HO Man Yee, Shirley","SEO(Culture)1B","3509 8077"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Miss TAM Yuen Fun, Betty","Sr Mgr(Culture)1","3509 8079"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Ms. YAU Ka Man, Carmen","Mgr(Culture)1A","3509 8053"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Miss SO Nga Chung, Carol","Mgr(Culture)1B","3509 8993"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Miss KWOK Ka Man, Nancy","Asst Mgr(Culture)","3509 8054"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Miss SHIU Chun Ting, Judith","EO II(Culture)1A","3509 8056"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Miss WONG Pik Man, Bigmond","EO II(Culture)1B","3509 8060"
+"Home Affairs Bureau","Culture Branch,Culture Division (1)","Miss LEUNG Ming Sze, Ashley","EO II(Culture)1C","3509 7055"
+"Home Affairs Bureau","Culture Branch,Arts Capacity Development Funding Scheme","Ms. WONG Lai Shan, Queenie","Ch Mgr(Arts Capacity Development Funding Scheme)","3102 2930"
+"Home Affairs Bureau","Culture Branch,Arts Capacity Development Funding Scheme","Ms. TSANG Sau Wai, Sylvia","Senior Mgr(Arts Capacity Development Funding Scheme)","3102 2767"
+"Home Affairs Bureau","Culture Branch,Arts Capacity Development Funding Scheme","Ms. LEE Siu Kwan, Linda","Mgr(Arts Capacity Development Funding Scheme)","3102 2962"
+"Home Affairs Bureau","Culture Branch,Arts Capacity Development Funding Scheme","Miss FAN Tsui Ting, Jannie","Asst Mgr(ACDFS)1","3102 2934"
+"Home Affairs Bureau","Culture Branch,Arts Capacity Development Funding Scheme","Miss CHAN Shuk Wah, Sophia","Asst Mgr(ACDFS)2","3102 2935"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Ms. CHEUNG Pui Shan, Sandy","Prin AS(Culture)2","3509 8126"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Ms. ANG Yee","Ch Curator(Heritage)","3509 8086"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Miss WONG Pui Yee, Sheila","CEO(Culture)2A","3509 8081"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Ms. WONG Po Yan, Conse","CEO(Culture)2B","3509 8085"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Miss CHAN Pui Yin, Bernice","AS(Culture)2","3509 8080"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Ms. LEUNG Yuen Han, Jenny","SEO(Culture)2A","3509 8083"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Mr. LEUNG Wing Kin, Ronnie","SEO(Culture)2B","3509 8091"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Ms. WONG Shuk Fan, Elisa","Sr Mgr(Culture)2","3509 8092"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Miss TAM Yu Yan, Maggie","EO I(Culture)2","3509 8061"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Miss CHIM Shu Mei, Jaime","EO II(Culture)2","3509 8063"
+"Home Affairs Bureau","Culture Branch,Culture Division (2)","Mr. LEUNG Tin Lun, Terrence","EO II(Culture)2B","3509 8067"
+"Home Affairs Bureau","Culture Branch,West Kowloon Cultural District Division","Mr. CHENG Siu Fun, Eric","Prin AS(West Kln Cultural Dist)","3102 3341"
+"Home Affairs Bureau","Culture Branch,West Kowloon Cultural District Division","Mr. LI Sui Fung, Charvis","AS(West Kln Cultural Dist)","3102 5089"
+"Home Affairs Bureau","Culture Branch,West Kowloon Cultural District Division","Mr. LEUNG Che Shing, Joe","SEO(West Kln Cultural Dist)","3102 5070"
+"Home Affairs Bureau","Home Affairs Bureau,West Kowloon Cultural District Project Management Team","Ms. YING Fun Fong, JP","Project Mgr(HAB)","3102 5991"
+"Home Affairs Bureau","Home Affairs Bureau,West Kowloon Cultural District Project Management Team","Miss WAI Mei Wah, Joanna","Sr Architect(West Kln Cultural Dist)","3102 2101"
+"Home Affairs Bureau","Home Affairs Bureau,West Kowloon Cultural District Project Management Team","Mr. SO Wai Cheong, Lewis","Sr TA(West Kln Cultural Dist)","3102 5062"
+"Home Affairs Bureau","Home Affairs Bureau,West Kowloon Cultural District Project Management Team","Ms. WONG Fung Yee, Karen","Sr Town Plnr(West Kln Cultural Dist)","3102 2253"
+"Home Affairs Bureau","Home Affairs Bureau,West Kowloon Cultural District Project Management Team","Mr. TANG Wai Meng, Martin","Sr Engr (West Kln Cultural Dist)","3102 2102"
+"Home Affairs Bureau","Home Affairs Bureau,Recreation and Sport Branch","Mr. YEUNG Tak Keung, JP","Commissioner for Sports","3509 8114"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Mr. CHENG Ching Wan, Paul","Prin AS(Recreation &amp; Sport)1 (15/7/2019-5/8/2019 on vacation leave)","3509 8124"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Mr. LEUNG Chun Yin, Alex","AS(Recreation &amp; Sport)2 (15/7/2019-5/8/2019 acting PAS(RS)1)","3509 8098"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Ms. SIU Kit Ping, Currie","Sr Leisure Mgr(Recreation &amp; Sport)2","3509 8068"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)"," (VACANT)","EO II(Recreation &amp; Sport)3","3509 7070"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Miss HUI Hei Man, Daisy","AS(Recreation &amp; Sport)3","3509 7065"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Ms. CHOI Li Si, Choyce","EO I(Recreation &amp; Sport)3","3509 8078"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Mr. LEE Chi Chung, Sunny","Acct Offr I(Recreation &amp; Sport)","3509 8072"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Mrs. TONG LEE Yan Yan, Yolanda","Ch Project Mgr","3509 7134"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Ms. WAN Mei","CEO(Recreation &amp; Sport)","3509 8065"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Ms. HUE Kam Ching","Sr Leisure Mgr(Recreation &amp; Sport)4","3509 7090"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)"," (VACANT)","SEO(Recreation &amp; Sport)1","3509 7070"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Miss LAU Tung Yin, Vivien","EO I(Recreation &amp; Sport)1 (acting SEO(RS)1 until further notice)","3509 8038"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (1)","Ms. WONG Hoi Ka, Heidi","EO I(Recreation &amp; Sport)2 (acting SEO(RS)1 unitl further notice)","3509 8052"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Mr. YU Kin Keung, Edward","Prin AS (Recreation and Sport)2","3509 8127"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Ms. LUK Tsz Yin, Elania","AS(Recreation &amp; Sport)1","3509 8062"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Mr. YUEN Hing Keung","Ch Leisure Mgr(Recreation &amp; Sport)2","3586 3610"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Ms. CHEUNG Yee Ming, Kitty","Sr Leisure Mgr(Recreation &amp; Sport)3","3586 3170"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Ms. LAO Kam Fung, Sylvia","SEO(Recreation &amp; Sport)3","3509 8064"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Miss LAM Wai Yee, Connie","EO I(Recreation &amp; Sport)4","3655 4184"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Ms. LAM Yat Kwan, Maggie","EO II(Recreation &amp; Sport)2","3509 8149"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Mrs. TONG AU Yuk Chun, Vicky","Ch Leisure Mgr(Recreation &amp; Sport)1","3509 8069"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Mr. CHOI Yiu Kwok, Kent","Sr Leisure Mgr(Recreation &amp; Sport)1","3509 8070"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Ms. CHOY Cho Kwan, Blanche","Leisure Mgr(Recreation &amp; Sport)","3509 7138"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Miss LAM Yuen Yi, Katherine","EO II(Recreation &amp; Sport)1","3509 8039"
+"Home Affairs Bureau","Recreation and Sport Branch,Recreation and Sport Division (2)","Miss CHEUNG Po King, Dorothy","SEO(Recreation &amp; Sport)2","3509 8071"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. TAI Sheung Shing, Victor","Project Director (Sports Park)","3586 3403"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. YUEN Hing Keung","Ch Leisure Mgr(Recreation &amp; Sport)2","3586 3610"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Ms. CHEUNG Yee Ming, Kitty","Sr Leisure Mgr(Recreation &amp; Sport)3","3586 3170"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. MAN Moon Shing, Keith","Sr Engineer(Recreation and Sport)","3586 3149"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Miss TSANG Hang Lun, Helen","SLA(RS)","3586 3176"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. HOI Lok Him, Stanley","LA(RS)","3586 3176"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. HO Tat Hei","SBSE(RS)","3586 3146"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LEUNG Wing Tak","SSE(RS)","3586 3148"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. CHENG Seng Yip, Felix","SQS(RS)","3586 3147"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Miss HO Wai Yan, Vivian","A(RS)1","3586 3478"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. CHAN Ka Shing, Sunny","A(RS)2","3586 3177"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LAU Lik Wing, Ray","Sr Architect(Recreation &amp; Sport)","3586 3163"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. CHAN Hon Hung, Chris","BSE(RS)1","3586 3142"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Miss CHOW Pui Lin, Floronze","Quantity Surveyor (RS)1","3586 2738"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. CHOI Yuk Fai","Quantity Surveyor (RS)2","3586 2748"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LEUNG Chi Ho, Steven","StrE(RS)1","3586 3477"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Ms. CHAN Pei Xiang, Phyllis","StrE(RS)2","3586 3171"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LAI Kwok Fai","Senior Clerk of Works(Recreation &amp; Sport)","3586 3171"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LI Wai Cheong","SBSI(RS)","3586 3171"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. HO Man Yee","Clerk of Works(Recreation &amp; Sport)","3586 3171"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Ms. SIU Wai Yi, Viola","STO(A, RS)","3586 3152"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LEE Wai Ping","ABSI(RS)","3586 3171"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LAU Chi Cheung","STO(S, RS)","3586 3151"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. LAM Siu Wah","TO(S, RS)","3586 3477"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Ms. YU Sze Man, Jess","STO(BS, RS)","3586 3156"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. CHIN King Hang","TO(BS,RS)","3586 3156"
+"Home Affairs Bureau","Recreation and Sport Branch,Kai Tak Sports Park Section","Mr. POON Wing Keung, Eric","BSE(RS)2","3586 2715"
+"Home Affairs Bureau","Home Affairs Bureau,Administration Section","","",""
+"Home Affairs Bureau","Administration Section,Administration Unit","Ms. TANG Mun Suet, Rebecca","CEO(Adm)","3509 8006"
+"Home Affairs Bureau","Administration Unit,Confidential Registry","","",""
+"Home Affairs Bureau","Administration Unit,General Administration Team","Ms. CHOY Wai Kwen, Linda","SEO(Adm)1","3509 8007"
+"Home Affairs Bureau","Administration Unit,General Administration Team","Miss WONG Cheuk in, Shirley","EO(Adm)1 (on leave)","3509 8010"
+"Home Affairs Bureau","Administration Unit,General Administration Team","Mr. CHAN Sun Lung, Sunny","EO(Adm)3 (8/3/2019 until further notice acting EO(A)1)","3509 8015"
+"Home Affairs Bureau","Administration Unit,Human Resources Management Team","Mr. LEE Chi Leung, Humphrey","SEO(Adm)2","3845 4511"
+"Home Affairs Bureau","Administration Unit,Human Resources Management Team","Miss NG Fuk Ying, Irene","EO(Adm)2","3845 4512"
+"Home Affairs Bureau","Administration Unit,Human Resources Management Team","Ms. TAI Wing Wai, Angela","EO(A)SD","3845 4513"
+"Home Affairs Bureau","Administration Unit,Human Resources Management Team","Miss YUEN Yan, Ivy","CO(HR)","3845 4515"
+"Home Affairs Bureau","Administration Unit,Translation Team","Miss NG Yin Tsun, Ingrid","Sr OLO","3845 4521"
+"Home Affairs Bureau","Administration Unit,Translation Team","Mr. SHU Hoi Ning","OLO I(1)","3845 4522"
+"Home Affairs Bureau","Administration Unit,Translation Team","Ms. HO Siu Yu, Inez","OLO I(2)","3845 4523"
+"Home Affairs Bureau","Administration Unit,Translation Team","Miss NGO Ka Lai, Jenny","OLO II(1)","3845 4524"
+"Home Affairs Bureau","Administration Unit,Translation Team","Mr. CHOI Hiu Fung, Davis","OLO II(2)","3845 4525"
+"Home Affairs Bureau","Administration Section,Information Technology Management Unit","Mr. WONG Kwok Leung, Joshua","SM","3509 8002"
+"Home Affairs Bureau","Administration Section,Information Technology Management Unit","Mr. LAU Wing Keung, Laurence","AP I (1)","3509 8089"
+"Home Affairs Bureau","Administration Section,Information Technology Management Unit","Mr. WONG Chi Cheung, Daniel","AP I(2)","3845 4531"
+"Home Affairs Bureau","Administration Section,Information Technology Management Unit","Ms. LEUNG Wai Yin, Iris","AP II(1)","3845 4532"
+"Home Affairs Bureau","Administration Section,Information Technology Management Unit","Mr. CHAN Man Kit, John","AP II(2)","3509 8795"
+"Home Affairs Bureau","Administration Section,Resource Management Unit","Miss TAM Man Yee, Terie","CEO(Resource Mgt)","3509 8013"
+"Home Affairs Bureau","Resource Management Unit,Accounts and Supplies Team","Ms. CHOW Kin Kwok, Susan","SEO(Resource Mgt)2","3509 8017"
+"Home Affairs Bureau","Resource Management Unit,Accounts and Supplies Team","Miss MAK Yee Man, Emily","EO(Resource Mgt)2","3509 8022"
+"Home Affairs Bureau","Resource Management Unit,Accounts and Supplies Team","Mr. KWAN Ting Wun, Edwin","Acct Offr I(Resource Mgt)","3509 8020"
+"Home Affairs Bureau","Resource Management Unit,Accounts and Supplies Team","Ms. SUM Suet Ling, Plotia","Supplies Supr I","3509 7063"
+"Home Affairs Bureau","Resource Management Unit,Resource Management Team","Ms. LAM Ka Yi, Carrie","SEO(Resource Mgt)1","3509 8016"
+"Home Affairs Bureau","Resource Management Unit,Resource Management Team","Mr. LOWE Shu Fun, Stephen","EO(Resource Mgt)1","3509 8018"
+"Home Affairs Bureau","Resource Management Unit,Resource Management Team","Mrs. WONG CHEUNG Kam Fong, Jennifer","SCO(Resource Mgt)","3509 7067"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Miss TSOI Man Sin, Mandy","Ch Infn Offr","3509 8030"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Miss CHU Pui Ki, Jo","Sr Infn Offr(1)","3509 8019"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Mr. WONG Chi Fan, Joseph","Sr Infn Offr(2)","3509 8024"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Miss CHUI Cho Ying, Vivian","Infn Offr(1)","3509 7088"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Ms. KONG Wing Wah, Carol","Infn Offr(2)","3509 7087"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Miss CHEUNG Ho Sze, Vanessa","Asst. Infn Offr(2)","3509 7024"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Ms. LAU Wai Kiu, Linda","PS II","3509 7030"
+"Home Affairs Bureau","Home Affairs Bureau,Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Miss LEUNG Chui Shi, Tracy","ACO/Gen Office","3509 7019"
+"Home Affairs Bureau","Secretariat Press Office (Home Affairs Bureau and Home Affairs Department),Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Ms. MAN Sau Ling, Wendy","Prin Infn Offr","2835 1460"
+"Home Affairs Bureau","Secretariat Press Office (Home Affairs Bureau and Home Affairs Department),Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Mr. CHAU Yau Fai","Sr Infn Offr(3)","2835 1466"
+"Home Affairs Bureau","Secretariat Press Office (Home Affairs Bureau and Home Affairs Department),Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Mr. YU Man Kin, Jacky","Infn Offr(3)","2835 1729"
+"Home Affairs Bureau","Secretariat Press Office (Home Affairs Bureau and Home Affairs Department),Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Mr. CHU Man Shing, Anthony","Infn Offr(Photo)","2835 1467"
+"Home Affairs Bureau","Secretariat Press Office (Home Affairs Bureau and Home Affairs Department),Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Miss LI Wai Yan, Emily","Asst. Infn Offr(3)","2835 1456"
+"Home Affairs Bureau","Secretariat Press Office (Home Affairs Bureau and Home Affairs Department),Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Mr. SO Kin Wah, Ken","CO/Gen Off","2835 1468"
+"Home Affairs Bureau","Secretariat Press Office (Home Affairs Bureau and Home Affairs Department),Secretariat Press Office (Home Affairs Bureau and Home Affairs Department)","Mr. TO Chun Man, Allen","CA/Gen Off","2835 1465"
