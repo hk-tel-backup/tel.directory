@@ -1,264 +1,196 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=AUDC&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DAUDC%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Audit Commission","Mr. CHU Nai Cheung, John, JP","Dir of Audit","2829 4200"
+""
+"Organisation","Service Name","Office Tel"
+"Audit Commission","Enquiry","2829 4210"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Audit Commission","Audit Commission","","",""
+"Audit Commission","Audit Commission,Corporate Services Division","","",""
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Miss WUN Yuen Ming, Janny","DS","2829 4208"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Mr. OR Chun Wah, Neville","Dep DS","2829 4209"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Mr. LI  Chi Kin , Billy","Asst DS","2829 4267"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Ms. LEUNG Lai Man , Elaine","CO (Stores &amp; Acct)","2829 4211"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Mr. LIN Hoi Kwan, Alex","ACO (Stores &amp; Acct)","2829 4223"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Ms. KWAN Pui King, Pamela","CO (Per)","2829 4329"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Ms. HUNG Wai Lam, Lillian","ACO (Per)","2829 4212"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Mr. CHUNG Kwong Kwan","CO (Gen)","2829 4210"
+"Audit Commission","Corporate Services Division,Departmental Administration Branch","Miss HUI Suet Yee, Connie","ACO (Gen Regy)","2829 4266"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Ms. CHAN Shui Lan, Hildy","Prin Auditor","2829 4204"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Mr. PO Tin Lun, Francis","Sr Auditor (1)","2829 4253"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Mr. WONG Man Kwong, Allan","Sr Auditor (2)","2829 4205"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Ms. WAN Pui Yin, Judy","Auditor (1)","2829 4294"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Miss LOK Hin Yi, Hinnie","Auditor (2)","2829 4243"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Mr. CHAN Sing How, Allan","Auditor (3)","2829 4244"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Mr. LO Wing Chung, Peter","SOLO","2829 4324"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Mr. YEUNG Chun Fai, Thomas","Examiner (1)","2829 4249"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Mr. LAI Kwok Leung, Nelson","Examiner (2)","2829 4264"
+"Audit Commission","Corporate Services Division,Technical Administration Branch","Miss WONG Suet Man, Sherise","Assistant Clerical Officer (Regy)","2829 4264"
+"Audit Commission","Audit Commission,Regularity Audit Division","Mr. HO Jock Chu, Kenneth, JP","Asst Dir of Audit","2829 4217"
+"Audit Commission","Audit Commission,Regularity Audit Division","Ms. WOO Suk Yee, Pamela","PSI","2829 4218"
+"Audit Commission","Audit Commission,Regularity Audit Division","Mr. LIANG Kar Lun, Ken","Prin Auditor","2829 4234"
+"Audit Commission","Audit Commission,Regularity Audit Division","Miss CHAU Suk Yee, Hermia","PSII","2829 4320"
+"Audit Commission","Regularity Audit Division,Branch 1","Ms. CHANG Ying, Elaine","Senior Auditor (1)","2829 4221"
+"Audit Commission","Regularity Audit Division,Branch 1","Miss CHEUNG Ka Yan, Cindy","Auditor (1)","2829 4280"
+"Audit Commission","Regularity Audit Division,Branch 1","Mr. BUT Ho Chun, Andrew","Auditor (2)","2829 4225"
+"Audit Commission","Regularity Audit Division,Branch 1","Mr. HUNG Hing Lok, Francis","Auditor (3)","2829 4285"
+"Audit Commission","Regularity Audit Division,Branch 1","Mr. LI Ka Kin, Ken","Sr Examiner (1)","2829 4233"
+"Audit Commission","Regularity Audit Division,Branch 1","Ms. CHAN Kit Yiu, Linda","Sr Examiner (2)","2829 4233,2761 6294"
+"Audit Commission","Regularity Audit Division,Branch 1","Miss WONG Shuk Kwan, Vicky","Sr Examiner (3)","2829 4233,2829 4228"
+"Audit Commission","Regularity Audit Division,Branch 1","Ms. CHOW Mei Ling, Natalie","Sr Examiner (4)","2829 4233,2829 4228"
+"Audit Commission","Regularity Audit Division,Branch 1","Mr. KONG Kevin","Examiner (1)","2829 4233,2761 6294"
+"Audit Commission","Regularity Audit Division,Branch 1","Miss KUNG Ka Wan, Karen","Examiner (2)","2829 4233,2761 6293"
+"Audit Commission","Regularity Audit Division,Branch 1","Ms. NG Suet Ping, Kitty","Examiner (3)","2829 4233,2829 4228"
+"Audit Commission","Regularity Audit Division,Branch 1","Miss LEE Yun Kuen, Alice Constance","Examiner  (4)","2829 4228"
+"Audit Commission","Regularity Audit Division,Branch 1","Ms. NG Yan Ting, Yan","Examiner (5)","2829 4233,2829 4228"
+"Audit Commission","Regularity Audit Division,Branch 1","Ms. LEI Vai-man, Clara","Examiner (6)","2829 4233,2829 4228"
+"Audit Commission","Regularity Audit Division,Branch 2","Ms. WONG Chi Mun, Mimi","Sr Auditor (2)","2829 4222"
+"Audit Commission","Regularity Audit Division,Branch 2","Miss KWOK Sau Mei, Marvis","Auditor (4)","2829 4226"
+"Audit Commission","Regularity Audit Division,Branch 2","Ms. TSANG Kit Lai, Laura","Auditor (5)","2829 4227"
+"Audit Commission","Regularity Audit Division,Branch 2","Mr. LAU Ho Kwan, Louis","Auditor (6)","2829 4231"
+"Audit Commission","Regularity Audit Division,Branch 2","Ms. KAN Ming Shan, Sandy","Sr Examiner (5)","2829 5175"
+"Audit Commission","Regularity Audit Division,Branch 2","Mr. KAM Wing Pong, Roddy","Sr Examiner (6)","2829 5174"
+"Audit Commission","Regularity Audit Division,Branch 2","Ms. HO Lai Wah, Pauline","Sr Examiner (7)","2829 5174"
+"Audit Commission","Regularity Audit Division,Branch 2","Ms. CHU Yuen Ling, Clara","Sr Examiner (8)","2829 5175"
+"Audit Commission","Regularity Audit Division,Branch 2","Mr. LAM Russell Gareth T F","Examiner (7)","2829 4336"
+"Audit Commission","Regularity Audit Division,Branch 2","Miss WONG Lai Yin, Cookie","Examiner (8)","2829 4338"
+"Audit Commission","Regularity Audit Division,Branch 2","Mr. CHU Kwong Yiu, Anthony","Examiner (9)","2829 4336"
+"Audit Commission","Regularity Audit Division,Branch 2","Miss WONG Wing Sze, Rebekah","Examiner (10)","2829 4338"
+"Audit Commission","Regularity Audit Division,Branch 2","Miss CHOI Tsz Wai, Joanne","Examiner (11)","2829 4337"
+"Audit Commission","Regularity Audit Division,Branch 2","Miss LAM Kit Ying, Katherine","Examiner (12)","2829 4338"
+"Audit Commission","Regularity Audit Division,Branch 2","Ms. CHEUNG Fung Nga, Alice","ACO (Regy)","2829 4337"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. LAU Siu Kay, Frankie","Sr Auditor (3)","2829 4220"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. LI Hon Yiu, Harry","Auditor (7)","2829 4333"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. YEUNG Hon Keung","Auditor (8)","2829 4284"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. WONG Kai Chiu, Alfred","Auditor (9)","2829 4229"
+"Audit Commission","Regularity Audit Division,Branch 3","Ms. CHAN Pui ling, Carol","Sr Examiner (9)","2829 5176,2829 5177"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. CHOW Po Sing","Sr Examiner (10)","2829 4228,2892 6345"
+"Audit Commission","Regularity Audit Division,Branch 3","Ms. CHAN Choi Yee, Norris","Sr Examiner (11)","2829 4224"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. TIEN Sai Choi, Dick","Sr Examiner (12)","2829 4262"
+"Audit Commission","Regularity Audit Division,Branch 3","Ms. WONG Oi Kwan, Carol","Sr Examiner (13)","2829 4287"
+"Audit Commission","Regularity Audit Division,Branch 3","Miss CHAN Hiu Kwan, Carly","Examiner (13)","2829 5176"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. MA Hing Man","Examiner (14)","2829 5177"
+"Audit Commission","Regularity Audit Division,Branch 3","Miss LEE Yuk Yi, Brenda","Examiner (15)","2829 5176"
+"Audit Commission","Regularity Audit Division,Branch 3","Miss WONG Wing Yue , Joyce","Examiner (16)","2829 4282"
+"Audit Commission","Regularity Audit Division,Branch 3","Mr. IU Kwok Shing, Samuel","Examiner (17)","2829 5177"
+"Audit Commission","Regularity Audit Division,Branch 4","Mr. WONG King On","Sr Auditor (4)","2829 4335"
+"Audit Commission","Regularity Audit Division,Branch 4","Mr. YEUNG Sai Chum, Tony","Auditor (10)","2829 4240"
+"Audit Commission","Regularity Audit Division,Branch 4","Ms. CHIANG Wai Ting, Eunice","Auditor (11)","2829 4334"
+"Audit Commission","Regularity Audit Division,Branch 4","Miss WONG Man Ting, Sylvia","Auditor (12)","2829 4230,2761 6295"
+"Audit Commission","Regularity Audit Division,Branch 4","Miss NG Pak Yin, Pat","Sr Examiner (16)","2829 4262"
+"Audit Commission","Regularity Audit Division,Branch 4","Miss KWOK Kar Kar, Carol","Examiner (19)","2829 4301"
+"Audit Commission","Regularity Audit Division,Branch 4","Miss TSE Shan Shan, Shana","Examiner (20)","2829 4287"
+"Audit Commission","Regularity Audit Division,Branch 4","Mr. WONG Cheuk Yin, Ricky","Examiner (21)","2829 4339"
+"Audit Commission","Regularity Audit Division,Branch 4","Mr. WUN Kwun Hung, Andy","Examiner (22)","2829 4339"
+"Audit Commission","Regularity Audit Division,Support Services","Ms. SZE  Oi Ling, Paula","Ch Examiner","2829 5176"
+"Audit Commission","Regularity Audit Division,Support Services","Ms. TSOI Kwai Kiu, Josephine","Sr Examiner (14)","2829 4224,2892 6345"
+"Audit Commission","Regularity Audit Division,Support Services","Miss LEE Mei Yee, Joanne","Sr Examiner (15)","2829 4301"
+"Audit Commission","Regularity Audit Division,Support Services","Miss CHAN Siu Kuk , Ava","Examiner (18)","2829 4282"
+"Audit Commission","Regularity Audit Division,Support Services","Miss CHENG Ki Yan, April","ACO (Regy)","2829 4282,2761 6293"
+"Audit Commission","Regularity Audit Division,Support Services","Ms. WONG Mei Lin, May","Clerical Asst (Regy)","2829 4228,2829 4233"
+"Audit Commission","Audit Commission,Senior Directorate","Mr. CHU Nai Cheung, John, JP","Dir of Audit","2829 4200"
+"Audit Commission","Audit Commission,Senior Directorate","Mr. HO Jock Chu, Kenneth, JP","Asst Dir of Audit (double-up Dep Dir of Audit)","2829 4201"
+"Audit Commission","Audit Commission,Senior Directorate","Ms. CHENG Wai Yu, Brenda","SPS","2829 4202"
+"Audit Commission","Audit Commission,Senior Directorate","Ms. YEUNG Kit Yee, Kitty","PSI","2829 4203"
+"Audit Commission","Audit Commission,Value for Money Audit Division 1","Mr. WONG Chung Yan, Jay","Asst Dir of Audit","2829 4272"
+"Audit Commission","Audit Commission,Value for Money Audit Division 1","Ms. YAU Suk Fong, Jessica","PSI","2829 4273"
+"Audit Commission","Audit Commission,Value for Money Audit Division 1","Miss HO Yvonne","Prin Auditor","2829 4274"
+"Audit Commission","Audit Commission,Value for Money Audit Division 1","Ms. TSUI Pui Man, Freda","PSII","2829 4304"
+"Audit Commission","Value for Money Audit Division 1,Branch A","Mr. FUNG Siu Yin, Andrew","Sr Auditor (A)","2829 4275"
+"Audit Commission","Value for Money Audit Division 1,Branch A","Mr. IP Chi Ming","Auditor (A)","2829 4279"
+"Audit Commission","Value for Money Audit Division 1,Branch A","Ms. LI Chi Wa, Victoria","Ch Examiner (A)","2829 4286"
+"Audit Commission","Value for Money Audit Division 1,Branch A","Ms. WONG Mei Ling, Nania","Sr Examiner (A)","2829 4327"
+"Audit Commission","Value for Money Audit Division 1,Branch A","Miss CHIU Kit Leung, Bobo","Sr Examiner (B)","2829 4289,2860 4201"
+"Audit Commission","Value for Money Audit Division 1,Branch A","Mr. KWOK Wing Hang, Eric","Examiner (A)","2829 4295"
+"Audit Commission","Value for Money Audit Division 1,Branch A","Mr. LEUNG Chun Lam, Arthur","Examiner (B)","2829 4295"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Mr. CHAN Sing Hei, Edmond","Sr Auditor (B)","2829 4276"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Mr. CHAN Yan Man, Ringo","Ch Examiner (B)","2829 4283"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Miss LAI Ka Yan, Natalie","Auditor (B)","2829 4332"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Mr. HO Wing Yin, Willy","Sr Examiner (C)","2829 4290"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Ms. LEUNG Suk Fun, Sharon","Sr Examiner (D)","2829 4290"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Mr. AU Tat Man, Dennis","Examiner (C)","2829 4326"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Ms. HO Pui Yu, Flora","Examiner (D)","2829 4327"
+"Audit Commission","Value for Money Audit Division 1,Branch B","Ms. LO Sze Man, Olivia","ACO (Regy)","2829 4291"
+"Audit Commission","Value for Money Audit Division 1,Branch C","Mr. MOK Chak Man, Terry","Sr Auditor (C)","2829 4277"
+"Audit Commission","Value for Money Audit Division 1,Branch C","Ms. NG Ka Ian, Karen","Auditor (C)","2829 4278"
+"Audit Commission","Value for Money Audit Division 1,Branch C","Ms. LIE Man Wa, Lilian","Auditor (D)","2829 4281"
+"Audit Commission","Value for Money Audit Division 1,Branch C","Ms. CHAN Chung Yee, Patty","Auditor (E)","2829 4288"
+"Audit Commission","Value for Money Audit Division 1,Branch C","Miss LEE Kam Fung, Candi","Sr Examiner (E)","2829 4296"
+"Audit Commission","Value for Money Audit Division 1,Branch C","Mr. MOK Koon Hang, Raymond","Examiner (E)","2829 4327"
+"Audit Commission","Value for Money Audit Division 1,Branch C","Mr. CHAN Chun Hin, Gary","Examiner (F)","2829 4327"
+"Audit Commission","Audit Commission,Value for Money Audit Division 2","Mr. PANG Kwok Sing","Asst Dir of Audit","2829 4251"
+"Audit Commission","Audit Commission,Value for Money Audit Division 2","Ms. TUNG Siu Wai, Celia","PSI","2829 4214"
+"Audit Commission","Audit Commission,Value for Money Audit Division 2","Mr. NG Shu Ming, Tony","Prin Auditor","2829 4235"
+"Audit Commission","Audit Commission,Value for Money Audit Division 2","Ms. LEUNG Mei Ching, Sara","PSII","2829 4236"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Ms. WAN Suet Fun, Flora","Sr Auditor (A)","2829 4238"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Ms. LEUNG Yuen Ting, Nadia","Auditor (A)","2829 4322"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Mr. CHUNG Man Fai, Ivan","Ch Examiner (B)","2829 4245"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Mr. CHOI Wing Tat, Willy","Sr Examiner (A)","2829 4247"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Mr. NG Ka Wa, Dickson","Sr Examiner (B)","2829 4246"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Mr. LAM Chi Sum, Sam","Examiner (A)","2829 4248"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Mr. SO Kin Leung, Gary","Examiner (B)","2829 4206"
+"Audit Commission","Value for Money Audit Division 2,Branch A","Mr. NGAN Kin Chi","CA (Regy)","2829 4248"
+"Audit Commission","Value for Money Audit Division 2,Branch B","Mr. LO Yat Hang, Anthony","Sr Auditor (B)","2829 4237"
+"Audit Commission","Value for Money Audit Division 2,Branch B","Ms. AU Ka Ki, Kelly","Auditor (B)","2829 4330"
+"Audit Commission","Value for Money Audit Division 2,Branch B","Miss MA Wing Sum, Rebecca","Auditor (C)","2829 4256"
+"Audit Commission","Value for Money Audit Division 2,Branch B","Mr. FOK Chung Fai, Dennis","Auditor (F)","2829 4241"
+"Audit Commission","Value for Money Audit Division 2,Branch B","Mr. MAK Wong Kwok, Roger","Sr Examiner (C)","2829 4246"
+"Audit Commission","Value for Money Audit Division 2,Branch B","Miss YUEN Ho Sau, Allison","Sr Examiner (D)","2829 4299"
+"Audit Commission","Value for Money Audit Division 2,Branch B","Miss LAI On Yi, Annie","Examiner (C)","2829 4247"
+"Audit Commission","Value for Money Audit Division 2,Branch C","Mr. PAN Ka Ming","Sr Auditor (C)","2829 4300"
+"Audit Commission","Value for Money Audit Division 2,Branch C","Ms. LAM Sau Man, Elizabeth","Auditor (D)","2829 4242"
+"Audit Commission","Value for Money Audit Division 2,Branch C","Mr. CHU Chun Wa, Joseph","Auditor (E)","2829 4239"
+"Audit Commission","Value for Money Audit Division 2,Branch C","Miss PANG Chi Ting, Agnes","Ch Examiner (A)","2829 4325"
+"Audit Commission","Value for Money Audit Division 2,Branch C","Ms. NG Mei Ling, Karen","Sr Examiner (E)","2829 4323"
+"Audit Commission","Value for Money Audit Division 2,Branch C","Mr. KWOK Ping Hung","Sr Examiner (F)","2829 4250"
+"Audit Commission","Value for Money Audit Division 2,Branch C","Miss KWONG Kitty","Examiner (D)","2829 4206"
+"Audit Commission","Audit Commission,Value for Money Audit Division 3","Mr. CHANG Ji Chung, Andrew","Asst Dir of Audit","2829 4303"
+"Audit Commission","Audit Commission,Value for Money Audit Division 3","Mr. CHIU Kwok On, Andy","Prin Auditor (double-up Asst Dir of Audit)","2829 4316"
+"Audit Commission","Audit Commission,Value for Money Audit Division 3","Miss AU Yuen Yee, Mary","PSII","2829 4293"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Ms. LEE Kim Yee, Olivia","Sr Auditor (A)","2829 4305"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Ms. CHU Kin Yan, Jeannie","Auditor (A)","2829 4313"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Ms. LI  Yik Ting , Katy","Auditor (B)","2829 4317"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Ms. LEE Wai Mei, Enid","Sr Examiner (A)","2829 4318"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Miss KONG Hoi Lo, Winifred","Sr Examiner (E)","2829 4311"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Miss TIU Man Ting, Serra","Examiner (A)","2829 4312"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Mr. NG Sai Ho, Gary","Examiner (B)","2829 4311"
+"Audit Commission","Value for Money Audit Division 3,Branch A","Ms. YIU Yim Shan , Yvonne","ACO (Regy)","2829 4321"
+"Audit Commission","Value for Money Audit Division 3,Branch B","Ms. CHAN Mei Yan, May","Sr Auditor (B)","2829 4306"
+"Audit Commission","Value for Money Audit Division 3,Branch B","Ms. LAM Wah Yan, Winnie","Auditor (C)","2829 4309"
+"Audit Commission","Value for Money Audit Division 3,Branch B","Ms. LAM Po Chu, Kelly","Auditor (D)","2829 4314"
+"Audit Commission","Value for Money Audit Division 3,Branch B","Miss CHIU Shuk Han, Daphne","Sr Examiner (B)","2829 4308"
+"Audit Commission","Value for Money Audit Division 3,Branch B","Ms. CHAU Pui Li, Parley","Sr Examiner (C)","2829 4292"
+"Audit Commission","Value for Money Audit Division 3,Branch B","Miss TANG Hing Fun, Vivian","Examiner (C)","2829 4312"
+"Audit Commission","Value for Money Audit Division 3,Branch B","Miss YEUNG Chui Fan, Tin","Examiner (D)","2829 4292"
+"Audit Commission","Value for Money Audit Division 3,Branch C","Mr. SUEN Cheung Kong, Anthony","Sr Auditor (C)","2829 4307"
+"Audit Commission","Value for Money Audit Division 3,Branch C","Mr. LI Yick Cheong, David","Auditor (E)","2829 4310"
+"Audit Commission","Value for Money Audit Division 3,Branch C","Ms. AU Sau Ying, Vivian","Senior Auditor (C)","2829 4307"
+"Audit Commission","Value for Money Audit Division 3,Branch C","Miss MONG Bik Luen, Bertha","Ch Examiner (B)","2829 4319"
+"Audit Commission","Value for Money Audit Division 3,Branch C","Mr. MAK Wai Keen, Ken","Sr Examiner (D)","2829 4232"
+"Audit Commission","Value for Money Audit Division 3,Branch C","Ms. LAW Mei Yuk, Yuki","Examiner (E)","2829 4232"
+"Audit Commission","Value for Money Audit Division 3,Branch C","Mr. TSANG Chiu Jo","Examiner (F)","2829 4308"
+"Audit Commission","Audit Commission,Value for Money Audit Division 4","Mr. TEO Wing On","Asst Dir of Audit","2829 4219"
+"Audit Commission","Audit Commission,Value for Money Audit Division 4","Miss CHOI Sau Mui, Angela","Prin Auditor","2829 4252"
+"Audit Commission","Audit Commission,Value for Money Audit Division 4","Miss NG Mang Ying, Diane","PSII","2829 4215"
+"Audit Commission","Value for Money Audit Division 4,Branch A","Ms. POON Oi Sha, Alice","Sr Auditor (A)","2829 4257"
+"Audit Commission","Value for Money Audit Division 4,Branch A","Mr. CHEUNG Tak Yu, Toby","Auditor (A)","2829 4259"
+"Audit Commission","Value for Money Audit Division 4,Branch A","Ms. CHEUNG Kai Ling, Rita","Ch Examiner (A)","2829 4254"
+"Audit Commission","Value for Money Audit Division 4,Branch A","Miss CHEUNG So Han, Zoe","Sr Examiner (A)","2829 4302,2808 3677-8"
+"Audit Commission","Value for Money Audit Division 4,Branch A","Ms. LUI Kiu Sui, Anna","Sr Examiner (E)","2829 4263,2231 3814"
+"Audit Commission","Value for Money Audit Division 4,Branch A","Mr. LAM Shu Yan, Justin","Examiner (A)","2829 4297"
+"Audit Commission","Value for Money Audit Division 4,Branch A","Miss HUI Ho Yan , Athena","Examiner (C)","2829 4265,2231 3815"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Miss HO Sau Lai, Agnes","Senior Auditor (B)","2829 4331"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Mr. LAU Wing Cheong, Alex","Auditor (B)","2829 4261"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Mr. KWAN Kui Yee, Cary","Auditor (C)","2829 4258"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Mr. LUK Kin Man, Ken","Sr Examiner (B)","2829 4269,2867 3991"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Ms. WONG Shuk Fan","Sr Examiner (C)","2829 4270,2762 5686"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Miss IP Ka Man, Carmen","Examiner (D)","2829 4297"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Miss WONG Sum Yi , Summy","Examiner (E)","2829 4297,2808 3678"
+"Audit Commission","Value for Money Audit Division 4,Branch B","Ms. MO Ming Yuk, Patricia","Clerical Asst (Regy)","2829 4268"
+"Audit Commission","Value for Money Audit Division 4,Branch C","Miss LAU Pui Sze, Emily","Sr Auditor (C)","2829 4255"
+"Audit Commission","Value for Money Audit Division 4,Branch C","Ms. WAN Yuen Mei, May","Auditor (D)","2829 4271,2829 4747"
+"Audit Commission","Value for Money Audit Division 4,Branch C","Mr. YU Shek Piu , Bill","Auditor (E)","2829 4260"
+"Audit Commission","Value for Money Audit Division 4,Branch C","Mr. KWOK Kar Kin, Simon","Ch Examiner (B)","2829 4298"
+"Audit Commission","Value for Money Audit Division 4,Branch C","Mr. LAW Chi Fat, Wister","Sr Examiner (D)","2829 4270"
+"Audit Commission","Value for Money Audit Division 4,Branch C","Mr. WONG Chi Wah, Roy","Sr Examiner (F)","2829 4269,2829 4408"
+"Audit Commission","Value for Money Audit Division 4,Branch C","Miss CHUI Chi Ching, Gloria","Examiner (B)","2829 4268"

@@ -1,264 +1,113 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=LWB&lang=CHI&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DLWB%26lang%3DCHI%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"機構","姓名","職位","辦公室電話"
+"勞工及福利局","羅致光 博士, GBS, JP","勞工及福利局局長","2810 2318"
+"勞工及福利局","徐英偉 先生, JP","勞工及福利局副局長","2810 3173"
+"勞工及福利局","張琼瑤 女士, JP","勞工及福利局常任秘書長","2810 3698"
+""
+"機構","服務名稱","辦公室電話"
+"勞工及福利局","詢問處","2810 2300"
+""
+"機構","部門","姓名","職位","辦公室電話"
+"勞工及福利局","勞工及福利局","","",""
+"勞工及福利局","勞工及福利局,勞工及福利局局長辦公室","羅致光 博士, GBS, JP","勞工及福利局局長","2810 2318"
+"勞工及福利局","勞工及福利局,勞工及福利局局長辦公室","徐英偉 先生, JP","勞工及福利局副局長","2810 3173"
+"勞工及福利局","勞工及福利局,勞工及福利局局長辦公室","周永恒 先生","勞工及福利局局長政務助理","2810 2310"
+"勞工及福利局","勞工及福利局,勞工及福利局局長辦公室","葉慧娟 女士","勞工及福利局局長新聞秘書","2810 2320"
+"勞工及福利局","勞工及福利局,勞工及福利局局長辦公室","馮興禮 先生","勞工及福利局局長政治助理","2810 3206"
+"勞工及福利局","勞工及福利局,勞工及福利局局長辦公室","許國貞 女士","勞工及福利局局長辦公室高級行政主任","2810 3622"
+"勞工及福利局","勞工及福利局,勞工及福利局局長辦公室","李淑慧 女士","勞工及福利局局長辦公室行政助理","3655 5206"
+"勞工及福利局","勞工及福利局,常任秘書長及副秘書長","張琼瑤 女士, JP","勞工及福利局常任秘書長","2810 3698"
+"勞工及福利局","勞工及福利局,常任秘書長及副秘書長","戴淑嬈 女士, JP","勞工及福利局副秘書長(福利)1","2810 3878"
+"勞工及福利局","勞工及福利局,常任秘書長及副秘書長","黃宗殷 先生, JP","勞工及福利局副秘書長(福利)2","2810 3293"
+"勞工及福利局","勞工及福利局,常任秘書長及副秘書長","梁振榮 先生, JP","康復專員","2810 2029"
+"勞工及福利局","勞工及福利局,第一分科","","",""
+"勞工及福利局","第一分科,第一組","高慧君 女士","勞工及福利局首席助理秘書長(福利)1 (休假)","2810 3931"
+"勞工及福利局","第一分科,第一組","成韻楨 女士","勞工及福利局助理秘書長(福利)1A (兼任勞福局首席助理秘書長(福利)1 的50%職務)","2810 3932"
+"勞工及福利局","第一分科,第一組","謝易殷 女士","勞工及福利局助理秘書長(福利)1B","2810 3933"
+"勞工及福利局","第一分科,第一組","張沛鈴 女士","勞工及福利局助理秘書長(福利)1C (兼任勞福局首席助理秘書長(福利)1 的50%職務)","2810 3432"
+"勞工及福利局","第一分科,第一組","葉嘉怡 女士","公共關係副總監(兒童發展基金)","3655 4430"
+"勞工及福利局","第一分科,第一組","張慧華 女士","總行政主任 (兒童事務委員會)","2810 2191"
+"勞工及福利局","第一分科,第一組","曾潔儀 女士","高級行政主任(兒童事務委員會)","3655 4736"
+"勞工及福利局","第一分科,第一組","茹勝祥 先生","高級行政主任(福利)1","2810 3612"
+"勞工及福利局","第一分科,第一組","關梓安 先生","行政主任(福利)1A","2810 3433"
+"勞工及福利局","第一分科,第一組","何偉健 先生","行政主任(兒童事務委員會)","3655 4191"
+"勞工及福利局","第一分科,第一組","廖淑儀 女士","行政主任(福利)1B","2810 3431"
+"勞工及福利局","第一分科,第一組","伍家豪 先生","公共關係經理(兒童發展基金)","3655 4402"
+"勞工及福利局","第一組,社區投資共享基金秘書處","陳淑茵 女士","秘書長","2503 2045"
+"勞工及福利局","第一組,社區投資共享基金秘書處","黃小紅 女士","助理秘書長(計劃管理)","2503 2044"
+"勞工及福利局","第一組,社區投資共享基金秘書處","懸空 ","助理秘書長(規劃發展)","2503 2043"
+"勞工及福利局","第一組,社區投資共享基金秘書處","王浚賢 先生","計劃主任","2503 2122"
+"勞工及福利局","第一組,社區投資共享基金秘書處","何文懿 女士","計劃主任","2503 2144"
+"勞工及福利局","第一組,社區投資共享基金秘書處","曾慧嫻 女士","計劃主任","2503 2155"
+"勞工及福利局","第一組,社區投資共享基金秘書處","姚敏婷 女士","高級公共關係及宣傳主任","2503 2077"
+"勞工及福利局","第一組,社區投資共享基金秘書處","文曉筠 女士","高級計劃主任","2503 2199"
+"勞工及福利局","第一組,社區投資共享基金秘書處","梁瑩月 女士","宣傳主任","2503 2055"
+"勞工及福利局","第一組,社區投資共享基金秘書處","馬麗貞 女士","會計主任","2503 2101"
+"勞工及福利局","第一組,社區投資共享基金秘書處","陳志慧 博士","研究及發展主任","2503 2066"
+"勞工及福利局","第一組,社區投資共享基金秘書處","懸空 ","項目協調主任","2503 2017"
+"勞工及福利局","第一分科,第二組","張越 女士","勞工及福利局首席助理秘書長(福利)2","2810 2025"
+"勞工及福利局","第一分科,第二組","鄧顯權 先生","勞工及福利局助理秘書長(福利)2A","2810 2290"
+"勞工及福利局","第一分科,第二組","鄒君逸 先生","勞工及福利局助理秘書長(福利)2C","2810 2246"
+"勞工及福利局","第一分科,第二組","陳黃潔明 女士","勞工及福利局總行政主任(福利)2","2810 2014"
+"勞工及福利局","第一分科,第二組","馬潔萍 女士","高級行政主任(福利)2","2810 2247"
+"勞工及福利局","第一分科,第二組","黎婉瑩 女士","計劃執行主任(福利)2","3655 4516"
+"勞工及福利局","第一分科,第二組","梁錫禧 先生","研究及項目主任(福利)2","2810 3811"
+"勞工及福利局","第一分科,第二組","許穎琪 女士","宣傳及項目主任(福利)2","2810 3814"
+"勞工及福利局","第一分科,第二組","懸空 ","行政助理(福利)2","3655 4014"
+"勞工及福利局","第一分科,人力組","方兆偉 先生","勞工及福利局首席助理秘書長(人力)","2810 3290"
+"勞工及福利局","第一分科,人力組","溫錚宇 先生","勞工及福利局助理秘書長(人力)1","2810 3291"
+"勞工及福利局","第一分科,人力組","余文朗 女士","勞工及福利局助理秘書長(人力)2","2810 3292"
+"勞工及福利局","第一分科,人力組","陳美冰 女士","高級統計師(人力)","2810 3870"
+"勞工及福利局","第一分科,人力組","林景圓 女士","統計師(人力)","2810 3871"
+"勞工及福利局","第一分科,人力組","鍾道榮 先生","高級統計主任(人力)","2810 3872"
+"勞工及福利局","第一分科,人力組","葉經天 先生","統計主任(人力)","2810 3873"
+"勞工及福利局","第一分科,人力組","梁淑群 女士","經理(持續進修基金)","2810 3877"
+"勞工及福利局","第一分科,人力組","莊煒 女士","行政主任(人力)1","2810 3876"
+"勞工及福利局","第一分科,人力組","盧政霖 女士","行政主任(人力)2","3655 5879"
+"勞工及福利局","第一分科,行政組","陳秀芬 女士","總行政主任(福利)行政","2810 2557"
+"勞工及福利局","第一分科,行政組","陳淑燕 女士","高級法定語文主任(福利)","2810 2442"
+"勞工及福利局","第一分科,行政組","林俊傑 先生","行政主任(福利)行政1","2810 3828"
+"勞工及福利局","第一分科,行政組","佘錴泓 先生","行政主任(福利)行政2","2810 3278"
+"勞工及福利局","第一分科,行政組","林詩雅 女士","行政主任(福利)行政3","2810 3417"
+"勞工及福利局","第一分科,行政組","楊美貞 女士","高級文書主任(福利)","2810 2432"
+"勞工及福利局","第一分科,行政組","陳惠儀 女士","文書主任(福利)1 - 總務","3655 4782"
+"勞工及福利局","第一分科,行政組","吳育媚 女士","文書主任(福利)2 - 人事","2810 3928"
+"勞工及福利局","第一分科,行政組","黎綺冰 女士","文書主任(福利)3 - 會計","2810 3506"
+"勞工及福利局","第一分科,資源管理組","鄭素珍 女士","總管理參議主任(福利)","2810 3830"
+"勞工及福利局","第一分科,資源管理組","王元春 先生","高級管理參議主任(福利)1","2810 3533"
+"勞工及福利局","第一分科,資源管理組","劉夢天 先生","高級管理參議主任(福利)2","2810 3532"
+"勞工及福利局","第一分科,資源管理組","庾艷芳 女士","管理參議主任(福利)","2810 3531"
+"勞工及福利局","第一分科,資源管理組","方敏強 先生","系統經理(福利)","3655 5857"
+"勞工及福利局","第一分科,資源管理組","何超坤 先生","一級系統分析/程序編製主任 (福利)","2810 3021"
+"勞工及福利局","第一分科,資源管理組","余藝 先生","二級系統分析／程序編製主任(福利)1","2810 3414"
+"勞工及福利局","第一分科,資源管理組","李博文 先生","二級系統分析／程序編製主任(福利)2","28103186"
+"勞工及福利局","勞工及福利局,第二分科","","",""
+"勞工及福利局","第二分科,第三組","羅荔丹 女士","勞工及福利局首席助理秘書長(福利)3","2810 3298"
+"勞工及福利局","第二分科,第三組","吳家進 先生","勞工及福利局助理秘書長(福利)3A","2810 3296"
+"勞工及福利局","第二分科,第三組","余茜婷 女士","勞工及福利局助理秘書長(福利)3B","2810 3297"
+"勞工及福利局","第二分科,第三組","梁乘龍 先生","勞工及福利局助理秘書長(特別職務)","2810 3012"
+"勞工及福利局","第二分科,第三組","梁福齡 先生","行政主任(福利)3","3655 4738"
+"勞工及福利局","第二分科,第四組","莊國榮 先生","勞工及福利局首席助理秘書長(福利)4","2810 2026"
+"勞工及福利局","第二分科,第四組","麥嘉盈 女士","勞工及福利局助理秘書長(福利)4A","2810 2921"
+"勞工及福利局","第二分科,第四組","葉菁蓉 女士","勞工及福利局助理秘書長(福利)4B","2810 2961"
+"勞工及福利局","第二分科,第四組","周健聰 先生","勞工及福局助理秘書長(福利)4C","2810 3826"
+"勞工及福利局","第二分科,第四組","李雁秋 女士","總行政主任(福利)4","2810 3007"
+"勞工及福利局","第二分科,第四組","梁貝妍 女士","行政主任(福利)4","3655 5861"
+"勞工及福利局","勞工及福利局,康復分科","何好逑 女士","助理康復專員","2810 2102"
+"勞工及福利局","勞工及福利局,康復分科","潘慧欣 女士","勞工及福利局助理秘書長(康復)特別職務1","2810 3010"
+"勞工及福利局","勞工及福利局,康復分科","謝穎妍 女士","勞工及福利局助理秘書長(康復)","3655 4429"
+"勞工及福利局","勞工及福利局,康復分科","胡思慧 女士","總行政主任(康復)1","3655 4432"
+"勞工及福利局","勞工及福利局,康復分科","李頴嫻 女士","總行政主任(康復)2","2810 3020"
+"勞工及福利局","勞工及福利局,康復分科","黃月雲 女士","高級行政主任(康復)1","2810 3840"
+"勞工及福利局","勞工及福利局,康復分科","彭藹藍 女士","高級行政主任(康復)2","2810 3837"
+"勞工及福利局","勞工及福利局,康復分科","陳倩兒 女士","高級行政經理(康復)特別職務1","3655 4437"
+"勞工及福利局","勞工及福利局,康復分科","林伸顏 先生","高級行政經理(康復)特別職務2","3655 4717"
+"勞工及福利局","勞工及福利局,康復分科","黎祖儀 女士","高級行政經理(康復)特別職務3","3655 4718"
+"勞工及福利局","勞工及福利局,康復分科","黃嘉琪 女士","高級行政助理(康復)","2810 3874"
+"勞工及福利局","勞工及福利局,康復分科","簡詠思 女士","行政主任(康復)1","2810 3829"
+"勞工及福利局","勞工及福利局,康復分科","周雪瑩 女士","行政主任(康復)2","2810 3831"
+"勞工及福利局","勞工及福利局,康復分科","李芷瑋 女士","行政主任(康復)3","2810 3839"
+"勞工及福利局","勞工及福利局,康復分科","麥宗明 先生","文書主任(康復)","2810 3841"
+"勞工及福利局","勞工及福利局,政府總部新聞組","蔡文芝 女士","首席新聞主任(勞工及福利)","2810 2707"
+"勞工及福利局","勞工及福利局,政府總部新聞組","李皓泓 先生","高級新聞主任(勞工及福利)","2810 2709"
+"勞工及福利局","勞工及福利局,政府總部新聞組","陸昶僖 先生","新聞主任(勞工及福利)","2810 2705"
+"勞工及福利局","勞工及福利局,政府總部新聞組","懸空 ","助理新聞主任(勞工及福利)","3655 4732"

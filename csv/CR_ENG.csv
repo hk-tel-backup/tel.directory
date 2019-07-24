@@ -1,264 +1,240 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=CR&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DCR%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Companies Registry","Ms. CHUNG Lai Ling , Ada, JP","Registrar of Companies","2867 2818"
+"Companies Registry","Ms. YU Shuk Fong, Marianna","Registry Manager","2867 4500"
+"Companies Registry","Miss MA Suk Wai, Wendy","Registry Manager (Trust and Company Service Providers)","3678 5188"
+"Companies Registry","Ms. CHAN Wai Ling, Ellen","Deputy Principal Solicitor (Company Law Reform)","2867 5839"
+""
+"Organisation","Service Name","Office Tel"
+"Companies Registry","General Enquiry Hotline","2234 9933"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Companies Registry","Companies Registry","Ms. CHUNG Lai Ling , Ada, JP","Registrar of Companies","2867 2818"
+"Companies Registry","Companies Registry","Ms. YU Shuk Fong, Marianna","Registry Manager","2867 4500"
+"Companies Registry","Companies Registry","Miss SHUM Fung Ho, Isabella","SrPS to Regr of Companies","2867 3530"
+"Companies Registry","Companies Registry","Ms. CHENG Yuk Yin, Connie","PS I to Regy Mgr","2867 4501"
+"Companies Registry","Companies Registry","Ms. CHAN Wai Ling, Ellen","Deputy Principal Solicitor (Company Law Reform)","2867 5839"
+"Companies Registry","Companies Registry","Mrs. HO LAU Kar Kam, Karen","Consultant","2867 2820"
+"Companies Registry","Companies Registry","Ms. MOO Wai Ting, Yoki","PS I to Deputy Principal Solicitor (Company Law Reform) &amp; Consultant","2867 5840"
+"Companies Registry","Companies Registry","Miss LAM Man Huen, Mandy","Senior Solicitor (Company Law Reform)","2867 2824"
+"Companies Registry","Companies Registry,Legal Services Division","Ms. TSUI Lai Ching, Kitty","Regy Solicitor","2867 2819"
+"Companies Registry","Companies Registry,Legal Services Division","Ms. YUEN Shuk Ling, Lisa","Asst Prin Solicitor","2867 2826"
+"Companies Registry","Companies Registry,Legal Services Division","Ms. CHAN Yee Fun, Margaret","Senior Solicitor (Legal Services)4","2867 2639"
+"Companies Registry","Companies Registry,Legal Services Division","Ms. OR Fung Lan, Ida","PS II to Asst Prin Solicitor &amp; Sr Solicitor (Legal Services)4","2867 2640"
+"Companies Registry","Companies Registry,Legal Services Division","Miss SZE Wai Shan, Ada","Senior Solicitor (Legal Services)1","2867 2823"
+"Companies Registry","Companies Registry,Legal Services Division","Ms. LEUNG Ching Wah, Ariel","Senior Solicitor (Legal Services)2","2867 3189"
+"Companies Registry","Companies Registry,Legal Services Division","Mr. CHUNG Wai Tim","Senior Solicitor (Legal Services)3","2867 4706"
+"Companies Registry","Companies Registry,Legal Services Division","Ms. HO Pui Yan, Louisa","PS I to Regy Solicitor &amp; Senior Solicitor (Legal Services)3","2867 2828"
+"Companies Registry","Companies Registry,Legal Services Division","Ms. WONG Cho Yee, Joey","Solicitor (1)","2867 5899"
+"Companies Registry","Companies Registry,Legal Services Division","Mr. LEE Chak Lam","Solicitor (2)","2867 2862"
+"Companies Registry","Companies Registry,Legal Services Division","Miss LEUNG Yue Wai, Grace","Solicitor (3)","2867 2827"
+"Companies Registry","Companies Registry,Legal Services Division","Miss CHEUNG Man Ki, Crystalie","Companies Regn Offr II","2867 5462"
+"Companies Registry","Companies Registry,Legal Services Division","Miss HO Chiu Yee, Josephine","Companies Regn Offr II","2867 5535"
+"Companies Registry","Companies Registry,Customer Services Division","Ms. SUEN Wing, Katrina","Asst Regy Mgr","2867 4570"
+"Companies Registry","Companies Registry,Customer Services Division","Ms. LI On Ki, Bertha","Companies Regn Offr I","2867 4507"
+"Companies Registry","Companies Registry,Customer Services Division","Ms. LEE Yim Fan, Doris","Companies Regn Offr I","2867 5536"
+"Companies Registry","Companies Registry,Customer Services Division","Ms. KWOK Kam Sau, Koey","Companies Regn Offr II","2867 3204"
+"Companies Registry","Companies Registry,General Support Services Division","Ms. CHEUNG Wei Yee, Winnie","Departmental Secretary","2867 4901"
+"Companies Registry","Companies Registry,General Support Services Division","Ms. YIP Fung Yee, Helen","PS II to Departmental Secretary","2867 2722"
+"Companies Registry","Companies Registry,General Support Services Division","Mr. HAU Cheuk Pun, Yvan","Deputy Departmental Secretary (Human Resources) (on leave on 15-30.7.2019)","2867 5463"
+"Companies Registry","Companies Registry,General Support Services Division","Mr. Davit EPENDI","Deputy Departmental Secretary (Administration)","2867 4365"
+"Companies Registry","Companies Registry,General Support Services Division","Miss LUI Siu Fun, Jenny","Sr OLO","2867 3388"
+"Companies Registry","Companies Registry,General Support Services Division","Mr. LAM Kwok Tung, Baniel","OLO I","2867 2806"
+"Companies Registry","Companies Registry,General Support Services Division","Miss WONG Lai Yan, Tracy","Assistant Departmental Secretary (Double up Dep. Dep. Sec. (Human Resources) on 15-30.7.2019)","2867 2815"
+"Companies Registry","Companies Registry,General Support Services Division","Miss YUE Tsz Hin, Jamaine","Assistant Departmental Secretary(Administration)","2867 2714"
+"Companies Registry","Companies Registry,General Support Services Division","Mr. CHEUNG Tsz Choi","CO(HR)1","2867 5464"
+"Companies Registry","Companies Registry,General Support Services Division","Miss YEUNG Yin Ching, Winnie","CO(HR)2","2867 2817"
+"Companies Registry","Companies Registry,General Support Services Division","Ms. CHOY Wei Shan, Jennifer","CO(G)","2867 2712"
+"Companies Registry","Companies Registry,Financial Services Division","Mr. SO Shun Kin, Richard","Business Mgr","2867 2851"
+"Companies Registry","Companies Registry,Financial Services Division","Miss LAM Suk Chun, Daisy","PS II to Business Manager","2867 4660"
+"Companies Registry","Companies Registry,Financial Services Division","Ms. SHING Ka Kee, Karina","Dep Business Mgr","2867 4906"
+"Companies Registry","Companies Registry,Financial Services Division","Ms. CHAN Hiu Ming, Iris","TA","2867 3924"
+"Companies Registry","Companies Registry,Financial Services Division","Mr. AU-YEUNG Pui Wa, Paul","Acct Offr I","2867 2733"
+"Companies Registry","Companies Registry,Financial Services Division","Ms. MAK Yuk Man, Alice","Acct Offr I","2867 2721"
+"Companies Registry","Companies Registry,Financial Services Division","Miss CHAN Ka Yan, Yammie","Acct Offr II","2867 8040"
+"Companies Registry","Companies Registry,Financial Services Division","Mr. CHOW Kai Kong, Ken","SS I","2867 2716"
+"Companies Registry","Companies Registry,Financial Services Division","Miss LAU Wai Fong, Peggy","CO","2867 2720"
+"Companies Registry","Companies Registry,Development Division","Mr. WU Wai Tat, Wren","Dep Regy Mgr (Development)","2867 2585"
+"Companies Registry","Companies Registry,Development Division","Ms. CHEUNG Tsz Wan, Celia","PS II to Dep Regy Mgr (Development) &amp; Sr Systems Mgr (Information Technology)","2867 5293"
+"Companies Registry","Development Division,Development Section","Ms. LAI Suk Man, Maggie","Asst Regy Mgr","2867 2618"
+"Companies Registry","Development Division,Development Section","Ms. YUEN Lai Ying, Rain","Companies Regn Offr I","2867 2717"
+"Companies Registry","Development Division,Development Section","Miss CHOI King Yee, Stephena","Companies Regn Offr I","2867 4593"
+"Companies Registry","Development Division,Development Section","Miss CHAN Ka Kei, Clara","Companies Regn Offr I","2867 2797"
+"Companies Registry","Development Division,Systems Administration Section","Mr. NG Ka Hung, Paul","Asst Regy Mgr","2867 5485"
+"Companies Registry","Development Division,Systems Administration Section","Miss CHOW Shuk Yee, Mimi","Companies Regn Offr I","2867 2614"
+"Companies Registry","Development Division,Systems Administration Section","Ms. LEE Katty","Companies Regn Offr I","2867 4503"
+"Companies Registry","Development Division,Systems Administration Section","Miss LUI Chau Cheung, Jophie","Companies Regn Offr II","2867 5854"
+"Companies Registry","Development Division,Systems Administration Section","Miss LEUNG Wing Yung, Andrea","Companies Regn Offr II","2867 3690"
+"Companies Registry","Companies Registry,Information Technology Division","Ms. LAU Lai Ha, Georgiana","Sr Systems Mgr","2867 4558"
+"Companies Registry","Companies Registry,Information Technology Division","Ms. CHEUNG Tsz Wan, Celia","PS II to Dep Regy Mgr (Development) &amp; Sr Systems Mgr (Information Technology)","2867 5293"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. LAU Yiu Ming, Eric","Systems Mgr(2)","2867 5548"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. WONG Chi Fai, Ivan","Systems Mgr(3)","2867 2008"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. LEE Chung Tong, Tom","Contract Project Manager (1)","2867 5486"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. CHOW Wai Kwong, Barry","Contract Project Manager (2)","3678 5171"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. LEUNG Hau Ming, Jerry","Analyst/Programmer I (2)","2867 4643"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. TAM Tak Pan, Linus","Analyst/Programmer I (3)","2867 2006"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. LEUNG Ka Chun, Ken","Analyst/Programmer II (1)","2867 5461"
+"Companies Registry","Companies Registry,Information Technology Division","Miss O Chi King, Chloe","Analyst/Programmer II (3)","2867 5373"
+"Companies Registry","Companies Registry,Information Technology Division","Mr. LAM Wai Ming, Ray","Analyst/Programmer II (4)","2867 5496"
+"Companies Registry","Companies Registry,Information Technology Division","Ms. WONG Kin Yee, Phoebe","Analyst/Programmer II (5)","2867 5298"
+"Companies Registry","Companies Registry,Information Technology Project Division","Ms. TAM Wai Yee, Annie","Sr Systems Mgr","2867 3336"
+"Companies Registry","Companies Registry,Information Technology Project Division","Mr. CHAN Chi Loi, Matthew","Systems Mgr(1)","2867 3644"
+"Companies Registry","Companies Registry,Information Technology Project Division","Mr. CHUNG Kam Tim","Contract Project Manager (3)","2867 5379"
+"Companies Registry","Companies Registry,Information Technology Project Division","Mr. CHENG Chung Ting","Contract Project Manager (4)","2867 5399"
+"Companies Registry","Companies Registry,Information Technology Project Division","Mr. TAM Sin Cheong, Ronil","Contract Project Manager (5)","2867 2547"
+"Companies Registry","Companies Registry,Information Technology Project Division","Mr. CHAO Si Fan, Kenny","Analyst/Programmer I (1)","2867 5405"
+"Companies Registry","Companies Registry,Information Technology Project Division","Mr. YANG Chuan, Eric","Analyst/Programmer I (2)","2867 4527"
+"Companies Registry","Companies Registry,Information Technology Project Division","Mr. FUNG Cheuk Ming, Scott","Analyst/Programmer II (1)","2867 5521"
+"Companies Registry","Companies Registry,Information Technology Programme Management Office","Ms. CHEUNG Po Yee, Veronica","Asst Regy Mgr","2867 5381"
+"Companies Registry","Companies Registry,Information Technology Programme Management Office","Mr. LAU Kwok Cheung, Larry","Contract Project Manager","2867 5726"
+"Companies Registry","Companies Registry,Information Technology Programme Management Office","Miss MOK Ka Shin, Angelina","Dep Regy Mgr (Information Technology Programme Management Office)","2867 3334"
+"Companies Registry","Companies Registry,Company Formation & Deregistration Division","Miss YAU Oi Sum, Nancy","Dep Regy Mgr (Company Formation &amp; Deregistration)","2867 2592"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Mr. FONG Wai Man, Raymond","Asst Regy Mgr","2867 2631"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Ms. WONG Kar Wing, Winnie","Companies Regn Offr I","2867 4829"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Miss AU-YEUNG Wing Man, Lucia","Companies Regn Offr II","2867 4292"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Mr. CHENG Ka Yiu, Matthew","Companies Regn Offr II","2867 5725"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Mr. NG Hoi Choi, Matthew","Companies Regn Offr II","2867 2607"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Ms. ORH Garine","Companies Regn Offr II","2867 5674"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Mr. WONG Yiu Fai, Corex","Companies Regn Offr II","2867 4831"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Ms. WONG Ying Pik, Brenda","Companies Regn Offr II","2867 5481"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Ms. SUN Hang Kwong, Viola","CO","2867 4699"
+"Companies Registry","Company Formation & Deregistration Division,Deregistration Section","Ms. WONG Heung Lan","CO","2867 2605"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss CHAN Sau Fong, Karen","Asst Regy Mgr","2867 4790"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Ms. TSANG Yat Ping, Vonnie","Asst Regy Mgr","2867 4289"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Ms. NG Mo Fong, Lisa","Companies Regn Offr I","2867 2608"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss IP Pui Shan, Sandy","Companies Regn Offr I","2867 4824"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss TAM Nga Man, Mandy","Companies Regn Offr I","2867 2588"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss SIU Wai Man, Mandy","Companies Regn Offr I","2867 4349"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss YIU Man Ki, Christine","Companies Regn Offr II","2867 5749"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss LEE Chui Ying, Catty","Companies Regn Offr II","2867 5595"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss FAN Ka Yu, Delphi","Companies Regn Offr II","2867 5677"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss CHUNG Yu Kwan, Kelly","Companies Regn Offr II","2867 2601"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss KWOK Ka Wai, Zoe","Companies Regn Offr II","2867 2596"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss LEE Hiu Ning, Rachael","Companies Regn Offr II","2867 2597"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Ms. TONG Hoi Ki, Katie","Companies Regn Offr II","2867 2609"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Miss LEUNG Wai Hung, Queenie","Companies Regn Offr II","2867 5849"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Ms. LEE Pui Man, Fung","Companies Regn Offr II","2867 4826"
+"Companies Registry","Company Formation & Deregistration Division,New Companies Section","Ms. HU Kam Fung, Carrier","CO","2867 5662"
+"Companies Registry","Companies Registry,Public Search Division","Miss LEE Hau Chi, Ida","Asst Regy Mgr (Double up Dep Regy Mgr (Public Search) from 22.7.2019)","2867 2567"
+"Companies Registry","Public Search Division,Document Management Section","Ms. CHOI Tin Yan, Tina","Asst Regy Mgr","2867 2595"
+"Companies Registry","Public Search Division,Document Management Section","Mr. CHAN Chung Hin, Kevin","Companies Regn Offr I","2867 2617"
+"Companies Registry","Public Search Division,Document Management Section","Miss CHAN Sze Man, Mandy","Companies Regn Offr II","2867 2566"
+"Companies Registry","Public Search Division,Document Management Section","Ms. CHEUNG Mei Chu, Asa","SCO","2867 3515"
+"Companies Registry","Public Search Division,Document Management Section","Ms. YAN Sau Ling, Vera","CO","2867 3516"
+"Companies Registry","Public Search Division,Document Management Section","Ms. HO Yuen Shan, Angela","CO","2867 2602"
+"Companies Registry","Public Search Division,Document Management Section","Mr. YIP Tak Him, Bobby","CO","2867 3516"
+"Companies Registry","Public Search Division,Document Management Section","Miss CHEUNG Wing Yin, Brilliant","CO","2867 5460"
+"Companies Registry","Public Search Division,Money Lenders Section","Miss LEE Hau Chi, Ida","Asst Regy Mgr (Double up Dep Regy Mgr (Public Search) from 22.7.2019)","2867 2567"
+"Companies Registry","Public Search Division,Money Lenders Section","Miss LEE Wai Ying, Gloria","Companies Regn Offr I","2867 2632"
+"Companies Registry","Public Search Division,Money Lenders Section","Miss LEUNG Pui Shan, Cindy","Companies Regn Offr I","2867 2572"
+"Companies Registry","Public Search Division,Money Lenders Section","Mr. MA Chung Ming, Jonas","Companies Regn Offr II","2867 3844"
+"Companies Registry","Public Search Division,Money Lenders Section","Miss CHAN Lok Yan, Iva","Companies Regn Offr II","2867 2949"
+"Companies Registry","Public Search Division,Money Lenders Section","Miss LUI Yu Ping, Jessie","Companies Regn Offr II","2867 2949"
+"Companies Registry","Public Search Division,Money Lenders Section","Mr. FUNG Pak Ying, Vincent","Companies Regn Offr II","2867 1517"
+"Companies Registry","Public Search Division,Money Lenders Section","Ms. WAT Yee Man, Eva","CO","2867 2634"
+"Companies Registry","Public Search Division,Public Search Section","Ms. MA Hing Yee, Rosa","Asst Regy Mgr","2867 1466"
+"Companies Registry","Public Search Division,Public Search Section","Mr. PANG Chung Wai, Damen","Companies Regn Offr I","2867 2579"
+"Companies Registry","Public Search Division,Public Search Section","Ms. SO Yuk Mui, Mabel","Companies Regn Offr II","2867 3216"
+"Companies Registry","Public Search Division,Public Search Section","Ms. CHAN Wing Yin, Winnie","Companies Regn Offr II","2867 2580"
+"Companies Registry","Public Search Division,Public Search Section","Ms. LEUNG Yuk Sim, Angel","SCO","2867 4573"
+"Companies Registry","Public Search Division,Public Search Section","Ms. MAK Woon Lin, Cecily","CO","2867 4825"
+"Companies Registry","Public Search Division,Public Search Section","Miss WONG Chi Heung, Winnie","CO","2867 2573"
+"Companies Registry","Public Search Section,Special Duty","","",""
+"Companies Registry","Companies Registry,Registration Division","Ms. WONG Sau King, Agnes","Dep Regy Mgr (Registration)","2867 4563"
+"Companies Registry","Registration Division,General Registration Section","Ms. LAM Wing Chi, Fanny","Asst Regy Mgr","2867 4562"
+"Companies Registry","Registration Division,General Registration Section","Ms. Kamela HAMET","Asst Regy Mgr","2867 4565"
+"Companies Registry","Registration Division,General Registration Section","Ms. CHENG Ling Kwan, Cindy","Companies Regn Offr I","2867 2804"
+"Companies Registry","Registration Division,General Registration Section","Miss YOUNG Sin Kwan, Cinder","Companies Regn Offr I","2867 4557"
+"Companies Registry","Registration Division,General Registration Section","Mr. TAM Tak Wah, Edward","Companies Regn Offr I","2867 5679"
+"Companies Registry","Registration Division,General Registration Section","Mr. CHOW Kai Ming, Kenneth","Companies Regn Offr I","2867 4238"
+"Companies Registry","Registration Division,General Registration Section","Mr. MOK Kuen Shing, Terence","Companies Regn Offr I","2867 4560"
+"Companies Registry","Registration Division,General Registration Section","Mr. FONG Yue Ho, Jeffrey","Companies Regn Offr II","2867 2281"
+"Companies Registry","Registration Division,General Registration Section","Ms. LI Sze Tak, Sandy","Companies Regn Offr II","2867 5682"
+"Companies Registry","Registration Division,General Registration Section","Miss MO Yuen Man","Companies Regn Offr II","2867 4653"
+"Companies Registry","Registration Division,General Registration Section","Mr. YUEN Ka Sing","Companies Regn Offr II","2867 4552"
+"Companies Registry","Registration Division,General Registration Section","Ms. WONG Shing Oi, Erica","Companies Regn Offr II","2867 4574"
+"Companies Registry","Registration Division,General Registration Section","Mr. LIN Wai Chun, Paul","Companies Regn Offr II","2867 5683"
+"Companies Registry","Registration Division,General Registration Section","Miss LAM Ching Man, Mendy","Companies Regn Offr II","2867 4568"
+"Companies Registry","Registration Division,General Registration Section","Ms. FAN Wai Ming","Companies Regn Offr II","2867 5681"
+"Companies Registry","Registration Division,General Registration Section","Mr. LEUNG Yi Ngai, Michael","Companies Regn Offr II","2867 4343"
+"Companies Registry","Registration Division,General Registration Section","Miss HON Wing Hei, Joyce","Companies Regn Offr II","2867 4322"
+"Companies Registry","Registration Division,General Registration Section","Miss CHIU Yat Lai, Janet","Companies Regn Offr II","2867 4561"
+"Companies Registry","Registration Division,General Registration Section","Ms. DING Hoi Yan, Peggy","Companies Regn Offr II","2867 2199"
+"Companies Registry","Registration Division,General Registration Section","Ms. LAU Wing Yan, Yumi","Companies Regn Offr II","2867 4567"
+"Companies Registry","Registration Division,General Registration Section","Mr. WU Ka Tai, Aries","Companies Regn Offr II","2867 5671"
+"Companies Registry","Registration Division,General Registration Section","Miss MAK Ka Yee, Karrie","Companies Regn Offr II","2867 2145"
+"Companies Registry","Registration Division,General Registration Section","Miss WAN Chi Woon, Jenna","Companies Regn Offr II","2867 4592"
+"Companies Registry","Registration Division,General Registration Section","Miss CHENG Hiu Fong, Apple","Companies Regn Offr II","2867 5327"
+"Companies Registry","Registration Division,General Registration Section","Miss LAU Ka Yan, Yan","Companies Regn Offr II","2867 4554"
+"Companies Registry","Registration Division,General Registration Section","Miss WONG Ka Man, Carman","Companies Regn Offr II","2867 4553"
+"Companies Registry","Registration Division,General Registration Section","Mr. CHIU Sung Yip, Wallace","Companies Regn Offr II","2867 1470"
+"Companies Registry","Registration Division,General Registration Section","Miss KO Sin Ying, Crystal","Companies Regn Offr II","2867 4578"
+"Companies Registry","Registration Division,General Registration Section","Ms. WONG Hoi Ling, Esther","Companies Regn Offr II","2867 4651"
+"Companies Registry","Registration Division,General Registration Section","Ms. LEUNG Shui Ping, Hilda","CO","2867 4655"
+"Companies Registry","Registration Division,General Registration Section","Ms. IP Siu Ying, Iris","CO","2867 4655"
+"Companies Registry","General Registration Section,Database Unit","Ms. LEUNG Wai Yee, Judith","Companies Regn Offr I","2867 5365"
+"Companies Registry","General Registration Section,Database Unit","Miss WEI Tak Wun, Alice","Companies Regn Offr II","2867 4791"
+"Companies Registry","General Registration Section,Database Unit","Miss CHAN Mun Yuk, Candy","CO (on leave from 7.12.2018)","2867 5673"
+"Companies Registry","General Registration Section,Database Unit","Mr. WONG Wang Po, Boaz","CO","2867 5673"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Mr. CHAN Ching Hang","Asst Regy Mgr","2867 2611"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Miss LAI Chui King, Joyce","Companies Regn Offr I","2867 2907"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Ms. TSE Sau Fung, Julia","Companies Regn Offr I","2867 2591"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Ms. KAN Ling Fan, Susanna","Companies Regn Offr II","2867 2905"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Mr. TANG Hin Kuen, Eric","Companies Regn Offr II","2867 2906"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Miss LAU Yin Tak, Themis","Companies Regn Offr II","2867 2909"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Miss WONG Chi Ha, Helen","Companies Regn Offr II","2867 2908"
+"Companies Registry","Registration Division,Charges & Liquidation Section","Mr. TAI Wan Sing, William","CO","2867 2578"
+"Companies Registry","Companies Registry,Registry for Trust and Company Service Providers","Miss MA Suk Wai, Wendy","Registry Manager (Trust and Company Service Providers)","3678 5188"
+"Companies Registry","Companies Registry,Registry for Trust and Company Service Providers","Ms. WONG Wai Man, Emily","PS I to Registry Manager (Trust and Company Service Providers)","3678 5128"
+"Companies Registry","Companies Registry,Registry for Trust and Company Service Providers","Mr. WONG Hang Wai, Roger","Dep Regy Mgr (Trust and Company Service Providers)","3678 5127"
+"Companies Registry","Companies Registry,Registry for Trust and Company Service Providers","Ms. YIU Lai Ying, Christy","Senior Solicitor (Trust and Company Service Providers)1","3678 5122"
+"Companies Registry","Companies Registry,Registry for Trust and Company Service Providers","Mr. MOK Siu Kin, Francis","Senior Solicitor (Trust and Company Service Providers)2","3678 5123"
+"Companies Registry","Companies Registry,Registry for Trust and Company Service Providers","Ms. LEUNG Man Huen, Marie","Senior Solicitor (Trust and Company Service Providers)3","3678 5126"
+"Companies Registry","Companies Registry,Registry for Trust and Company Service Providers","Miss SIU Yuen Kei, Wendy","Solicitor (Trust and Company Service Providers)","3678 5125"
+"Companies Registry","Registry for Trust and Company Service Providers,Compliance Division","Ms. WONG Yeuk Chi, Savana","Asst Regy Mgr","2867 3407"
+"Companies Registry","Registry for Trust and Company Service Providers,Compliance Division","Mr. LAM Man Hung, Vincent","Asst Regy Mgr","3678 5170"
+"Companies Registry","Compliance Division,Enforcement Section (C)","","",""
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. CHUI Chi Ho, Philip","Companies Regn Offr I","2867 3052"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. NG Ka Lun, Kelvin","Companies Regn Offr II","2867 4506"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. CHAN Lap Kei, Keith","Companies Regn Offr II","2867 3203"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. HO Ming Kit, Alex","Companies Regn Offr II","2867 3113"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. CHEUNG Man Shing, Alvin","Companies Regn Offr II","2867 3647"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. YIP Sing Him, Ernest","Companies Regn Offr II","2867 3661"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. SHUM Yiu Ming","Companies Regn Offr II","2867 1462"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Mr. CHENG Kam Wa, Andy","Companies Regn Offr II","2867 1461"
+"Companies Registry","Enforcement Section (C),Inspection Unit","Ms. LEE Mei Yin, Shirley","CO","2867 3046"
+"Companies Registry","Enforcement Section (C),Prosecution Unit","Miss CHOW Man, Maggie","Companies Regn Offr I","2867 2610"
+"Companies Registry","Enforcement Section (C),Prosecution Unit","Miss LEUNG Ka Yan, Candy","Companies Regn Offr II","2867 4294"
+"Companies Registry","Enforcement Section (C),Prosecution Unit","Miss CHOW Lau Wan, Stephanie","Companies Regn Offr II",""
+"Companies Registry","Enforcement Section (C),Prosecution Unit","Ms. LEI Tsz Ling, Erica","Companies Regn Offr II","2867 4930"
+"Companies Registry","Enforcement Section (C),Prosecution Unit","Miss LO Ching Ha, Kanis","Companies Regn Offr II","2867 4504"
+"Companies Registry","Enforcement Section (C),Prosecution Unit","Ms. AU Pui Kwan, Ivy","Companies Regn Offr II","2867 1054"
+"Companies Registry","Enforcement Section (C),Prosecution Unit","Miss CHAN Lai Ting, Lyric","CO","2867 2612"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Ms. FUNG Wai Yu, Christy","Companies Regn Offr I","3678 5145"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Miss LEUNG Man Ting","Companies Regn Offr I","3678 5163"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. CHAU Chun Him, Tommy","Companies Regn Offr II","3678 5143"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. TANG Chiu Hei, Hugo","Companies Regn Offr II","3678 5165"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. KONG Kin Man, Kenny","Companies Regn Offr II","3678 5140"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. LEE Yuk Ming, Leo","Companies Regn Offr II","3678 5166"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. PANG Wai Kei, John","Companies Regn Offr II","3678 5168"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. CHEUNG Kuen Chor, Ronald","Companies Regn Offr II","3678 5139"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Miss TSE Siu Yum, Linda","Companies Regn Offr II","3678 5162"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Ms. SZETO Yuen Yim, Becky","Companies Regn Offr II","3678 5139"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. WONG Kin Wing, Danny","Companies Regn Offr II","3678 5137"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. CHAN Wai Man, Mark","Companies Regn Offr II","3678 5137"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. YEUNG Muk Tim, Danny","Companies Regn Offr II","2867 3647"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. CHAN Wing Chung","Companies Regn Offr II","2867 3647"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. KWAN Luen Hon, Vincent","Companies Regn Offr II","2867 3203"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. CHEUNG Wing Kai, Ben","Companies Regn Offr II","3678 5158"
+"Companies Registry","Compliance Division,Enforcement Section (T)","Mr. LO Kwong Sum, Brian","Companies Regn Offr II","3678 5152"
+"Companies Registry","Registry for Trust and Company Service Providers,Licensing Division","Miss LEUNG Wai Gee, Bonnie","Asst Regy Mgr","3678 5109"
+"Companies Registry","Registry for Trust and Company Service Providers,Licensing Division","Mr. CHOW Wai Kwong, Barry","Contract Project Manager (2)","3678 5171"
+"Companies Registry","Registry for Trust and Company Service Providers,Licensing Division","Mr. CHOW Yun Nin, Francis","Analyst/Programmer I","3678 5173"
+"Companies Registry","Registry for Trust and Company Service Providers,Licensing Division","Mr. WONG Pei Po, Ian","Analyst/Programmer II","3678 5173"
+"Companies Registry","Licensing Division,Registration Section","Mr. WONG Wing Him","Companies Regn Offr I","3678 5115"
+"Companies Registry","Licensing Division,Registration Section","Miss HUNG Heung Ling","Companies Regn Offr II","3678 5111"
+"Companies Registry","Licensing Division,Registration Section","Miss CHAN Yee Man, Amanda","Companies Regn Offr II","3678 5110"
+"Companies Registry","Licensing Division,Registration Section","Miss WONG Nga Lam, Rainy","Companies Regn Offr II","3678 5151"
+"Companies Registry","Licensing Division,Registration Section","Ms. WONG Hiu Yan","Companies Regn Offr II","3678 5156"
+"Companies Registry","Licensing Division,Support Section","Mr. YU Hoi Tin, Jason","Companies Regn Offr II (Double up Companies Regn Offr I from 22.7.2019)","3678 5160"
+"Companies Registry","Licensing Division,Support Section","Miss WONG Yan","Companies Regn Offr II","3678 5112"
+"Companies Registry","Licensing Division,Support Section","Miss CHAN Ka Yan, Cathy","Companies Regn Offr II","3678 5149"

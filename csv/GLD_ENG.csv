@@ -1,264 +1,241 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=GLD&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DGLD%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Government Logistics Department","Miss CHOW Shuk Ching, Mary","Director of Government Logistics","2231 5100"
+"Government Logistics Department","Miss Helen TANG, JP","Deputy Director of Government Logistics","2231 5101"
+""
+"Organisation","Service Name","Office Tel"
+"Government Logistics Department","Enquiry (General)","2231 5105"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Government Logistics Department","Government Logistics Department","","",""
+"Government Logistics Department","Government Logistics Department,Directorate","Miss CHOW Shuk Ching, Mary","Director of Government Logistics","2231 5100"
+"Government Logistics Department","Government Logistics Department,Directorate","Miss Helen TANG, JP","Deputy Director of Government Logistics","2231 5101"
+"Government Logistics Department","Government Logistics Department,Administration Division","Mr. WONG Kau Nin, Tony","Departmental Secretary","2231 5115"
+"Government Logistics Department","Government Logistics Department,Administration Division","Ms. LEUNG Yuen Wah, Cathy","CEO(S)","2231 5157"
+"Government Logistics Department","Administration Division,Administration Section","Mr. SUNG Hong, Keith","DDS(P)","2231 5118"
+"Government Logistics Department","Administration Division,Administration Section","Ms. CHAN Pui Ling, Queenie","DDS(A)","2231 5143"
+"Government Logistics Department","Administration Division,Administration Section","Ms. CHAN Ching Yee, Yvonne","DDS(E)","2231 5261"
+"Government Logistics Department","Administration Division,Administration Section","Miss LAM Wing Sze, Victoria","DDS(G)","2231 5398"
+"Government Logistics Department","Administration Division,Administration Section","Ms. YU Hoi Yan, Stella","ADS(P1)","2231 5141"
+"Government Logistics Department","Administration Division,Administration Section","Miss TSE Ping Ping, Angela","ADS(P2)","2231 5153"
+"Government Logistics Department","Administration Division,Administration Section","Miss CHAN Yu Tung, Jennifer","ADS(Appt)","2231 5371"
+"Government Logistics Department","Administration Division,Administration Section","Miss CHAN Hoi Yi, Stephanie","ADS(E)","2231 5145"
+"Government Logistics Department","Administration Division,Administration Section","Miss TSANG Wing Yee, Chloe","ADS(Adm)","2231 5179"
+"Government Logistics Department","Administration Division,Administration Section","Mr. AU YEUNG Long, Calvin","ADS(G)","2231 5116"
+"Government Logistics Department","Administration Division,Administration Section","Ms. YU Wing Yee, Sarah","OLO","2231 5112"
+"Government Logistics Department","Administration Division,Administration Section","Ms. NG Suk Ying, Felicia","SPS to DGL","2231 5100"
+"Government Logistics Department","Administration Division,Administration Section","Ms. LO Oi Lin, Irene","PS to DDGL","2231 5101"
+"Government Logistics Department","Administration Section,Personnel Registry","Ms. WONG Kwai Kam, Wendy","SCO(Appt)","2231 5123"
+"Government Logistics Department","Administration Section,Personnel Registry","Mr. HO Hok Chung","CO(Per 1)","2231 5129"
+"Government Logistics Department","Administration Section,Personnel Registry","Miss IP Kam Wa, Cathy","CO(Per 2)","2231 5313"
+"Government Logistics Department","Administration Section,Personnel Registry","Miss CHUNG Wai Ho, Sandy","CO(Est)","2231 5126"
+"Government Logistics Department","Administration Section,Personnel Registry","Miss KWOK Man Yan, Vicky","ACO(Appt 1)","2231 5125"
+"Government Logistics Department","Administration Section,Personnel Registry","Miss YUEN Ka Wing, Athena","ACO(Appt 2)","2231 5189"
+"Government Logistics Department","Administration Section,Personnel Registry","Ms. LEE Yuk Wa, Lori","ACO(Appt 3)","2231 5154"
+"Government Logistics Department","Administration Section,Personnel Registry","Ms. LAI Miu Sum, Candy","ACO(Appt 4)","2231 5369"
+"Government Logistics Department","Administration Section,Personnel Registry","Ms. LIU Choi Wa, Annie","Asst CO(Est)","2231 5127"
+"Government Logistics Department","Administration Section,Personnel Registry","Ms. HUNG Ming Chu, Pearl","Asst CO(Per 1)","2231 5130"
+"Government Logistics Department","Administration Section,Personnel Registry","Mr. HO Chun Sing, Jason","Asst CO(Per 2)","2231 5131"
+"Government Logistics Department","Administration Section,Personnel Registry","Mr. LAI Mink Hei, Aiden","Asst CO(Per 3)","2231 5175"
+"Government Logistics Department","Administration Section,Personnel Registry","Miss NG Sin Man, Cindy","Asst CO(Staff Mgt)(Supplies Grades)","2231 5137"
+"Government Logistics Department","Administration Section,Tender Board","Ms. CHAN Wing Yee, Londy","CO(Tender Board)","2231 5319"
+"Government Logistics Department","Administration Section,Tender Board","Mr. PANG Kin Man, Raymond","CO(Tender Opening)","2231 5139"
+"Government Logistics Department","Administration Section,General Registry","Mr. CHEUNG Ka Fai","CO(Gen)","2231 5120"
+"Government Logistics Department","Administration Section,General Registry","Miss CHOW Suk-kwai, Connie","Asst CO(Receipt &amp; Despatch)","2116 0110"
+"Government Logistics Department","Administration Section,Confidential Registry","Ms. CHAN LEE Wing Man, Tsarina","Conf Asst(1)","2231 5117"
+"Government Logistics Department","Administration Section,Confidential Registry","Ms. MAK Kin Yan, Phebe","Conf Asst(2)","2231 5338"
+"Government Logistics Department","Administration Section,Allocated Store","Ms. YIP Sau Wah","SSI(Allocated Store)","2231 5146"
+"Government Logistics Department","Administration Section,Allocated Store","Mr. CHAN Yiu Wai","SSII(Allocated Store)","2231 5393"
+"Government Logistics Department","Administration Section,Training Unit","Mr. HO Ka On, Andrew","Departmental Training Officer","2231 5343"
+"Government Logistics Department","Administration Section,Training Unit","Mr. FU Lui, William","EO(Training)","2231 5394"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. CHEUNG Lai Yee, Doris","Sr TA","2231 5168"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. CHENG How Lin, Janet","Treasury Accountant","2231 5158"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. CHEUNG Hei Man, German","Acct Offr I (Payment)","2231 5188"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. NG Yim Man, Shirley","Acct Offr I (Mgt Acct)","2231 5169"
+"Government Logistics Department","Administration Division,Accounts Section","Mr. KWAN Kit Leung, Denver","SCO(Payment)","2231 5161"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. NG Sau King, Dilys","SCO(MA)","2231 5181"
+"Government Logistics Department","Administration Division,Accounts Section","Mr. HO Kwok Leung","CO(Payments - A)","2231 5182"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. LEUNG Wai Yin, Marisa","CO(Payments -B)","2231 5171"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. CHUNG Fai Wan, Anita","CO(Miscellaneous Payments &amp; Receipts)","2231 5180"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. LEUNG Wai Yin, Vita","Shroff","2231 5160"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. FUNG Yee Shan, Eva","CO-Expenditure","2231 5177"
+"Government Logistics Department","Administration Division,Accounts Section","Mrs. LAU CHENG Po Chu, Grace","CO-Unallocated Stores &amp; Transport Billing","2231 5162"
+"Government Logistics Department","Administration Division,Accounts Section","Mrs. LAU CHAN Sik King","CO-Costing","2231 5166"
+"Government Logistics Department","Administration Division,Accounts Section","Ms. CHENG Yin Han, Lydia","CO-Mgt Acct","2231 5318"
+"Government Logistics Department","Government Logistics Department,Land Transport Division","Ms. LEUNG Mei King, Mary","Contr (Land Transport)","2231 5147"
+"Government Logistics Department","Government Logistics Department,Land Transport Division","Ms. CHAN Yuk ling, Linda","PS to Contr (Land Transport)","2231 5104"
+"Government Logistics Department","Land Transport Division,Management Section","Mrs. NG FONG Kar Ling, Lina","Govt Transp Mgr(Mgt)","2231 5220"
+"Government Logistics Department","Land Transport Division,Management Section","Mr. KWAN Wah Sang, Terrace","Chief Transport Services Officer (Mgt)","2231 5217"
+"Government Logistics Department","Management Section,Fleet Information Management","Mr. LEUNG Lap Pui, Franco","Transp Services Offr I(Fleet Infn Mgt)","2231 5310"
+"Government Logistics Department","Management Section,Management & Review","Ms. LAM Pui Wai, Zoe","Transp Services Offr I (Management &amp; Review)1","2231 5307"
+"Government Logistics Department","Management Section,Management & Review","Mr. CHAU Cheuk Kai, Jack","Transp Services Offr I (Management &amp; Review)2","2231 5308"
+"Government Logistics Department","Management Section,Management & Review","Ms. WAN Tsz Kwan, Josephine","Transp Services Offr I (Management &amp; Review)3","2231 5176"
+"Government Logistics Department","Management Section,Technical Support and Vehicle Standards","Mr. CHAN Chung Wai, Bryan","Transp Services Offr I (Technical Support &amp; Vehicle Standards)","2231 5213"
+"Government Logistics Department","Management Section,Vehicle Procurement","Mr. LAM Ka Wai, Kaymen","EO (Vehicle Procurement)","2231 5163"
+"Government Logistics Department","Management Section,Vehicle Procurement","Ms. CHUNG Mo Ching, Elaine","CO (Vehicle Procurment)","2231 5164"
+"Government Logistics Department","Land Transport Division,Operations Section","Mr. LO Sze Yuen, Henri","Govt Transp Mgr (Ops)","2231 5219"
+"Government Logistics Department","Land Transport Division,Operations Section","Mr. LEE Tak Kin, Kenneth","Sr Transp Services Offr (Ops)","2231 5218"
+"Government Logistics Department","Operations Section,Grade Management","Mr. LEUNG Siu Kei, Kevin","Sr Transp Services Offr (Grade Mgt)","2231 5216"
+"Government Logistics Department","Operations Section,Grade Management","Mr. WONG Man Leung, Jacky","Transp Services Offr I (Grade Mgt)","2231 5309"
+"Government Logistics Department","Operations Section,Grade Management","Miss YUNG Wing Hei, Sybille","EO(Grade Mgt)","2231 5215"
+"Government Logistics Department","Operations Section,Grade Management","Miss LO Tsz Ching, Janet","EO(LT)","2231 5186"
+"Government Logistics Department","Operations Section,Grade Management","Miss WONG Yee Ming","SCO(Grade Mgt)","2231 5242"
+"Government Logistics Department","Operations Section,Vehicle Hiring Contracts","Ms. FONG Man Suen, Joanne","Transp Services Offr I (Contract Adm)","2231 5212"
+"Government Logistics Department","Operations Section,Vehicle Hiring Contracts","Mr. NG Ka Keung, Henry","Transp Services Offr I (Contract Monitoring)","2231 5214"
+"Government Logistics Department","Operations Section,Transport Operations","Mr. LAM Chi Kan, Alex","Transp Services Offr I (Transp Ops)","2582 5293"
+"Government Logistics Department","Operations Section,Transport Operations","Mr. LAU Chung Wai, Joshua","Pool Transp Booking","2802 0558"
+"Government Logistics Department","Operations Section,Transport Operations","Mr. NG Chi Ming","Sr Foreman 1","2582 4852"
+"Government Logistics Department","Operations Section,Training and Testing","Mr. CHENG Yu, Harry","Transp Services Offr I(Trg &amp; Testing)","2796 1132"
+"Government Logistics Department","Government Logistics Department,Management Services Division","","",""
+"Government Logistics Department","Management Services Division,Supplies Surveys and Stock Verification Section","Miss TANG Shuk Man, Ruby","Prin SO(Supplies Surveys and Stock Verification)","2231 5345"
+"Government Logistics Department","Management Services Division,Supplies Surveys and Stock Verification Section","Ms. TONG Shuk Yee, Margaret","Ch SO(SD)","2231 5342"
+"Government Logistics Department","Management Services Division,Supplies Surveys and Stock Verification Section","Mr. LEUNG Wai Kit, Daniel","Sr SO(Supplies Surveys and Stock Verification)1","2231 5358"
+"Government Logistics Department","Management Services Division,Supplies Surveys and Stock Verification Section","Mr. WONG Wai Keung","Sr SO(Supplies Surveys and Stock Verification)2","2231 5346"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Administration Unit","Ms. CHOI Wai Yue, Shirley","SO(Supplies Surveys and Stock Verification-Adm)","2231 5347"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Internal Audit & Unallocated Stores Survey Unit","Ms. HO Pui Ki, Joyce","SO(Stock Verification - Internal Audit)","2231 5355"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Internal Audit & Unallocated Stores Survey Unit","Mr. LO Chun Man, Roy","ASO(Stock Verification - Internal Audit)","2231 5364"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit","Ms. LAW Chi Yin, Irene","SO(Stock Verification-A1)","2231 5348"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit"," VACANT","SO(Stock Verification-A2)","2231 5349"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit","Ms. CHAN Siu Kam, Rita","SO(Stock Verification-A3)","2231 5391"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit","Mr. WONG Yuk Ming","ASO(Stock Verification-A1)","2231 5356"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit","Ms. MA Ka Lai, Ines","ASO(Stock Verification-A2)","2231 5357"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit","Ms. CHAN Yuen Kwan, Connie","ASO(Stock Verification-A3)","2231 5359"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit","Mr. LEUNG Chi Hung, Derek","ASO(Stock Verification-A4)","2231 5360"
+"Government Logistics Department","Supplies Surveys and Stock Verification Section,Departmental Stores Survey Unit","Ms. KWAN Oi Ping, Olivia","ASO(Stock Verification-A5)","2231 5362"
+"Government Logistics Department","Management Services Division,Systems Administration Section","","",""
+"Government Logistics Department","Systems Administration Section,Business Services Management Unit","Ms. CHAN Chui Yiu, Sandra","Ch SO (Systems)","2231 5191"
+"Government Logistics Department","Systems Administration Section,Business Services Management Unit","Mr. SZE Chi Keung, Steve","SSO(Systems Adm-1)","2231 5202"
+"Government Logistics Department","Systems Administration Section,Business Services Management Unit","Miss CHAN Kit Yu, Josephine","SSO(Systems Adm-2)","2231 5350"
+"Government Logistics Department","Systems Administration Section,Business Services Management Unit","Miss NG Man Chit, Jackie","SO(Systems Adm-1)","2231 5201"
+"Government Logistics Department","Systems Administration Section,Business Services Management Unit","Ms. MAN Siu Mui, Mavis","SO(Systems Adm-2)","2231 5351"
+"Government Logistics Department","Systems Administration Section,Business Services Management Unit","Ms. LOK Ka Ming, Christy","SO(Systems Adm-3)","2231 5196"
+"Government Logistics Department","Systems Administration Section,Technology Services Management Unit","Mr. TSOI Hon Sum, Stanley","Senior Systems Mgr (Technology Services Mgt)","2231 5190"
+"Government Logistics Department","Systems Administration Section,Technology Services Management Unit","Ms. LIU Chui King, Bonita","Systems Mgr (Technology Services Mgt-2)","2231 5152"
+"Government Logistics Department","Systems Administration Section,Technology Services Management Unit","Mr. YUEN Ka Wa, Alan","Analyst/Programmer I","2231 5210"
+"Government Logistics Department","Systems Administration Section,Technology Services Management Unit","Mr. HUI Shun Hong, Vincent","Analyst/Programmer I","2231 5211"
+"Government Logistics Department","Systems Administration Section,Technology Services Management Unit","Mr. LAW Hing Keung","Computer Operator (TSM 1)","2231 5204/2231 5205"
+"Government Logistics Department","Systems Administration Section,Technology Services Management Unit","Mr. CHAN Tsz Chuen, David","Computer Operator (TSM 2)","2231 5204/2231 5205"
+"Government Logistics Department","Systems Administration Section,Technology Services Management Unit","Ms. TO  Yuen Wai, Suki","Computer Operator (TSM 3)","2231 5204/2231 5205"
+"Government Logistics Department","Government Logistics Department,Printing Division","Ms. CHAN Yu Lan, Alice","Contr (Printing Services)","2564 9502"
+"Government Logistics Department","Government Logistics Department,Printing Division","Ms. LAI Suk Ming, Fansilia","PS to Contr (Printing Services)","2564 9571"
+"Government Logistics Department","Printing Division,Business Management","Mr. POON San Man, Alex","Sr Printing Supt (Business Management)","2564 9509"
+"Government Logistics Department","Printing Division,Business Section","Mr. CHOY Tai Wing, Raymond","Printing Supt (Business)","2564 9507"
+"Government Logistics Department","Business Section,Team A","Mr. YAU Sing Leung, Vincent","Ch Printing Officer (Business)","2564 9525"
+"Government Logistics Department","Business Section,Team A","Miss LAU Kin Kwan, Winnie","Customer Service Officer 1","2564 9579"
+"Government Logistics Department","Business Section,Team A","Mr. LEUNG Chun Kai, Nick","Customer Service Officer 2","2564 9578"
+"Government Logistics Department","Business Section,Team A","Mr. SHUI Wah Lung, Daniel","Customer Service Officer 5","2564 9503"
+"Government Logistics Department","Business Section,Team A","Mr. WONG Ka Chon, Kenneth","Customer Service Officer 6","2564 9591"
+"Government Logistics Department","Business Section,Team A","Mr. CHAN Ka Wing, Karto","Customer Service Officer 7","2564 9568"
+"Government Logistics Department","Business Section,Team B","Miss NG Hei In, Megan","Customer Service Officer 4","2564 9528"
+"Government Logistics Department","Business Section,Team B","Ms. TONG Ka Lai, Chris","Customer Service Officer 8","2564 9515"
+"Government Logistics Department","Business Section,Team B","Ms. CHAN Fung Ying, Jessica","Customer Service Officer 3","2564 9504"
+"Government Logistics Department","Printing Division,Works Section","Mr. LEE Tin Lok, Martin","Printing Supt (Works)","2564 9547"
+"Government Logistics Department","Printing Division,Works Section","Mr. CHO Chun Man, Edward","Sr Printing Offr (Late Shift 1)","2564 9530"
+"Government Logistics Department","Printing Division,Works Section","Mr. WONG Yik Man, Eric","Sr Printing Offr (Late Shift 2)","2564 9505"
+"Government Logistics Department","Works Section,Pre-Press Unit","Mr. KWOK Ming Tung, Jonathan","Ch Printing Officer (Pre-press)","2564 9506"
+"Government Logistics Department","Works Section,Pre-Press Unit","Mr. LEE Kwai Wan","Supervisor(Pre-press)","2564 9585"
+"Government Logistics Department","Works Section,Pre-Press Unit","Mr. LUN Kar Po, Andy","Ch Proof Reader","2564 9532"
+"Government Logistics Department","Works Section,Pre-Press Unit","Miss LAW Wai Man","Sr Proof Reader","2564 9565"
+"Government Logistics Department","Works Section,Pre-Press Unit","Mr. NG King San","Sr Proof Reader","2564 9534"
+"Government Logistics Department","Works Section,Pre-Press Unit","Mr. TSE Wing Man","Sr Proof Reader","2564 9533"
+"Government Logistics Department","Pre-Press Unit,Gazette","","",""
+"Government Logistics Department","Pre-Press Unit,Advertising","","",""
+"Government Logistics Department","Pre-Press Unit,Printing Proofs Regy","","",""
+"Government Logistics Department","Works Section,Printing Unit","Mr. CHAN Chun Kong, Kenny","Ch Printing Officer (Printing)","2564 9549"
+"Government Logistics Department","Works Section,Printing Unit","Mr. CHENG Yiu Sing, Leon","Printing Officer (Printing)","2564 9556"
+"Government Logistics Department","Works Section,Printing Unit","Mr. TING So Tak","Printing Technician I (Fast Print &amp; Bind Team)","2564 9548"
+"Government Logistics Department","Works Section,Finishing Unit","Mr. CHAN Yiu Wing, Edmond","Ch Printing Officer (Finishing)","2564 9551"
+"Government Logistics Department","Works Section,Finishing Unit","Mr. NG Chi Tat, Peter","Printing Officer (Finishing)","2564 9583"
+"Government Logistics Department","Works Section,Finishing Unit","Mr. CHENG Ka Wai, David","Printing Officer (DO)","2564 9555"
+"Government Logistics Department","Works Section,Security Unit","Mr. CHOI Siu Ki, Kevin","Chief Printing Officer (Security)","2564 9540"
+"Government Logistics Department","Works Section,Security Unit","Mr. CHI Kin Tung, Edward","Printing Officer (Security)","2564 9566"
+"Government Logistics Department","Printing Division,Support Section","Mr. HO Ming Leung, Tony","Printing Supt (Support)","2564 9595"
+"Government Logistics Department","Printing Division,Support Section","Mr. POON Yuen Bong, Thompson","Ch Printing Officer (Support)","2564 9537"
+"Government Logistics Department","Printing Division,Support Section","Ms. MAR Yuet Sim, Evelyn","Sr Printing Officer (Contract Management)","2564 9546"
+"Government Logistics Department","Printing Division,Support Section","Mr. SHAM Yan Yuen","Sr Printing Officer (Stock Paper Control)","2564 9527"
+"Government Logistics Department","Printing Division,Support Section","Mr. LOK Man Kit","Printing Officer (Contract Management)","2564 9529"
+"Government Logistics Department","Printing Division,Support Section","Mr. LEE Ka Kit, Allen","EO(PD)1","2564 9573"
+"Government Logistics Department","Printing Division,Support Section","Miss LEUNG Cheuk Yan, Agnes","EO(PD)2","2564 9512"
+"Government Logistics Department","Printing Division,Support Section","Ms. YEUNG Sio Kun","CO(PD)","2564 9514"
+"Government Logistics Department","Printing Division,Support Section","Mr. LI Chi Pan, Michael","Asst. CO (B1)","2564 9581"
+"Government Logistics Department","Printing Division,Support Section","Miss CHAN Ka Yee","Asst. CO (B2)","2564 9511"
+"Government Logistics Department","Printing Division,Support Section","Mr. CHEUNG Lik Man, Kelvin","Asst. CO (GA4)","2564 9524"
+"Government Logistics Department","Printing Division,Support Section","Ms. NG Kam Che","Gen Regy/Filing","2564 9572"
+"Government Logistics Department","Printing Division,Systems Management Section","Mr. LEE Fu Lung, Harvard","Printing Supt (Special Duty)","2564 9584"
+"Government Logistics Department","Printing Division,Scheduling Section","Mr. KWAN Wai Lam, Gary","Printing Supt (Sch)","2564 9596"
+"Government Logistics Department","Printing Division,Operations","Mr. FUNG Chi Yan, Wicky","Sr Printing Supt (Operations)","2564 9501"
+"Government Logistics Department","Government Logistics Department,Procurement Division","Ms. LEUNG Chi Wa, Tina","Contr (Procurement)","2231 5226"
+"Government Logistics Department","Government Logistics Department,Procurement Division","Miss LAM Shuk Wan, Eliza","PS to Contr (Procurement)","2231 5227"
+"Government Logistics Department","Procurement Division,Procurement Section 1","Miss LO Chi Nga","Prin SO(Procurement 1)","2231 5229"
+"Government Logistics Department","Procurement Division,Procurement Section 1","Ms. LEE Ka Ling, Joyce","Ch SO(Procurement 1)","2231 5233"
+"Government Logistics Department","Procurement Section 1,Group A","Mr. TSANG Ming Kei, Minky","Sr SO(A)","2231 5239"
+"Government Logistics Department","Procurement Section 1,Group A","Miss CHAN Sze Man, Carmen","SO(A1)","2231 5241"
+"Government Logistics Department","Procurement Section 1,Group A","Ms. WONG Wai Yee, Cathy","SO(A2)","2231 5278"
+"Government Logistics Department","Procurement Section 1,Group A","Miss LAU Kam Ying, Karen","ASO(A)","2231 5248"
+"Government Logistics Department","Procurement Section 1,Group A","Ms. YEUNG Yuk-har, Becky","SSI(A2)","2231 5246"
+"Government Logistics Department","Procurement Section 1,Group B","Mr. CHEUK Yuet Chau, Kelvin","Sr SO(B)","2231 5250"
+"Government Logistics Department","Procurement Section 1,Group B","Miss YAU Ho Yin, Edith","SO(B1)","2231 5251"
+"Government Logistics Department","Procurement Section 1,Group B","Mr. WONG Chung Yin, Jason","SO(B2)","2231 5279"
+"Government Logistics Department","Procurement Section 1,Group B","Ms. CHUI Mei Chun, Cathy","ASO(B1)","2231 5252"
+"Government Logistics Department","Procurement Section 1,Group B","Mr. TSE Chi Wai, Eric","ASO(B2)","2231 5254"
+"Government Logistics Department","Procurement Division,Procurement Section 2","Ms. LIN On Ki, Angel","Prin SO(Procurement 2)","2231 5230"
+"Government Logistics Department","Procurement Division,Procurement Section 2","Mr. NGAI Man Ki, Stephen","Ch SO(Procurement 2)","2231 5285"
+"Government Logistics Department","Procurement Section 2,Group D","Mr. CHOW Chiu, Ricky","Sr Supplies Offr (D)","2231 5264"
+"Government Logistics Department","Procurement Section 2,Group D","Mr. CHEUNG Kai Chung, Tony","SO(D)","2231 5265"
+"Government Logistics Department","Procurement Section 2,Group D","Mr. HO Wai Lok","ASO(D1)","2231 5260"
+"Government Logistics Department","Procurement Section 2,Group D","Mr. LAU Kevin Ki","ASO(D2)","2231 5267"
+"Government Logistics Department","Procurement Section 2,Group D","Ms. LEUNG Kwan Yu, Heidi","SSI(D1)","2231 5266"
+"Government Logistics Department","Procurement Section 2,Group E","Ms. CHAN Ka Yan, Catharine","SSO(E)","2231 5271"
+"Government Logistics Department","Procurement Section 2,Group E","Miss SIT Ka Man, Carmen","SO(E1)","2231 5272"
+"Government Logistics Department","Procurement Section 2,Group E","Ms. HA Fung Yi, Amy","SO(E2)","2231 5282"
+"Government Logistics Department","Procurement Section 2,Group E","Mr. LAM Tsang Ming, Raphiel Dominic","ASO(E1)","2231 5273"
+"Government Logistics Department","Procurement Section 2,Group E","Miss CHAN Pui Yee, Lorraine","ASO(E2)","2231 5274"
+"Government Logistics Department","Procurement Section 2,Group E","Ms. HO Ching Yee, Joey","SSI(E1)","2231 5275"
+"Government Logistics Department","Procurement Division,Procurement Administration Section","Ms. NG Ka Pik, Cindy","Ch SO(Procurement Adm)","2231 5232"
+"Government Logistics Department","Procurement Division,Procurement Administration Section","Ms. CHUNG Sze Ling, Hazel","Sr SO(Procurement Adm)","2231 5259"
+"Government Logistics Department","Procurement Administration Section,Technical Secretariat","Mr. CHAN Wai Hung, Tony","SO(Technical Secretariat)","2231 5289"
+"Government Logistics Department","Technical Secretariat,Supplier Record Team","Mr. LI Ho Yin, Mark","SS i/c (Supplier Record)","2231 5290"
+"Government Logistics Department","Technical Secretariat,Logistics Team","Mr. HO Chun Him, Jacky","ASO(L)","2231 5296"
+"Government Logistics Department","Technical Secretariat,Logistics Team","Mr. KWOK Chi Fai, Tommy","SS i/c (Logistics)","2231 5297"
+"Government Logistics Department","Technical Secretariat,Logistics Team","Mr. TAM Wing Wan","SSI(TS)","2231 5300"
+"Government Logistics Department","Procurement Administration Section,Procurement Research Unit","Miss WONG Siu Ning, Rita","SO(PRU)","2231 5236"
+"Government Logistics Department","Procurement Research Unit,Statistics and Information Team","Mr. HUI Cheung Kong, Rick","Asst SO (Statistics and Information Team)","2231 5293"
+"Government Logistics Department","Procurement Research Unit,Statistics and Information Team","Ms. CHAN Yuk Ha, Fanny","SS i/c (Statistics &amp; Infn)","2231 5294"
+"Government Logistics Department","Procurement Research Unit,Procurement Registry","Ms. CHEUNG Lai Kam, Gloria","CO(Procurement Registry)","2231 5151"
+"Government Logistics Department","Government Logistics Department,Supplies Management Division","Miss CHEUNG Yin Ling, Annie","Contr (Supplies Mgt)","2231 5108"
+"Government Logistics Department","Government Logistics Department,Supplies Management Division","Ms. HO Yuen Yee, Jade","PSO (Supplies Mgt)","2231 5106"
+"Government Logistics Department","Government Logistics Department,Supplies Management Division","Miss NG Cho Yan, Ruby","PS to Contr (Supplies Mgt)","2231 5109"
+"Government Logistics Department","Supplies Management Division,Grade Management Section","Miss TSANG Wai Yan, Brenda","Sr SO(Grade Mgt)","2231 5397"
+"Government Logistics Department","Supplies Management Division,Grade Management Section","Ms. CHAK Lai Yin, Irene","Sr SS(Grade Mgt)","2231 5775"
+"Government Logistics Department","Supplies Management Division,Provisioning & Inspection Section","Mr. LAU Chun Kwan","Ch SO(P&amp;I)","2231 5320"
+"Government Logistics Department","Supplies Management Division,Provisioning & Inspection Section","Mr. CHUNG Pak Hung, Arthur","SSO(P&amp;I)","2231 5321"
+"Government Logistics Department","Supplies Management Division,Provisioning & Inspection Section","Miss TSE Yan Yi, Glady","SSO(P&amp;I)SD","2231 5372"
+"Government Logistics Department","Supplies Management Division,Provisioning & Inspection Section","Miss PO On Man, Amy","ASO(P&amp;I)SD","2231 5337"
+"Government Logistics Department","Provisioning & Inspection Section,P&IA Unit","Ms. SZETO Shuk Ping, Yuki","ASO(P&amp;IA)","2231 5325"
+"Government Logistics Department","Provisioning & Inspection Section,P&IA Unit","Ms. CHEUNG Ling Wa, Iris","SSI(P&amp;IA)","2231 5326"
+"Government Logistics Department","Provisioning & Inspection Section,P&IA Unit","Ms. CHIU Shuk Ping","SSII(P&amp;IA)","2231 5331"
+"Government Logistics Department","Provisioning & Inspection Section,P&IB Unit"," VACANT","ASO(P&amp;IB)","2231 5335"
+"Government Logistics Department","Provisioning & Inspection Section,P&IB Unit","Ms. NG Suk Yee, Doris","Sr SS(Provisioning &amp; Inspection)","2896 9884"
+"Government Logistics Department","Provisioning & Inspection Section,P&IB Unit","Ms. IP Wai Sze, Cindy","SSI(P&amp;IB)","2231 5336"
+"Government Logistics Department","Provisioning & Inspection Section,P&IB Unit","Mr. HUI Man Chit, Simon","SSII(P&amp;IB)","2231 5376"
+"Government Logistics Department","Provisioning & Inspection Section,P&IC Unit","Miss LEE Sin Ying, Dasha","ASO(P&amp;IC)","2231 5374"
+"Government Logistics Department","Provisioning & Inspection Section,P&IC Unit","Ms. YU Siu Ying","SSI(P&amp;IC)","2231 5322"
+"Government Logistics Department","Provisioning & Inspection Section,Printing Supplies Unit","Ms. YAU Jui Kwan, Hellina","SO(PS)","2564 9598"
+"Government Logistics Department","Provisioning & Inspection Section,Printing Supplies Unit","Mr. TSE Sing Wang, Jack","ASO(PS)","2564 9517"
+"Government Logistics Department","Printing Supplies Unit,Procurement and Store Team","Mr. LO Chi Hung","SSI(SD)","2564 9567"
+"Government Logistics Department","Printing Supplies Unit,Procurement and Store Team","Ms. TAO Mui Kwai, Stella","SSI(PS1)","2564 9519"
+"Government Logistics Department","Printing Supplies Unit,Procurement and Store Team","Ms. HUNG Wai Fan, Fanny","SSI(PS2)","2564 9516"
+"Government Logistics Department","Supplies Management Division,Storage & Distribution Section","Miss YAN Shuk Fong, Maggie","Sr SO(S&amp;D)","2896 9875"
+"Government Logistics Department","Supplies Management Division,Storage & Distribution Section","Mr. SO Kong San, Vico","SO(S&amp;D)","2896 9827"
+"Government Logistics Department","Supplies Management Division,Storage & Distribution Section","Mr. AU Kwok Wing, Nick","Asst SO(S&amp;D)","2896 9868"
+"Government Logistics Department","Supplies Management Division,Storage & Distribution Section","Mr. LUM Kwok Ping","Sr SS(S&amp;D)","2896 9878"
+"Government Logistics Department","Storage & Distribution Section,Storage & Distribution Unit","Mr. SHUM Kin Ming, Henry","SSI(S&amp;D)","2896 9881"
+"Government Logistics Department","Storage & Distribution Section,Storage & Distribution Unit","Ms. YUE Hang Cheng","SSII(G&amp;PE)","2896 9879"
+"Government Logistics Department","Storage & Distribution Section,Storage & Distribution Unit","Mr. WU Chi Hang, Wilson","SSII(S&amp;D - Disposal)","2896 9880"
+"Government Logistics Department","Storage & Distribution Unit,Security Office"," - -","Security Office","2896 9873"
+"Government Logistics Department","Storage & Distribution Section,Transportation Unit","Mr. AU YEUNG Yiu Wai","SSI(T)","2896 9871"
+"Government Logistics Department","Storage & Distribution Section,Transportation Unit","Mr. WONG Tat Ming, Daniel","SSII(T)","2896 9872"
+"Government Logistics Department","Storage & Distribution Section,Quarters Furniture Inventories Unit","Ms. CHEUNG Man Yee, Janet","SSI(Furniture Inventories)","2896 9867"
+"Government Logistics Department","Storage & Distribution Section,Quarters Furniture Inventories Unit","Ms. CHENG Hin King, Shirley","SSI(Furniture Inspection-HK)","2896 9869"
+"Government Logistics Department","Storage & Distribution Section,Quarters Furniture Inventories Unit"," - -","SSI(Furniture Inspection-Kln &amp; NT)","2896 9869"
+"Government Logistics Department","Storage & Distribution Section,Disposal & Furniture Store","Mr. WONG Chi Wing, Ricky","SSI(D&amp;FS)","2896 9890"
+"Government Logistics Department","Storage & Distribution Section,Unallocated Store","Ms. LEUNG Kwai Yung, Kitty","SSI(US)","2896 9885"

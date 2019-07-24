@@ -1,264 +1,299 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=LCS&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DLCS%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Legislative Council Secretariat","Mr. Kenneth CHEN","Secy Gen","3919 3003"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Legislative Council Secretariat","Legislative Council Secretariat","Mr. Kenneth CHEN","Secy Gen","3919 3003"
+"Legislative Council Secretariat","Legislative Council Secretariat","Miss Rita LI","Sr Adm Asst to Secy Gen","3919 3005"
+"Legislative Council Secretariat","Legislative Council Secretariat","Mrs. Wendy LAM","Sr Adm Asst to President","3919 3006"
+"Legislative Council Secretariat","Legislative Council Secretariat","Miss Odelia LEUNG","Dep Secy Gen","3919 3008"
+"Legislative Council Secretariat","Legislative Council Secretariat","Ms. Cicely WONG","Adm Asst I to Dep Secy Gen","3919 3009"
+"Legislative Council Secretariat","Legislative Council Secretariat,Administration Division","Ms. Miranda HON","Prin Council Secy 2","3919 3010"
+"Legislative Council Secretariat","Legislative Council Secretariat,Administration Division","Ms. Tracy WONG","Adm Asst I (Adm)1","3919 3013"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Ms. Sharon CHUNG","Ch Council Secy (Adm)","3919 3012"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Mr. Jove CHAN","Sr Council Secy (Adm)1","3919 3011"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Mr. Boris LAM","Sr Council Secy (Adm)2","3919 3077"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Mr. KONG Kok Chung","Council Secy (Adm)1","3919 3016"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Ms. Kathy SHEK","Council Secy (Adm)2","3919 3015"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Ms. Louisa CHAN","Social Functions &amp; Steward Services","3919 3024"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Ms. Caris CHAN","Receipt &amp; Despatch","3919 3046"
+"Legislative Council Secretariat","Administration Division,General Administration Office","Ms. Emily CHAN","Gen Off","3919 3014"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. Sonny CHOW","Ch Security Offr","3919 3038"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. Francis CHAN","Sr Security Offr","3919 3036"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. Thomas LAI","Sr Council Secy (Facility Management)","3919 3085"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. Ivan CHEUNG","Council Secy (Adm)3 / Facility Management","3919 3028"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. TONG Wai Chung","Estate Management Offr1","3919 3770"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. KAO Kai Cheung","Estate Management Offr2","3919 3771"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. Daniel LIU","Security Offr 1","3919 3045"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. Peter CHAN","Security Offr 2","3919 3039"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Mr. Daniel LAU","Security Offr 3","3919 3749"
+"Legislative Council Secretariat","Administration Division,Estate and Security Office","Miss Stella CHUNG","Gen Off","3919 3037"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Ian LEONG","Ch IT Offr","3919 3049"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Kenneth LAU","Sr IT Offr 1","3919 3073"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. KWAN Kong Cheong","Sr IT Offr 2","3919 3051"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Alan LEE","Sr IT Offr 3","3919 3055"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Ms. Shirley LEE","Sr IT Offr 4","3919 3052"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Marcus LAM","Sr IT Offr 5","3919 3061"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Hosan LEE","Sr IT Offr 6","3919 3064"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Miss Koly YU","IT Offr 1","3919 3070"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. FONG Man Hing","IT Offr 2","3919 3063"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Ms. Kathy LEE","IT Offr 3","3919 3054"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Steve LAU","IT Offr 4","3919 3068"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. YUEN Ho Miu","IT Offr 5","3919 3745"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Joe LAM","IT Offr 6","3919 3066"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Eddie WONG","IT Offr 7","3919 3766"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Ms. CHEUNG Wing Man","IT Offr 8","3919 3764"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Waine KO","IT Offr 9","3919 3062"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Franki CHENG","IT Offr 10","3919 3768"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Miss Iris CHOW","IT Offr 11","3919 3057"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Ms. Carrie LEUNG","IT Offr 12","3919 3056"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Ken WONG","IT Offr 13","3919 3742"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Joe TSE","IT Offr 14","3919 3050"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Kin WONG","IT Offr 15","3919 3084"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Keith WONG","IT Offr 16","3919 3058"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Miss Joey FONG","IT Offr 17","3919 3069"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Patrick SZE","IT Offr 18","3919 3053"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Mr. Brian SHING","IT Offr 19","3919 3072"
+"Legislative Council Secretariat","Administration Division,Information Technology Office","Miss Jenny CHUNG","IT Offr 20","3919 3615"
+"Legislative Council Secretariat","Legislative Council Secretariat,Complaints and Resources Management Division","Ms. Amy YU","Prin Council Secy 1","3919 3660"
+"Legislative Council Secretariat","Legislative Council Secretariat,Complaints and Resources Management Division","Ms. Michelle HANG","Adm Asst I(Complaints &amp; Resources Mgt)1","3919 3672"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Erin TSANG","Ch Council Secy (Complaints)","3919 3665"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Erica WONG","Sr Council Secy (Complaints &amp; Resources Mgt)1","3919 3661"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Mr. Kelvin WONG","Sr Council Secy (Complaints &amp; Resources Mgt)2","3919 3662"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Ms. Yvonne YU","Sr Council Secy (Complaints &amp; Resources Mgt)3","3919 3663"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Amanda LEUNG","Sr Council Secy (Complaints &amp; Resources Mgt)4","3919 3664"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Cindy FUNG","Council Secy (Complaints &amp; Resources Mgt)1","3919 3669"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Iris SHEK","Council Secy (Complaints &amp; Resources Mgt)2","3919 3667"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Dora SUM","Council Secy (Complaints &amp; Resources Mgt)3","3919 3668"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Ms. Rebecca LEE","Council Secy (Complaints &amp; Resources Mgt)4","3919 3670"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Karen LAI","Council Secy (Complaints &amp; Resources Mgt)5","3919 3666"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Public Complaints Office","Miss Vicki LEE","Gen Off","3919 3919"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Accounts Office","Miss Roxanna LO","Acct","3105 2840"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Accounts Office","Ms. Louisa SOO","Sr Dep Acct","3105 2458"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Accounts Office","Ms. Erica NG","Dep Acct 1","3105 2459"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Accounts Office","Ms. Teresa HO","Dep Acct 2","3105 2460"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Accounts Office","Ms. Connie CHAN","Dep Acct 3","3105 2461"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Accounts Office","Mr. Simon CHEUNG","Dep Acct 4","3105 2462"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Accounts Office","Ms. Ada SO","Accts Off","3105 2463"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Miss Cindy HO","Ch Council Secy (Human Resources)","3105 3081"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Ms. Anthea TSE","Sr Council Secy (Complaints &amp; Resources Mgt)5","3105 2261"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Ms. Joyce KAN","Sr Council Secy (Complaints &amp; Resources Mgt)6","3105 2262"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Mr. Raymond SZETO","Sr Council Secy (Complaints &amp; Resources Mgt)7","3105 2291"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Miss Jacqueline FONG","Council Secy (Complaints &amp; Resources Mgt)6","3105 2265"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Miss Crystal LEUNG","Council Secy (Complaints &amp; Resources Mgt)7","3105 2832"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Ms. Maggie LAU","Council Secy (Complaints &amp; Resources Mgt)8","3105 2264"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Miss Wincy LO","Council Secy (Complaints &amp; Resources Mgt)9","3105 2267"
+"Legislative Council Secretariat","Complaints and Resources Management Division,Human Resources Office","Ms. Loretta CHAN","HR Off","3105 3159"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Anita SIT","Asst Secy Gen 1","3919 3100"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Miss Queenie LAM","Sr Legislative Asst (1)2","3919 3129"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Angel SHEK","Ch Council Secy (1)1","3919 3105"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Doris LO","Ch Council Secy (1)2","3919 3106"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Desmond LAM","Ch Council Secy (1)3","3919 3103"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Connie SZETO","Ch Council Secy (1)4","3919 3104"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Derek LO","Ch Council Secy (1)5","3919 3101"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Daniel SIN","Ch Council Secy (1)6","3919 3112"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Jason KONG","Sr Council Secy (1)1","3919 3116"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Ada LAU","Sr Council Secy (1)2","3919 3111"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Connie HO","Sr Council Secy (1)3","3919 3110"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Hugo CHIU","Sr Council Secy (1)4","3919 3117"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Fred PANG","Sr Council Secy (1)5","3919 3109"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Mandy LI","Sr Council Secy (1)6","3919 3135"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1"," (Vacant)","Sr Council Secy (1)7","3919 3114"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Joey LO","Sr Council Secy (1)8","3919 3125"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Miss Sharon LO","Sr Council Secy (1)9","3919 3113"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Raymond CHOW","Sr Council Secy (1)10","3919 3102"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Miss Bowie LAM","Council Secy (1)1","3919 3115"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Keith WONG","Council Secy (1)2","3919 3124"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Terence LAM","Council Secy (1)3","3919 3122"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Miss Judy YEE","Council Secy (1)4","3919 3123"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Anki NG","Council Secy (1)5","3919 3120"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Mr. Patrick CHOI","Council Secy (1)6","3919 3222"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 1","Ms. Alice CHEUNG","Gen Off","3919 3151"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Miss Flora TAI","Asst Secy Gen 2","3919 3200"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Theresa CHEUNG","Sr Legislative Asst (2)2","3919 3224"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Miss Betty MA","Ch Council Secy (2)1","3919 3201"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Miss Josephine SO","Ch Council Secy (2)2","3919 3202"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Joanne MAK","Ch Council Secy (2)3","3919 3203"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Wendy JAN","Ch Council Secy (2)4","3919 3204"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Maisie LAM","Ch Council Secy (2)5","3919 3205"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Alice LEUNG","Ch Council Secy (2)6","3919 3206"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Rita LAI","Sr Council Secy (2)1","3919 3208"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Wendy LO","Sr Council Secy (2)2","3919 3215"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Jasmine TAM","Sr Council Secy (2)3","3919 3210"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Catherina YU","Sr Council Secy (2)4","3919 3211"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Miss Kay CHU","Sr Council Secy (2)5","3919 3212"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Miss Connie AU","Sr Council Secy (2)6","3919 3213"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Gloria TSANG","Sr Council Secy (2)7","3919 3209"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Mr. Richard WONG","Sr Council Secy (2)8","3919 3214"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Mr. Ronald LAU","Council Secy (2)1","3919 3216"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Mr. Clement HAU","Council Secy (2)2","3919 3219"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Mr. Dennis HO","Council Secy (2)3","3919 3218"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Mr. Roger CHUNG","Council Secy (2)4","3919 3217"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Ms. Priscilla LAU","Council Secy (2)5","3919 3220"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Miss Michelle TANG","Council Secy (2)6","3919 3221"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 2","Mr. Ringo LEE","Gen Off","3919 3223"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Ms. Dora WAI","Asst Secy Gen 3","3919 3300"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Ms. Doris CHU","Adm Asst I (3)1","3919 3312"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Mr. Thomas WONG","Ch Council Secy (3)1","3919 3302"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Ms. Jessica CHAN","Ch Council Secy (3)2","3919 3303"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Mr. Arthur LEUNG","Ch Council Secy (3)3","3919 3301"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Ms. Judy TING","Sr Council Secy (3)1","3919 3308"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Miss Lilian MOK","Sr Council Secy (3)2","3919 3307"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Ms. Ivy NGAI","Sr Council Secy (3)3","3919 3306"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Miss Ida LAI","Sr Council Secy (3)4","3919 3323"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Mr. Ken WOO","Sr Council Secy (3)5","3919 3309"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Miss Lolita SHEK","Sr Council Secy (3)6","3919 3304"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Miss Wylie HO","Sr Council Secy (3)7","3919 3305"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Mr. Vincent CHAN","Council Secy (3)1","3919 3328"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Mr. Thomas CHAN","Council Secy (3)2","3919 3329"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 3","Ms. Mayon FUNG","Gen Off","3919 3311"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Mr. Matthew LOO","Asst Secy Gen 4","3919 3400"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Miss Winnie CHENG","Sr Legislative Asst (4)1","3919 3420"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Mr. Anthony CHU","Ch Council Secy (4)1","3919 3401"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Sophie LAU","Ch Council Secy (4)2","3919 3402"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Mr. Colin CHUI","Ch Council Secy (4)3","3919 3403"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Angel WONG","Ch Council Secy (4)4","3919 3404"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Shirley CHAN","Ch Council Secy (4)5","3919 3405"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Mr. Lemuel WOO","Ch Council Secy (4)6","3919 3406"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Miss Shirley HAU","Sr Council Secy (4)1","3919 3419"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Angela CHU","Sr Council Secy (4)2","3919 3430"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Mr. Ambrose LEUNG","Sr Council Secy (4)3","3919 3412"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Miss Mandy NG","Sr Council Secy (4)4","3919 3411"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Shirley TAM","Sr Council Secy (4)5","3919 3408"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Macy NG","Sr Council Secy (4)6","3919 3418"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Mina CHAN","Sr Council Secy (4)7","3919 3413"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Miss Maggie CHUNG","Council Secy (4)1","3919 3414"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Jacqueline LAW","Council Secy (4)2","3919 3445"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Peggy CHUNG","Council Secy (4)3","3919 3442"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Miss Rachel WONG","Council Secy (4)4","3919 3427"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Lauren LI","Council Secy (4)5","3919 3425"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Miss Katherine CHAN","Council Secy (4)6","3919 3428"
+"Legislative Council Secretariat","Legislative Council Secretariat,Council Business Division 4","Ms. Carmen HO","Gen Off","3919 3421"
+"Legislative Council Secretariat","Legislative Council Secretariat,Information Services Division","Ms. Elyssa WONG","Head (Infn Services)","2871 2103"
+"Legislative Council Secretariat","Legislative Council Secretariat,Information Services Division","Ms. LEE Yim Kum","Adm Asst (Infn Services)1","2871 2109"
+"Legislative Council Secretariat","Information Services Division,Research Office","Mr. Michael YU","Ch Council Researcher 1","2871 2110"
+"Legislative Council Secretariat","Information Services Division,Research Office","Mr. Kari CHU","Ch Council Researcher 2","2871 2125"
+"Legislative Council Secretariat","Information Services Division,Research Office","Miss Tiffany NG","Ch Council Researcher 3","3919 3581"
+"Legislative Council Secretariat","Information Services Division,Research Office","Ms. Ivy CHENG","Sr Council Researcher 2","2871 2122"
+"Legislative Council Secretariat","Information Services Division,Research Office","Miss Samantha LAU","Sr Council Researcher 3","2871 2143"
+"Legislative Council Secretariat","Information Services Division,Research Office","Ms. Germaine LAU","Sr Council Researcher 5","2871 2139"
+"Legislative Council Secretariat","Information Services Division,Research Office","Mr. LEUNG Chi Kit","Sr Council Researcher 6","2871 2129"
+"Legislative Council Secretariat","Information Services Division,Research Office","Mr. CHEUNG Chi Fai","Sr Council Researcher 8","3919 3583"
+"Legislative Council Secretariat","Information Services Division,Research Office","Mr. Sunny LAM","Council Researcher 1","2871 2146"
+"Legislative Council Secretariat","Information Services Division,Research Office","Mr. Charlie LAM","Council Researcher 3","3919 3585"
+"Legislative Council Secretariat","Information Services Division,Research Office","Mr. Kent CHUNG","Council Researcher 4","3919 3586"
+"Legislative Council Secretariat","Information Services Division,Research Office","Ms. LEE Yim Kum","Gen Off","2871 2109"
+"Legislative Council Secretariat","Information Services Division,Library","Ms. Vicky LEE","Ch Council Researcher 4","3919 3544"
+"Legislative Council Secretariat","Information Services Division,Library","Mr. YU Chun Ho","Sr Council Researcher 1","3919 3582"
+"Legislative Council Secretariat","Information Services Division,Library","Miss Rita LAM","Sr Libn","3919 3543"
+"Legislative Council Secretariat","Information Services Division,Library","Mr. Gary NG","Council Researcher 5","3919 3548"
+"Legislative Council Secretariat","Information Services Division,Library","Mr. CHEUNG Wai Fung","Libn 1","3919 3545"
+"Legislative Council Secretariat","Information Services Division,Library","Mr. Patrick NG","Libn 2","3919 3546"
+"Legislative Council Secretariat","Information Services Division,Library","Mr. Alexander WONG","Libn 3","3919 3547"
+"Legislative Council Secretariat","Information Services Division,Library","Ms. Katherine CHEUNG","Gen Off","3919 3551"
+"Legislative Council Secretariat","Information Services Division,Archives","Miss Sarah CHOY","Ch Archivist","3919 3700"
+"Legislative Council Secretariat","Information Services Division,Archives","Mr. WAN Wai Kwok","Archivist 1","3919 3701"
+"Legislative Council Secretariat","Information Services Division,Archives","Ms. Jeannette MA","Archivist 3","3919 3716"
+"Legislative Council Secretariat","Information Services Division,Archives","Mr. Patrick YEUNG","Gen Off","3919 3711"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Ms. Connie FUNG","Legal Adviser","3919 3500"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Miss Kawinza LEE","Sr Adm Asst to Legal Adviser","3919 3514"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. Timothy TSO","Sr Asst Legal Adviser 1","3919 3501"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Miss Canny CHAN","Adm Asst I (Legal)1","3919 3516"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. YICK Wing Kin","Sr Asst Legal Adviser 2","3919 3502"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Ms. Celia LAM","Adm Asst I (Legal)2","3919 3517"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. Kelvin LEE","Sr Asst Legal Adviser 3","3919 3503"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Miss Jenny LO","Adm Asst I (Legal)3","3919 3518"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Miss Joyce CHAN","Asst Legal Adviser 1","3919 3505"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Miss Rachel DAI","Asst Legal Adviser 2","3919 3504"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. Alvin CHUI","Asst Legal Adviser 3","3919 3506"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. Bonny LOO","Asst Legal Adviser 4","3919 3507"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Ms. Vanessa CHENG","Asst Legal Adviser 5","3919 3508"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Ms. Wendy KAN","Asst Legal Adviser 6","3919 3509"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. Mark LAM","Asst Legal Adviser 7","3919 3528"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. Cliff IP","Asst Legal Adviser 8","3919 3511"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Ms. Clara TAM","Asst Legal Adviser 9","3919 3512"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Miss Evelyn LEE","Asst Legal Adviser 10","3919 3513"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Miss Linda CHAN","Asst Legal Adviser 11","3919 3510"
+"Legislative Council Secretariat","Legislative Council Secretariat,Legal Service Division","Mr. Mike MAIO","Sr Adm Asst (Legal)","3919 3515"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. Hallie CHAN","Head (Public Infn)","3919 3600"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. Rebecca YU","Adm Asst (Public Infn)1","3919 3608"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. Emily PANG","Ch Public Infn Offr","3919 3603"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Miss Isabella CHEUNG","Sr Public Infn Offr 1","3919 3601"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. Gary CHAN","Sr Public Infn Offr 2","3919 3602"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Mr. Bosco CHAN","Sr Public Infn Offr 3","3919 3618"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. Brenda YEUNG","Sr Public Infn Offr 4","3919 3642"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Miss Tania TANG","Sr Public Infn Offr 5","3919 3409"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. Cammy FONG","Public Infn Offr 1","3919 3606"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Mr. Steve LEE","Public Infn Offr 2","3919 3415"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. Gabrielle CHENG","Public Infn Offr 3","3919 3622"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Mr. Peter SO","Public Infn Offr 4","3919 3605"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Mr. HO Chu Hei","Public Infn Offr 5","3919 3607"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Miss Avis YAM","Public Infn Offr 6","3919 3417"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Mr. Jaco WONG","Public Infn Offr 7","3919 3416"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Mr. WONG Wai Hang","Public Infn Offr 8","3919 3407"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Ms. LAI Hiu Ying","Public Infn Offr 9","3919 3643"
+"Legislative Council Secretariat","Legislative Council Secretariat,Public Information Division","Mr. CHAN Wai Man","Gen Off","3919 3609"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Kenneth WONG","Head (Translation &amp; Interpretation)","2869 7410"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Shirley TANG","Adm Asst (Translation &amp; Interpretation)7","2509 4608"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Margaret LI","Ch Translation Offr 1","2869 7400"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Tammy LEUNG","Ch Translation Offr 2","2878 7295"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Tamus HON","Ch Translation Offr 3","2869 7430"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. CHAN Wing Hong","Ch Translation Offr 4","2869 7432"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Lucie CHAU","Ch Translation Offr 5","2878 7165"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. George LO","Ch Translation Offr 6","2509 0727"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Ray LEUNG","Sr Translation Offr 1","2869 7407"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Jane LEE","Sr Translation Offr 2","2869 7429"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Ian CHENG","Sr Translation Offr 3","2476 4325"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Winnie CHAN","Sr Translation Offr 4","2869 7403"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. WONG Wing Kin","Sr Translation Offr 5","2869 7409"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. LAM Kit Hing","Sr Translation Offr 6","2869 7406"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Amy CHANG","Sr Translation Offr 7","2869 7448"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Pollyanna CHUNG","Sr Translation Offr 8","2869 7408"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Cannis NG","Sr Translation Offr 9","2869 7437"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Thomas YEUNG","Sr Translation Offr 10","2869 7439"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mrs. Suzanne LI","Sr Translation Offr 11","2869 7435"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Carol HO","Sr Translation Offr 12","2869 7436"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Margaret CHAN","Sr Translation Offr 13","2869 7450"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Gloria MA","Sr Translation Offr 14","2869 7433"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Ken WU","Sr Translation Offr 15","3105 3462"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Rebecca LOUIE","Sr Translation Offr 16","2869 7402"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Anita CHAN","Sr Translation Offr 17","2869 9307"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Richard CHU","Sr Translation Offr 18","2869 9306"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Ausilia LEE","Sr Translation Offr 19","3105 3543"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Cynthia CHAN","Sr Translation Offr 20","2869 7344"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Vivian LEE","Sr Translation Offr 21","2509 0587"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Eva LAN","Sr Translation Offr 22","2509 0311"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Dorothy CHAN","Sr Translation Offr 23","2869 7424"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Mandy LAM","Sr Translation Offr 24","2509 4646"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Raymond HO","Sr Translation Offr 25","2869 7405"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Candy LAM","Sr Translation Offr 26","2476 4310"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Alice  AU","Sr Translation Offr 27","2869 7785"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Alice WOO","Sr Translation Offr 28","2869 7758"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Vivian TAM","Sr Translation Offr 29","2509 9784"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Phoebe CHAN","Sr Translation Offr 30","2878 7271"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Beatrice CHANG","Sr Translation Offr 31","2869 7415"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Mimi LEE","Translation Offr 1","2869 7419"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Cadence WAI","Translation Offr 2","2869 9618"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Innie CHAN","Translation Offr 3","2869 9625"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Raymond YUNG","Translation Offr 4","2869 7953"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Gareth LEUNG","Translation Offr 5","2869 7413"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. SIN Hon Sing","Translation Offr 6","2869 7421"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Kevin PAN","Translation Offr 7","2509 0502"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Velda HUEN","Translation Offr 8","2869 7423"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Simon LAI","Translation Offr 9","2869 7420"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Jack TAM","Translation Offr 10","2869 7401"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Joanne MAN","Translation Offr 11","2869 7444"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Eddie TAM","Translation Offr 12","2869 7417"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. NG Wai Yu","Translation Offr 13","2878 7274"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Joice POON","Translation Offr 14","2869 7449"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Karen CHAU","Translation Offr 15","2869 9308"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Gigi TAM","Translation Offr 16","2476 4335"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Abbi TAM","Translation Offr 17","2509 4166"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. LUI Wan Yin","Translation Offr 18","2869 9591"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Shera IU","Translation Offr 19","2509 4167"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Miss Queena MAK","Translation Offr 20","2869 7446"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Jessica LEUNG","Translation Offr 21","2869 7422"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Jason NG","Translation Offr 22","2869 7416"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Mr. Michael NG","Translation Offr 23","2869 7418"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Tiffany TSANG","Translation Offr 24","2869 7443"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Suki CHONG","Translation Offr 25","2537 8198"
+"Legislative Council Secretariat","Legislative Council Secretariat,Translation and Interpretation Division","Ms. Margie LI","Gen Off","2869 7456"

@@ -1,264 +1,229 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=FSTB&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DFSTB%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Financial Services and the Treasury Bureau","Mr. LAU James H. Jr., JP","Secy for Financial Services & the Treasury","2810 2280"
+"Financial Services and the Treasury Bureau","Mr. CHAN Ho Lim, Joseph, JP","Under Secy for Financial Services & the Treasury","2810 2182"
+"Financial Services and the Treasury Bureau","Mr. WONG Ho Yuen, Andrew, GBS, JP","Permanent Secy for Financial Services & the Treasury (Financial Services)","2810 2078"
+"Financial Services and the Treasury Bureau","Ms. LAU Yim, Alice, JP","Permanent Secy for Financial Services & the Treasury (Treasury)","2810 2540"
+""
+"Organisation","Service Name","Office Tel"
+"Financial Services and the Treasury Bureau","Enquiry (Financial Services Branch)","3655 5158"
+"Financial Services and the Treasury Bureau","Enquiry (The Treasury Branch)","2810 3824"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau","Mr. LAU James H. Jr., JP","Secy for Financial Services &amp; the Treasury","2810 2280"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau","Mr. CHAN Ho Lim, Joseph, JP","Under Secy for Financial Services &amp; the Treasury","2810 2182"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau","Miss TSE Yee Man, Sara","Adm Asst to Secy for Financial Services &amp; the Treasury","2810 2177"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau","Miss YEUNG Pauline","Political Asst to Secy for Financial Services &amp; the Treasury","2810 2180"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau","Ms. OR Chui Ling, Jaime","Press Secy to Secy for Financial Services &amp; the Treasury","2810 2158"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau","Ms. TAM Wai Tsz, Rico","SEO(POO)","2810 3836"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau","Miss CHAN Yuen Shan, Yolanda","Executive Assistant (POO)","2810 2679"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,Financial Services Branch","Mr. WONG Ho Yuen, Andrew, GBS, JP","Permanent Secy for Financial Services &amp; the Treasury (Financial Services)","2810 2078"
+"Financial Services and the Treasury Bureau","Financial Services Branch,Financial Services Division","Mr. SUN Yuk Han, Chris, JP","Dep Secy for Financial Services &amp; the Treasury (Financial Services)1","2810 2155"
+"Financial Services and the Treasury Bureau","Financial Services Branch,Financial Services Division","Mr. CHEUNG  Kwok Choi, Eddie, JP","Dep Secy for Financial Services &amp; the Treasury (Financial Services)2","2810 2156"
+"Financial Services and the Treasury Bureau","Financial Services Branch,Financial Services Division","Mr. LIU Kong Cheung, Aaron, JP","Dep Secy for Financial Services &amp; the Treasury (Financial Services)2(Des.)","2978 3953"
+"Financial Services and the Treasury Bureau","Financial Services Branch,Financial Services Division","Ms. NG Ching Ching, Winnie, JP","Dep Secy for Financial Services &amp; the Treasury (Financial Services)3","2528 0245"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Ms. CHEUNG King Sing, Estrella","Prin AS for Financial Services &amp; the Treasury (Financial Services)1","2810 2054"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Miss CHENG Sze Ling","AS for Financial Services &amp; the Treasury (Financial Services)(1)1","2810 3043"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Mr. CHAN Yun Man, Winston","AS for Financial Services &amp; the Treasury (Financial Services)(1)2","3655 5693"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1"," Vacant Post","AS for Financial Services &amp; the Treasury (Financial Services)(1)SD1","2810 3094"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Miss TSIE  Kai Man, Maria","Chief Executive Officer (Support)","2810 3085"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Ms. KUNG Sze Wai, Nicole","Senior Executive Officer (Support)","3612 9931"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Ms. CHEANG  Mei Ha, Joyce","Senior Executive Officer (Tribunal)1","2827 1470"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Miss AU Yuen Shan, Amanda","Senior Executive Officer (Tribunal)2","2912 8552"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Mr. LEUNG Kam Ming, Roland","Executive Officer (Support)(1)1","3655 5042"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Ms. CHU Hoi Ying, Natalie","Executive Officer (Support)(1)2","3612 9929"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1","Ms. TAM Pui Yi, Pauline","Senior Project Manager","3655 5044"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 1"," Vacant Post","Project Manager","3655 5096"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 2","Mr. TSOI Kin Pan, George","Prin AS for Financial Services &amp; the Treasury (Financial Services)2","2810 2056"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 2","Mr. YIM Kwan Lok, Henry","AS for Financial Services &amp; the Treasury (Financial Services)(2)1","2810 3064"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 2","Miss TAM Yan Wun, Yvonne","AS for Financial Services &amp; the Treasury (Financial Services)(2)2","2810 3087"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 3"," Vacant Post","Prin AS for Financial Services &amp; the Treasury (Financial Services)3","2810 2150"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 3","Miss WONG Nga Ping, Pinky","AS for Financial Services &amp; the Treasury (Financial Services)3","2810 3096"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 3","Miss WOO Wing Ki, Nicky","AS for Financial Services &amp; the Treasury (Financial Services)(3)SD","2810 3107"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 3","Ms. NG Pui Ki, Christy","Executive Officer (Support)3","3655 4770"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 4","Mr. AU Ka Shing, Billy","Prin AS for Financial Services &amp; the Treasury (Financial Services)4","2528 9016"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 4","Mr. CHAN Fong Ming","AS for Financial Services &amp; the Treasury (Financial Services)(4)1","2528 9156"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 4","Miss LI Ka Yuen, Sandy","AS for Financial Services &amp; the Treasury (Financial Services)(4)2","2527 3102"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 4"," Vacant Post","Executive Assistant (FS)4&amp;6","2867 5366"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Ms. CHEUNG Yi, Eureka","Prin AS for Financial Services &amp; the Treasury (Financial Services)5","2810 2067"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Mr. CHIK Yu Fai, Freddy","AS for Financial Services &amp; the Treasury (Financial Services)(5)1","3655 5694"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Mr. CHAU Tin Lok, Timothy","AS for Financial Services &amp; the Treasury (Financial Services)(5)2","2810 3075"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Mr. CHAN Kwok Ho, Andy","AS for Financial Services &amp; the Treasury (Financial Services)(5)3","2810 3072"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Mr. KWOK Ka Kui, Tommy","AS for Financial Services &amp; the Treasury (Financial Services)(5)4","2810 3099"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Mr. YUNG Zee Lai, Patrick","Senior Executive Officer (Financial Services)(5)","3655 5045"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Miss LI Pui Kei, Kate","Executive Officer (Financial Services)5","3655 5046"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 5","Miss FONG Hoi Yan","Executive Officer (Financial Services)(5)SD","2810 3070"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 6","Mr. TE Chi Wang","Prin AS for Financial Services &amp; the Treasury (Financial Services)6","2528 6384"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 6","Miss FUNG Yuen Sin, Jeanne","AS for Financial Services &amp; the Treasury (Financial Services)(6)1","2528 9077"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 6","Miss WONG Yin Tung, Wendy","AS for Financial Services &amp; the Treasury (Financial Services)(6)2","2867 5844"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 6","Mr. MO Siu Hei, Ray","AS for Financial Services &amp; the Treasury (Financial Services)(6)SD","2867 2690"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 6","Miss HO Ka Man, Carmen","Senior Executive Officer (Financial Services)(SD)6","2867 5846"
+"Financial Services and the Treasury Bureau","Financial Services Division,Division 6"," Vacant Post","Executive Assistant (FS)4&amp;6","2867 5366"
+"Financial Services and the Treasury Bureau","Financial Services Division,Insurance and Retirement Scheme Division","Ms. TSANG Fung Yi, Noel","Prin AS for Financial Services &amp; the Treasury (Financial Services)Insurance and Retirement Scheme","2810 2201"
+"Financial Services and the Treasury Bureau","Financial Services Division,Insurance and Retirement Scheme Division","Mr. WONG Man Chung, Indiana","AS for Financial Services &amp; the Treasury (Financial Services)(Insurance and Retirement Scheme)1","2810 3088"
+"Financial Services and the Treasury Bureau","Financial Services Division,Insurance and Retirement Scheme Division","Mr. CHAN Pak Lam, Ashley","AS for Financial Services &amp; the Treasury (Financial Services)(Insurance and Retirement Scheme)2","2810 3097"
+"Financial Services and the Treasury Bureau","Financial Services Division,Insurance and Retirement Scheme Division","Miss PANG Yin Hing, Christine","Senior Executive Officer (Insurance and Retirement Scheme)","2810 3078"
+"Financial Services and the Treasury Bureau","Financial Services Division,Insurance and Retirement Scheme Division","Ms. TAM Pui Yi, Pauline","Senior Project Manager","3655 5044"
+"Financial Services and the Treasury Bureau","Financial Services Division,Insurance and Retirement Scheme Division"," Vacant Post","Project Manager","3655 5096"
+"Financial Services and the Treasury Bureau","Financial Services Division,Insurance Appeals Tribunal","Miss WONG Suet Ying, Rita","Senior Executive Officer (Insurance Appeals Tribunal)","3655 5104"
+"Financial Services and the Treasury Bureau","Financial Services Division,Mandatory Provident Fund Reform Division","Ms. HUNG Sze Man, Joan","Prin AS for Financial Services &amp; the Treasury (Financial Services) Mandatory Provident Fund Reform","2810 2061"
+"Financial Services and the Treasury Bureau","Financial Services Division,Mandatory Provident Fund Reform Division","Mr. HSU Lok Tim, Austin","AS for Financial Services &amp; the Treasury (Financial Services)(Mandatory Provident Fund Reform)1","3655 5695"
+"Financial Services and the Treasury Bureau","Financial Services Division,Mandatory Provident Fund Reform Division","Mr. WONG Ho Yu, Oscar","AS for Financial Services &amp; the Treasury (Financial Services)(Mandatory Provident Fund Reform)2","2810 3066"
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office","Ms. LI Lok Man, Jennifer","Head/Research","2810 3103"
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office","Mr. YEUNG Ion Lam, Matthew","Research Analyst (1)","3655 5904"
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office"," Vacant Post","Research Analyst (2)",""
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office","Mr. MA Ka Wai, Justin","Research Analyst (3)","3655 5909"
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office","Miss TSUI Kwai Shan, Flora","Research Analyst (4)","3655 5692"
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office","Ms. WONG Yu Ping, Constance","Statistical Officer (Research)","3655 5691"
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office","Miss CHAN Wai Yin, Vivian","Executive Assistant (Research)1","3655 4170"
+"Financial Services and the Treasury Bureau","Financial Services Division,Research Office"," Vacant Post","Executive Assistant (Research)2","2810 3098"
+"Financial Services and the Treasury Bureau","Financial Services Division,Branch Administration and Resource Management Unit","Mr. CHAN Chi Shing, Raymond","Chief Executive Officer (Financial Services)","3655 5105"
+"Financial Services and the Treasury Bureau","Financial Services Division,Branch Administration and Resource Management Unit","Mr. LAW Ka Chai, Samuel","Senior Executive Officer (Financial Services)","3655 5155"
+"Financial Services and the Treasury Bureau","Financial Services Division,Branch Administration and Resource Management Unit","Mr. CHOI Chi Ho, Ernest","Executive Officer (Financial Services)1","3655 5141"
+"Financial Services and the Treasury Bureau","Financial Services Division,Branch Administration and Resource Management Unit","Ms. LAM Pok Pok, Katie","Executive Officer (Financial Services)2","3655 5150"
+"Financial Services and the Treasury Bureau","Financial Services Division,Branch Administration and Resource Management Unit","Mr. LAM Ka Ming, Jin","Executive Officer (Financial Services)3","3655 5147"
+"Financial Services and the Treasury Bureau","Financial Services Division,Branch Administration and Resource Management Unit","Ms. LAM Chung Ping, Hermia","SCO (Financial Services)","3655 5154"
+"Financial Services and the Treasury Bureau","Financial Services Division,Branch Administration and Resource Management Unit","Ms. CHAN Bo Ping, Elaine","Conf Asst (Financial Services)","3655 5139"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,The Treasury Branch","Ms. LAU Yim, Alice, JP","Permanent Secy for Financial Services &amp; the Treasury (Treasury)","2810 2540"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,The Treasury Branch","Mr. LAU Chun, Raistlin, JP","Dep Secy for Financial Services and the Treasury (Treasury)1","2810 2283 "
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,The Treasury Branch","Mr. LAI Chi Wah, Andrew, JP","Dep Secy for Financial Services and the Treasury (Treasury)2","2810 2492"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,The Treasury Branch","Mr. LEE Man Sing, Howard","Dep Secy for Financial Services and the Treasury (Treasury)3","2810 3132"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,The Treasury Branch"," General Enquiry","-","2810 3824"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Ms. NIP Kai Yan, Candy","Prin AS for Financial Services &amp; the Treasury (Treasury)(A)","2810 3757"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Mr. CHAN Park Sun, Sunny","AS for Financial Services &amp; the Treasury (Treasury)(A)1","2810 3753"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Mr. CHAN Kin Tak, Derek","Treasury Offr(A)11","2810 2683"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Mr. MUI Tim Shing, Terence","Treasury Offr(A)12","2810 3806"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Ms. CHUANG Hung Na, Zerlinda","Asst Treasury Offr(A)23","2810 2359"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Mr. WAI Sai Kwan, Andrew","AS for Financial Services &amp; the Treasury (Treasury)(A)2","2810 3742"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Mr. SIU Kwok Chu, Samson","Treasury Offr(A)21","2810 3807"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Miss CHENG Wing Kay, Kay","Treasury Offr(A)22","2810 3805"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Ms. CHAN Wai Yin, Phyllis","AS for Financial Services &amp; the Treasury (Treasury)(A)3","2810 3794"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Ms. LUI Siu Man, Amy","Treasury Offr(A)31","2810 3798"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division","Miss TANG Ching Wan, Karen","Asst Treasury Offr(A)32","2810 2792"
+"Financial Services and the Treasury Bureau","The Treasury Branch,A Division"," A  Division Registry","-","2810 3767"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Ms. WONG Kit Yee, Kinnie","Prin AS for Financial Services &amp; the Treasury (Treasury)(B)","2810 2286"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Ms. WAI Ka Lai, Florence","AS for Financial Services &amp; the Treasury (Treasury)(B)1","2810 2487"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Ms. CHAN Siu Wai, Christy","Treasury Offr(B)11","2810 2240"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Miss PUN Man Yi, Candy","Asst Treasury Offr(B)12","2810 3813"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Miss TSANG Hiu Tung, Josephine","AS for Financial Services &amp; the Treasury (Treasury)(B)2","2810 2905"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Miss HO Kwei Chu, Amanda","Treasury Offr(B)21","2810 2339"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Ms. WONG Suk Ting, Fiona","Treasury Offr(B)22","2810 2203"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Ms. YIU Siu Ling, Venus","AS for Financial Services &amp; the Treasury (Treasury)(B)3","2810 3815"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Ms. CHENG Chi Wai, Isabel","Treasury Offr(B)31","2810 3799"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division","Miss CHAN Wing Yi, Carina","Asst Treasury Offr(B)32","2810 3773"
+"Financial Services and the Treasury Bureau","The Treasury Branch,B Division"," B  Division Registry","-","2810 2281"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Mr. AU Chung Pak, Arthur","Prin AS for Financial Services &amp; the Treasury (Treasury)(C)","2810 2365"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Miss LEUNG Tsz Ying, Almaz","AS for Financial Services &amp; the Treasury (Treasury)(C)1","2810 3750"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Mr. CHEUNG Wing Sun, Vincent","Treasury Offr(C)11","2810 3800"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Miss WONG Hiu Hung, Rainbow","Asst Treasury Offr(C)12","2810 3777"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Miss LAUW Yi Wan, Angie","Asst Treasury Offr(C)13","2810 2822"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Ms. LEE Suet Fun, Sue","AS for Financial Services &amp; the Treasury (Treasury)(C)2","2810 2673"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Ms. YIP Shui Fan, Iris","Treasury Offr(C)21","2810 2719"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Miss CHAU Wing Yee, Gloria","Asst Treasury Offr(C)22","2810 2566"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Ms. NGAN Wai Man, Vivian","AS for Financial Services &amp; the Treasury (Treasury)(C)3","2810 2583"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Mr. LUK Ka Man, Dennis","Treasury Offr(C)31","2810 2231"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Ms. HO Sau Yung, Sophie","Asst Treasury Offr(C)32","2810 2728"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division","Miss MAK Yuen Yung, Anita","Asst Treasury Offr(C)33","2810 2823"
+"Financial Services and the Treasury Bureau","The Treasury Branch,C Division"," C  Division Registry","-","2810 2662"
+"Financial Services and the Treasury Bureau","The Treasury Branch,E Division","Ms. CHU Lai Fong, Tracy","Prin AS for Financial Services &amp; the Treasury (Treasury)(E)","2810 2407"
+"Financial Services and the Treasury Bureau","The Treasury Branch,E Division","Mr. SO Chun Kit, Herman","AS for Financial Services &amp; the Treasury (Treasury)(E)1","2810 3755"
+"Financial Services and the Treasury Bureau","The Treasury Branch,E Division","Mr. POON Yat Ming, Patrick","AS for Financial Services &amp; the Treasury (Treasury)(E)2","2810 3752"
+"Financial Services and the Treasury Bureau","The Treasury Branch,E Division","Ms. TSE Tak Wai, Deborah","Treasury Offr(E)","2810 2213"
+"Financial Services and the Treasury Bureau","The Treasury Branch,E Division","Ms. TSE Chui Yiu, Yoyo","SEA","3655 5097"
+"Financial Services and the Treasury Bureau","The Treasury Branch,E Division","Mr. LEE Ip Choi, Raymond","CO(E)","2810 3770"
+"Financial Services and the Treasury Bureau","The Treasury Branch,E Division"," E  Division Registry","-","2810 3770"
+"Financial Services and the Treasury Bureau","The Treasury Branch,G Division","Mr. CHENG Wai Man, Mike","PEO(G)","2810 2668"
+"Financial Services and the Treasury Bureau","The Treasury Branch,G Division"," G Division Registry","-","2810 2510"
+"Financial Services and the Treasury Bureau","G Division,LegCo and Personnel Unit","Ms. WONG Yin Ling, Elaine","Treasury Offr (L&amp;P)","2810 3796"
+"Financial Services and the Treasury Bureau","G Division,LegCo and Personnel Unit","Miss WONG Wing Yee, Jessie","Asst Treasury Offr (L)","2810 3795"
+"Financial Services and the Treasury Bureau","G Division,LegCo and Personnel Unit","Miss CHEUNG Lo Man, Beryl","Asst Treasury Offr (P)","2810 3793"
+"Financial Services and the Treasury Bureau","G Division,LegCo and Personnel Unit","Miss TONG Yuk Man, Pennie","SCO(L)","2810 2845"
+"Financial Services and the Treasury Bureau","G Division,LegCo and Personnel Unit","Ms. NG Yin Ling, Venus","CO(L)","2810 3004"
+"Financial Services and the Treasury Bureau","G Division,LegCo and Personnel Unit","Miss LO Wai Yin","CO(Per)","2810 3790"
+"Financial Services and the Treasury Bureau","G Division,LegCo and Personnel Unit"," LegCo & Personnel Unit Registry","-","2810 3004,2810 3784"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit","Ms. LIU Hang Ping, Christy","Treasury Offr(Branch Management)","2810 2567"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit","Ms. CHAN Ngan Shuen, Michelle","Asst Treasury Offr(Branch Management)1","2810 3791"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit","Miss CHAN Mei Ha, Psyche","Asst Treasury Offr(Branch Management)2","2810 3797 "
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit","Mrs. CHU CHAN Sau Kuen, Anna","SCO(BM)","2810 2272"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit"," Vacant","CO(GS)","2810 2510"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit","Ms. HO Mei Yee, Samantha","CO(Accom)","2810 3774"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit","Miss CHEUNG Wai Ngor, Mary","CO(Fin)","2810 3778"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit","Mr. FUNG Chi Ming, Johnny","SSI","2810 3761"
+"Financial Services and the Treasury Bureau","G Division,Branch Management Unit"," Branch Management Unit Registry","-","2810 2510"
+"Financial Services and the Treasury Bureau","G Division,Information Technology Management Unit","Mr. CHEUNG Chi Pun, Ben","Systems Manager","2810 3820"
+"Financial Services and the Treasury Bureau","G Division,Information Technology Management Unit","Mr. LAI Chi Ming, Victor","Analyst/Programmer I","2810 3400"
+"Financial Services and the Treasury Bureau","G Division,Information Technology Management Unit","Mr. LEUNG Wai Tak, Edmond","Systems Analyst","2810 2237"
+"Financial Services and the Treasury Bureau","G Division,Information Technology Management Unit","Mr. LEUNG Hin Ching, Anson","Analyst/Programmer II","2810 2723"
+"Financial Services and the Treasury Bureau","G Division,Information Technology Management Unit","Mr. HO Shu Kin","Asst Information Technology Officer (1)","2810 3783"
+"Financial Services and the Treasury Bureau","G Division,Information Technology Management Unit","Mr. LAM Chun Lung, Ringo","Asst Information Technology Officer (2)","2810 3810"
+"Financial Services and the Treasury Bureau","G Division,Information Technology Management Unit","Ms. YIU Sau Ying, Diana","CO(IT Admin)","2810 2909"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Dr. CHENG Chi Hung, Edward","Prin AS for Financial Services &amp; the Treasury (Treasury)(H)","2810 3726"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Mrs. LAM WONG Miu Ling, Carol","Ch TA(H)","2810 2575"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Mr. CHAN Ka Yui, Kenneth","Sr TA(H)","2810 3651"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Mr. WONG Bally","TA(H)","2810 3653"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Mr. YUEN Hoi Fung, Terence","Sr Acct Offr(H)","2810 3659"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Mr. LING Ka Lun, Alan","Acct Offr I (H)","2810 3654"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Miss TANG Wing Yan, Emmy","Asst Treasury Offr(H)","2810 3832"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Ms. TAM Cheuk Man, Jacqueline","Acct Offr II (H)1","2810 3658"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Ms. MAK Wai Man, Vivian","Acct Offr II (H)2","2810 3652"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Mr. WONG Chun Ming, Wilson","Acct Offr II (H)3","2810 3128"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Mr. CHENG Sai Chuen","SCO(H)","2810 3657"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division","Miss KO So Fong, Amy","CO(H)","2810 3786"
+"Financial Services and the Treasury Bureau","The Treasury Branch,H Division"," H Division Registry","-","2810 3657"
+"Financial Services and the Treasury Bureau","The Treasury Branch,I Division","Mr. CHEUNG Chun Yu, Jerry","Prin AS for Financial Services &amp; the Treasury (Treasury)(I)","2810 3743"
+"Financial Services and the Treasury Bureau","The Treasury Branch,I Division","Ms. LEE Wai Yee, Cindy","Ch TA(I)","2810 3230"
+"Financial Services and the Treasury Bureau","The Treasury Branch,I Division","Miss KA Yik Heng, Bonnie","AS for Financial Services &amp; the Treasury (Treasury) (I)","2810 2236"
+"Financial Services and the Treasury Bureau","The Treasury Branch,I Division","Ms. YEUNG Hoi Ki, Katherine","TA(I)","2810 2501"
+"Financial Services and the Treasury Bureau","The Treasury Branch,I Division","Miss CHENG Man Ching, Carrie","Asst Treasury Offr(I)","2810 2554"
+"Financial Services and the Treasury Bureau","The Treasury Branch,I Division","Ms. LI Fung Ha, Yvonne","CO(I)","2810 2505"
+"Financial Services and the Treasury Bureau","The Treasury Branch,I Division"," I Division Registry","-","2810 2505"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Mr. NG Fai Ming, Louie","Prin AS for Financial Services &amp; the Treasury (Treasury)(MA)","2810 3729"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Ms. CHAN Pui Shan, Stella","Sr TA(MA)1","2810 3756"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Ms. LO Wing Sum, Ada","TA(MA)1","2810 3764"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Ms. LAM Yin Man, Adeline","Asst Treasury Offr(MA)1","2810 2079"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Ms. CHI Man, Lianna","Sr TA(MA)2","2810 3823"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Miss CHAN Hei Yan, Josephine","TA(MA)2","2810 3759"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Ms. LAU Ka Man, Kaman","Asst Treasury Offr(MA)2","2810 3762"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division","Ms. PANG Ka Yee, Carrie","Acct Offr(MA)","2810 3763"
+"Financial Services and the Treasury Bureau","The Treasury Branch,MA Division"," MA Division Registry","-","2810 2389"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R1 Division","Miss CHUNG Chi Ching, Helen","Prin AS for Financial Services &amp; the Treasury (Treasury)(R1)","2810 2370"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R1 Division","Mr. LEUNG Wai Shing, William","AS for Financial Services &amp; the Treasury (Treasury)(R)1","2810 2400"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R1 Division","Miss WAN Man Ching, Erna","AS for Financial Services &amp; the Treasury (Treasury)(R)3","2810 3535"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R1 Division","Ms. LAM Ka Yan, Winnie","Treasury Offr(R1)","2810 2208"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R1 Division","Mr. SZE Chun Ho, Clement","Asst Treasury Offr(R1)","2810 2843"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R1 Division","Ms. WONG Sik  Yuk, Clara","CO(R1)","2810 2669"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R1 Division"," R1 Division Registry","-","2810 2669"
+"Financial Services and the Treasury Bureau","R1 Division,Board of Review","Miss YEUNG Ka Ying, Christine","C to the Board of Review","2157 3801"
+"Financial Services and the Treasury Bureau","R1 Division,Board of Review","Miss NG Hang Yan, Helen","Asst C to the Board of Review(E)1","2157 3812"
+"Financial Services and the Treasury Bureau","R1 Division,Board of Review","Miss CHAN Wing Tung, Iris","Asst C to the Board of Review(E)2","2157 3811"
+"Financial Services and the Treasury Bureau","R1 Division,Board of Review","Ms. CHEUNG Kei Lei, Karrie","Asst C to the Board of Review(C)","2157 3800"
+"Financial Services and the Treasury Bureau","R1 Division,Board of Review"," Board of Review Registry","-","2157 3803"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R2 Division","Mr. LO Yip Kwong, Stephen","Prin AS for Financial Services &amp; the Treasury (Treasury)(R2)","2810 2317"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R2 Division","Mr. LAM Shing Fung, Billy","AS for Financial Services &amp; the Treasury (Treasury)(R)2","2810 2229"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R2 Division","Ms. WONG Shuk Yee, Phoebe","Asst Treasury Offr(R2)","2810 2826"
+"Financial Services and the Treasury Bureau","The Treasury Branch,R2 Division"," R2 Division Registry","-","2810 2839"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division","Miss CHUNG Siu Ling, Pat","PEO(Tender)","2810 2257"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division","Ms. LAI Wai Sze, Elsa","CEO(Tender)","2810 3812"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division","Miss TSANG Chui Wah, Mabel","Treasury Offr(Tender)1","2810 2497"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division","Miss IP Wai Man, Elaine","Treasury Offr(Tender)2","2810 2518"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division","Ms. LAM Wai Han, Janice","Treasury Offr(Tender)3","2810 3818"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division","Mr. TSUI Tak Shing, Dickson","Treasury Offr(Tender)SD","2810 2844"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division","Ms. LAM Tsun Fai, Eliza","CO(Tender)","2810 2401"
+"Financial Services and the Treasury Bureau","The Treasury Branch,T Division"," T Division Registry","-","2810 2401,2810 2363"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Ms. HSIA Mai Chi, Margaret","Prin AS for Financial Services &amp; the Treasury (Treasury)(W)","2810 2232"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Mr. HO Lap Ki, Denny","AS for Financial Services &amp; the Treasury (Treasury)(W)1","2810 2495"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Mr. CHIU Kwong Kin","AS for Financial Services &amp; the Treasury (Treasury)(W)2","2810 2913"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Mr. MONG Wai Yu, Chris","AS for Financial Services &amp; the Treasury (Treasury)(W)SD1","2810 2971"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Mr. LAM Yau Lap, Tommy","AS for Financial Services &amp; the Treasury (Treasury)(W)SD2","3655 4486"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Ms. KWONG Sin Hang, Terri","Treasury Offr(W)","2810 2925"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Mr. WONG Kwun Fung, Andy","Asst Treasury Offr(W)11","2810 2842"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Miss SHE Wing Shan, Esther","Asst Treasury Offr(W)12","2810 2820"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Miss WONG Chi Kwan, Jacquline","Asst Treasury Offr(W)21","2810 2475"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Miss PO Ka Man, Angel","Asst Treasury Offr(W)22","2810 2044"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Ms. TSE Mee Ying, Stella","CO(W)1","2810 2690"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division","Miss YUEN Fung Yee, Winnie","CO(W)2","2810 2223"
+"Financial Services and the Treasury Bureau","The Treasury Branch,W Division"," W Division Registry","-","2810 2690"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,Secretariat Press Office","Mr. CHEUNG Chi Man, Chris","Prin Infn Offr (Financial Services)","2810 2979"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,Secretariat Press Office","Ms. YU Pik Kwan, Brenda","Prin Infn Offr (Try)","2810 2907"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,Secretariat Press Office","Ms. CHOUI Tung Ni, Ivy","Sr Infn Offr (FST)1","2810 2977"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,Secretariat Press Office","Ms. CHOI Wing Han, Christine","Sr Infn Offr (FST)2","2810 2924"
+"Financial Services and the Treasury Bureau","Financial Services and the Treasury Bureau,Secretariat Press Office","Mr. WONG Chung Yeung, Alson","Infn Offr (FST)","2810 2377"

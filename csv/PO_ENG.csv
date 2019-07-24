@@ -1,264 +1,279 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=PO&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DPO%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Post Office","Mr. LEUNG Chung Tai, Gordon, JP","Postmaster Gen","2921 2200"
+"Post Office","Ms. AU Wai Yin, Teresa","Dep Postmaster Gen","2921 2203"
+""
+"Organisation","Service Name","Office Tel"
+"Post Office","General Enquiries","2921 2222"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Post Office","Post Office","Mr. LEUNG Chung Tai, Gordon, JP","Postmaster Gen","2921 2200"
+"Post Office","Post Office","Ms. AU Wai Yin, Teresa","Dep Postmaster Gen","2921 2203"
+"Post Office","Post Office,Corporate Development Branch","Mr. LUI Po Chuen, Andy","Asst Postmaster Gen (Corporate Dev)","2921 2209"
+"Post Office","Corporate Development Branch,Administrative Services Div","Ms. AU-YEUNG Yuen Wah, Kitty","DS","2921 2279"
+"Post Office","Administrative Services Div,Performance Management & Appointments Section","Ms. CHOI Wai Sheung, Ella","CEO(Performance Mgt/ Appt &amp; Staff Recognition)","2921 2441"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Ms. LAI Ho Chee, Elsie","Dep DS (Appts)","2921 2389"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Ms. LEUNG Siu Sum, Susanna","Asst DS (Appts)1","2921 2377"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Ms. CHEUNG King Yan, Melody","Asst DS (Appts)2","2921 2762"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Ms. HO Ki Lam, Kina","Asst Mgr (Appointments)1","2921 2642"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Ms. TSE Hiu Ching, Twiggy","Asst Mgr (Appointments)2","2921 2086"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Miss CHAN Mei Chun, Edith","Dep DS (Staff Complaints &amp; Appts)","2921 2187"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Miss YIP To Ha, Vicky","Asst DS (Staff Complainst &amp; Appts)","2921 2146"
+"Post Office","Performance Management & Appointments Section,Appointments Section","Ms. WONG Mei Yuk, Alice","SCO(Appts)","2921 2213"
+"Post Office","Performance Management & Appointments Section,Staff Relations/Employee Care & General Section","Ms. CHEUNG Po Yee, Rosalyn","Dep DS (Staff Relations / Employee Care &amp; Gen)","2921 2413"
+"Post Office","Performance Management & Appointments Section,Staff Relations/Employee Care & General Section","Mr. CHAN Long Siu, Calvin","Asst Mgr (Staff Recognition)","2921 2376"
+"Post Office","Staff Relations/Employee Care & General Section,Staff Relations Unit","Ms. CHEUNG Siu Lei, Ellie","Asst DS (Staff Relations)","2921 2059"
+"Post Office","Staff Relations/Employee Care & General Section,Employee Care Unit","Ms. WONG Chit Hei, Heidi","Mgr, Employee Care","2921 2372"
+"Post Office","Staff Relations/Employee Care & General Section,General Unit","Ms. LI Sok Ching, Ariel","Asst DS (Gen)","2921 2644"
+"Post Office","Staff Relations/Employee Care & General Section,General Unit","Ms. CHAN Wai Mun, Carmen","SCO (Gen)","2921 2230"
+"Post Office","Staff Relations/Employee Care & General Section,General Unit","Ms. FUNG Yin Kan, Ken","Safe Care Regy","2921 2183"
+"Post Office","Staff Relations/Employee Care & General Section,Translation Unit","Mr. YIP Ting Pong, Chris","OLO I","2921 2228"
+"Post Office","Staff Relations/Employee Care & General Section,Translation Unit","Ms. FONG Chung Ning, Ronli","OLO II (1)","2921 2035"
+"Post Office","Staff Relations/Employee Care & General Section,Translation Unit","Ms. SIU Yee Ki, Eva","OLO II (2)","2921 2229"
+"Post Office","Administrative Services Div,Per & Est Sec","Ms. CHAN Wai Mun, Anne","Dep DS (Per &amp; Est)","2921 2210"
+"Post Office","Administrative Services Div,Per & Est Sec","Miss HUI Sau Chee, Jennifer","Asst DS (Per &amp; Est)","2921 2436"
+"Post Office","Administrative Services Div,Per & Est Sec","Mr. CHAN Shun Fuk, Joe","SCO (Per)","2921 2072"
+"Post Office","Administrative Services Div,Staff Management Section","Ms. KWAN Po San, Karen","Dep DS (Staff Mgt)","2921 2418"
+"Post Office","Administrative Services Div,Staff Management Section","Ms. CHENG Ka Man, Lisa","Sr Executive Offr (Special Duties)","2921 2754"
+"Post Office","Administrative Services Div,Staff Management Section","Ms. NG Cherry","Asst DS (Staff Mgt)","2921 2924"
+"Post Office","Administrative Services Div,Staff Management Section","Ms. KWOK Ying Wai, Rachel","Asst Mgr (Staff Mgt)","2921 2003"
+"Post Office","Corporate Development Branch,Management Services Div","Mr. LEE Chun Wah","Gen Mgr (Mgt Services)","2921 2259"
+"Post Office","Management Services Div,Management Control Section","Ms. TAM Wai Hing, Angela","Sr Mgr (Mgt Control)","2921 2027"
+"Post Office","Management Services Div,Management Control Section","Mr. KWUN Ting Hin, Jasper","Asst Mgr (Mgt Services)","2921 2806"
+"Post Office","Management Services Div,Management Control Section","Ms. LI Man Yi, Shalom","Asst Mgr (Productivity &amp; Performance Measurement)","2921 2263"
+"Post Office","Management Services Div,Management Control Section","Mr. POON Kin Man","Asst Mgr (Systems &amp; Database Control)","2922 5116"
+"Post Office","Management Services Div,Management Control Section","Miss LEUNG Nga Woon, Aster","Asst Mgr (Sampling)","2921 2262"
+"Post Office","Management Services Div,Public Relations Section","Ms. NG Hong Yiu, Una","Sr Mgr (Public Relations)","2921 2261"
+"Post Office","Management Services Div,Public Relations Section","Ms. LIP Lai Sheung, Teresa","Mgr (Public Relations)","2921 2729"
+"Post Office","Management Services Div,Public Relations Section","Ms. YEUNG Ka Ling, Bayla","Asst Mgr (Public Relations)1","2921 2590"
+"Post Office","Management Services Div,Public Relations Section","Ms. CHENG Hung Ha, Sandy","Asst Mgr (Public Relations)2","2921 2408"
+"Post Office","Management Services Div,Customer Service Section","Mr. SIU Kwong Fai, Roy","Sr Mgr ( Customer Service)","2921 2428"
+"Post Office","Management Services Div,Customer Service Section","Mr. CHAN Ching Shing, Martin","Asst Mgr (Customer Service)1","2921 2265"
+"Post Office","Management Services Div,Customer Service Section","Mr. WONG Kwun Wai, Gordon","Asst Mgr (Customer Service)2","2921 2434"
+"Post Office","Management Services Div,Training Section","Ms. CHENG Yuen Ming, Ivy","Sr Mgr (Training &amp; Dev)","2721 3527"
+"Post Office","Management Services Div,Training Section","Miss CHAN Wing Ming, Julia","Mgr (Trg &amp; Dev)1","2189 7823"
+"Post Office","Management Services Div,Training Section","Ms. IP Yook Kwun, Grace","Mgr (Trg &amp; Dev)2","3520 1132"
+"Post Office","Management Services Div,Training Section","Mr. FUNG Kai Hei, Isaac","Asst Mgr (Training Dev)","2311 4714"
+"Post Office","Corporate Development Branch,Planning and Development Div","Ms. CHIU Yuen Pui, Clare","Gen Mgr (Planning and Dev)","2908 0390"
+"Post Office","Planning and Development Div,Planning Section","Mr. WONG Kwok Choi, Matthew","Sr Mgr (Planning)","2908 0200"
+"Post Office","Planning and Development Div,Planning Section","Ms. SEA Siu Tim, Candy","Mgr (Planning)","2908 0052"
+"Post Office","Planning and Development Div,Planning Section","Ms. YIP Kin Man, Fion","Asst Mgr (Planning)1","2908 0054"
+"Post Office","Planning and Development Div,Development Section","Ms. CHAN Yuk Fun, Yvonne","Sr Mgr (Dev)","2908 0300"
+"Post Office","Planning and Development Div,Development Section","Ms. YIP Kin Man, Fion","Mgr (Dev)(Doubling-up)","2908 0051"
+"Post Office","Corporate Development Branch,Property Maintenance Works Section","Mr. IP Chi Kay, Andrew","Sr Maintenance Surveyor (Maintenance)","2908 0236"
+"Post Office","Corporate Development Branch,Property Maintenance Works Section","Mr. WONG Kwok Kuen, Ricky","Sr Quantity Surveyor (Maintenance)","2908 0235"
+"Post Office","Corporate Development Branch,Property Maintenance Works Section","Mr. CHAN Tat Sun","Sr Building Services Engineer (Maintenance)","2908 0234"
+"Post Office","Corporate Development Branch,Property Maintenance Works Section","Mr. KONG Tsz Lok, Brian","Maintenance Surveyor (Maintenance)1","2908 0237"
+"Post Office","Corporate Development Branch,Property Maintenance Works Section","Ms. KWAN Man Ping, Pink","Maintenance Surveyor (Maintenance)2","2908 0240"
+"Post Office","Corporate Development Branch,Property Maintenance Works Section","Ms. CHEUNG Shuk On, Phoenix","Quanlity Surveyor (Maintenance)","2908 0241"
+"Post Office","Corporate Development Branch,Property Maintenance Works Section","Mr. CHU Sze Lung, Alvin","Clerk of Work (Maintenance)1","2908 0250"
+"Post Office","Corporate Development Branch,Property Services Management Section","Mr. FAN Kin Kei, Ronald","Gen Mgr (Property Services Mgt)","2286 3387"
+"Post Office","Corporate Development Branch,Property Services Management Section","Mr. TAM Kwok Keung","Mgr (Property Services Mgt)","2286 3386"
+"Post Office","Corporate Development Branch,Property Services Management Section","Mr. YIP Shun Shing","Asst Mgr (Property Services Mgt)","2286 3386"
+"Post Office","Corporate Development Branch,Information System Services Div","Mr. YEUNG Po Leung, Alex","Dir, Infn Systems Services","2921 2440"
+"Post Office","Information System Services Div,e-Services Development Section","Mr. HUI Chee Sum, Sam","Asst Gen Mgr (e-Services Dev)","2926 5001,2926 5003"
+"Post Office","Information System Services Div,e-Services Development Section","Mr. YUNG Chi Man, Kenneth","Sr Mgr (e-Services Dev)1","2926 5009"
+"Post Office","Information System Services Div,e-Services Development Section","Mr. LAI Tsz Wai, Steve","Sr Mgr (e-Services Dev)2","3902 3244"
+"Post Office","Information System Services Div,e-Services Development Section","Mr. LAM Chi Ho, Bryan","Sr Mgr (e-Services Dev)3","2926 5027"
+"Post Office","Information System Services Div,e-Services Development Section","Miss SHUM Pui Han, Samantha","System Analyst (e-Services Dev)13","2926 5002"
+"Post Office","Information System Services Div,e-Services Development Section","Mr. LAI Chun Wa","System Analyst (e-Services Dev)21","3543 5767"
+"Post Office","Information System Services Div,Information System Development Section","Mr. CHENG Tze Yu, Tony","Gen Mgr (Infn System Dev)","2921 2134"
+"Post Office","Information System Services Div,Information System Development Section","Mr. HUI Kwan Nung, Partrick","Sr Mgr (Infn System Dev)1","2921 2807"
+"Post Office","Information System Services Div,Information System Development Section","Mr. YU Tat Chi, Norris","Sr Mgr (Infn System Dev)2","2921 2095"
+"Post Office","Information System Services Div,Information System Development Section","Mr. CHAN Chi Lok, Alex","System Analyst (Infn System Dev)13","2926 5162"
+"Post Office","Information System Services Div,Information System Development Section","Mr. WONG Kit Kwong, Martin","System Analyst (Infn System Dev)21","3543 5773"
+"Post Office","Information System Services Div,Technical Services Section","Mr. KWOK Luen Ming","Gen Mgr, Tech Services","2921 2098"
+"Post Office","Information System Services Div,Technical Services Section","Mr. BITLA Vithal Simadri","Sr Mgr (Tech Services)1","2926 5161"
+"Post Office","Information System Services Div,Technical Services Section","Mr. CHAN Chi Sun, Sunny","Sr Mgr (Technical Services)2","3160 8873"
+"Post Office","Information System Services Div,Technical Services Section","Mr. CHAN Man Kit, Samuel","Sr Mgr (Certification Authority Infrastructure Upgrade)","2205 1521"
+"Post Office","Information System Services Div,Technical Services Section","Mr. MOK Ming Chun, Chris","System Analyst (Tech Services)19","3543 5760"
+"Post Office","Technical Services Section,Information System Planning Team","Ms. LEUNG Tsz Ching, Fannie","Asst Mgr (Infn System Planning)1","2926 1119"
+"Post Office","Technical Services Section,Information System Planning Team","Ms. YEUNG Ngai Ting, Lendi","Asst Mgr (Infn System Planning)2","2926 1153"
+"Post Office","Technical Services Section,Information System Planning Team","Ms. KWOK Chau Ying, Celine","Sr Mgr (Infn System Planning)","2921 2575"
+"Post Office","Information System Services Div,Postal System Development Section","Mr. CHENG Chun Kit, Kenneth","Asst Gen Mgr (Postal System Dev)","2928 7102"
+"Post Office","Information System Services Div,Postal System Development Section","Mr. CHAN Kwan Che, Dennis","Sr Mgr (Postal System Dev)2","2922 8311"
+"Post Office","Corporate Development Branch,Financial Services Div","Ms. CHAN Yu Ching, Lisa","D (Fin)","2921 2238"
+"Post Office","Corporate Development Branch,Financial Services Div","Ms. KONG Man Yee, Mon","Gen Mgr (Deptl Accts)","2921 2240"
+"Post Office","Corporate Development Branch,Financial Services Div","Ms. SUM Wing Kei, Roanna","Gen Mgr (Fin)","2921 2450"
+"Post Office","Financial Services Div,Cash Management Section","Ms. LAM Lai Ching, Loretta","Sr Mgr (Cash Mgt)","2921 2241"
+"Post Office","Financial Services Div,Cash Management Section","Ms. CHENG Chak Yu, Edith","Mgr (Cash Mgt)1","2921 2882"
+"Post Office","Financial Services Div,Cash Management Section","Mr. HON Siu Tung, Curtis","Mgr (Cash Mgt)2","2921 2412"
+"Post Office","Financial Services Div,Cash Management Section","Mr. WONG Ka Shing, Marco","Asst Mgr (Cash Mgt)1","2921 2461"
+"Post Office","Financial Services Div,Cash Management Section","Ms. LAM Lee Lee, Lily","Asst Mgr (Cash Mgt)2","2921 2639"
+"Post Office","Financial Services Div,Stamp Supply and Revenue Accounts Section","Mr. TUNG Wai Ting, Brian","Sr Mgr (Stamp Supply &amp; Rev Accts)","2921 2466"
+"Post Office","Financial Services Div,Stamp Supply and Revenue Accounts Section","Mr. LAU You Yu, Calvin","Mgr (Stamp Supply &amp; Rev Accts)","2921 2539"
+"Post Office","Financial Services Div,Stamp Supply and Revenue Accounts Section","Mr. CHOW Chi Sing, Vincent","Asst Mgr (Rev Accts)1","2921 2867"
+"Post Office","Financial Services Div,Stamp Supply and Revenue Accounts Section","Ms. WONG Kwok Bo, Lester","Asst Mgr (Rev Accts)2","2921 2326"
+"Post Office","Financial Services Div,International Mail Accounts  Section","Mr. LI Ngok Hang, Ken","Sr Mgr (International Mail Accts)","2921 2419"
+"Post Office","Financial Services Div,International Mail Accounts  Section","Ms. KUO Chun Ping, Canice","Mgr (International Mail Accts)1","2921 2246"
+"Post Office","Financial Services Div,International Mail Accounts  Section","Mr. LEE Chung Hin, Francis","Mgr (International Mail Accts)2","2921 2780"
+"Post Office","Financial Services Div,International Mail Accounts  Section","Ms. CHOY Lai Yee, Charlie","Asst Mgr (International Mail Accts)","2921 2159"
+"Post Office","Financial Services Div,Financial Management Section","Ms. CHAN Wan Chi, Priscilla","Sr Mgr (Financial Mgt)","2921 2453"
+"Post Office","Financial Services Div,Financial Management Section","Ms. HUI Ching Yan, Vanna","Mgr (Financial Mgt)","2921 2251"
+"Post Office","Financial Services Div,Financial Management Section","Mr. CHAN Kwun Kit, Michael","Asst Mgr (Financial Mgt)1","2921 2460"
+"Post Office","Financial Services Div,Financial Management Section","Miss LEE Yuen Ting, Grace","Asst Mgr (Financial Mgt)2","2921 2456"
+"Post Office","Financial Services Div,Financial Analysis Section","Mr. FUNG Ho Ming, Victor","Sr Mgr (Financial Analysis)","2921 2257"
+"Post Office","Financial Services Div,Financial Analysis Section","Mr. YIU Wing Cheung, Alex","Mgr (Financial Analysis)","2921 2495"
+"Post Office","Financial Services Div,Financial Analysis Section","Mr. HUI Kai Lam, Kenneth","Asst Mgr (Financial Analysis)1","2921 2407"
+"Post Office","Financial Services Div,Financial Analysis Section","Ms. SHAM Hoi Kei, Heidi","Asst Mgr (Financial Analysis)2","2921 2446"
+"Post Office","Financial Services Div,Financial Analysis Section","Ms. LAM Chih Wah, Inez","Asst Mgr (Financial Analysis)3","2921 2805"
+"Post Office","Financial Services Div,Financial Analysis Section","Mr. CHAN Wai Hung, Jeff","Asst Mgr (Financial Analysis)4","2921 2809"
+"Post Office","Financial Services Div,Supplies Section","Mr. TSE Ho Pan, Kenneth","Sr Mgr (Gen Supplies)","2920 3179"
+"Post Office","Financial Services Div,Supplies Section","Mr. WONG Sai Man, Simon","Mgr (Gen Supplies)1","2920 3178"
+"Post Office","Financial Services Div,Supplies Section","Ms. LI Yeuk Kei, Dorothy","Mgr (Gen Supplies)2","2920 3099"
+"Post Office","Financial Services Div,Supplies Section","Mr. SZETO Chi Pan, Jerry","Asst Mgr (Gen Supplies)","2920 3125"
+"Post Office","Financial Services Div,Supplies Section","Ms. TSE Po Yi, Agnes","Sr Supplies Supervisor (Survey)","2920 3097"
+"Post Office","Post Office,Business Development Branch","Mr. LIN Patrick Anthony","Asst Postmaster Gen (Business Dev)","2921 2205"
+"Post Office","Post Office,Business Development Branch","Ms. CHENG Heung Ching, Frances","Mgr (Adm Services)","2921 6039"
+"Post Office","Business Development Branch,Certification Authority Monitoring Section","Mr. MAK Kwok Fai, Charles","Gen Mgr (Certification Authority Monitoring)","2927 7129"
+"Post Office","Business Development Branch,Certification Authority Monitoring Section","Mr. LEE Ka Po, Wilson","Sr Mgr (Certification Authority Monitoring)","2927 7130"
+"Post Office","Business Development Branch,Certification Authority Monitoring Section","Mr. MAK  Yiu Tung, Tony","Computer Offr (CA Monitoring)1","2921 6084"
+"Post Office","Business Development Branch,Certification Authority Monitoring Section","Mr. CHEUNG Chun Wai, Johnny","Computer Offr (CA Monitoring)2","2927 7058"
+"Post Office","Business Development Branch,Business Development Div","Ms. CHOW Estella","Dir (Business Dev)","2921 2268"
+"Post Office","Business Development Div,Speedpost and Parcels Section","Mr. LO Wing Kin, Kim","Asst Gen Mgr (Speedpost)","2921 2001"
+"Post Office","Business Development Div,Speedpost and Parcels Section","Ms. LIU An Kei, Ann","Mgr (Speedpost)1","2921 6559"
+"Post Office","Business Development Div,Speedpost and Parcels Section","Mr. LEUNG Chi Ming, Harrick","Mgr (Speedpost)2","2921 2270"
+"Post Office","Business Development Div,Speedpost and Parcels Section","Ms. NG Pak Ki, Peggy","Asst Mgr (Speedpost)","2921 2271"
+"Post Office","Business Development Div,International Business 1 Section","Ms. LAI Mei Kwan, Michele","Sr Mgr (International Business)1(doubling-up)","2921 2006"
+"Post Office","Business Development Div,International Business 1 Section","Ms. LAI Mei Kwan, Michele","Mgr (International Business)1","2921 2115"
+"Post Office","Business Development Div,International Business 1 Section","Ms. YAM Wan Yin, Wendy","Asst Mgr (International Business)1","2921 2383"
+"Post Office","Business Development Div,International Business 2 Section","Mr. FONG Yui Pang, Terry","Sr Mgr (International Business)2","2921 2120"
+"Post Office","Business Development Div,International Business 2 Section","Miss WONG Ka Po, Carol","Mgr (International Business)2","2921 6591"
+"Post Office","Business Development Div,International Business 2 Section","Ms. LAW Kwan Ling, Lois","Asst Mgr (International Business)2","2921 2971"
+"Post Office","Business Development Div,Local Business Section","Mr. WUNG Ka Chun, Vincent","Sr Mgr (Local Business)","2921 2430"
+"Post Office","Business Development Div,Local Business Section","Ms. CHEUNG Sau Lai, Sandy","Mgr (Promotion &amp; Marketing)","2921 6473"
+"Post Office","Business Development Div,Local Business Section","Ms. LEE Mae Ki, Ki","Mgr (Online Sales)","2921 6557"
+"Post Office","Business Development Div,Local Business Section","Mr. YUNG Kai Tim, Tim","Asst Mgr (Retail Products)","2921 2433"
+"Post Office","Business Development Div,Local Business Section","Ms. POON Hau Chi, Priscilla","Mgr (Delivery Solutions)","2921 6574"
+"Post Office","Business Development Div,Local Business Section","Mr. LUK Shing Yan, Simon","Asst Mgr (Delivery Solutions)","2921 6043"
+"Post Office","Business Development Div,Local Business Section","Ms. NG Siu Ying, Linda","Asst Mgr (Promotion &amp; Marketing)","2921 6064"
+"Post Office","Business Development Div,Business Dev and Customer Relationship Mgt Section","Ms. LAM Yuet Choi, Sylvia","Sr Mgr (Business Dev)","2921 2431"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Business Development Team","Ms. LUI Nga Lai, Kathy","Mgr (Business Dev)","2921 6477"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Business Development Team","Mr. LEE Cheuk Kei, Angela","Asst Mgr (Business Dev)","2921 2320"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost","Mr. SUEN Hei Wai, Michael","Sales Mgr, Speedpost","2921 6030"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost","Mr. CHAN Chak Ying, Mike","Sr Acct Executive 1","2921 2793"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost"," LI Warren","Sr Acct Executive 2","2921 6549"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost"," - -","Acct Executive 1","2921 6064"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost","Mr. CHIU Yin Lung, Albert","Acct Executive 2","2921 6350"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost","Mr. LI Ka Lok, Caroli","Acct Executive 3","2921 6031"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost"," - -","Acct Executive 4","2921 2272"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost","Mr. LI Wing Yeung, Penny","Acct Executive 6","2921 6587"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost"," - -","Acct Executive 7","2921 6585"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Specialised Sales Team for Speedpost","Mr. AU Kwun To, Todd","Acct Executive 8","2921 6586"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Customer Relationship Management Team","Ms. LEE Ching Lam, Bianca","Mgr (Customer Relationship Mgt)","2921 6389"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Customer Relationship Management Team","Ms. FAN Kit Yue, Jenny","Operation Reserve","2921 6553"
+"Post Office","Business Dev and Customer Relationship Mgt Section,Customer Relationship Management Team","Mr. CHEUNG Wai Man, Raymond","System Analyst (e-Services Dev)32","2921 6139"
+"Post Office","Business Development Branch,External Affairs Div","Ms. WONG Tsz Shun, Margarita","Gen Mgr (External Affairs)","2921 2008"
+"Post Office","External Affairs Div,Terminal Dues Section","Mr. LAU Wai Hung, Dennis","Sr Mgr (Terminal Dues)","2921 6026"
+"Post Office","External Affairs Div,Terminal Dues Section","Ms. YIP Wing Sze, Yvonne","Asst Mgr (Terminal Dues)1","2921 2129"
+"Post Office","External Affairs Div,Terminal Dues Section","Mr. IP Ho Chun, Thomas","Asst Mgr (Terminal Dues)2","2921 2116"
+"Post Office","External Affairs Div,International Logistics Section","Ms. CHAN Wing Yi, Winnie","Sr Mgr (International Logistics)(doubling-up)","2921 2112"
+"Post Office","External Affairs Div,International Logistics Section","Mr. WONG Ching Kong, Raphael","Asst Mgr (International Logistics)","2921 2423"
+"Post Office","External Affairs Div,International Logistics Section","Ms. CHAN Wing Yi, Winnie","Mgr (International Relations)","2921 2079"
+"Post Office","External Affairs Div,International Logistics Section","Mr. CHAN Lok Him, Timmy","Asst Mgr (International Relations)","2921 2281"
+"Post Office","Post Office,Postal Services Branch","Mr. CHAN Yan Sum, Danny","Asst Postmaster Gen (Postal)","2921 2207"
+"Post Office","Post Office,Postal Services Branch","Ms. CHAN Heung Lai, Helen","Dir (Ops)","2921 2373"
+"Post Office","Post Office,Postal Services Branch","Mr. WAN Sung Ho, Jeremy","Gen Mgr (Operations Organisation Review)","2921 2516"
+"Post Office","Postal Services Branch,International Mail Div","Mr. WU Pak Kin, Kenneth","Gen Mgr (International Mail)","2180 2230"
+"Post Office","Postal Services Branch,International Mail Div","Ms. WONG Yuet Fong, Cecilia","Sr Mgr (International Mail Processing)","2180 2233"
+"Post Office","Postal Services Branch,International Mail Div","Mr. YEUNG Yiu Ming, Richard","Mgr (Air Letter)","2180 2232"
+"Post Office","Postal Services Branch,International Mail Div","Mr. LAU Kwok Wing, Tom","Mgr (Air Parcel)","2180 2913"
+"Post Office","Postal Services Branch,International Mail Div","Ms. FUNG Yim Yee, Candy","Sr Mgr (Speedpost Ops)","2921 6302"
+"Post Office","Postal Services Branch,International Mail Div","Mr. SO Kai Pong, Jack","Asst Mgr (International Mail Quality Assurance)","2921 6004"
+"Post Office","Postal Services Branch,International Mail Div","Mr. HUANG Chiu Wing, Mike","Mgr (Speedpost/HK)(Doubming-sideways)","2921 2193"
+"Post Office","Postal Services Branch,International Mail Div","Mr. HUANG Chiu Wing, Mike","Mgr (Speedpost/Kln &amp; NT)","2356 2749"
+"Post Office","Postal Services Branch,International Mail Div","Mr. WONG Chun Wing, Harry","Asst Mgr (Air Mail Centre)","2123 5700"
+"Post Office","Postal Services Branch,International Mail Div","Mr. CHU Chun Keung, Kris","Mgr (Air Mail Centre/Facilities Mgt)","3691 8460"
+"Post Office","International Mail Div,Mail Tracing Off","Ms. LI Wing Chong, Vivian","Asst Mgr (Mail Tracing Off)1","2921 6290"
+"Post Office","International Mail Div,Mail Tracing Off","Mr. CHAN Chi Fung, Dave","Asst Mgr (Mail Tracing Off)2","2921 2014"
+"Post Office","International Mail Div,Mail Tracing Off","Ms. LEE Yee Wah, Eva","Mgr (Mail Tracing Off)","2921 2299"
+"Post Office","Postal Services Branch,Mail Processing Div","Mr. LAU Che Fung, Steve","Gen Mgr (Mail Processing)","2908 0456"
+"Post Office","Postal Services Branch,Mail Processing Div","Ms. KO Sha Lee, Shirley","Sr Mgr (Mail Processing/ Sorting Ops)","2908 0436"
+"Post Office","Postal Services Branch,Mail Processing Div","Mr. KU Chun Fai, Nickel","Mgr (Mail Processing/ Sorting Ops)","2908 0435"
+"Post Office","Postal Services Branch,Mail Processing Div","Ms. CHOW Po Ki, Kimberly","Asst Mgr (Mail Processing)1","2908 0438"
+"Post Office","Postal Services Branch,Mail Processing Div","Mr. KWOK Ho Yeung, John","Asst Mgr (Mail Processing)2","2908 0383"
+"Post Office","Postal Services Branch,Mail Processing Div","Mr. CHEUNG Hin Kei, Hankie","Sr Mgr (Mail Processing/ Transport and Surface Mail)","2908 0458"
+"Post Office","Postal Services Branch,Mail Processing Div","Mr. KONG Ho Wai, Ivan","Mgr (Mail Processing/ Transport and Surface Mail)","2908 0457"
+"Post Office","Postal Services Branch,Mail Processing Div","Mr. LAU Chi Ming, Arion","Mgr (Mail Processing/ Facility Mgt)","2908 0459"
+"Post Office","Postal Services Branch,Mail Processing Div","Mr. YU Hou Wa, Keith","Asst Mgr (Mail Processing/ Facility Mgt)","2921 0491"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. SO Wai Man, Sonia","Gen Mgr (Mail Distribution)","2926 1100"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. CHAN Kwan Hang, Brooklyn","Sr Mgr (Mail Distribution/ HK)","2921 2302"
+"Post Office","Postal Services Branch,Mail Distribution Div","Mr. YEUNG Him Ching, Andrew","Mgr (Mail Distribution/ HK Central)","2921 2322"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. CHUNG Kit Ying, Katy","Mgr (Mail Distribution/ HK E)","2892 5001"
+"Post Office","Postal Services Branch,Mail Distribution Div","Mr. KWOK Man Ho, Peter","Asst Mgr (Mail Distribution/ HK)","2921 2016"
+"Post Office","Postal Services Branch,Mail Distribution Div","Mr. LIU Kin Cheong, Steven","Sr Mgr (Mail Distribution/ Kln)","2926 1167"
+"Post Office","Postal Services Branch,Mail Distribution Div","Mr. CHAN Wang Yan, Cyrus","Mgr (Mail Distribution/ Kln W)","2928 6230"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. HO Wan Wai, Alexis","Mgr (Mail Distribution/ Kln E)(doubling-up)","2717 8086"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. HO Wan Wai, Alexis","Asst Mgr (Mail Distribution/ K)","2926 1055"
+"Post Office","Postal Services Branch,Mail Distribution Div","Mr. WONG  Ka Yuet, Curtis","Sr Mgr (Mail Distribution/ NT)","2417 6463"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. KWOK Anita","Mgr (Mail Distribution/ NTN)","2478 0463"
+"Post Office","Postal Services Branch,Mail Distribution Div","Mr. AU Ka Wai, Michael","Mgr (Mail Distribution/ NTW)","2417 6462"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. YEE Wing Man, Wing","Mgr (Mail Distribution/ NTE)","2158 6446"
+"Post Office","Postal Services Branch,Mail Distribution Div","Ms. HUI Cho Sin, Joyce","Asst Mgr (Mail Distribution/ NT)","2417 6490"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. CHENG Chi Wai, Sammy","Gen Mgr (Retail Business)","2908 0386"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. KWAN Wai Ling, Kennis","Sr Mgr (Retail Business/Kln)(Doubling-up)","2908 0387"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. CHAN Ho Yu, Edwin","Mgr (Retail Busines/Kln E)","2908 0363"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. CHEUNG Ka Man, Jeannie","Mgr (Retail Business/Kln W)","2908 0388"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. CHO Lok Ying, Nicole","Asst Mgr (Retail Business/Kln E)","2908 0368"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. LAM Hiu Ki, Kiki","Asst Mgr (Retail Business/Kln W)","2908 0371"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. KWAN Wai Ling, Kennis","Mgr (PO Box &amp; Business Support/ Kln)","2908 0381"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. LEUNG Chun Kit, Lewis","Asst Mgr (Retail Business Support/Kln)","2908 0385"
+"Post Office","Postal Services Branch,Retail Business Div","Miss LEUNG Mei Kuen, Janice","Sr Mgr (Retail Business/NT)","2417 6408"
+"Post Office","Postal Services Branch,Retail Business Div","Miss LAM Tsz Ying, Jane","Mgr (Retail Business/NTW)","2417 6478"
+"Post Office","Postal Services Branch,Retail Business Div","Miss LIU Yan Tung, Sunnie","Mgr (Retail Business/ NTE)","2417 6459"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. KWAN Wang Yan, Ivan","Asst Mgr (Retail Business/ NTE)(Doubling-sideways)","2417 6479"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. KO Cham Tung, Jacques","Asst Mgr (Retail Business/ NTW)","2417 6480"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. KWAN Wang Yan, Ivan","Asst Mgr (Retail Business Support/NT)","2417 6409"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. LU PuI Ying, Lilian","Sr Mgr (Retail Business/HK)","2921 2759"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. WONG Lee Shing, Oliver","Mgr (Retail Business/HKE)","2921 2414"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. LEUNG Hiu Shan, Alison","Mgr (Retail Business/HKW)","2921 2303"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. TSE Tsui Wah, Donna","Asst Mgr (Retail Business/HKE)","2921 2301"
+"Post Office","Postal Services Branch,Retail Business Div","Mr. NG Cheuk Him, Tony","Asst Mgr (Retail Business/HKW)","2921 2304"
+"Post Office","Postal Services Branch,Retail Business Div","Ms. KWOK Oi In, Janus","Asst Mgr (Retail Business Support/HK)","2921 2190"
+"Post Office","Postal Services Branch,Productivity Services Section","Ms. WONG Yuen Lan, Connie","Sr Mgr (Productivity Services)","2908 0361"
+"Post Office","Postal Services Branch,Productivity Services Section","Ms. CHEUNG Mei Ting, Frances","Mgr (Productivity Services)","2908 0367"
+"Post Office","Postal Services Branch,Productivity Services Section","Miss CHOW Kim Mei, Agnes","Mgr (Safety and Health)","2908 0366"
+"Post Office","Productivity Services Section,Operations Organisation Review Team","Miss LUNG Po Shan, Ernie","Asst Industrial Engr (Operations Organisation Review)","2921 2810"
+"Post Office","Productivity Services Section,Productivity Improvement Team","Mr. CHEUNG Siu Hong, Kenny","Asst Industrial Engr (Productivity Improvement)2","2908 0430"
+"Post Office","Productivity Services Section,Productivity Improvement Team"," - -","Asst Industrial Engr (Productivity Improvement)3","2908 0399"
+"Post Office","Productivity Services Section,Productivity Improvement Team","Mr. POON Kin Chung, Kason","Asst Industrial Engr (Productivity Improvement)4","2908 0398"
+"Post Office","Productivity Services Section,Productivity Improvement Team","Mr. HO Man Keung, Kelvin","Asst Industrial Engr (Productivity Improvement)5","2908 0431"
+"Post Office","Productivity Services Section,Productivity Improvement Team","Mr. LAU Wing Shun, Wilson","Asst Industrial Engr (Productivity Improvement)6","2908 0432"
+"Post Office","Postal Services Branch,Operations Support Section","Ms. WONG Yuen Lan, Connie","Sr Mgr (Ops Support)(Doubling-sideways)","2921 2293"
+"Post Office","Postal Services Branch,Operations Support Section","Miss WONG Mei Ki, Kay","Mgr (Ops Support)","2921 2031"
+"Post Office","Postal Services Branch,Operations Support Section","Mr. CHAN Kin Yuen, Vincent","Asst Mgr (Ops Support)1","2921 2294"
+"Post Office","Postal Services Branch,Operations Support Section","Ms. HUI Pik Yan","Asst Mgr (Ops Support)2","2921 2375"
+"Post Office","Postal Services Branch,Post Offices","","",""
+"Post Office","Post Office,Infrastructure Development Div","Ms. LEE Suk Fong, Vivien","Dir (Infrastructure Dev)","2908 0333"
+"Post Office","Post Office,Infrastructure Development Div","Miss FUNG Wing Sze, Margaret","Gen Mgr (Infrastructure Dev)","2908 0100"
+"Post Office","Post Office,Infrastructure Development Div","Mr. CHAN Wai Yan","Sr Architect (Infrastructure Dev)","2908 0364"
+"Post Office","Post Office,Infrastructure Development Div","Mr. WONG Chi Wai, Mickey","Sr Quantity Surveyor (Infrastructure Dev)","2908 0360"
+"Post Office","Post Office,Infrastructure Development Div","Miss SIU Wing Mui, Wendy","Sr Mgr (Infrastructure Dev)1","2908 0332"
+"Post Office","Post Office,Infrastructure Development Div","Ms. HUNG Wing Che, Penny","Sr Mgr (Infrastructure Dev)2","2908 0339"
+"Post Office","Post Office,Infrastructure Development Div","Ms. MAN Siu Chun, Cindy","Electronics Engineer (Infrastructure Dev)","2908 0397"
+"Post Office","Post Office,Infrastructure Development Div","Mr. HO Chi Shun, Kelvin","Mgr (Infrastructure Dev)1","2908 0338"
+"Post Office","Post Office,Infrastructure Development Div","Ms. LAM Wai Yin, Jessica","Mgr (Adm Services/ Infrastructure Dev)","2908 0391"
+"Post Office","Post Office,Infrastructure Development Div","Mr. MAK Ka Chun, Henry","Asst Industrial Engr (Infrastructure Dev)1","2908 0389"
+"Post Office","Post Office,Infrastructure Development Div","Mr. YUNG Kin On, Brian","Asst Industrial Engr (Infrastructure Dev)2","2908 0056"
+"Post Office","Post Office,Infrastructure Development Div","Ms. LEUNG Nga Kwan, Terri","Asst Industrial Engr (Infrastructure Dev)3","2908 0336"
+"Post Office","Post Office,Infrastructure Development Div","Ms. TAM Hiu Tung, Yvonne","Asst Mgr (Infrastructure Dev)1","2908 0392"
+"Post Office","Post Office,Infrastructure Development Div","Mr. TAM Chin Long, Jonathan","Asst Mgr (Infrastructure Dev)2","2908 0238"
+"Post Office","Post Office,Infrastructure Development Div","Mr. TAM Tsz Ching, Ron","Asst Mgr (Infrastructure Dev)3","2908 0233"
+"Post Office","Post Office,Infrastructure Development Div","Mr. CHAN Ince Hong To","Asst Mgr (Infrastructure Dev)4","2908 0239"
+"Post Office","Post Office,Stamps & Philately Div","Mr. LAM Yuk Chiu","Gen Mgr (Stamps &amp; Philately)","2921 2275"
+"Post Office","Stamps & Philately Div,Stamps Section","Ms. TANG Bik Yi, Peggy","Sr Mgr (Stamps Design &amp; Procurement)","2921 2435"
+"Post Office","Stamps & Philately Div,Stamps Section","Ms. LEE Sui Ki, KIKI","Mgr (Stamp Design)1","2921 2386"
+"Post Office","Stamps & Philately Div,Stamps Section","Ms. WONG Yuen To, Toto","Mgr (Stamp Design)2","2921 6517"
+"Post Office","Stamps & Philately Div,Stamps Section","Mr. LEUNG Ho Fai, Homan","Asst Mgr (Stamp Procurement)","2921 6016"
+"Post Office","Stamps & Philately Div,Philatelic Marketing Section","Mr. LEE Chun Yu, Nelvin","Sr Mgr (Philatelic Marketing)","2921 6028"
+"Post Office","Stamps & Philately Div,Philatelic Marketing Section","Ms. WONG Ka Wan, Carmen","Mgr (Philatelic Marketing)(doubling-up)","2921 2390"
+"Post Office","Stamps & Philately Div,Philatelic Marketing Section","Ms. WONG Ka Wan, Carmen","Asst Mgr (Young Marketing)","2921 6019"
+"Post Office","Stamps & Philately Div,Philatelic Marketing Section","Mr. LEE Chun Lok, Dicky","Asst Mgr (Channel Marketing)","2921 6015"
+"Post Office","Stamps & Philately Div,Philatelic Marketing Section","Mr. SIT Kin Pong, Alex","Asst Mgr (Promotion and Advertising)","2921 6062"
+"Post Office","Stamps & Philately Div,Philatelic Bureau","Ms. AU Wai Ping, Aubrey","Sr Mgr (Philatelic Bureau)","2928 7228"
+"Post Office","Philatelic Bureau,Local Standing Order Service Unit/Philatelic Production Unit","Ms. YUEN Yim Ling, Elaine","Mgr (Advanced Order Service)","2928 7222"
+"Post Office","Local Standing Order Service Unit/Philatelic Production Unit,Philatelic Production Unit","","",""
+"Post Office","Philatelic Bureau,Philatelic Support Unit","Mr. WONG Hang Yan, Kenny","Asst Mgr (Philatelic Support)","2928 7223"
+"Post Office","Post Office,Internal Audit Div","Mr. HUNG Ying Hong, Arthur","Gen Mgr (Internal Audit)","2921 2487"
+"Post Office","Internal Audit Div,Field Audit Team","Ms. TSANG Yuet Mei, Alice","Mgr (Internal Audit)","2921 2794"
+"Post Office","Internal Audit Div,Special Assignment Team","Ms. CHOW Ying Ming, Yammie","Asst Mgr (Internal Audit)1","2921 2454"
+"Post Office","Internal Audit Div,Special Assignment Team","Mr. CHAN Cho Nam, John","Asst Mgr (Internal Audit)2","2921 2452"

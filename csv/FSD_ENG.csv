@@ -1,584 +1,264 @@
-"Organisation","Full Name","Post Title","Office Tel"
-"Fire Services Department","Mr. LI Kin Yat, Daryl, FSDSM","Director of Fire Services","2733 7711,2739 0989"
-"Fire Services Department","Mr. LEUNG Wai Hung, Joseph, FSDSM","Dep Director of Fire Services","2733 7722,2723 3244"
-""
-"Organisation","Service Name","Office Tel"
-"Fire Services Department","Enquiry","2723 8787"
-""
-"Organisation","Department","Full Name","Post Title","Office Tel"
-"Fire Services Department","Fire Services Department","Mr. LI Kin Yat, Daryl, FSDSM","Director of Fire Services","2733 7711,2739 0989"
-"Fire Services Department","Fire Services Department","Mr. LEUNG Wai Hung, Joseph, FSDSM","Dep Director of Fire Services","2733 7722,2723 3244"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. LI Lai Ping, Amy","Assistant Director (Administration)","2733 7777"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. CHAN Pui Han, Edna","Ch Executive Offr (Administration)","2733 1511"
-"Fire Services Department","Fire Services Department,Administration Division","Mr. CHEUNG Yat Kan, Ken","Dep Deptal Secy (Appointments)1 (Ag)","2733 7692"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. WAN Nga Yee, Mabel","Dep Deptal Secy (Appointments)2","2733 7883"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. WONG Lai Shan, Rebecca","Dep Deptal Secy (Establishment &amp; Internal Audit)","2733 7710"
-"Fire Services Department","Fire Services Department,Administration Division","Miss WONG Kam Yin, Ingrid","Dep Deptal Secy (General &amp; Staff Relations)","2733 7757"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. CHUNG Wai, Winnie","Dep Deptal Secy (Outsourcing &amp; Complaints)","2733 5891"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. KWOK Lam, Lilian","Dep Deptal Secy (Personnel)","2733 7779"
-"Fire Services Department","Fire Services Department,Administration Division","Mr. CHEUNG Yat Kan, Ken","Asst Secy (Appointments)1","2733 7692"
-"Fire Services Department","Fire Services Department,Administration Division","Miss LEE Tak Ka, Erica","Asst Secy (Appointments)2","2733 7794"
-"Fire Services Department","Fire Services Department,Administration Division","Miss CHEUNG Yan To, Connie","Asst Secy (Appointments)3","2733 1591"
-"Fire Services Department","Fire Services Department,Administration Division","Miss CHENG Wai Tsing, Teresa","Asst Secy (Appointments)4","2733 7588"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. TAM Pak Yin, Jassy","Asst Secy (Establishment)","2733 7691"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. TSANG Wun Sho, Lisa","Asst Secy (General)","2733 7693"
-"Fire Services Department","Fire Services Department,Administration Division","Mr. IP Wing To, Elvis","Asst Secy (General &amp; Personnel)","2733 7657"
-"Fire Services Department","Fire Services Department,Administration Division","Miss TSE Yeuk Nam, Yena","Asst Secy (Internal Audit)1","2733 7841"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. TAM Hiu Fung, Olivia","Asst Secy (Internal Audit)2","2733 7667"
-"Fire Services Department","Fire Services Department,Administration Division","Miss CHAN Lok Yan, Joyce","Asst Secy (Outsourcing &amp; Complaints)","2733 7694"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. CHOW Wing Yan, Monica","Asst Secy (Personnel)1","2733 7778"
-"Fire Services Department","Fire Services Department,Administration Division","Ms. CHAN Ka Man, Carmen","Asst Secy (Personnel)2","2733 7799"
-"Fire Services Department","Fire Services Department,Administration Division","Miss CHOW Yee Mau, Tracy","Asst Secy (Staff Relations &amp; Committees)","2733 7846"
-"Fire Services Department","Administration Division,Appointments Registry","Mr. YOUNG Chun Wai, James","SCO (Appointments)","2733 7520"
-"Fire Services Department","Administration Division,Appointments Registry","Ms. MOO Man Ching, Miranda","CO (Appointments)","2733 7673"
-"Fire Services Department","Administration Division,Appointments Registry","Ms. YIM Fung Ho, Frankie","CO (Career Development)","2733 7680"
-"Fire Services Department","Administration Division,Establishment Registry","Ms. CHENG Pui Man","CO (Est)(Ag)","2733 7682"
-"Fire Services Department","Administration Division,Finance Section","Mr. CHOW Kim Wa, Lorrience","Senior Treasury Accountant","2733 5846"
-"Fire Services Department","Administration Division,Finance Section","Mr. WONG Wah Kui, Nick","Accounting Officer I(1)","2733 7835"
-"Fire Services Department","Administration Division,Finance Section","Mr. NG Kwok Kwong, Mark","Accounting Officer I(2)","2733 1599"
-"Fire Services Department","Administration Division,Finance Section","Ms. POON Shuk Yee, Wendy","SCO (Accts)","2733 7702"
-"Fire Services Department","Administration Division,Finance Section","Ms. WONG Wai Ling","CO (Personal Emoluments &amp; Revenue)","2733 7703"
-"Fire Services Department","Administration Division,Finance Section","Miss CHAN Po Chun","CO (Departmental Expenses)","2733 7668"
-"Fire Services Department","Administration Division,Finance Section","Ms. LEE Yee Man","CO (Captial Accounts &amp; Outsourcing)","2733 7690"
-"Fire Services Department","Administration Division,Finance Section","Mr. NG Wai Keung","CO (Payment Vouchers Exam &amp; Financial Information)","2733 7591"
-"Fire Services Department","Administration Division,Finance Section","Ms. WONG Man Lai, Stella","CO (Accrual Accounting)","2733 1569"
-"Fire Services Department","Administration Division,General Registry","Miss HUI Kit Ling, Carmen","SCO (Information Management) (Ag)","2733 7524"
-"Fire Services Department","Administration Division,General Registry","Ms. KIT Yuk Ping, Kitty","CO (General)","2733 7670"
-"Fire Services Department","Administration Division,General Registry","Miss SIU Choi Kuen, Chelsea","CO (Allowances, Examinations &amp; Traffic Accidents)","2733 7868"
-"Fire Services Department","Administration Division,General Registry","Mr. KWOK Yiu Man, Elman","CO (Housing1)","2733 7610"
-"Fire Services Department","Administration Division,General Registry","Ms. TANG Lai Ming","CO (Housing2)","2733 7843"
-"Fire Services Department","Administration Division,Internal Audit","Ms. KWAN Mei Kay, Maggie","CO (Internal Audit)1","2733 7832"
-"Fire Services Department","Administration Division,Internal Audit","Mr. HO Chi Ming","CO (Internal Audit)2","2733 7833"
-"Fire Services Department","Administration Division,Official Languages Section","Ms. SIU Tsui Yee","Ch Official Lang Offr (Ag)","2733 7699"
-"Fire Services Department","Administration Division,Official Languages Section","Ms. YEUNG Ching Yee, Natalie","Official Lang Offr I","2733 7867"
-"Fire Services Department","Administration Division,Official Languages Section","Ms. CHOI Oi Wah, Bellie","Official Lang Offr II","2733 7838"
-"Fire Services Department","Administration Division,Official Languages Section","Mr. YAM Cheuk Kit, Jacky","Official Lang Offr  II","2733 7701"
-"Fire Services Department","Administration Division,Official Languages Section","Ms. HUI Pui Ting, Ashley","Official Lang Offr II","2733 7839"
-"Fire Services Department","Administration Division,Official Languages Section","Mr. AU Fai Pang, Arthur","Official Lang Offr II","2733 7767"
-"Fire Services Department","Administration Division,Outsourcing and Complaints","","",""
-"Fire Services Department","Administration Division,Personnel Registry","Ms. CHIU Chi Wai, Dorothy","SCO (Personnel)","2733 7562"
-"Fire Services Department","Administration Division,Personnel Registry"," (VACANT)","CO (Per &amp; Staff Mgt)","2733 7676"
-"Fire Services Department","Administration Division,Personnel Registry"," (VACANT)","CO (Leave &amp; Computer)","2733 7510"
-"Fire Services Department","Administration Division,Personnel Registry","Ms. LAU Kit Yi","CO (Medical Board &amp; Employee's Compensation)(Ag)","2733 7644"
-"Fire Services Department","Administration Division,Staff Relations & Committees Registry","","",""
-"Fire Services Department","Fire Services Department,Ambulance Command","Mr. CHAN Shiu Kwan","Assistant Director (Ambulance)","2272 9191"
-"Fire Services Department","Fire Services Department,Ambulance Command","Ms. TSANG Man Ha","Dep Ch Ambulance Offr","2272 9192"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. KWOK Kin Man","Sr Asst Ch Ambulance Offr (HQ)","2272 9193"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. NG Ling Jim","Asst Ch Ambulance Offr (HQ)","2272 9194"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. LAM Cheuk Ho","Supt(Ambulance) (Staff)","2272 9199"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. CHOU Wing Yin","Supt(Ambulance) (RM)","2272 9188"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Ms. PUN Kok Ching","Supt(Ambulance) (FM)","2117 6588"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. WU Kit","Sr Ambulance Offr (Staff)1(Ag)","2272 9197"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. HO Chi Chung","Sr Ambulance Offr (Staff)2","2272 9198"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. CHENG Tsz Wing","Sr Ambulance Offr (Staff)3","2272 9174"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. YUEN Yiu Leung","Sr Ambulance Offr (RM)1","2272 9187"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. YEUNG Keung Sang","Sr Ambulance Offr (RM)2","2272 9185"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. LI Ho Kei","Sr Ambulance Offr (FM)1","2117 6589"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Mr. WONG Ming Sum","Sr Ambulance Offr (FM)2","2117 6587"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Miss FUNG Tik Man, Mandy","EO(Amb)","2272 9164"
-"Fire Services Department","Ambulance Command,Ambulance Command Headquarters","Ms. CHAN Siu Ling, Honor","SCO(Amb)(Ag)","2272 9189"
-"Fire Services Department","Ambulance Command,Hong Kong & Kowloon Region","Mr. LO Shun Tong","Sr Asst Ch Ambulance Offr (Hong Kong &amp; Kowloon Region)","2770 7706"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong  East Sub-division","Ms. LEUNG Yuk Wah","Asst Ch Ambulance Offr (Hong Kong) (Ag)","2885 1101"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong  East Sub-division","Mr. LAI  Pok Man","Supt(Ambulance) (Hong Kong East)(Ag)","2569 3550"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong  East Sub-division","Mr. AU-YEUNG Wang Kin","Depot Commander Sai Wan Ho Ambulance Depot","2569 7627"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong  East Sub-division","Mr. CHONG Kai Man","Depot Commander Braemar Hill Ambulance Depot","2571 5293"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong  East Sub-division","Mr. TSUI Ming Yin","Depot Commander Morrison Hill Ambulance Depot","2893 5592"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong  East Sub-division","Mr. YUEN Ho Cheung","Station Commander Chai Wan Ambulance Station","2556 6490"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong West Sub-division","Ms. LEUNG Yuk Wah","Asst Ch Ambulance Offr (Hong Kong) (Ag)","2885 1101"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong West Sub-division","Mr. AU Chun Bong","Supt(Ambulance) (Hong Kong West)","2875 5110"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong West Sub-division","Mr. CHAN Yin Tai","Depot Commander Aberdeen Ambulance Depot","2541 6644"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong West Sub-division","Mr. CHEUNG Yung","Depot Commander Pok Fu Lam Ambulance Depot","2551 6000"
-"Fire Services Department","Hong Kong & Kowloon Region,Hong Kong West Sub-division","Mr. LAM Ho Cheung","Depot Commander Mount Davis Ambulance Depot","2819 7967"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon East Sub-division","Mr. LEUNG Kwok Lai","Asst Ch Ambulance Offr (Kowloon East)","2778 5708"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon East Sub-division","Mr. TANG Kin Tai","Supt(Ambulance) (Kowloon East)","2323 9973"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon East Sub-division","Mr. CHO Ho Yin","Depot Commander Wong Tai Sin Ambulance Depot(Ag)","2323 9949"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon East Sub-division","Mr. TAM Ngo Yin","Depot Commander Ngau Tau Kok Ambulance Depot","2750 1710"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon East Sub-division","Mr. AU Siu Ming","Depot Commander Po Lam &amp; Tai Chik Sha Ambulance Depot","2701 0955"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon East Sub-division","Mr. LEE Yat Shing","Depot Commander Lam Tin Ambulance Depot","2952 3861"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon West Sub-division","Ms. LEE Shui Ching","Asst Ch Ambulance Offr (Kowloon Central and West)","2770 7155"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon West Sub-division","Mr. TONG  Sze Ho","Supt(Ambulance) (Kowloon West) (Ag)","2770 8144"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon West Sub-division","Ms. MAN Ka Ki","Depot Commander Mong Kok Ambulance Depot (Ag)","2117 6570"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon West Sub-division","Ms. NG Yuen Kiu, Yuki","Depot Commander Tsim Tung Ambulance Depot","2311 5111"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon West Sub-division","Mr. WONG Po Lung","Depot Commander Yau Ma Tei Ambulance Depot","2770 2547"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon West Sub-division","Mr. YUEN Chung Ho","Depot Commander Cheung Sha Wan Ambulance Depot","2708 1573"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon West Sub-division","Mr. WU Chun","Depot Commander Lai Chi Kok Ambulance Depot","2959 1857"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon Central Sub-division","Ms. LEE Shui Ching","Asst Ch Ambulance Offr (Kowloon Central and West)","2770 7155"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon Central Sub-division","Mr. LAU Kam Kay, Stephen","Supt(Ambulance) (Kowloon Central)","2363 3807"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon Central Sub-division","Mr. CHAN Howin","Depot Commander Ho Man Tin Ambulance Depot","2624 6110"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon Central Sub-division","Mr. LEUNG Wing Shun","Depot Commander Kowloon Tong Ambulance Depot","3793 6499"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon Central Sub-division","Mr. CHUNG Wai Wo","Depot Commander Ma Tau Chung Ambulance Depot","2714 3746"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon Central Sub-division","Ms. FUNG San Yen, Sunny","Depot Commander Pak Tin Ambulance Depot","2776 7803"
-"Fire Services Department","Hong Kong & Kowloon Region,Kowloon Central Sub-division","Mr. CHAN Hiu Fat","Sr Ambulance Offr (Special Support)","2363 3907"
-"Fire Services Department","Ambulance Command,New Territories Region","Mr. YEUNG Sai Shun, Paul, FSMSM","Sr Asst Ch Ambulance Offr (New Territories Region)","2417 5788"
-"Fire Services Department","New Territories Region,New Territories North East Sub-division","Mr. WONG Lut Man","Asst Ch Ambulance Offr (New Territories North)(Ag)","2651 8396"
-"Fire Services Department","New Territories Region,New Territories North East Sub-division","Mr. FUNG Yu Key","Supt(Ambulance) (New Territories North East)(Ag)","2694 8601"
-"Fire Services Department","New Territories Region,New Territories North East Sub-division","Mr. CHENG Tak Shing","Depot Commander Tai Po Ambulance Depot","2658 0359"
-"Fire Services Department","New Territories Region,New Territories North East Sub-division","Mr. LEUNG Yip","Depot Commander Fanling Ambulance Depot","2669 2250"
-"Fire Services Department","New Territories Region,New Territories North East Sub-division","Mr. LAU Chi Yeung","Depot Commander Tin Shui Wai Ambulance Depot","2445 0033"
-"Fire Services Department","New Territories Region,New Territories North East Sub-division","Mr. WONG Chun Kin","Depot Commander Lau Fau Shan Ambulance Depot","2446 2892"
-"Fire Services Department","New Territories Region,New Territories North East Sub-division","Mr. LEUNG Man Ho","Depot Commander Sheung Shui Ambulance Depot","2671 1271"
-"Fire Services Department","New Territories Region,New Territories North West Sub-division","Mr. WONG Lut Man","Asst Ch Ambulance Offr (New Territories North)(Ag)","2651 8396"
-"Fire Services Department","New Territories Region,New Territories North West Sub-division","Mr. TONG King Man","Supt(Ambulance) (New Territories North West)","2430 9137"
-"Fire Services Department","New Territories Region,New Territories North West Sub-division","Mr. WONG Ka Chun","Depot Commander Castle Peak Bay &amp; Sham Tseng Ambulance Depot","2451 7170"
-"Fire Services Department","New Territories Region,New Territories North West Sub-division","Mr. HUI Sze Choi","Depot Commander Yuen Long Ambulance Depot","2474 6845"
-"Fire Services Department","New Territories Region,New Territories North West Sub-division","Ms. LI  Yan Yee","Depot Commander Tuen Mun Ambulance Depot","2463 2125"
-"Fire Services Department","New Territories Region,New Territories South East Sub-division","Mr. CHAN Wai Kuen","Asst Ch Ambulance Offr (New Territories South)","2417 5784"
-"Fire Services Department","New Territories Region,New Territories South East Sub-division","Mr. WU Sit Hung","Supt(Ambulance) (New Territories South East)","2607 0817"
-"Fire Services Department","New Territories Region,New Territories South East Sub-division","Mr. YEUNG Pui Hoi","Depot Commander Tin Sum Ambulance Depot","2681 0713"
-"Fire Services Department","New Territories Region,New Territories South East Sub-division","Mr. CHAN Wai Chun","Depot Commander Sha Tin Ambulance Depot","2691 2514"
-"Fire Services Department","New Territories Region,New Territories South East Sub-division","Mr. YIP Ho Yin, Chris","Depot Commander Ma On Shan Ambulance Depot","2640 3619"
-"Fire Services Department","New Territories Region,New Territories South East Sub-division","Mr. SHUM Ka Yam","Depot Commander Lei Muk Shue Ambulance Depot","2487 1957"
-"Fire Services Department","New Territories Region,New Territories South West Sub-division","Mr. CHAN Wai Kuen","Asst Ch Ambulance Offr (New Territories South)","2417 5784"
-"Fire Services Department","New Territories Region,New Territories South West Sub-division","Mr. LEUNG Tak Yiu","Supt(Ambulance) (New Territories South West)","2417 5789"
-"Fire Services Department","New Territories Region,New Territories South West Sub-division","Mr. YUEN Ka Wai","Depot Commander Kwai Chung Ambulance Depot","2417 5750"
-"Fire Services Department","New Territories Region,New Territories South West Sub-division","Mr. WONG Sui Ki","Depot Commander Tsuen Wan Ambulance Depot","2416 2751"
-"Fire Services Department","New Territories Region,New Territories South West Sub-division","Mr. CHEUNG Lok Yin","Depot Commander Tsing Yi &amp; Penny's Bay Ambulance Depot","2495 5080"
-"Fire Services Department","New Territories Region,New Territories South West Sub-division","Mr. LEUNG Wai Ho","Depot Commander Tung Chung Ambulance Depot","2988 8282"
-"Fire Services Department","New Territories Region,New Territories South West Sub-division","Mr. LAU Siu Fai","Depot Commander Hong Kong-Zhuhai-Macao Bridge Ambulance Depot","2516 0205"
-"Fire Services Department","Fire Services Department,Fire Safety Command","Mr. CHUI Man Leung","Assistant Director (Fire Safety)","2170 9595"
-"Fire Services Department","Fire Services Department,Fire Safety Command","Mr. KEUNG Sai Ming, Sam","Dep Ch Fire Offr (Fire Safety) (Ag)","2170 9696"
-"Fire Services Department","Fire Services Department,Fire Safety Command","Mr. TSE Ying Kit","Fire Staff Offr (Fire Safety)","2170 9699"
-"Fire Services Department","Fire Safety Command,Administration","Miss YIP Wai Sum, Blaise","EO (Fire Safety)","2170 9688"
-"Fire Services Department","Fire Safety Command,Administration","Ms. CHAN Mei Fong","CO (Fire Safety)1","2170 9664"
-"Fire Services Department","Fire Safety Command,Administration","Ms. LEE Choi Ha","CO (Fire Safety)2","2170 9663"
-"Fire Services Department","Fire Safety Command,Airport Expansion Project Division (AEP)","Mr. YIP Yun Yu","Sr Div Offr (Airport Expansion Project)","3971 4688"
-"Fire Services Department","Fire Safety Command,Airport Expansion Project Division (AEP)","Mr. TANG Ng Kit","Div Offr (Airport Expansion Project)","3971 4686"
-"Fire Services Department","Fire Safety Command,Airport Expansion Project Division (AEP)","Mr. CHUNG Kin Kee","Asst Div Offr (Airport Expansion Project)1","3971 4683"
-"Fire Services Department","Fire Safety Command,Airport Expansion Project Division (AEP)","Mr. CHAN Ho Sum","Asst Div Offr (Airport Expansion Project)2","3971 4605"
-"Fire Services Department","Fire Safety Command,Airport Expansion Project Division (AEP)","Mr. MA Chun Yue","Engr (Airport Expansion Project)","3971 4666"
-"Fire Services Department","Fire Safety Command,Airport Expansion Project Division (AEP)","Mr. CHEUNG Wai Bun","Prin Tech Offr (Airport Expansion Project)","3971 4668"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. WONG Heung Wing","Sr Div Offr (Building Improvement)1","2807 9199"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. SZE Man Yuk","Div Offr (Building Improvement)1(Ag)","2807 9122"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. MOK Wai Chi","Asst Div Offr (Building Improvement)1","2807 9133"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. LIU Wai Sum","Asst Div Offr (Building Improvement)1","2807 9128"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. SZE Man Yuk, Simon","Asst Div Offr (Building Improvement)1","2535 3303"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. MAN Ka Cheung","Asst Div Offr (Building Improvement)1","2807 9180"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. FAN Kai Yip","Engr (Building Improvement)1","2807 9118"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. CHAN Kam Man","Prin Tech Offr (Building Improvement)1","2807 9166"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)1","Mr. LAM Shu Wing","Sr Bldg Services Insp (Building Improvement)1(Ag)","2807 9198"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. LAU Kwok Fu","Sr Div Offr (Building Improvement)2","2272 9177"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. SUN Ka Hing","Div Offr (Building Improvement)2","2272 9178"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. NG Shu Wing","Asst Div Offr (Building Improvement)2","2272 9168"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. CHUM Tai Kong","Asst Div Offr (Building Improvement)2","2272 9133"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. CHOW Wai Yip","Asst Div Offr (Building Improvement)2","2272 9118"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. MO Shan Hoi","Asst Div Offr (Building Improvement)2","2272 9138"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. CHAU Kam Ki","BSE (Building Improvement)2","2117 6501"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. FOK Wai Lam","Prin Tech Offr (Building Improvement)2","2117 6514"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. YIM Chi Wai","Prin Tech Offr (Building Improvement)2","2117 6503"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. TANG Choi Chin","Ch Tech Offr (Building Improvement)2","2117 6516"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)2","Mr. WONG Sen Shan","Sr Bldg Services Insp (Builing Improvement)2(Ag)","2117 6502"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)3","Mr. HOI Wai Ming","Sr Div Offr (Building Improvement)3","2170 9625"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)3","Mr. WONG Chun Keung","Asst Div Offr (Building Improvement)3","2170 9622"
-"Fire Services Department","Fire Safety Command,Building Improvement (BI)3","Mr. CHAN Man Cheung","Asst Div Offr (Building Improvement)3","2170 9623"
-"Fire Services Department","Building Improvement (BI)3,Complaint Section / Special Enforcement Unit","Mr. NGAI Chor Fung, Albert","Div Offr (Building Improvement)3","2272 9179"
-"Fire Services Department","Building Improvement (BI)3,Complaint Section / Special Enforcement Unit","Mr. CHOW Kwong Yu","Asst Div Offr (CS/SEU)","2272 9176"
-"Fire Services Department","Building Improvement (BI)3,Complaint Section / Special Enforcement Unit","Mr. LAI  King Leung","Asst Div Offr (CS)","2117 6559"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. WONG Wang Leong, Wade","Sr Div Offr (Community Emergency Preparedness)","2197 3636"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Ms. CHEUNG Kapo","Asst Ch Ambulance Offr (Community Emergency Preparedness)(Ag)","2197 3686"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. WONG Chi Man","Div Offr (Community Emergency Preparedness)","2197 3666"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Ms. NG Yuen Yan","Supt (Community Emergency Preparedness)","2197 3688"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. TONG Wai Tung","Asst Div Offr (Community Emergency Preparedness)1","2197 3601"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. LO  Wai Pun","Asst Div Offr (Community Emergency Preparedness)2","2197 3602"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. WU Wai Hung","Asst Div Offr (Community Emergency Preparedness)3","2197 3603"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. WONG Man Kin","Asst Div Offr (Community Emergency Preparedness)4","2197 3604"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. CHIU Wing Fai","Asst Div Offr (Community Emergency Preparedness)5","2411 8627"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. KAM Hok Lai","Sr Ambulance Offr (Community Emergency Preparedness)1","2197 3611"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. WONG Wing Chi","Sr Ambulance Offr (Community Emergency Preparedness)2","2197 3612"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. FAN Chun Yin, Rex","Sr Infn Offr (Community Emergency Preparedness)","2733 1561"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Mr. FUNG Chun Man, Stanley","Infn Offr (Community Emergency Preparedness)","2733 1562"
-"Fire Services Department","Fire Safety Command,Community Emergency Preparedness Division (CEP)","Ms. TSI Wai Ling","CO(Community Emergency Preparedness)","2197 3693"
-"Fire Services Department","Fire Safety Command,Loan Scheme Supporting Team","Mr. WAN Shun Leung, Vincent","Ch Executive Offr (Headquarters Services)","2733 7804"
-"Fire Services Department","Fire Safety Command,Loan Scheme Supporting Team","Miss YIP Wai Sum, Blaise","EO (Fire Safety)","2170 9688"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. LEE Kin Chung","Sr Div Offr (New Projects) (Ag)","3971 4600"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. KWOK Wai Shun","Div Offr (New Projects)1","3971 4611"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. CHAN Kim Man","Div Offr (New Projects)2","3971 4602"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. LAM Shun Wa","Div Offr (New Projects)3","3971 4601"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. LI Leong Kiu","Asst Div Offr (New Projects)11(Ag)","3971 4613"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. TANG Wai Kwong","Asst Div Offr (New Projects)12","3971 4612"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. LAU Chun Kit","Asst Div Offr (New Projects)13 (Ag)","3971 4671"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. WOO Yuen Kwong, Wilson","Asst Div Offr (New Projects)21","3971 4621"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. CHUNG Chi Kong","Asst Div Offr (New Projects)22","3971 4622"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. LI  Siu Fai","Asst Div Offr (New Projects)23 (Ag)","3971 4637"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. CHENG Chit Fai","Asst Div Offr (New Projects)31","3971 4682"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. SHIN Kar Tsai","Asst Div Offr (New Projects)32 (Ag)","3971 4608"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. LEUNG  Kam Man","Sr Engineer (Fire Safety)","3971 4603"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. CHAN Ka Chun","Engr (New Projects)","3971 4661"
-"Fire Services Department","Fire Safety Command,New Projects Division (NP)","Mr. FUNG Yau Cheong","CO (New Projects)","3971 4640"
-"Fire Services Department","Fire Safety Command,Railway Development Strategy Division (RDS)","Mr. CHIU Wai Kin","Sr Div Offr (Railway Development Strategy)","2259 6211"
-"Fire Services Department","Fire Safety Command,Railway Development Strategy Division (RDS)","Mr. PANG Kin On","Div Offr (Railway Development Strategy)","2259 6212"
-"Fire Services Department","Fire Safety Command,Railway Development Strategy Division (RDS)","Mr. CHAN King Keung","Asst Div Offr (Railway Development Strategy)1","2259 6213"
-"Fire Services Department","Fire Safety Command,Railway Development Strategy Division (RDS)","Mr. LEUNG Ming Ho","Asst Div Offr (Railway Development Strategy)2","2259 6215"
-"Fire Services Department","Fire Safety Command,Railway Development Strategy Division (RDS)","Mr. MAK Chi Chung","Engr (Railway Development Strategy)1","2259 6216"
-"Fire Services Department","Fire Safety Command,Railway Development Strategy Division (RDS)","Mr. LUI Chung Ming","Engr (Railway Development Strategy)2","2259 6218"
-"Fire Services Department","Fire Safety Command,Railway Development Strategy Division (RDS)","Mr. LAU Tze Man","Prin Tech Offr (Railway Development Strategy)","2259 6250"
-"Fire Services Department","Fire Safety Command,Support Division (SUP)","Mr. LEE Koon Yau","Sr Div Offr (Support)","2170 9500"
-"Fire Services Department","Fire Safety Command,Support Division (SUP)","Mr. FOK Siu Pong","Div Offr (Support)","2170 9501"
-"Fire Services Department","Fire Safety Command,Support Division (SUP)","Mr. WATT Wing Lun","Asst Div Offr (Support)1","2170 9502"
-"Fire Services Department","Fire Safety Command,Support Division (SUP)","Mr. YEUNG Chi Yung","Asst Div Offr (Support)2","2170 9624"
-"Fire Services Department","Fire Services Department,Fire Services Headquarters Command","Mr. TSANG Wing Hung, Terrance","Assistant Director (Headquarters)","2733 7733,2724 4699"
-"Fire Services Department","Fire Services Department,Fire Services Headquarters Command","Mr. CHAN Derek Armstrong","Dep Ch Fire Offr (Headquarters)","2723 4477,2733 7734"
-"Fire Services Department","Fire Services Department,Fire Services Headquarters Command","Mr. CHENG Sui On","Dep Ch Fire Offr (Quality Assurance and Management)","2733 4000"
-"Fire Services Department","Fire Services Department,Fire Services Headquarters Command","Mr. WAN Shun Leung, Vincent","Ch Executive Offr (Headquarters Services)","2733 7804"
-"Fire Services Department","Fire Services Headquarters Command,E & M Electronic Maintenance Centre","Mr. TSE Leung Sun","Sr Electronic Insp","2733 7558"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHENG Sui On","Commandant, Fire and Ambulance Services Academy","2411 8801"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. AU YEUNG Hong","Dep Commandant (Fire Services Training)(Ag)","2411 8802"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. YANG Kin Sang","Dep Commandant (Technical Rescue)","2411 8805"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. NG Hau Ming","Dep Commandant (Ambulance Services Training)","2411 8701"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LAM Ming Yip","Asst Commandant (Quality Assurance)","2411 8813"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHOI Kwok Chung","Asst Commandant (Technical Rescue)","2411 8804"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHOY Ka Fai","Asst Commandant (Foundation Training)(Ag)","2411 8803"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. MA Shun Cheong","Asst Commandant (Ambulance Services Training)","2411 8702"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LAM Wai To","Asst Div Offr (Foundation Training)1","2411 8807"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LAI Ka Hang","Asst Div Offr (Foundation Training)2","2411 8806"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHOY Ka Fai","Asst Div Offr (Foundation Training)3[Doubling-up Asst Commandant (Foundation Training)]","2411 8812"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. TANG Kam Fu","Asst Div Offr (Driving Training Centre)","2411 8750"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHU Wai Man","Asst Div Offr (Compartment Fire Behaviour Training)1","2411 8808"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LEUNG Kai Chuen","Asst Div Offr (Compartment Fire Behaviour Training)2 (Adm)","2411 8868"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. KWOK Chi Kwan","Asst Div Offr (High Angle Rescue Team)","2411 8811"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. NG Ka Lok","Asst Div Offr (Urban Search and Rescue)","2411 8819"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. NG Hin Wah","Asst Div Offr (HazMat)","2411 8848"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LEUNG Ka Sing","Asst Div Offr (Rescue Training Centre)","2114 8018"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LO Shui Sang","Asst Div Offr (Quality Assurance and Training)","2411 8815"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHEUNG Yiu Cho","Asst Div Offr (Incident Safety Team)H","2557 6308"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHAN Tsz Kwan, Peter","Asst Div Offr (Incident Safety Team)K","2673 5116"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. WONG Yiu Cheong","Asst Div Offr (Incident Safety Team)NTN","2320 2096"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHOW Chiu Leung","Asst Div Offr (Incident Safety Team)NTS","2673 5299"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Ms. LAU Shuk Fai","Supt (Quality Assurance and Ambulance Services Training)","2411 8703"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. NIP Tat Chi","Sr Ambulance Offr (Foundation Training)1","2411 8706"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LIU Kay Yip","Sr Ambulance Offr (Foundation Training)2","2411 8707"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. CHAN Tin Lok","Sr Ambulance Offr (Quality Assurance)1","2411 8711"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. LEUNG Hoi Kei","Sr Ambulance Offr (Quality Assurance)2","2411 8712"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Mr. TAM Kit Fung","Sr Ambulance Offr (Paramedic Development)","2411 8708"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Ms. CHAN Ying Fong, Karrie","EO(FASA)","2411 8818"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Miss CHAN Nga Hin, Jessie","EO(SD)","2411 8817"
-"Fire Services Department","Fire Services Headquarters Command,Fire and Ambulance Services Academy (FASA)","Ms. CHING Mei Yee, Alexandria","CO(FASA)","2411 8820"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. FOK Chun Ming","Sr Div Offr (4GMS) (Ag)","2733 1512"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. CHAN Fei Yeung, Denis","Asst Div Offr (4GMS) (Ag)","2733 5814"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. TSE Chi Hang","Sr Amb Offr (4GMS)","2733 5867"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. CHAM Ho Wan, Hugo","Sr Station Offr (4GMS)1","2733 5865"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Ms. WONG On Ki","Sr Station Offr (4GMS)2","2733 5864"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. WONG Chi Shing, Patrick","Station Offr (4GMS)","2733 5866"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. TSANG Chi Pan, Dias","Land Surveyor (4GMS)","2733 4060"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. HON Ming, Billy","Engr/E&amp;R (4GMS)1","2733 4061"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. NG Kam Hon, Joe","Engr/E&amp;R (4GMS)2","2733 4080"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. YUEN Chi Wan, Vincent","IT Sys Manager (4GMS)","2733 5863"
-"Fire Services Department","Fire Services Headquarters Command,Fourth Generation Mobilising System Unit (4GMS)","Mr. LAM Kat Hung, Alex","Sys Manager (4GMS)","2733 5869"
-"Fire Services Department","Fire Services Headquarters Command,Grade Structure Review Unit","Mr. CHAN Ho Tak, Ted","Divisional Officer (Grade Structure Review)","2733 7576"
-"Fire Services Department","Fire Services Headquarters Command,Grade Structure Review Unit","Mr. CHIM Pak Lam","Superintendent (Ambulance)(Grade Structure Review)","2733 7579"
-"Fire Services Department","Fire Services Headquarters Command,Grade Structure Review Unit","Mr. YEUNG Sui Sang","Asst Div Offr (Grade Structure Review)","2733 7578"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. CHAN To Cheung","Sr Div Offr (Information Technology Management Unit)","2733 5830"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. NG Shiu Kwan","Div Offr (Information Technology Management Unit)","2733 7866"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. WONG Man Yan","Asst Div Offr (Information Technology Management Unit)1","2733 7655"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. TSUI Chun Ho","Asst Div Offr (Information Technology Management Unit)2","2733 7898"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. NG Wing Fat","Sr Station Offr (Information Technology Management Unit) 2","2733 7536"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. YAU Hiu Sang","Sr Station Offr (Information Technology Management Unit)3","2733 5818"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. LAM Yiu Wah","Information Technology Services Manager (Information Technology Management Unit)","2733 7810"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. IP Shing Kee","Senior Telecommunications Engineer (Information Technology Management Unit)","2733 7817"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Mr. WONG Ching Kei","Land Surveyor (Information Technology Management Unit)","2733 7812"
-"Fire Services Department","Fire Services Headquarters Command,Information Technology Management Unit (ITMU)","Ms. LAI Tsui Ping, Anne","CO","2733 7864"
-"Fire Services Department","Fire Services Headquarters Command,Information Unit","Ms. IP Chui Ying, Michelle","Prin Infn Offr","2733 7720"
-"Fire Services Department","Fire Services Headquarters Command,Information Unit","Ms. CHAN Sui Lei, Shirley","Sr Infn Offr","2733 7539"
-"Fire Services Department","Fire Services Headquarters Command,Information Unit","Mr. FAN Chun Yin, Rex","Sr Infn Offr","2733 1561"
-"Fire Services Department","Fire Services Headquarters Command,Information Unit"," (VACANT)","Infn Offr","2733 7719"
-"Fire Services Department","Fire Services Headquarters Command,Information Unit","Ms. LING Tsz Wun, Vienna","Infn Offr","2733 7870"
-"Fire Services Department","Fire Services Headquarters Command,Information Unit","Mr. FUNG Chun Man, Stanley","Infn Offr","2733 1562"
-"Fire Services Department","Fire Services Headquarters Command,Information Unit","Mr. NG Kwan Yi, Gabriel","Asst Infn Offr","2733 7850"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. LOK Kin Chong","Sr Div Offr (Management Group)","2733 7747"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. CHEU Yu Kok","Div Offr (Management Group)1","2733 7818"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. TANG Wing Wah","Div Offr (Management Group)2","2733 7820"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. KONG Wai Chung","Asst Div Offr (Management Group)1","2733 7741"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. CHUI Kwong Yiu","Asst Div Offr (Management Group)2","2733 7742"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. WAN Fai","Asst Div Offr (Management Group)3","2733 7525"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)"," (VACANT)","Asst Div Offr (Management Group)4","2733 7570"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. TANG Long Kiu","Sr Station Offr (Management Group)1","2733 7743"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. CHEUNG Chun Ngai","Sr Station Offr (Management Group)2","2733 7853"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. KWAN Yiu Ki, George","Sr Station Offr (Management Group)3","2733 7892"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. NG  Ho Man","Sr Station Offr (Management Group) Special Duty","2733 4088"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. FAN Chi Ho","Sr Station Offr (Management Group) Special Duty1","2733 5848"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Ms. YEUNG Ching Yee, Carey","CEO (Management Group)","2733 7575"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Mr. CHAN Chun Tat","CEO (Publications)","2733 1590"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Miss TSE Hoi Kei, Emily","EO (Management Group)1","2733 5859"
-"Fire Services Department","Fire Services Headquarters Command,Management Group (MG)","Miss MA Cheuk Ying, Kristy","EO (Management Group)2","2733 4057"
-"Fire Services Department","Management Group (MG),Fire Services Club","","",""
-"Fire Services Department","Management Group (MG),Occupational Safety and Health Unit (OSHU)","Mr. LEUNG Kar Chun","Div Offr (OSH)","2411 8651"
-"Fire Services Department","Management Group (MG),Occupational Safety and Health Unit (OSHU)","Mr. CHEUNG Kwok Fung","Supt (OSH)","2411 8653"
-"Fire Services Department","Management Group (MG),Occupational Safety and Health Unit (OSHU)","Mr. CHOW Chin Choi","Asst Div Offr (OSH)","2411 8652"
-"Fire Services Department","Management Group (MG),Occupational Safety and Health Unit (OSHU)","Mr. LI Yiu Man","Sr Div Occupational Safety Offr (OSH)","2411 8654"
-"Fire Services Department","Management Group (MG),Occupational Safety and Health Unit (OSHU)","Mr. CHAN Wai Cheong","Sr Ambulance Offr (OSH)","2411 8655"
-"Fire Services Department","Management Group (MG),Occupational Safety and Health Unit (OSHU)","Mr. CHAN Wai Yip","Sr Station Offr (OSH)","2411 8656"
-"Fire Services Department","Management Group (MG),Occupational Safety and Health Unit (OSHU)","Mr. LEUNG Yu Hin","Occupational Safety Offr II(OSH)","2411 8657"
-"Fire Services Department","Fire Services Headquarters Command,Mobilizing and Communications Group (MC)","Mr. LEUNG Wai Lok","Sr Div Offr (Mobilizing &amp; Communications Group)","2733 7828"
-"Fire Services Department","Fire Services Headquarters Command,Mobilizing and Communications Group (MC)","Mr. WONG Sze Lut, Sunny","Div Offr (Mobilizing &amp; Communications Group)","2733 7763"
-"Fire Services Department","Fire Services Headquarters Command,Mobilizing and Communications Group (MC)","Mr. LO Shun Kit","Asst Div Offr (Mobilizing &amp; Communications Group)1","2733 1584"
-"Fire Services Department","Fire Services Headquarters Command,Mobilizing and Communications Group (MC)","Mr. FUNG Chi Keung","Asst Div Offr (Mobilizing &amp; Communications Group)2","2733 7895"
-"Fire Services Department","Fire Services Headquarters Command,Mobilizing and Communications Group (MC)","Mr. LAU Chi Wai","Asst Div Offr (Mobilizing &amp; Communications Group)3","2733 7895"
-"Fire Services Department","Fire Services Headquarters Command,Mobilizing and Communications Group (MC)","Mr. LEE Kui Hung, Scott","Asst Div Offr (Mobilizing &amp; Communications Group)4","2733 7895"
-"Fire Services Department","Mobilizing and Communications Group (MC),Fire Services Communications Centre","","",""
-"Fire Services Department","Fire Services Headquarters Command,Physical Training Establishment","Mr. FUNG Kwok Hai, Michael","Div Offr (Physical Education)","2411 8615"
-"Fire Services Department","Fire Services Headquarters Command,Physical Training Establishment","Mr. LEE Ka Ming","Asst Div Offr (Physical Education)","2411 8616"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. WONG Ka Wing","Sr Div Offr (Planning Group)","2733 7878"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. IU  Pun Yan","Div Offr (Planning Group)1","2733 7819"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. WONG Yuk Ping","Div Offr (Planning Group)2","2733 7888"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. NG  Shiu Yan","Asst Div Offr (Planning Group)1","2733 7736"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. CHAN Ming Chung","Asst Div Offr (Planning Group)2","2733 7735"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. YUE Tsz Kit","Asst Div Offr (Planning Group)3","2733 7716"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)"," (VACANT)","Asst Div Offr (Planning Group)4","2733 7737"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. PONG Keng Tak","Asst Div Offr (Planning Group)5","2733 7884"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)"," (VACANT)","Sr Station Offr (Planning Group)1","2733 7738"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. AU Ting Hin","Sr Station Offr (Planning Group)12","2733 7738"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. IP Yan Chi","Sr Station Offr (Planning Group)2","2733 7739"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. WONG Ka Ho","Sr Station Offr (Planning Group)3","2733 7740"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. YAU  Ching Kit","Sr Station Offr (Planning Group)4","2733 7758"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. CHOW Yin Hei","Sr Station Offr (Planning Group)5","2733 7758"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Mr. YEUNG Keung","Sr Station Offr (Planning Group) SD","2733 5820"
-"Fire Services Department","Fire Services Headquarters Command,Planning Group (PG)","Miss WONG Wing Yu, Leanne","EO (Planning Group)","2733 7645"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. YUNG Kam Hung, Michael","Sr Div Offr (P&amp;L)","2733 7654"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. YEUNG Lap Sun","Div Offr (P&amp;L)","2733 5868"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. CHAN Wai Kay","Asst Div Offr (P&amp;L)1","2733 7759"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. TSUI  Ka Ho","Asst Div Offr (P&amp;L)2","2733 5839"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. SZE Wai Hung","Sr Station Offr (P&amp;L)1","2733 7603"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. SZE Wai Hung","Sr Station Offr (P&amp;L)2","2733 5858"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. WONG Wing Chung","Chief Supplies Officer","2733 7686"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Ms. CHAN Lai Kuen, Wendy","Senior Supplies Officer","2733 1573"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. WONG Cheong Hong, Arby","Supplies Officer","2733 7685"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. IP Tsan Chuen, Tony","Assistant Supplies Officer","2733 7663"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Miss YIP Shuk Wa","Assistant Supplies Officer","2733 7824"
-"Fire Services Department","Fire Services Headquarters Command,Procurement & Logistics Group","Mr. LEE Kwok Tung","Assistant Supplies Officer","2733 7829"
-"Fire Services Department","Fire Services Headquarters Command,Psychological Services Unit (PSU)","Dr. CHEUNG Ching Ying, Crystal","Clinical Psychologist 1","2890 8504"
-"Fire Services Department","Fire Services Headquarters Command,Psychological Services Unit (PSU)","Ms. HO Yan, Joyce","Clinical Psychologist 2","2890 8518"
-"Fire Services Department","Fire Services Headquarters Command,Recruitment, Training and Examination Group (RTE)","Mr. WAN Kam Ming","Sr Div Offr (Recruitment, Training &amp; Examination Group)","2411 8601"
-"Fire Services Department","Fire Services Headquarters Command,Recruitment, Training and Examination Group (RTE)","Mr. WONG King Man","Div Offr (Recruitment, Training &amp; Examination Group)","2411 8602"
-"Fire Services Department","Fire Services Headquarters Command,Recruitment, Training and Examination Group (RTE)","Mr. LAI Wai Hei","Asst Div Offr (Recruitment, Training &amp; Examination Group)1","2411 8603"
-"Fire Services Department","Fire Services Headquarters Command,Recruitment, Training and Examination Group (RTE)","Mr. CHEUNG Ka Ho","Asst Div Offr (Recruitment, Training &amp; Examination Group)2","2411 8604"
-"Fire Services Department","Fire Services Headquarters Command,Recruitment, Training and Examination Group (RTE)","Mr. LAM Hoi Fai","Asst Div Offr (Recruitment, Training &amp; Examination Group)3","2411 8605"
-"Fire Services Department","Fire Services Headquarters Command,Recruitment, Training and Examination Group (RTE)","Mr. NG Wai Nok, Rocky","Sr Station Offr (Recruitment, Training &amp; Examination Group)","2411 8608"
-"Fire Services Department","Fire Services Headquarters Command,Recruitment, Training and Examination Group (RTE)","Ms. TAM Suk Yee, Felice","Sr Trg Offr (Recruitment, Training &amp; Examination Group) (Ag)","2411 8606"
-"Fire Services Department","Recruitment, Training and Examination Group (RTE),Knowledge Management","Ms. PANG Yin Hung, Tamara","Senior Knowledge Management Officer","2411 8715"
-"Fire Services Department","Recruitment, Training and Examination Group (RTE),Knowledge Management"," (VACANT)","Knowledge Management Officer","2411 8714"
-"Fire Services Department","Fire Services Headquarters Command,Welfare Section","Mr. TSE Ho Ying","Fire Services Welfare Offr","2733 7555"
-"Fire Services Department","Fire Services Headquarters Command,Welfare Section","Mr. YIK Kwok Hung","Asst Fire Services Welfare Offr","2733 7642"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. CHUNG Cheuk Ming","Sr Electrical &amp; Mechanical Engr","2302 5365"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. LO Chun Wai, David","Electrical &amp; Mechanical Engr (Technical Support)","2302 5366"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. CHEUNG Wing Cheong","Electrical &amp; Mechanical Engr (Fire Appliances)","2302 5391"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. TANG Chi Fai","Asst Div Offr (Transport)","2302 5367"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. LAM Hing Kwok","Ch Tech Offr","2302 5360"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. FUNG Chi Fai","Sr Station Offr (Transport)","2302 5368"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. WONG Wai Ip","Sr Mech Insp (Hong Kong)","2201 3488"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. TAM Pui Ip","Sr Mech Insp (Kowloon)","2750 5283"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. KWAN Ho Fung","Sr Mech Insp (New Territories)","2370 0038"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. CHAN Wai To","Mech Insp (Hong Kong)","2201 3400"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. KWOK Kai Nga, Minta","Mech Insp (Kowloon)","2750 5649"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. KWOK Man Kin","Mech Insp (New Territories)","2370 0020"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. YEUNG Tak Wa","Mech Insp (Training &amp; Inspection)","2750 7635"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. LAM Wai Kwong","Mech Insp (Technical Support)","2302 5362"
-"Fire Services Department","Fire Services Headquarters Command,Workshops & Transport Division","Mr. LUI Shung Bun, Goran","Mech Insp (Fire Appliances)","2302 5371"
-"Fire Services Department","Fire Services Department,Hong Kong Island, Islands and Marine Fire Command Headquarters","Mr. YEUNG Yan Kin","Assistant Director  (Hong Kong Island, Islands &amp; Marine)","2549 9543,3669 0818"
-"Fire Services Department","Fire Services Department,Hong Kong Island, Islands and Marine Fire Command Headquarters","Mr. LIU Tai Yiu","Dep Ch Fire Offr (Hong Kong Island, Islands and Marine)","2549 9547,3669 0828"
-"Fire Services Department","Fire Services Department,Hong Kong Island, Islands and Marine Fire Command Headquarters","Mr. NG Yau Sheung","Fire Staff Offr (Hong Kong)","3669 0838"
-"Fire Services Department","Fire Services Department,Hong Kong Island, Islands and Marine Fire Command Headquarters","Mr. YUEN Wai Yin","Asst Fire Staff Offr (Hong Kong Island, Islands and Marine)(Ag)","3669 0868"
-"Fire Services Department","Fire Services Department,Hong Kong Island, Islands and Marine Fire Command Headquarters","Miss WONG Hei Ting, Jessica","EO(H)","3669 0889"
-"Fire Services Department","Fire Services Department,Hong Kong Island, Islands and Marine Fire Command Headquarters","Ms. LAU Suk Mun","SCO(H)","3669 0878"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Central Division","Mr. TONG Chung Wai","Div Commander (Hong Kong Central)","2802 7525"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Central Division","Mr. YEUNG Kai Wang","Div Offr (Hong Kong Central)","2548 4931"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Central Division","Mr. CHAN Kai Yin","Station Commander Central Fire Station","2522 0367"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Central Division","Mr. FUNG Chun Fan","Station Commander Sheung Wan Fire Station","2559 2417"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Central Division","Mr. CHAN Wing Sum","Station Commander Wan Chai Fire Station","2891 2587"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Central Division","Mr. TSANG Fan Sun","Station Commander Kotewall and Victoria Peak Fire Station","2858 4803"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Central Division","Mr. LAU Yu Kit","Station Commander Kong Wan Fire Station","2802 0947"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. LAU Wai Kwong","Div Commander (Hong Kong East)","2508 9690"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. LU Chau Ming","Div Offr (Hong Kong East)","2571 6632"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. LAI  Kin Man","Station Commander North Point Fire Station(Ag)","2561 5260"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. WU Shiu Ming","Station Commander Sai Wan Ho Fire Station(Ag)","2569 3165"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. FUNG Ka Ho","Station Commander Chai Wan Fire Station","2558 7178"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. LEE Tin Chung","Station Commander Braemar Hill Fire Station(Ag)","2571 5063"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. CHEUNG Ka Man","Station Commander Tung Lo Wan Fire Station","2571 8760"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,East Division","Mr. CHAN Ka Lok","Station Commander Shau Kei Wan Fire Station","2884 3197"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Mr. LEUNG Kwok Chu, Gilbert","Div Commander (Hong Kong West)","2551 8644"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Mr. LAM Yiu Sun","Div Offr (Hong Kong West)","2551 9758"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Ms. LAM Chun Sai","Station Commander Kennedy Town Fire Station","2818 7046"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Mr. HUNG Hing Chiu","Station Commander Sandy Bay Fire Station","2904 9672"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Mr. NG Wing Chit","Station Commander Ap Lei Chau Fire Station","2814 8836"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Mr. TSANG Wai Ming","Station Commander Aberdeen Fire Station","2552 5280"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Mr. WU Chun Lok","Station Commander Pok Fu Lam Fire Station","2551 8301"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,West Division","Mr. NG Kin Man","Station Commander Chung Hom Kok Fire Station","2813 2496"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. YIU Men Yeung","Div Commander (Marine and Diving)(Ag)","2534 7252"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. AU Kwok Ping","Div Offr (Marine)1","2534 7253"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. TUNG Kok Keung, Victor","Div Offr (Marine)2","2534 7255"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. CHAN Man Fai","Div Offr (Div)","2195 2310"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. NG Wah Sum","Asst Div Offr (Marine)1","2534 7250"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. KWOK Gerald","Asst Div Offr (Marine)2","2534 7256"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. YUEN Kin Pun","Asst Div Offr (Marine)3","2534 7254"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. CHEUNG Siu Yin","Asst Div Offr (Marine)4","2534 7257"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. YIM Wing Chung","Asst Div Offr (Div)1","2195 2311"
-"Fire Services Department","Hong Kong Island, Islands and Marine Fire Command Headquarters,Marine and Diving Division","Mr. CHAN Yu Hoi","Asst Div Offr (Div)2","2195 2312"
-"Fire Services Department","Fire Services Department,Kowloon Fire Command Headquarters","Mr. LO Siu Hang, FSDSM, FSMSM","Assistant Director (Kowloon)","2721 1433,2354 2938"
-"Fire Services Department","Fire Services Department,Kowloon Fire Command Headquarters","Mr. YAU Chi On","Dep Ch Fire Offr (Kowloon)","2724 4155,2354 2923"
-"Fire Services Department","Fire Services Department,Kowloon Fire Command Headquarters","Mr. LI Wai Cheong","Fire Staff Offr (Kowloon)","2354 2918"
-"Fire Services Department","Fire Services Department,Kowloon Fire Command Headquarters","Mr. LO Cheung Wai","Asst Fire Staff Offr (Kowloon)","2354 2988"
-"Fire Services Department","Fire Services Department,Kowloon Fire Command Headquarters","Ms. CHAN Pui Nei, Pearlie","EO(Kowloon)","2354 2911"
-"Fire Services Department","Fire Services Department,Kowloon Fire Command Headquarters","Miss KU Mei Yi, Heidi","SCO(K)(Ag)","2354 2992"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. NG Chan Leung","Div Commander (Kowloon Central)","2329 5993"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. CHAK Kwok Wai","Div Offr (Kowloon Central)","2327 8519"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. NG Dik Ka","Station Commander Ma Tau Chung Fire Station","2711 0292"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. HO Kin Ho","Station Commander Wong Tai Sin Fire Station","2329 5733"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. CHEUNG Kwok Kuen","Station Commander Ngau Chi Wan Fire Station","2320 0292"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. NG Sum Shing","Station Commander Shun Lee Fire Station","2341 9420"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. LI Wai Ming","Station Commander Kai Tak Fire Station","2759 6308"
-"Fire Services Department","Kowloon Fire Command Headquarters,Central Division","Mr. HO Kam Wah","Station Commander Sai Kung Fire Station","2792 1553"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. WONG Chun Ip","Div Commander (Kowloon East)","2799 2737"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. CHIU Yuk Man","Div Offr (Kowloon East)","2799 5515"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. TANG Pak Kin","Station Commander Kowloon Bay Fire Station","2799 1522"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. YIP Chi Ho","Station Commander Po Lam Fire Station","2701 0989"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. PANG Chun Yin","Station Commander Lam Tin Fire Station","2772 5313"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. WONG Tik Lun","Station Commander Yau Tong Fire Station","2340 6316"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. LI Kwan Hang","Station Commander Tai Chik Sha Fire Station","2623 9613"
-"Fire Services Department","Kowloon Fire Command Headquarters,East Division","Mr. CHIU Kin Ying","Station Commander Kwun Tong Fire Station","2342 4612"
-"Fire Services Department","Kowloon Fire Command Headquarters,South Division","Mr. CHAN Wai Yin","Div Commander (Kowloon South)","2368 3139"
-"Fire Services Department","Kowloon Fire Command Headquarters,South Division","Mr. CHEUNG Kwong Yuen","Div Offr (Kowloon South)","2366 9391"
-"Fire Services Department","Kowloon Fire Command Headquarters,South Division","Mr. LEE Ho Yin","Station Commander Tsim Tung Fire Station","2722 4871"
-"Fire Services Department","Kowloon Fire Command Headquarters,South Division","Mr. CHUNG Chi Wai","Station Commander Tsim Sha Tsui Fire Station","2366 2389"
-"Fire Services Department","Kowloon Fire Command Headquarters,South Division","Mr. TO Chi Wing","Station Commander Yau Ma Tei Fire Station","2385 0307"
-"Fire Services Department","Kowloon Fire Command Headquarters,South Division","Mr. CHAN Cheuk Hung","Station Commander Hung Hom Fire Station(Ag)","2363 0207"
-"Fire Services Department","Kowloon Fire Command Headquarters,West Division","Mr. TSANG Tat Ming","Div Commander (Kowloon West)","2393 2222"
-"Fire Services Department","Kowloon Fire Command Headquarters,West Division","Mr. CHAN Hau Chung","Div Offr (Kowloon West)","2395 3330"
-"Fire Services Department","Kowloon Fire Command Headquarters,West Division","Mr. CHOI Wai Fung","Station Commander Mong Kok Fire Station","2396 6409"
-"Fire Services Department","Kowloon Fire Command Headquarters,West Division","Mr. LEE Yiu Lun","Station Commander Shek Kip Mei Fire Station","2778 1098"
-"Fire Services Department","Kowloon Fire Command Headquarters,West Division","Mr. LEUNG Kin Ming","Station Commander Lai Chi Kok Fire Station","2742 4221"
-"Fire Services Department","Kowloon Fire Command Headquarters,West Division","Mr. TSANG Ho Yin","Station Commander Cheung Sha Wan Fire Station","2729 5807"
-"Fire Services Department","Kowloon Fire Command Headquarters,West Division","Mr. YU Wai Ming","Station Commander Kowloon Tong Fire Station","3793 6411"
-"Fire Services Department","Kowloon Fire Command Headquarters,Breathing Apparatus","Mr. CHOW Siu Choy","Div Offr (BA)","2757 8001"
-"Fire Services Department","Kowloon Fire Command Headquarters,Breathing Apparatus","Mr. CHAN Sau Cheong","Asst Div Offr (BA)/Hong Kong Island, Islands and Marine","3669 0898"
-"Fire Services Department","Kowloon Fire Command Headquarters,Breathing Apparatus","Mr. HO Ka Kui","Asst Div Offr (BA)/Kowloon","2326 0482"
-"Fire Services Department","Kowloon Fire Command Headquarters,Breathing Apparatus","Mr. SHEN Chuen","Asst Div Offr (BA)/New Territories South","2109 4485"
-"Fire Services Department","Kowloon Fire Command Headquarters,Breathing Apparatus","Mr. TUNG Wing Kei","Asst Div Offr (BA)/New Territories North","2698 6059"
-"Fire Services Department","Fire Services Department,Licensing & Certification Command","Mr. LEUNG Kwun Hong","Assistant Director (Licensing &amp; Certification)","2722 4776,2733 7744"
-"Fire Services Department","Fire Services Department,Licensing & Certification Command","Mr. WONG Chun Yip","Dep Ch Fire Offr (Licensing &amp; Certification)","2733 7745,2722 4744"
-"Fire Services Department","Fire Services Department,Licensing & Certification Command","Mr. YIP Hor Man","Fire Staff Offr (Licensing &amp; Certification)","2733 7605"
-"Fire Services Department","Licensing & Certification Command,Administration","Mr. SIN Chi Kit","EO(Licensing &amp; Certification)","2733 7617"
-"Fire Services Department","Licensing & Certification Command,Administration","Mr. NG Siu Keung","SCO (Licensing &amp; Certification)","2733 1595"
-"Fire Services Department","Licensing & Certification Command,Dangerous Good Stores Unit (DGSU)","Mr. YIP Hor Man","Fire Staff Offr (Licensing &amp; Certification)","2733 7605"
-"Fire Services Department","Licensing & Certification Command,Dangerous Good Stores Unit (DGSU)"," (VACANT)","Sr Station Offr (DGSU)","2733 7557"
-"Fire Services Department","Licensing & Certification Command,Dangerous Goods Division","Mr. CHAN Kam Cheung","Sr Div Offr (Dangerous Goods)","2417 5713"
-"Fire Services Department","Licensing & Certification Command,Dangerous Goods Division","Mr. HO Ka Chun","Div Offr (Dangerous Goods)","2417 5733"
-"Fire Services Department","Licensing & Certification Command,Dangerous Goods Division","Mr. WONG Ping Kuen","Asst Div Offr (Dangerous Goods)1","2417 5719"
-"Fire Services Department","Licensing & Certification Command,Dangerous Goods Division","Mr. LAI Kin Mo","Asst Div Offr (Dangerous Goods)2","2417 5741"
-"Fire Services Department","Licensing & Certification Command,Dangerous Goods Division","Mr. MAK Wai Lun","Asst Div Offr (Dangerous Goods)3(Ag)","2417 5717"
-"Fire Services Department","Licensing & Certification Command,Dangerous Goods Division","Mr. LEUNG Yau Shing","Asst Div Offr (AIFATF)","2741 2021"
-"Fire Services Department","Licensing & Certification Command,Dangerous Goods Division","Ms. LAW Kam Ching, Melanie","CO (Dangerous Goods)(Ag)","2417 5768"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Division","Mr. CHOW Wai Yip","Sr Engineer","3961 5299"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Division","Mr. LAW Chi Keung, Peter","Engineer (FSI)","3961 5288"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Division"," CHAN Wai Lam","Engineer (FSI)2","3961 5200"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Division","Mr. YIN Rumin","Engineer (FSI)3","3961 5266"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Division","Mr. TSANG Lok","Sr Bldg Services Insp","3961 5252"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Division","Ms. LEE Suk Yee","CO(FSI)","3961 5217"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Mr. CHAN Man Hon","Sr Div Offr (FSITF) (Ag)","3961 5001"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Mr. CHU Man Chiu","Div Offr (FSITF)","3961 5002"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Mr. WONG Chun On","Asst Div Offr (FSITF)1","3961 5011"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Mr. KAO Chung Lei","Asst Div Offr (FSITF)2","3961 5012"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Ms. LAW Ka Yan","Asst Div Offr (FSITF)3","3961 5013"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Mr. TSE Lai Yiu","Asst Div Offr (FSITF)4","3961 5014"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Mr. LAM Ho Chun","Asst Div Offr (FSITF)5","3961 5015"
-"Fire Services Department","Licensing & Certification Command,Fire Service Installations Task Force","Mr. WONG Kin Wing","CO(FSITF)(Ag)","3961 5080"
-"Fire Services Department","Licensing & Certification Command,Hong Kong & Kowloon West Fire Protection Regional Office","Ms. WU Lai Fong","Sr Div Offr (Hong Kong &amp; Kowloon West Fire Protection Regional Office)","2589 3311"
-"Fire Services Department","Licensing & Certification Command,Hong Kong & Kowloon West Fire Protection Regional Office","Mr. SHEN Ka Wai","Asst Div Offr (Hong Kong Fire Protection Regional Office)(Ag)","2589 3313"
-"Fire Services Department","Licensing & Certification Command,Hong Kong & Kowloon West Fire Protection Regional Office","Mr. TANG Chit Nam","Asst Div Offr (Hong Kong Fire Protection Regional Office)","2589 3317"
-"Fire Services Department","Licensing & Certification Command,Hong Kong & Kowloon West Fire Protection Regional Office","Mr. TSANG Hing Lung","Asst Div Offr (Kowloon West Fire Protection Sub-Regional Office)","2302 5322"
-"Fire Services Department","Licensing & Certification Command,Hong Kong & Kowloon West Fire Protection Regional Office","Mr. CHOY Chi Ho","CO(H&amp;KW)(Ag)","2589 3323"
-"Fire Services Department","Licensing & Certification Command,Investigation & Research (I&R)","Mr. YIP Hor Man","Fire Staff Offr (Licensing &amp; Certification)","2733 7605"
-"Fire Services Department","Licensing & Certification Command,Investigation & Research (I&R)","Mr. YAM Ka Wang","Sr Station Offr (I&amp;R)2","2733 7827"
-"Fire Services Department","Licensing & Certification Command,Licensing Authority Division","Mr. CHEUNG Tak Wah","Sr Div Offr (LA)","2881 5096"
-"Fire Services Department","Licensing & Certification Command,Licensing Authority Division","Mr. HO Chun Pong","Div Offr (LA)","2881 7017"
-"Fire Services Department","Licensing & Certification Command,Licensing Authority Division","Mr. HUNG Tak Shing","Asst Div Offr (LA/E1)","2881 7023"
-"Fire Services Department","Licensing & Certification Command,Licensing Authority Division","Mr. YUEN Cheuk Man","Asst Div Offr (LA/E2)","2881 7069"
-"Fire Services Department","Licensing & Certification Command,Licensing Authority Division","Mr. YEE Kwok Keung","Asst Div Offr (LA/FS)1","2881 7496"
-"Fire Services Department","Licensing & Certification Command,Licensing Authority Division","Mr. CHAN Wai Ping","Asst Div Offr (LA/Pro)(Ag)","2116 3381"
-"Fire Services Department","Licensing & Certification Command,Licensing Authority Division","Mr. YUNG Tak Ming","Asst Div Offr (LA/FS)2","2117 3574"
-"Fire Services Department","Licensing & Certification Command,New Territories and Kowloon East Fire Protection Regional Office","Mr. TAI Kei Wai","Sr Div Offr (New Territories &amp; Kowloon East Fire Protection Regional Office)","3423 9300"
-"Fire Services Department","Licensing & Certification Command,New Territories and Kowloon East Fire Protection Regional Office","Mr. CHU Hung Tak","Asst Div Offr (Kowloon East Fire Protection Sub-Regional Office)","3423 9302"
-"Fire Services Department","Licensing & Certification Command,New Territories and Kowloon East Fire Protection Regional Office","Mr. CHEUNG Wai Lun","Asst Div Offr (New Territories Fire Protection Regional Office)","3423 9301"
-"Fire Services Department","Licensing & Certification Command,New Territories and Kowloon East Fire Protection Regional Office","Ms. AU YEUNG Sze Man","CO(NT&amp;KE)","3423 9327"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. CHAN Fu Shan","Sr Div Offr (Policy)(Ag)","2733 7746"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. CHEUNG Ngao Tin","Div Offr (Policy)1","2733 7592"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. LAM Kin Kwan","Div Offr (Policy)2","2733 7596"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. WO Wing Wai","Asst Div Offr (Policy)1","2733 7597"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. LEUNG Kam Wah","Asst Div Offr (Policy)2(Ag)","2733 7599"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. WONG Ka Shun","Asst Div Offr (Policy)3","2733 1543"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. LI Kai Chung","Asst Div Offr (Policy)4","2733 7557"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. LEE Hei Man","Sr Station Offr (Policy)1","2733 7556"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. LEUNG Chun Ki","Sr Station Offr (Policy)2","2733 7697"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. WONG  Cheuk Yin","Sr Station Offr (Policy)3","2733 7875"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. LI Tsz Chun","Sr Station Offr (Policy)4","2733 7590"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. LEUNG Kam Wah","Sr Station Offr (Policy)5","2733 7616"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. YAN Chi Ho","Sr Station Offr (Policy)6","2733 7748"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. WONG Kwok Wai","Sr Station Offr (Policy)7","2733 7660"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)","Mr. WU Kam Wang","Sr Station Offr (Policy)8","2733 4083"
-"Fire Services Department","Licensing & Certification Command,Policy Division (Pol)"," (VACANT)","Sr Station Offr (Policy)9","2733 7697"
-"Fire Services Department","Licensing & Certification Command,Prosecution Section","Mr. TAM Ying Kit","Div Offr (Prosecution) (Ag)","2733 4078"
-"Fire Services Department","Licensing & Certification Command,Prosecution Section","Mr. CHAN Kwok Ming","Asst Div Offr (Prosecution)1","2733 7571"
-"Fire Services Department","Licensing & Certification Command,Prosecution Section","Mr. TAM Ying Kit","Asst Div Offr (Prosecution)2","2733 7650"
-"Fire Services Department","Licensing & Certification Command,Ventilation Division","Mr. NGAN Hong Yiu","Engr (Vent)","2251 4141,2733 1556"
-"Fire Services Department","Licensing & Certification Command,Ventilation Division","Mr. LI Kuen Kwong","Ch Tech Offr (Vent)","2251 4142"
-"Fire Services Department","Licensing & Certification Command,Ventilation Division","Mr. KAU Kong","Electrical Insp","2251 4154"
-"Fire Services Department","Licensing & Certification Command,Ventilation Division","Ms. LEE Suet Kwan","CO(Vent)","2251 4144"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Mr. YAU Wai Keung","Assistant Director (New Territories)","2697 5191,2901 1501"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Mr. CHAN Kam Fai","Dep Ch Fire Offr (New Territories South)","2988 8838,2901 1503"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Mr. KWOK Pak Chiu, Ryan","Dep Ch Fire Offr (New Territories North)","2691 4586,2901 1502"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Dr. YU Ka Yui","Fire Staff Offr (New Territories)","2901 1505"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Ms. LAM So Wah","Asst Fire Staff Offr (New Territories South)","2901 1506"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Mr. SZETO Dick Fung","Asst Fire Staff Offr (New Territories North)","2901 1507"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Ms. LAU Oi-shan, Kay","EO(New Territories)","2901 1513"
-"Fire Services Department","Fire Services Department,New Territories Fire Command Headquarters","Ms. YIM Wai Chong","SCO(New Territories)","2901 1520"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. WONG Ronald","Div Commander 'Air'","2183 5333"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. LEE Kai Cheong","Div Offr 'Air'","2183 5326"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. WONG  Yuk Fung","Watch Commander A, Main AirFStn","2183 5302"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. CHAN Kai On","Watch Commander B, Main AirFStn","2183 5302"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. SUEN Siu Man","Watch Commander C, Main AirFStn","2183 5302"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. KONG Kwan","Watch Commander A, Sub AirFStn","2183 6207"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. CHU Siu Yung","Watch Commander B, Sub AirFStn","2183 6223"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. LAU Ka Wai","Watch Commander C, Sub AirFStn","2183 6223"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. SUN Fat Yee","Watch Commander A, ESRB","2183 5303"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. CHENG Chi Hong","Watch Commander B, ESRB","2183 5303"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. LOR Yu Keung","Watch Commander C, ESRB","2183 5303"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. LEUNG Wai Ting","Watch Commander A, WSRB","2183 6223"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. MAN Ho Fung","Watch Commander B, WSRB","2183 6207"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Mr. LIANG Ka Po","Watch Commander C, WSRB","2183 6207"
-"Fire Services Department","New Territories Fire Command Headquarters,Airport Fire Contingent","Ms. CHAN So Lai","CO(Air)","2183 5318"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. SO Chi Wah","Div Commander (New Territories East)","2603 1420"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. HUNG Chung Muk","Div Offr (New Territories East)","2693 9460"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. FUNG Siu Kei","Station Commander Ma On Shan Fire Station","2640 3222"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. YAN Chi Shing","Station Commander Tin Sum Fire Station","2694 8639"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. TANG Lung Cheung","Station Commander Siu Lek Yuen Fire Station","2647 7515"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. MUI Yin Wai","Station Commander Sha Tin Fire Station","2691 0596"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. LAI Chiu Leung","Station Commander Tai Po Fire Station","2651 2951"
-"Fire Services Department","New Territories Fire Command Headquarters,East Division","Mr. YEUNG Kong Yau","Station Commander Tai Po East Fire Station","2664 2511"
-"Fire Services Department","New Territories Fire Command Headquarters,South Division","Mr. LO Kit Hung","Div Commander (New Territories South)","2743 2399"
-"Fire Services Department","New Territories Fire Command Headquarters,South Division","Mr. LUI Yee Choi","Div Offr (New Territories South)","2745 7175"
-"Fire Services Department","New Territories Fire Command Headquarters,South Division","Mr. WU Chi Wah","Station Commander Sham Tseng Fire Station","2496 4167"
-"Fire Services Department","New Territories Fire Command Headquarters,South Division","Mr. TUNG Man Ho","Station Commander Lei Muk Shue Fire Station","2421 2428"
-"Fire Services Department","New Territories Fire Command Headquarters,South Division","Mr. CHAN Wai Nam","Station Commander Kwai Chung Fire Station","2426 5694"
-"Fire Services Department","New Territories Fire Command Headquarters,South Division","Mr. KONG Cheung Po","Station Commander Lai King Fire Station","2743 2380"
-"Fire Services Department","New Territories Fire Command Headquarters,South Division","Mr. WONG Kee Kiu","Station Commander Tsuen Wan Fire Station","2499 5044"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. CHAN Hon Kit","Div Commander (New Territories South West)","2988 8777"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. FOO Chi Hung","Div Offr (New Territories South West)","2988 8929"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. WONG Yu Fai","Station Commander Tung Chung Fire Station","2988 1898"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. PANG Wai Lam","Station Commander Penny's Bay Fire Station","2983 6451"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. LO Wai Lok","Station Commander Tsing Yi Fire Station(Ag)","2495 0451"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. HO Wing Ming","Station Commander Ma Wan Fire Station","2986 3289"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. HO Wing Ming","Station Commander Tsing Yi South Fire Station","2432 7823"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. LEE Pak Hin","Station Commander Chek Lap Kok Fire Station (Ag)","2949 9081"
-"Fire Services Department","New Territories Fire Command Headquarters,South West Division","Mr. LUKE Shung Chi","Station Commander Hong Kong-Zhuhai-Macao Bridge Fire Station","2516 0200"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. CHAN Ping Keung","Div Commander (New Territories West)","2462 4091"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. CHAN Shing Lee","Div Offr (New Territories West)","2462 0077"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. CHENG Chun Kit","Station Commander Fu Tei Fire Station and Shen Zhen Bay Fire Station","2469 4710"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. WU Man To","Station Commander Tuen Mun Fire Station","2462 5717"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. YUNG Wai Ming","Station Commander Castle Peak Bay and Tai Lam Chung Fire Station","2451 5101"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. MA Po Ching","Station Commander Tin Shui Wai Fire Station","2448 0664"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. TONG Ka Lun","Station Commander Pillar Point Fire Station","2404 0766"
-"Fire Services Department","New Territories Fire Command Headquarters,West Division","Mr. NG Wai Kit","Station Commander Lau Fau Shan Fire Station","2146 2672"
-"Fire Services Department","New Territories Fire Command Headquarters,North Division","Mr. CHENG Wing Kit","Div Commander (New Territories North)","2670 0105"
-"Fire Services Department","New Territories Fire Command Headquarters,North Division","Mr. LEE Ming Kei","Div Offr (New Territories North)","2670 3928"
-"Fire Services Department","New Territories Fire Command Headquarters,North Division","Mr. CHAN Sau Yan","Station Commander Pat Heung and Mai Po Fire Station","2488 7282"
-"Fire Services Department","New Territories Fire Command Headquarters,North Division","Mr. FU Hak","Station Commander Sha Tau Kok and Ta Kwu Ling Fire Station","2674 0679"
-"Fire Services Department","New Territories Fire Command Headquarters,North Division","Mr. CHAN Ka Wing","Station Commander Sheung Shui Fire Station","2670 7682"
-"Fire Services Department","New Territories Fire Command Headquarters,North Division","Mr. WONG Ming Hang","Station Commander Fanling Fire Station","2669 5511"
-"Fire Services Department","New Territories Fire Command Headquarters,North Division","Mr. TAI Ho Yeung","Station Commander Yuen Long Fire Station","2474 6732"
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="zh-hk">
+<head>
+<base href="/"/>
+<META HTTP-EQUIV="last_modified" CONTENT="NOW">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
+<link type="text/css" rel="stylesheet" href="./css/reset.css">
+<link type="text/css" rel="stylesheet" href="./css/common.css">
+<link type="text/css" rel="stylesheet" href="./css/style.css">
+<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
+<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
+<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
+<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
+<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
+<script type="text/JavaScript" src="./js/jquery.js"></script>
+<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
+<script type="text/JavaScript" src="./js/gtd.js"></script>
+</head>
+<body class="chi">
+<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
+<table id="tbl_header">
+<tr>
+	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
+	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
+	<td class="col_lang"><a href='/TelFileDownload?dept=FSD&lang=ENG&fileType=csv' title="Display In English">English</a></td>
+</tr>
+</table>
+<TABLE id="tbl_menu_bar">
+  <TBODY>
+  <TR>
+    <td class="col_logo">
+    <IMG alt="政府資訊中心" 
+      src="images/hksar2.gif" width="45" height="41"></td>
+    <TD>
+    <div id="menu_tab">
+    <ul>
+    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
+    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
+    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
+    </ul>
+    </div>    
+    </TD>
+    <td>
+    	<div id="menu_toolbar">
+	    	<ul>
+	    		<li>
+					<div id="mycolorPos">
+						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
+						<div id="mycolorDiv">
+							<table>
+								<tr>
+									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
+									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
+									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
+									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
+								</tr>
+							</table>
+						</div>
+					</div>
+	    		</li>
+	    		<li style="margin-right:15px;">										    			
+					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
+					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
+					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
+	    		</li>
+	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
+	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
+	    	</ul>
+    	</div>
+    </td>    
+    </TR></TBODY>
+</TABLE>
+<div class="offscreen"><a name="skipToContent"></a></div>
+<div id="content_container">
+
+<table >
+	<tr>
+	<td align="center">
+		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
+			<tr>
+				<td style="text-align: justify;text-justify: inter-ideograph;">
+					
+<style>
+
+table.ou td{	
+	vertical-align:top;	
+}
+
+table.ou td.num{
+	width:2em;
+}
+
+div.disclaimer_pt_wrapper:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+div.disclaimer_pt_label{
+	float:left;	
+	display:inline-block;
+	
+}
+
+div.disclaimer_pt_content{
+	 padding-left:1.3em;	
+}
+ 
+</style>						
+				<strong>免責聲明</strong>
+				<br><br>
+				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
+				<br>
+				<strong><a id="copyright"></a>版權公告</strong>
+				<br><br>
+
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">1.</div>
+					<div class="disclaimer_pt_content">
+						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
+					</div>
+				</div>
+				
+				<br>
+				
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">2.</div>
+					<div class="disclaimer_pt_content">
+						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
+					</div>
+				</div>
+				
+				<div style="padding-left:1.3em;">			
+					<table class="ou">
+					<tr>
+						<td class="num">(i)</td>
+						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
+					</tr>
+					<tr>
+						<td class="num">(ii)</td>
+						<td>宣傳及／或推廣任何貨品及服務；以及</td>
+					</tr>
+					<tr>
+						<td class="num">(iii)</td>
+						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
+					</tr>										
+					</table>
+					<p>(統稱“受限制用途”)</p>				
+				</div>
+				<br>			
+							
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">3.</div>
+					<div class="disclaimer_pt_content">
+						在不損害上文第2條的情況下，
+					</div>
+				</div>
+								
+				<br>
+				<div style="padding-left:1.3em">					
+					<div class="disclaimer_pt_wrapper">
+						<div class="disclaimer_pt_label">(a)</div>
+						<div class="disclaimer_pt_content">
+							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
+						</div>
+					</div>										
+					<div style="padding-left:1.5em">
+						<br>
+						<table class="ou">
+						<tr>
+							<td class="num">(i)</td>
+							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
+						</tr>
+						<tr>
+							<td class="num">(ii)</td>
+							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
+						</tr>
+						<tr>
+							<td class="num">(iii)</td>
+							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
+						</tr>
+						<tr>
+							<td class="num">(iv)</td>
+							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
+						</tr>															
+						</table>
+					</div>
+				</div>	
+				<br>
+				<div style="padding-left:1em">
+					<div class="disclaimer_pt_wrapper">
+						<div class="disclaimer_pt_label">(b)</div>
+						<div class="disclaimer_pt_content">
+							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
+						</div>
+					</div>									
+				</div>
+				<br>
+				<div style="padding-left:1em">
+					<div class="disclaimer_pt_wrapper">
+						<div class="disclaimer_pt_label">(c)</div>
+						<div class="disclaimer_pt_content">
+							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
+						</div>
+					</div>					
+				</div>
+				<br>
+				<div class="disclaimer_pt_wrapper">
+					<div class="disclaimer_pt_label">4.</div>
+					<div class="disclaimer_pt_content">
+						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
+					</div>
+				</div>
+					
+					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
+						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
+						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
+						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
+						</label>
+					</div>								
+				</td>
+			</tr>
+		</table>
+				 
+		<form action="/ack_disclaimer_CHI.jsp" method="post">
+			<input type="hidden" name="isSubmit" value="Y">
+			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DFSD%26lang%3DENG%26fileType%3Dcsv">				
+			<table style="width:83%">			
+				<tr>
+					<td align="center">
+					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
+					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
+					</td>
+				</tr>
+			</table>
+		</form>
+	</td>
+	</tr>
+</table>
+
+	<div id="badges">
+		<ul id="conformance">
+			<li>
+				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
+					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
+				</a>
+			</li>
+			<li>
+				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
+					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+</body></html>
