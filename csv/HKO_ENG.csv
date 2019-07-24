@@ -1,264 +1,192 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=HKO&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DHKO%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Hong Kong Observatory","Mr. SHUN Chi Ming, JP","Dir of the HK Observatory","2926 8221"
+"Hong Kong Observatory","Dr. CHENG Cho Ming","Asst Dir of the HK Observatory (Forecasting and Warning Services)","2926 8223"
+"Hong Kong Observatory","Mr. CHAN Pak Wai","Asst Dir of the HK Observatory (Development, Research and Administration)","2926 8222"
+"Hong Kong Observatory","Miss LAU Sum Yee","Asst Dir of the HK Observatory (Aviation Weather Services)","2926 8232"
+"Hong Kong Observatory","Mr. MA Wai Man","Ag Asst Dir of the HK Observatory (Radiation Monitoring and Assessment)","2926 8411"
+""
+"Organisation","Service Name","Office Tel"
+"Hong Kong Observatory","General Enquiries","2926 8200"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Hong Kong Observatory","Hong Kong Observatory","Mr. SHUN Chi Ming, JP","Dir of the HK Observatory","2926 8221"
+"Hong Kong Observatory","Hong Kong Observatory,Forecasting and Warning Services Branch","Dr. CHENG Cho Ming","Asst Dir of the HK Observatory (Forecasting and Warning Services)","2926 8223"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Ms. SONG Man Kuen","Sr Scientific Offr (Forecast Operation)","2926 8371"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Mr. SHUM Chi Tai","Scientific Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Dr. LAW Hiu Fai","Scientific Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Dr. NG Yin Lam","Scientific Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Dr. LAI Wang Chun","Scientific Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Dr. CHONG Sze Ning","Scientific Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Mr. HE Yuheng","Scientific Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Mr. CHAN Ho Sun","Ag Sr Experimental Offr (Forecast Operation)","2926 8376"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Mr. CHOY Shui Chung","Experimental Offr(Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Miss YIM Ka Yee","Experimental Offr(Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation","Miss SHUM Kit Ying","Experimental Offr(Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation"," (Shift Duty)","Duty Sr Scientific Officer (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation"," (Shift Duty)","Duty Scientific Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Operation"," (Shift Duty)","Duty Experimental Offr (Forecast Operation)","2926 8301"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery","Mr. CHENG Yuen Chung","Sr Scientific Offr (Service Delivery)","2926 8358"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery","Mr. OR Ming Keung","Scientific Offr (Service Delivery)","2926 8418"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery","Miss SHUM Yik Lam, Joey","Scientific Offr (Service Delivery)","2926 3652"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery","Ms. CHIU Chiu Yee","Ch Scientific Asst (Ch Supr) (Service Delivery)","2926 8231"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery","Mr. LAU Chi Yung","Ch Scientific Asst (Service Delivery)","2926 8491"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery","Mr. CHIANG Kwok Fai","Ch Scientific Asst (Service Delivery)","2926 8035"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery"," (Shift Duty)","Duty Supr (Service Delivery)","2926 8479"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Service Delivery"," (Shift Duty)","Duty Weather Service Offr (Service Delivery)","2926 8473"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Development","Mr. WONG Wai Kin","Senior Scientific Offr (Forecast Development)","2926 8416"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Development","Mr. CHONG Man Lok","Scientific Offr (Forecast Development)","2926 8461"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Development","Mr. WOO Wang Chun","Scientific Offr (Forecast Development)","2926 8453"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Development","Mr. CHAN Ngo Hin","Ag Sr Experimental Offr (Forecast Development)","2926 8465"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Development","Mr. AU YEUNG Kin Chung","Experimental Offr (Forecast Development)","2926 8218"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Systems","Dr. PAN Chi Kin","Sr Scientific Offr (Forecast Systems)","2926 8357"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Systems","Miss LEUNG Lai Lai","Scientific Offr (Forecast Systems)",""
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Systems","Dr. HO Chun Kit","Scientific Offr (Forecast Systems)","2926 8073"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Systems","Mr. LUN Siu Hung","Sr Experimental Offr (Forecast Systems)","2926 8351"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Systems","Mr. LO Yin Fung","Experimental Offr (Forecast Systems)","2926 8359"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Forecast Systems","Mr. LAU Yuk Yeung","Experimental Offr (Forecast Systems)","2926 8352"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Mr. LI Sun Wai","Sr Scientific Offr (Information Technology Management)","2926 3661"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Miss LI Yuet Sim","Scientific Offr (Information Technology Management)","2926 8349"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Ms. WONG Wai Man, May","Systems Manager","2926 8356"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Mr. CHUN Kok Fai","Analyst Programmer I","2926 8293"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Miss NG Shuk Kiu","Sr Experimental Offr (Information Technology Management)","2926 8700"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Mr. CHENG Tsz Lo","Sr Experimental Offr (Information Technology Management)","2926 8436"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Mr. CHEUNG Wing Kai","Experimental Offr (Information Technology Management)","2926 8052"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Information Technology Management","Mr. LEE Man Chun","Experimental Offr (Information Technology Management)","2926 8068"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Impact-based Forecast Services","Mr. YEUNG Hon Yin","Sr Scientific Offr (Impact-based Forecast Services)","2926 8434"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Impact-based Forecast Services","Mr. CHAN Chak Fai","Scientific Offr (Impact-based Forecast Services)","2926 8264"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Impact-based Forecast Services","Mr. LEE Kwok Lun","Scientific Offr (Impact-based Forecast Services)","2926 8452"
+"Hong Kong Observatory","Forecasting and Warning Services Branch,Impact-based Forecast Services","Mr. CHUI Ka Wing","Experimental Offr (Impact-based Forecast Services)","2926 8264"
+"Hong Kong Observatory","Hong Kong Observatory,Development, Research and Administration Branch","Mr. CHAN Pak Wai","Asst Dir of the HK Observatory (Development, Research and Administration)","2926 8222"
+"Hong Kong Observatory","Hong Kong Observatory,Development, Research and Administration Branch","Mr. MOK Hing Yim","Sr Scientific Offr (Special Duty)","2926 8240"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Information Services and Tropical Cyclone Studies","Dr. LEE Tsz Cheung","Sr Scientific Offr (Climate Information Services and Tropical Cyclone Studies)","2926 8360"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Information Services and Tropical Cyclone Studies","Mr. CHOY Chun Wing","Scientific Offr (Climate Information Services and Tropical Cyclone Studies)","2926 3665"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Information Services and Tropical Cyclone Studies","Mr. HUI Kin Chung","Ch Experimental Offr (Climate Information Services and Tropical Cyclone Studies)","2926 8442"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Information Services and Tropical Cyclone Studies","Mr. CHEUNG Sze Yuen","Experimental Offr (Climate Information Services and Tropical Cyclone Studies)","2926 8457"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Information Services and Tropical Cyclone Studies","Mr. NG Yiu Wah","Ch Scientific Asst (Climate Information Services and Tropical Cyclone Studies)","2926 8440"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Information Services and Tropical Cyclone Studies","Mr. TUNG Ying Lut","Experimental Offr (Climate Information Services and Tropical Cyclone Studies)","2926 8449"
+"Hong Kong Observatory","Development, Research and Administration Branch,Geophysics, Time and Marine Meteorological Services","Mr. CHAN Sai Tick","Senior Scientific Offr (Geophysics, Time and Marine Meteorological Services)","2926 8451"
+"Hong Kong Observatory","Development, Research and Administration Branch,Geophysics, Time and Marine Meteorological Services","Mr. HUI Tai Wai, David","Scientific Offr (Geophysics, Time and Marine Meteorological Services)","2926 8433"
+"Hong Kong Observatory","Development, Research and Administration Branch,Geophysics, Time and Marine Meteorological Services","Mr. LAU Dick Shum","Ag Ch Experimental Offr (Geophysics, Time and Marine Meteorological Services)","2926 3113"
+"Hong Kong Observatory","Development, Research and Administration Branch,Geophysics, Time and Marine Meteorological Services","Mr. CHOW Chi Kin","Sr Experimental Offr (Geophysics, Time and Marine Meteorological Services)","2926 8113"
+"Hong Kong Observatory","Development, Research and Administration Branch,Geophysics, Time and Marine Meteorological Services","Dr. WU Man Chi","Ag Sr Experimental Offr (Geophysics, Time and Marine Meteorological Services)","2926 3109"
+"Hong Kong Observatory","Development, Research and Administration Branch,Geophysics, Time and Marine Meteorological Services","Ms. CHEUNG Yee Ying","Experimental Offr (Geophysics, Time and Marine Meteorological Services)","2926 3109"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Forecast Services and Climate Change Studies","Mr. LEE Sai Ming","Sr Scientific Offr (Climate Forecast Services and Climate Change Studies)","2926 8341"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Forecast Services and Climate Change Studies","Mr. TONG Hang Wai","Scientific Offr (Climate Forecast Services and Climate Change Studies)","2926 3112"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Forecast Services and Climate Change Studies","Mr. TSE Wai Po","Scientific Offr (Climate Forecast Services and Climate Change Studies)","2926 8114"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Forecast Services and Climate Change Studies","Mr. SHAM Fu Cheung","Ch Experimental Offr (Climate Forecast Services and Climate Change Studies)","2926 3102"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Forecast Services and Climate Change Studies","Mr. CHAN Wing Hang","Experimental Offr (Climate Forecast Services and Climate Change Studies)","2926 3104"
+"Hong Kong Observatory","Development, Research and Administration Branch,Climate Forecast Services and Climate Change Studies","Mr. TANG Shu Yan","Experimental Offr (Climate Forecast Services and Climate Change Studies)","2926 3660"
+"Hong Kong Observatory","Development, Research and Administration Branch,Corporate Communication, Publicity and Media Services","Dr. YEUNG Kwok Chung","Ag Sr Scientific Offr (Corporate Communication, Publicity and Media Services)","2926 8900"
+"Hong Kong Observatory","Development, Research and Administration Branch,Corporate Communication, Publicity and Media Services","Miss LEE Fung Ying","Scientific Offr (Corporate Communication, Publicity and Media Services)","2926 8212"
+"Hong Kong Observatory","Development, Research and Administration Branch,Corporate Communication, Publicity and Media Services","Mr. TSOI Tze Shun","Scientific Offr (Corporate Communication, Publicity and Media Services)","2926 8025"
+"Hong Kong Observatory","Development, Research and Administration Branch,Corporate Communication, Publicity and Media Services","Dr. CHENG Chung Choi","Experimental Offr (Corporate Communication, Publicity and Media Services)","2926 8213"
+"Hong Kong Observatory","Development, Research and Administration Branch,Corporate Communication, Publicity and Media Services","Mr. LAM Yat Wing","Experimental Offr (Corporate Communication, Publicity and Media Services)","2926 8530"
+"Hong Kong Observatory","Development, Research and Administration Branch,Corporate Communication, Publicity and Media Services","Miss WONG Cheuk Yiu","Experimental Offr (Corporate Communication, Publicity and Media Services)","2926 8240"
+"Hong Kong Observatory","Development, Research and Administration Branch,Annex Block Project","Mr. TONG Yu Fai","Sr Scientific Offr (Annex Block Project)","2926 1541"
+"Hong Kong Observatory","Development, Research and Administration Branch,Annex Block Project","Mr. SIU Kit Wai, Davy","Sr Executive Officer (Annex Block Project)","2926 8278"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Mr. SIU Tze Cheong, Jerry","Departmental Secretary","2926 8207"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Ms. HO Chee Ying, Kitty","Deputy Departmental Secretary","2926 8215"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Mr. YEUNG Yam Yam","Assistant Departmental Secretary(Per)","2926 8471"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Mr. LEE Tsun Sing, Leo","Assistant Departmental Secretary(Gen)1","2926 8206"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Mr. CHEUNG Ka Chun, Dick","Assistant Departmental Secretary(Gen)2","2926 8039"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Mr. IP Tai Wai, David","CO(Gen)","2926 8202"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Mr. LEE Kam Yee","SO(S)","2926 1005"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Mr. YIP Chi Hang, Gary","Asst SO(S)","2926 8022"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Ms. WAI Choi Hung","SS I","2926 8010"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Ms. LEE Yuk Ching","Acct Offr","2926 8148"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Ms. CHU Shui Shan, Christine","SCO (Acct)","2926 8203"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Ms. LI Wai Hing","CO (Acct)","2926 8201"
+"Hong Kong Observatory","Development, Research and Administration Branch,Administration","Ms. LAU Siu Kuk","CO (Per)","2926 8205"
+"Hong Kong Observatory","Hong Kong Observatory,Aviation Weather Services Branch","Miss LAU Sum Yee","Asst Dir of the HK Observatory (Aviation Weather Services)","2926 8232"
+"Hong Kong Observatory","Aviation Weather Services Branch,Airport Meteorological Office","Mr. CHOY Boon leung","Sr Scientific Offr (Airport Metorological Office)","2926 8431"
+"Hong Kong Observatory","Aviation Weather Services Branch,Airport Meteorological Office","Dr. LEE Chi Wai, Jeffrey","Scientific Offr (Airport Meteorological Office)","2926 8642"
+"Hong Kong Observatory","Aviation Weather Services Branch,Airport Meteorological Office","Dr. LEE Yiu Fai","Scientific Offr (Airport Meteorological Office)","2926 8276"
+"Hong Kong Observatory","Aviation Weather Services Branch,Airport Meteorological Office","Mr. KOK Mang Hin","Scientific Offr (Airport Meteorological Office)","2926 8702"
+"Hong Kong Observatory","Aviation Weather Services Branch,Airport Meteorological Office","Mr. HO Pak Sing","Ch Experimental Offr (Airport Meteorological Office)","2926 8334"
+"Hong Kong Observatory","Aviation Weather Services Branch,Airport Meteorological Office"," (Shift Duty)","Duty Aviation Forecaster and Enquiry on Latest Forecast (Airport Meteorological Office)","2910 6920"
+"Hong Kong Observatory","Aviation Weather Services Branch,Airport Meteorological Office"," (Shift Duty)","Duty System Operator and Booking of Flight Document (Airport Meteorological Office)","2910 6922"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. LEE Lap Shun","Sr Scientific Offr (Meteorological Forecast Systems)","2926 8435"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. YEUNG Wai Lung","Scientific Offr (Meteorological Forecast Systems)","2926 8463"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. HON Kai Kwong","Scientific Offr (Meteorological Forecast Systems)","2926 8331"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Dr. NG Cho Wing","Scientific Offr (Meteorological Forecast Systems)","2926 8246"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. TANG Chi Kit","Experimental Offr (Meteorological Forecast Systems)","2926 8644"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. CHAN Ho Wai","Experimental Offr (Meteorological Forecast Systems)","2926 8246"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. LEE Ho Yin","Sr Radar Specialist Mechanic (Meteorological Forecast Systems)","2922 5810"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. LEUNG Chun Pong","Radar Specialist Mechanic (Meteorological Forecast Systems)","2910 6308"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. FUNG Kin Wah","Radar Specialist Mechanic (Meteorological Forecast Systems)","2922 5818"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. CHAN Yiu Sum","Radar Specialist Mechanic (Meteorological Forecast Systems)","2910 6307"
+"Hong Kong Observatory","Aviation Weather Services Branch,Meteorological Forecast Systems","Mr. LAI Chung Wai","Radar Specialist Mechanic (Meteorological Forecast Systems)","2910 6307"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Dr. WONG Wing Tak","Sr Scientific Offr (Aviation Weather Forecast and Warning Services)","2926 8430"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. CHEUNG Ping","Scientific Offr (Aviation Weather Forecast and Warning Services)","2926 8241"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. HO Ka Leong","Ch Experimental Offr (Aviation Weather Forecast and Warning Services)","2926 8400"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. CHAU Chun Yuen","Ag Sr Experimental Offr (Aviation Weather Forecast and Warning Services)","2926 5806"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Miss CHAN Man Yee, Eliza","Sr Experimental Offr (Aviation Weather Forecast and Warning Services)","2922 5806"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. MAK Kai Lun","Sr Experimental Offr (Aviation Weather Forecast and Warning Services)","2922 5806 "
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. CHAN Kin Yu","Sr Experimental Offr (Aviation Weather Forecast and Warning Services)","2922 5806"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. WONG Tak kan","Sr Experimental Offr (Aviation Weather Forecast and Warning Services)","2922 5806"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Ms. WONG Sau Ha","Sr Experimental Offr (Aviation Weather Forecast and Warning Services)","2926 8242"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. CHIU Yu Yeung","Experimental Offr (Aviation Weather Forecast and Warning Services)","2922 5807"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. MOK Ching Wah","Experimental Offr (Aviation Weather Forecast and Warning Services)","2922 5807"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Miss CHEUNG Man Sze","Experimental Offr (Aviation Weather Forecast and Warning Services)","2926 8100"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. LEE Chi Hung","Experimental Offr (Aviation Weather Forecast and Warning Services)","2926 8335"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. CHENG Kin Hei","Experimental Offr (Aviation Weather Forecast and Warning Services)","2926 8369"
+"Hong Kong Observatory","Aviation Weather Services Branch,Aviation Weather Forecast and Warning Services","Mr. NG Ka Ho","Experimental Offr (Aviation Weather Forecast and Warning Services)","2926 8332"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. CHAN Ying Wa","Sr Scientific Offr (Radar and Satellite Meteorology)","2926 3074"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Miss TSE Shuk Mei","Scientific Offr (Radar and Satellite Meteorology)","2926 8337"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. SO Chi Kuen, Billy","Scientific Offr (Radar and Satellite Meteorology)","2926 8333"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. KONG Wai","Scientific Offr (Radar and Satellite Meteorology)","2926 8046"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. IP Wing Sing","Sr Radar Specialist Mechanic (Radar and Satellite Meteorology)","2926 8404"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. LEUNG Chi Man","Radar Specialist Mechanic (Radar and Satellite Meteorology)","2926 8407"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. YEUNG Chi Yu","Radar Specialist Mechanic (Radar and Satellite Meteorology)","2926 8407"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. MAK Man Fai","Radar Specialist Mechanic (Radar and Satellite Meteorology)","2926 8403"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. WONG Wai Cheong","Radar Specialist Mechanic (Radar and Satellite Meteorology)","2926 8364"
+"Hong Kong Observatory","Aviation Weather Services Branch,Radar and Satellite Meteorology","Mr. KWONG Ching Kan","Radar Specialist Mechanic (Radar and Satellite Meteorology)","2926 8364"
+"Hong Kong Observatory","Aviation Weather Services Branch,Three Runway System Project","Mr. LI Luen On","Principal Experimental Offr (Three Runway System Project)","2926 8209"
+"Hong Kong Observatory","Aviation Weather Services Branch,Three Runway System Project","Dr. TAM Hiu Ching","Scientific Offr (Three Runway System Project)","2926 8641"
+"Hong Kong Observatory","Aviation Weather Services Branch,Three Runway System Project","Mr. CHAN Yan Chun","Scientific Offr (Three Runway System Project)","2926 8641"
+"Hong Kong Observatory","Aviation Weather Services Branch,Three Runway System Project","Mr. IP Chi Wing","Sr Radar Specialist Mechanic (Three Runway System Project)","2446 0872"
+"Hong Kong Observatory","Aviation Weather Services Branch,Three Runway System Project","Mr. LAU Chi Ho","Radar Specialist Mechanic (Three Runway System Project)","2453 0400"
+"Hong Kong Observatory","Aviation Weather Services Branch,Three Runway System Project","Mr. WU Man Yiu","Radar Specialist Mechanic (Three Runway System Project)","2446 0871"
+"Hong Kong Observatory","Aviation Weather Services Branch,Three Runway System Project","Mr. WO Chung Fat","Radar Specialist Mechanic (Three Runway System Project)","2446 0871"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Dr. LI Ping Wah","Sr Scientific Offr (Asian Aviation Meteorological Centre)","2926 8437"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Mr. CHAN Wai Soen","Scientific Offr (Asian Aviation Meteorological Centre)","2926 8531"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Miss LEUNG Yan Yu, Christy","Scientific Offr (Asian Aviation Meteorological Centre)","2926 8013"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Mr. YEUNG Ho Kee","Ag Sr Experimental Offr (Asian Aviation Meteorological Centre)","2922 5807"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Mr. WONG Chau Ping","Sr Experimental Offr (Asian Aviation Meteorological Centre)","2922 5806"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Mr. WONG To","Sr Experimental Offr (Asian Aviation Meteorological Centre)","2922 5806"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Mr. YUEN Chun Pong","Ag Sr Experimental Offr (Asian Aviation Meteorological Centre)","2922 5807"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Dr. WONG Kai Chi","Experimental Offr (Asian Aviation Meteorological Centre)","2926 8016"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Mr. FOK Ho Kong, Jason","Experimental Offr (Asian Aviation Meteorological Centre)","2926 8641"
+"Hong Kong Observatory","Aviation Weather Services Branch,Asian Aviation Meteorological Centre","Miss LI Hiu Yan","Experimental Offr (Asian Aviation Meteorological Centre)","2926 8470"
+"Hong Kong Observatory","Hong Kong Observatory,Radiation Monitoring and Assessment Branch","Mr. MA Wai Man","Ag Asst Dir of the HK Observatory (Radiation Monitoring and Assessment)","2926 8411"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Environmental Radiation Monitoring and Meteorological Measurements","Miss LEE Shuk Ming","Sr Scientific Offr (Environmental Radiation Monitoring and Meteorological Measurements)","2926 8421"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Environmental Radiation Monitoring and Meteorological Measurements","Dr. LAM Hok Yin","Scientific Offr (Environmental Radiation Monitoring and Meteorological Measurements)","2926 8024"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Environmental Radiation Monitoring and Meteorological Measurements","Mr. KONG Yu Chau","Scientific Offr (Environmental Radiation Monitoring and Meteorological Measurements)","2926 8415"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Environmental Radiation Monitoring and Meteorological Measurements","Mr. LEUNG Yin Kee","Sr Radar Specialist Mechanic (Environmental Radiation Monitoring and Meteorological Measurements)","2926 8428"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Environmental Radiation Monitoring and Meteorological Measurements","Mr. CHAU Hak Ming","Radar Specialist Mechanic (Environmental Radiation Monitoring and Meteorological Measurements)","2926 8115"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Environmental Radiation Monitoring and Meteorological Measurements","Mr. WONG Tze Foon","Radar Specialist Mechanic (Environmental Radiation Monitoring and Meteorological Measurements)","2926 8116"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Environmental Radiation Monitoring and Meteorological Measurements","Mr. LEUNG Ting Kit, Thomas","	Radar Specialist Mechanic (Environmental Radiation Monitoring and Meteorological Measurements)","2926 8428"
+"Hong Kong Observatory","Environmental Radiation Monitoring and Meteorological Measurements,King's Park Laboratory and Meteorological Station","Mr. LUI Chun Man","Sr Experimental Offr (King's Park Laboratory and Meteorological Station)","2928 6195"
+"Hong Kong Observatory","Environmental Radiation Monitoring and Meteorological Measurements,King's Park Laboratory and Meteorological Station","Mr. YUNG Chung Hoi","Experimental Offr (Environmental Radiation Monitoring and Meteorological Measurements)","2928 6197"
+"Hong Kong Observatory","Environmental Radiation Monitoring and Meteorological Measurements,King's Park Laboratory and Meteorological Station"," (Shift Duty)","King's Park Laboratory (King's Park Laboratory and Meteorological Station)","2928 6190"
+"Hong Kong Observatory","Environmental Radiation Monitoring and Meteorological Measurements,King's Park Laboratory and Meteorological Station"," (Shift Duty)","King's Park Meteorological Office (King's Park Laboratory and Meteorological Station)","2928 6190"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Training and Exercises","Ms. LAM Ching Chi","Sr Scientific Offr (Training and Exercises)","2926 8441"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Training and Exercises","Mr. KUNG Wing Hang, Terence","Scientific Offr (Training and Exercises)","2926 8319"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Training and Exercises","Mr. HUNG Fan Yiu","Ch Experimental Offr (Training and Exercises)","2926 8259"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Training and Exercises","Ms. CHENG Yuen Yuen","Experimental Offr (Training and Exercises)","2926 8312"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Training and Exercises","Ms. YEUNG Pui Yi","Ch Scientific Asst (Training and Exercises)","2926 8318"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. CHAN Kai Wing, John","Ag Sr Scientific Offr (Weather and Radiation Observation Networks)","2926 8342"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. LAU Stephen Po Wing","Scientific Offr (Weather and Radiation Observation Networks)","2926 8253"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Dr. LEUNG Ho Ming, Dick","Scientific Offr (Weather and Radiation Observation Networks)","2926 8342"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Ms. CHAN Yuk Hing, Joanne","Sr Experimental Offr (Weather and Radiation Observation Networks)","2926 8346"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. LEE Chung Wo","Experimental Offr (Weather and Radiation Observation Networks)","2926 8345"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. CHAN Ka Wah","Sr Radar Specialist Mechanic (Weather and Radiation Observation Networks)","2926 8230"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. LAI Wai Lun","Radar Specialist Mechanic (Weather and Radiation Observation Networks)","2926 8044"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. KWOK Koon Yip","Radar Specialist Mechanic (Weather and Radiation Observation Networks)","2926 8256"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. NG Shu Kwan","Radar Specialist Mechanic (Weather and Radiation Observation Networks)","2926 8229"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. YU Choi Loi","Radar Specialist Mechanic (Weather and Radiation Observation Networks)","2926 8348"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Weather and Radiation Observation Networks","Mr. FUNG Kwok Chu","Ch Scientific Asst (Weather and Radiation Observation Networks)","2926 8347"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Emergency Preparedness and Assessment","Mr. LEUNG Wai Hung","Scientific Offr (Emergency Preparedness and Assessment)","2926 8412"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Emergency Preparedness and Assessment","Dr. CHAN Siu Wai","Scientific Offr (Emergency Preparedness and Assessment)","2926 8023"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Emergency Preparedness and Assessment","Mr. KWAN Kam Lun","Ag Sr Experimental Offr (Emergency Preparedness and Assessment)","2926 8002"
+"Hong Kong Observatory","Radiation Monitoring and Assessment Branch,Emergency Preparedness and Assessment","Ms. YU Mei Fung","Ch Scientific Asst (Emergency Preparedness and Assessment)","2926 8417"

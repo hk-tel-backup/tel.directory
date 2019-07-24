@@ -1,264 +1,189 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=SB&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DSB%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Security Bureau","Mr. LEE Ka Chiu, John, SBS, PDSM, PMSM, JP","Secy for Security","2810 2712"
+"Security Bureau","Mr. AU Chi Kwong, Sonny, PDSM, PMSM, JP","Under Secy for Security","2810 2072"
+"Security Bureau","Mrs. LAI CHAN Chi Kuen, Marion, GBS, JP","Permanent Secy for Security","2810 2666"
+""
+"Organisation","Service Name","Office Tel"
+"Security Bureau","Enquiry","2810 2327"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Security Bureau","Security Bureau","","",""
+"Security Bureau","Security Bureau,Office of the Secretary for Security","Mr. LEE Ka Chiu, John, SBS, PDSM, PMSM, JP","Secy for Security","2810 2712"
+"Security Bureau","Security Bureau,Office of the Secretary for Security","Mr. AU Chi Kwong, Sonny, PDSM, PMSM, JP","Under Secy for Security","2810 2072"
+"Security Bureau","Security Bureau,Office of the Secretary for Security","Mr. LAU Wai Ming","Adm Asst to Secy for Security","2810 2678"
+"Security Bureau","Security Bureau,Office of the Secretary for Security","Ms. LI Kit Ling, Esther","Press Secy to Secy for Security","2810 2160"
+"Security Bureau","Security Bureau,Office of the Secretary for Security","Mr. LAU Fu Sang, Cassius","Political Assistant to Secretary for Security","2810 3014"
+"Security Bureau","Security Bureau,Permanent Secretary and Deputy Secretaries","Mrs. LAI CHAN Chi Kuen, Marion, GBS, JP","Permanent Secy for Security","2810 2666"
+"Security Bureau","Security Bureau,Permanent Secretary and Deputy Secretaries","Ms. LEE Mei Mei, Mimi, JP","Dep Secy for Security 1","2810 2474"
+"Security Bureau","Security Bureau,Permanent Secretary and Deputy Secretaries","Mrs. LIU LEE Ho Kei, Apollonia, JP","Dep Secy for Security 2","2810 2766"
+"Security Bureau","Security Bureau,Permanent Secretary and Deputy Secretaries","Miss LAM  Shuk Yee, Hinny","Dep Secy for Security 3","2810 2906"
+"Security Bureau","Security Bureau,A Division","Ms. LEE Ho Ki, Iris","Prin AS (Security) A","2810 2329"
+"Security Bureau","Security Bureau,A Division","Ms. CHUI Shih Yen, Joceline","Prin AS (Security) SD","2810 2628"
+"Security Bureau","Security Bureau,A Division","Mr. LAW Shu Pui, Stephen","AS (Security) Liaison","2810 2024"
+"Security Bureau","Security Bureau,A Division","Ms. CHAN Tsz Ki, Trinky","AS (Security) A1","2810 2302"
+"Security Bureau","Security Bureau,A Division","Mr. LEUNG Siu To, Percy","AS (Security) A2","2810 3523"
+"Security Bureau","Security Bureau,A Division","Mr. SIU Chi Lam, Edwin","SEO (A Division)","2810 2325"
+"Security Bureau","Security Bureau,A Division","Miss LAM Kin Yi, Eva","EO (A Division)","2810 2605"
+"Security Bureau","A Division,Security and Guarding Services Industry Authority","Ms. MAK Mei Kuen, Rebecca","CEO (Security and Guarding Services)","2801 6281"
+"Security Bureau","A Division,Security and Guarding Services Industry Authority","Mr. WONG Kwok Ip, Joseph","EO (Security and Guarding Services)1","2801 6236"
+"Security Bureau","A Division,Security and Guarding Services Industry Authority","Miss LUI Wing Yan, Vivian","EO (Security and Guarding Services) 2","2801 6203"
+"Security Bureau","A Division,Security and Guarding Services Industry Authority","Miss CHOY Ka Yee, Katherine","Offr in charge Gen Office","2801 6482"
+"Security Bureau","Security Bureau,B Division","Mr. CHAN Yuen Tak, Alex","Prin AS (Security)B","2810 3435"
+"Security Bureau","Security Bureau,B Division","Ms. LAU Ho Yee, Connie","AS (Security) B1","2810 2894"
+"Security Bureau","Security Bureau,B Division","Miss TSOI Yuen San, Venus","AS (Security) B2","2810 3948"
+"Security Bureau","Security Bureau,B Division","Mr. TONG Wing Ming, Samuel","AS (Security) B3","2810 2002"
+"Security Bureau","Security Bureau,B Division"," (VACANT )","AS (Security) B4","2810 2641"
+"Security Bureau","Security Bureau,B Division","Miss LAU Wan Yee , Joanne","EO (B Division)1","2810 3560"
+"Security Bureau","Security Bureau,B Division","Miss SOONG So Ying, Monica","EO (B Division)2","2810 3232"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Mr. CHAN Pik Lok, Nelson","Secy Long-term Prison Sentences Review Board and Release Under Supervision Board","2867 2680"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Miss YIP Hiu Lam, Trinity","Secy Post-Release Supervision Board","2867 2293"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Miss CHAN Sze Man, Kitty","EO (Review Board)","2867 2390"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Ms. LAI Shuk Mei","OLO I (RUSB)","2867 2408"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Miss LO Hiu Kwan","OLO II (1)","2867 2406"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Miss TANG Gladys, Stephanie","OLO II (2)","2867 2407"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Mr. LAI Shing Tat, Ryan","OLO II (3)","2867 2409"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Mr. LEE Shing Cho, Joe","Offr in charge Regy (Long-term Prison Sentences Review Board/ReleasUnder Supervision Board)","2867 2345"
+"Security Bureau","B Division,Long-term Prison Sentences Review Board/Release Under Supervision Board/Post-Release Supervision Board","Mr. LEE Ka Cheung","CO (Post-Release Supervision Board)","2867 2005"
+"Security Bureau","Security Bureau,C Division","Miss CHUI Hiu Lo, Winnie","Prin AS (Security) C","2810 2330"
+"Security Bureau","Security Bureau,C Division","Ms. YEUNG Ka Lam, Alison","AS (Security) C1","2810 3619"
+"Security Bureau","Security Bureau,C Division","Mr. WONG Wing Hang","AS (Security) C2","2810 2893"
+"Security Bureau","Security Bureau,C Division","Miss SO Yi Ching, Venus","AS (Security) C3","2810 3049"
+"Security Bureau","Security Bureau,C Division","Mr. TANG Ka Fai, Kriss","AS (Security) C4","2810 2699"
+"Security Bureau","Security Bureau,D Division","Mr. LAM Chun Wah, Parson","Prin AS (Security) D","2810 2506"
+"Security Bureau","Security Bureau,D Division","Mr. WONG Yeung","AS (Security) D2","2810 3164"
+"Security Bureau","Security Bureau,D Division","Miss NG Wai Kwan, Peggy","AS (Security) D3","2810 2105"
+"Security Bureau","Security Bureau,D Division","Mr. LAM Yin Kwan, Oliver","AS (Security) D4","2810 2790"
+"Security Bureau","Security Bureau,D Division","Ms. NG Yin Ha, Windsor","SEO (Immigration)","2810 2726"
+"Security Bureau","Security Bureau,D Division","Miss TSE Ka Yan, Karen","EO (Immigration) 1","2810 2057"
+"Security Bureau","Security Bureau,D Division","Mr. CHAN Chi Fung","EO (Immigration) 2","2810 3512"
+"Security Bureau","D Division,Imm Tribunal/ROP Tribunal/HKSAR Passports Appeal Board/Civil Celebrant of Marriages Appointment Appeal Board","Miss HUNG Ka Ki, Kiki","EO (Tribunals)","2520 6122"
+"Security Bureau","D Division,Imm Tribunal/ROP Tribunal/HKSAR Passports Appeal Board/Civil Celebrant of Marriages Appointment Appeal Board","Miss CHAN Hoi Kiu, Eunice","OLO (Tribunals)","2520 6127"
+"Security Bureau","D Division,Imm Tribunal/ROP Tribunal/HKSAR Passports Appeal Board/Civil Celebrant of Marriages Appointment Appeal Board","Mr. LI  Ka Ho, Terence","ACO (Tribunals)","2520 6129"
+"Security Bureau","Security Bureau,E Division","Mr. TSANG Yue Tung, Andrew","Prin AS (Security) E","2810 2632"
+"Security Bureau","Security Bureau,E Division","Ms. LEUNG Wing Sum, Anna","AS (Security) E1","2810 2686"
+"Security Bureau","Security Bureau,E Division","Mr. KWAN Ke Lin, Michael","AS (Security) E2","2810 2433"
+"Security Bureau","Security Bureau,E Division","Mr. HAU Lai Man, Watson","AS (Security) E3","2810 2068"
+"Security Bureau","Security Bureau,E Division","Mr. LAM Cheuk Ho, Raymond","AS (Security) E4","3655 4890"
+"Security Bureau","Security Bureau,E Division","Ms. KWOK Hoi Ying, Irene","AS (Security) E5","3655 4860"
+"Security Bureau","Security Bureau,E Division","Ms. HO Pik Ki, Becky","SEO (Fight Crime Committee)","2810 2747"
+"Security Bureau","Security Bureau,E Division","Mr. SO Ka Ho, Ken","EO (E Division)","2810 2607"
+"Security Bureau","Security Bureau,Review Division","Mr. WOO Tak Ying, Billy","Prin AS for Security (Review)","2810 2676"
+"Security Bureau","Security Bureau,Review Division","Mr. CHEUNG Ho Chi, Cyrus","AS(Security) Review 1","2810 2099"
+"Security Bureau","Security Bureau,Review Division","Ms. CHAN Suk Yee, Brenda","AS(Security) Review 2","3655 4364"
+"Security Bureau","Security Bureau,Review Division","Miss NG Yi Wing, Cuby","EO (Review)1","2810 2643"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. CHONG  Wai Yiu, Wendy","CEO(TCAB)","2294 2986"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. CHENG Suet Fu, Derek","SEO(TCAB)1","3106 8957"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. LAU Hak Kan, Alfred","SEO(TCAB)2","2294 2978"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. WONG Sha Yee, Connie","SEO(TCAB)3","3106 2284"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Miss CHAN Ching Yee, Joey","EO(TCAB)1","2294 2991"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. LEE Hin Wai, Erin","EO(TCAB)2","2294 2994"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Miss CHUNG Win Yee, Winnie","EO(TCAB)3","3106 2488"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. CHENG Chi To, Michael","EO(TCAB)4","3106 3916"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Miss KWOK Tsz Ching, Emily","EO(TCAB)5","3106 3749"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Miss YAU Mei Chun, Chrissie","EO(TCAB)6","3106 8653"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. LAM Sze Wai, Janice","EO(TCAB)7","2294 2992"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. KWAN Wai Kit, Ricky","EO(TCAB)8","3106 2874"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. FUNG Suk Wan, Sueann","EO(TCAB)9","3106 3617"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Miss FOK Lok Tsang, Viola","EA(TCAB)1","2294 2985"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. WONG Chi Fung, Johnny","EA(TCAB)2","2294 2987"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. LAU Mou Chee, Hilda","EA(TCAB)3","3106 2931"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. KWAN Kwok Kuen","EA(TCAB)4","3106 8784"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. TSE Ka Yu, Karrie","EA(TCAB)5","3106 2636"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. POON Tik Mei, Angel","EA(TCAB)6","2594 6613"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. LEE Yuen Kei, David","EA(TCAB)7","2294 2993"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. MAN Yu Suen, Natalie","EA(TCAB)8","2594 6612"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. CHAN Kit Ying, Ivy","EA(TCAB)9","3106 8941"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. CHAN Wai Ling, Queenie","EA(TCAB)10","3106 2969"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. TO On Nie, Annie","EA(TCAB)11","3106 3797"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Miss CHOW Man Ling, Estella","EA(TCAB)12","2294 2979"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. AU Andy","EA(TCAB)13","3106 2869"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. TANG Wai Ying, Anna","EA(TCAB)14","3106 3846"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. LAW Hoi Yee, Joanna","EA(TCAB)15","3106 2984"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. FUNG Yuen Man, Loretta","EA(TCAB)16","3106 3958"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Ms. LO Lai Ling, Jacqueline","CO(TCAB)1","2294 2984"
+"Security Bureau","Review Division,Torture Claims Appeal Board","Mr. CHO Tsz Man, Clement","CO(TCAB)2","3106 3674"
+"Security Bureau","Security Bureau,Emergency Support Unit","Ms. TSUI Sheung Yee, Sally","Govt Security Offr","2810 2816"
+"Security Bureau","Security Bureau,Emergency Support Unit","Mr. YEUNG Yuk Leung, Bryan","AS (Emergency Support Unit) 1","2810 2752"
+"Security Bureau","Security Bureau,Emergency Support Unit","Mr. HO Chun Man, David","AS (Emergency Support Unit) 2","2810 2870"
+"Security Bureau","Security Bureau,Emergency Support Unit","Miss YEUNG Wai Sum, Amy","AS (Emergency Support Unit) 3","2810 2520"
+"Security Bureau","Security Bureau,Emergency Support Unit","Miss LAM Wing Sze, Emma","AS (Emergency Support Unit) SD2","3655 4883"
+"Security Bureau","Security Bureau,Emergency Support Unit","Mr. CHAN Kin Yee, Kin","AS (Emergency Support Unit) SD3","3655 4882"
+"Security Bureau","Security Bureau,Emergency Support Unit","Ms. CHAI Wan Sun, Amanda","SEO ( Emergency Support Unit)","2810 2227"
+"Security Bureau","Security Bureau,Emergency Support Unit","Ms. HSU Mei Lee, Polly","ESO1","3655 5425"
+"Security Bureau","Security Bureau,Emergency Support Unit","Ms. NGAN Hoi Sun, Emma","ESO2","2810 3514"
+"Security Bureau","Security Bureau,Emergency Support Unit","Mr. CHAU Tsz Lun, Jack","EO (Emergency Support Unit)","3655 5348"
+"Security Bureau","Security Bureau,Emergency Support Unit","Mr. LAI Chi Hung, Ben","CO ( Emergency Support Unit)","3655 5349"
+"Security Bureau","Emergency Support Unit,Emergency Monitoring and Support Centre","","",""
+"Security Bureau","Security Bureau,Narcotics Division","Ms. CHAN Wing Man, Manda, JP","Comr for Narcotics","2867 2746"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Mr. LAI Ming Fai, Kevin","PAS(Narcotics)1","2867 5676"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Miss CHENG Ching Mon, Libera","AS (Narcotics)1","2867 2641"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Mr. WAI Chun Yin, Mickey","AS (Narcotics)3","2867 3366"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Mr. LEUNG Chi Hang, Shawn","AS (Narcotics)4","2867 2755"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Ms. LEUNG Ngok Sze, Christina","SEO (Narcotics)1","2867 2750"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Miss LEUNG Wing Sheung, Peggy","SEO (Narcotics)3","2867 5916"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Ms. CHAN Ming Wai, Ruby","EO (Narcotics)1","2867 2766"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Ms. WONG Sze Ki, Angie","EO (Narcotics)4","2867 2286"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Mr. TAI Kin Ip, Terence","EO (Narcotics)5","2867 2760"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Mr. PO Wai Hang, Ryan","EO (Narcotics)6","2867 2769"
+"Security Bureau","Narcotics Division,Narcotics Division Team 1","Ms. LI Po Yi","Offr in charge Gen Office","2867 2768,2867 2756"
+"Security Bureau","Narcotics Division,Narcotics Division Team 2","Miss LI Wing Suen, Fiona","PAS(Narcotics)2","2867 5220"
+"Security Bureau","Narcotics Division,Narcotics Division Team 2","Mr. CHUI Luen Ping, Bob","CEO(Narcotics)","2867 2752"
+"Security Bureau","Narcotics Division,Narcotics Division Team 2","Ms. PANG Mei Yee, Denise","SEO (Narcotics)2","2867 2751"
+"Security Bureau","Narcotics Division,Narcotics Division Team 2","Ms. WAH Pui Yin, Bonnie","SEO (Narcotics)4","2867 2749"
+"Security Bureau","Narcotics Division,Narcotics Division Team 2","Miss CHEUNG Shuk Ying, Cherry","EO (Narcotics)2","2867 2761"
+"Security Bureau","Narcotics Division,Narcotics Division Team 2","Mr. CHAN Long Hin, Ivans","EO (Narcotics)3","2867 2763"
+"Security Bureau","Security Bureau,Resource Management Unit","Ms. TAM Pui Yue, Jenny","PMSO (Security)","2810 2599"
+"Security Bureau","Security Bureau,Resource Management Unit","Ms. WONG  Mei Ha, Gwenda","SEO (Resource Mgt)1","2810 3053"
+"Security Bureau","Security Bureau,Resource Management Unit","Ms. NG Suk Man, Shirman","SEO (Resource Mgt)2","2810 2775"
+"Security Bureau","Security Bureau,Resource Management Unit","Ms. CHEUK Pui Lam, Ann","SEO (Resource Mgt)3","2810 3215"
+"Security Bureau","Security Bureau,Resource Management Unit","Mr. LAI Wing Kai, Simon","SMSO (Resource Mgt)","2810 2663"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. TAM Pui Yue, Jenny","PMSO (Security)","2810 2599"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. NG Ka Po, Caroline","SEO (Adm)","2810 3017"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. HO Ka Yee, Emily","EO (Filing &amp; Personnel)","2810 2392"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. CHAN Hoi Kei, Rachel","EO (Gen &amp; Accts)","2810 2642"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Miss NG Ching Wai, Vian","EO (Head Office)","3655 4876"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. LAI Lai Sheung, Cardy","Offr in Charge (Conf Regy)","2810 2569"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. LAI Mei Yan, Jessica","Offr in Charge (Per Regy)","2810 2931"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. WONG Lai Ying, Kate","Offr in Charge (Filing Regy)","2810 2327"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Mr. LI  Kai Chi","Offr in Charge (Accts)","2810 3224"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. LAM Ka Yi, Connie","SS I","2810 3262"
+"Security Bureau","Security Bureau,Bureau Administration Unit","Ms. CHEUNG Wai See, Lois","ACO (General)","2810 2982"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Ms. LAM  Ngar Lai, Alice","CEO(PSO)","3428 3730"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Ms. FUNG Wai Kwan, Vivian","Legal Adviser / Deputy Officer-in-charge","3428 3740"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Ms. SHING Yuk Ngor","SEO(PSO)","3428 3019"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Miss TAI Ping Yu, Emily","EO(PSO)1","3428 3762"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Mr. LIU Chung Yin, Douglas","EO(PSO)2","3428 3741"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Miss WONG Ka Yan, Karina","EO(PSO)3","3428 3092"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Ms. TANG Ying Tung, Kathy","EA(PSO)1","3428 3049"
+"Security Bureau","Security Bureau,Pilot Scheme Office for Provision of Publicly-funded Legal Assistance for Non-refoulement Claimants","Ms. TSANG Yee Man, Kay","EA(PSO)6","3428 3091"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. CHAN Tat Kei, Keith","Senior Systems Manager (Security)","2867 5968"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. WAN Siu Shun","Systems Manager (Security)1","2867 5962"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. CHAN Tsz Yeung, Ares","Systems Manager (Security)2","2867 5963,2582 2194"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. SIN Chun Sing, George","Systems Manager (Security)3","2810 3515"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. WONG Kwok Kei, Keith","Analyst Programmer I (Security)3A","2810 3951"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Miss WONG  Ho Yan, Alice","Analyst Programmer I (Security)1A","2867 5967"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. TSOI Chi Kin, Jimmy","Analyst Programmer I (Security)2A","2867 5972"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. CHAN Po Wing, Yanis","Analyst Programmer II (Security)1A","2867 5443"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Miss CHING Yuen Yuen, Beverly","Analyst Programmer II (Security)2A","2867 5966"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. NGAI Siu Wing, Jacky","Analyst Programmer II (Security)3A","2810 2003"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Ms. LAI Hei Yin, Helen","Analyst Programmer II (Security)1B","2867 5971"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. WU  Ying Kit","Analyst Programmer II (Security)3B","2810 2521"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. LAU Long Yin, Trellis","Contract Systems Analyst (Security)1A","2867 5977"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. CHAN Chung Leung, Marshal","Contract Systems Analyst (Security)1B","2867 5443"
+"Security Bureau","Security Bureau,Information Technology Management Unit","Mr. YAU Hung Kit, Andrew","Contract Systems Analyst (Security)3A","2810 2918"
+"Security Bureau","Security Bureau,Statistics Unit","Dr. LI Yeuk Goat, Billy","Sr Stat (Security)","2867 1068"
+"Security Bureau","Security Bureau,Statistics Unit","Miss KAN Yuk Yee","Stat (Security)1","2867 1078"
+"Security Bureau","Security Bureau,Statistics Unit","Mr. HUNG Hin Yan, Vincent","Stat (Security)2","2867 2753"
+"Security Bureau","Security Bureau,Statistics Unit","Mr. SO Kwong Wai, Raymond","Sr Stat Offr (Security)","2867 1079"
+"Security Bureau","Security Bureau,Statistics Unit","Ms. PANG Yuen Yi, Brenda","Stat Offr (Security)1","2867 1067"
+"Security Bureau","Security Bureau,Statistics Unit","Mr. CHEUNG Wai On, Thomas","Stat Offr (Security)2","2867 1071"
+"Security Bureau","Security Bureau,Statistics Unit","Mr. YUEN Ming Fei","Stat Offr (Security)3","2867 1070"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Mr. MA Hing Lap, Derek","Ch Infn Offr (Security)","2810 2975,2842 8778"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Ms. WONG Nui Kit, Veta","Prin Infn Offr (Security)1","2810 2976"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Miss TSE  Wai Ling, Stella","Prin Infn Offr (Security)2","2810 3998"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Mr. LI Lap Hang, Lawrence","Sr Infn Offr (Security)1","2810 2978"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Mr. CHUNG Chi Hong, Ivan","Infn Offr (Security)1","2810 3997"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Ms. PAU  Yi On, Yvonne","Infn Offr (Security)2","2810 3193"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Miss PAT Chit Yi, Chris","Asst Infn Offr (Security)1","2810 2460"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Miss FONG Wing Shan, Amy","Asst Infn Offr (Security)2","2810 3996"
+"Security Bureau","Security Bureau,Secretariat Press Office (Security)","Miss LAM Yin Lo, Louise","Asst Infn Offr (Security)3","2810 3191"

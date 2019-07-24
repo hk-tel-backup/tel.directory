@@ -1,264 +1,310 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=OFCA&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DOFCA%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Office of the Communications Authority","Mr. LEUNG Chung Yin, Chaucer (On Leave from 17.7.2019 to 27.7.2019)","Dir-Gen of Communications / Dir of Film, Newspaper & Article Administration","2961 6618"
+"Office of the Communications Authority"," Vacant","Dep Dir-Gen (Telecommunications)","2961 6688"
+"Office of the Communications Authority","Mr. LI Yeuk Yue, Tony","Dir-Gen of Comm (Ag) / Dep Dir-Gen (B) / Dep Dir of Film & NAA","2961 6238"
+"Office of the Communications Authority","Mrs. TAM TAM Kit Lai, Vivian","Senior Consultant","2961 6507"
+""
+"Organisation","Service Name","Office Tel"
+"Office of the Communications Authority","Enquiries and Complaints","2961 6333"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Office of the Communications Authority","Office of the Communications Authority","Mr. LEUNG Chung Yin, Chaucer (On Leave from 17.7.2019 to 27.7.2019)","Dir-Gen of Communications / Dir of Film, Newspaper &amp; Article Administration","2961 6618"
+"Office of the Communications Authority","Office of the Communications Authority"," Vacant","Dep Dir-Gen (Telecommunications)","2961 6688"
+"Office of the Communications Authority","Office of the Communications Authority","Mr. LI Yeuk Yue, Tony","Dir-Gen of Comm (Ag) / Dep Dir-Gen (B) / Dep Dir of Film &amp; NAA","2961 6238"
+"Office of the Communications Authority","Office of the Communications Authority","Mrs. TAM TAM Kit Lai, Vivian","Senior Consultant","2961 6507"
+"Office of the Communications Authority","Office of the Communications Authority,Regulatory Affairs Branch"," Mr. CHEUK Sing Tak, Sanda","Deputy Dir-Gen (Telecommunications) (Ag) / Asst Dir (Regulatory)","2961 6323"
+"Office of the Communications Authority","Regulatory Affairs Branch,Regulatory Division 1","Mr. SIN Kwok Kei","Head, Regulatory 1","2961 6328"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 11","Mr. LEE Cheong Woon, Wilson","Prin Regulatory Affairs Mgr (Regulatory 11)","2961 6628"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 11","Mr. LO Wai Pun, Penny","Sr Regulatory Affairs Mgr (Regulatory 11)1","2961 6658"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 11","Mr. YIM Chi Ho","Senior Regulatory Affairs Mgr (Regulatory 11)2","2961 6424"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 11","Ms. LAU Pui Sheung, Andrea","Regulatory Affairs Mgr (Regulatory 11)1","2961 6302"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 11","Mr. FOK Lam Kin, Nelson","Regulatory Affairs Mgr (Regulatory 11)3","2961 6766"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 11","Mr. TSE Tat Kit, Keith","Regulatory Affairs Offr (Regulatory 11)2","2961 6275"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 12","Mr. LEE Shun, Wilson","Sr Telecommunications Engr (Regulatory 12)","2961 6683"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 12","Ms. CHUNG Wai Wai, Vera","Sr Regulatory Affairs Mgr (Regulatory 12)","2961 6632"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 12","Mr. WONG Ka Keung","Telecommunications Engr (Regulatory 12)","2961 6387"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 12","Mr. KU Man Leong","Asst Contr of Telecommunications (Regulatory 12)","2961 6734"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 12","Mr. YIP Siu Lung, Jack","Regulatory Affairs Mgr (Regulatory 12)","2961 6667"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 12","Mr. TO Wa Hi","Insp of Telecommunications (Regulatory 12)1","2961 6690"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 12","Mr. LEE Shun Cheung","Insp of Telecommunications (Regulatory 12)2","2961 6324"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 13","Mr. TSAN Siu Yan, Sidney","Prin Regulatory Affairs Mgr (Regulatory 13)","2961 6367"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 13","Ms. LAM Hiu Wai, Stacy","Sr Regulatory Affairs Mgr (Regulatory 13)","2961 6481"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 13","Mr. LEUNG Chun Wah, Andy","Regulatory Affairs Mgr (Regulatory 13)1","2961 6735"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 13","Ms. NG Wing Wah, Tara","Regulatory Affairs Mgr (Regulatory 13)3","2961 6221"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 13","Mr. CHEUK Chi Kin, Gap","Regulatory Affairs Mgr (Regulatory 13)4","2961 6234"
+"Office of the Communications Authority","Regulatory Division 1,Regulatory Section 13","Mr. LAM Tak Keung, Alex","Regulatory Affairs Offr (Regulatory 13)2","2961 6758"
+"Office of the Communications Authority","Regulatory Affairs Branch,Regulatory Division 2","Ms. YU Yim Fun, Linda","Head, Regulatory 2","2961 6639"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 21","Mr. LEE Chi Fai, Jordan","Prin Regulatory Affairs Mgr (Regulatory 21)","2961 6223"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 21","Ms. TSE Yee, Jacqueline","Sr Regulatory Affairs Mgr (Regulatory 21)","2961 6349"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 21","Mr. NG Siu Kwong","Asst Contr of Telecommunications (Regulatory 21)","2961 6635"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 21","Ms. KWAN Wing Kam, Karen","Regulatory Affairs Mgr (Regulatory 21)1","2961 6598"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 21","Miss LEUNG Mei Wah, Deanna","Regulatory Affairs Mgr (Regulatory 21)2","2961 6653"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 22","Ms. CHIM Kin Ning, Christine","Prin Regulatory Affairs Mgr (Regulatory 22)","2961 6286"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 22","Ms. NG Hang Cheung, Gladys","Sr Regulatory Affairs Mgr (Regulatory 22)","2961 6236"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 22","Mr. MAN Yip Shing, Patrick","Regulatory Affairs Mgr (Regulatory 22)1","2961 6527"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 22","Ms. LEE Yuet Hung, Kim","Regulatory Affairs Mgr (Regulatory 22)2","2961 6655"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 22","Mr. LEUNG Ho Ming, Kenneth","Regulatory Affairs Offr (Regulatory 22)4","2961 6784"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 22","Ms. NG Ka Pui, Phyllis","Regulatory Affairs Offr (Regulatory 22)3","2961 6314"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 23","Mr. CHENG Ping Fai, Benson","Prin Regulatory Affairs Mgr (Regulatory 23)","2961 6273"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 23","Ms. TAM Sze Kar, Sharis","Sr Regulatory Affairs Mgr (Regulatory 23)","2961 6643"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 23","Miss LAU Hiu Yan, Donna","Regulatory Affairs Mgr (Regulatory 23)1","2961 6604"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 23","Miss KWONG Lai Wah, Rainie","Regulatory Affairs Mgr (Regulatory 23)2","2961 6393"
+"Office of the Communications Authority","Regulatory Division 2,Regulatory Section 23","Ms. CHOW Suk Fun, Vanessa","Regulatory Affairs Mgr (Regulatory 23)3","2961 6339"
+"Office of the Communications Authority","Regulatory Affairs Branch,Regulatory Division 3","","",""
+"Office of the Communications Authority","Office of the Communications Authority,Operations Branch","Mr. CHENG Chi Keung","Deputy Dir-Gen (Telecommunications) (Ag) / Asst Dir (Operations)","2961 6668"
+"Office of the Communications Authority","Office of the Communications Authority,Operations Branch","Mr. MA Po Ho","Telecommunications Consultant","2961 6792"
+"Office of the Communications Authority","Operations Branch,Advisory and Spectrum Management Division","Mr. TING Lap Hing","Ch Telecommunications Engr (Advisory and Spectrum Mgt)","2961 6681"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 1","Mr. TANG Kai Lim, Alex","Sr Telecommunications Engr (Spectrum Planning)1","2961 6341"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 1","Mr. SIT Kim Wai, Ken","Telecommunications Engr (Spectrum Planning)1","2961 6785"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 1","Mr. CHING Kai Sang, Joe","Telecommunications Engr (Spectrum Planning)2","2961 6622"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 1","Mr. CHAN Chi Pang, Ivan","Telecommunications Engr (Spectrum Planning)4","2961 6363"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 1","Mr. CHAN Chi Hung","Telecommunications Engr (Spectrum Planning)5","2961 6615"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 1","Mr. MAK Kam Hung, Forster","Insp of Telecommunications (Spectrum Planning)2","2961 6645"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 2","Mr. FUNG Chi Hung, Eric","Sr Telecommunications Engr (Spectrum Planning)2","2961 6338"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 2","Mr. YEUNG Ka Lok","Telecommunications Engr (Spectrum Planning)6","2961 6312"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 2","Mr. LAM Siu Kei, Gary","Telecommunications Engr (Spectrum Planning)7","2961 6366"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 2","Mr. LAU Tak Sang","Insp of Telecommunications (Spectrum Planning)1","2961 6616"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Spectrum Planning Section 2","Mr. LEE Man Wai","Insp of Telecommunications (Spectrum Planning)3","2961 6287"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Advisory & Support Section","Mr. YIP Wai Yu, Tony","Sr Telecommunications Engr (Advisory &amp; Support)","2961 6663"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Advisory & Support Section","Mr. YU Wai Ming, Kent","Telecommunications Engr (Advisory &amp; Support)","2961 6638"
+"Office of the Communications Authority","Advisory & Support Section,In-Building Sub-Section","Mr. LEUNG Tze Tong","Contr of Telecommunications (In-building System)","2961 6297"
+"Office of the Communications Authority","In-Building Sub-Section,In-Building Sub-Section Team 1","Mr. TSANG Moon Yuen, Ronald","Asst Contr of Telecommunications (In-building System)1","2961 6295"
+"Office of the Communications Authority","In-Building Sub-Section,In-Building Sub-Section Team 1","Mr. CHAK Kwok Wai","Insp of Telecommunications (In-building System)2","2961 6291"
+"Office of the Communications Authority","In-Building Sub-Section,In-Building Sub-Section Team 1","Mr. TSUI Kai Man","Insp of Telecommunications (In-building System)6","2961 6285"
+"Office of the Communications Authority","In-Building Sub-Section,In-Building Sub-Section Team 2","Mr. HO Wing Sun","Asst Contr of Telecommunications (In-building System)2","2961 6293"
+"Office of the Communications Authority","In-Building Sub-Section,In-Building Sub-Section Team 2","Mr. KWAN Ko Fung","Insp of Telecommunications (In-building System)3","2961 6290"
+"Office of the Communications Authority","Advisory & Support Section,Support Services Sub-Section","Mr. LAU Chi Hung, Ben","Contr of Telecommunications (Support Services)","2961 6606"
+"Office of the Communications Authority","Advisory & Support Section,Support Services Sub-Section","Ms. LAM Mei Ling","Asst Contr of Telecommunications (Support Services)","2961 6609"
+"Office of the Communications Authority","Advisory & Support Section,Support Services Sub-Section","Mr. LAW Kim Ho","Insp of Telecommunications (Support Services)1","2961 6607"
+"Office of the Communications Authority","Advisory & Support Section,Support Services Sub-Section","Mr. CHON Tin Lung, Roctel","Insp of Telecommunications (Support Services)2","2852 4514"
+"Office of the Communications Authority","Advisory & Support Section,Support Services Sub-Section","Mr. CHEUNG Siu Hoi","Insp of Telecommunications (Support Services)3","2961 6603"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Standards Section","Mr. KWOK Wing Hing, Warren","Sr Telecommunications Engr (Standards)","2961 6388"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Standards Section","Mr. CHEONG Lui Ling, Allen (on leave wef 17.8.2018 until further notice)","Telecommunications Engr (Standards)1","2961 6718"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Standards Section","Mr. CHOW Wing Sang, Charles","Telecommunications Engr (Standards)4",""
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Standards Section","Mr. CHOW Kin Tim","Insp of Telecommunications (Standards)","2961 6321"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Trade Section","Mr. YUNG Siu Yee","Telecommunications Engr (Strategic Commodities)1","2398 5580"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Trade Section","Mr. NG Siu Man","Asst Contr of Telecommunications (Strategic Commodities)","2398 5582"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Trade Section","Ms. KWONG Man Pui, Gladys","Insp of Telecommunications (Strategic Commodities)5","2398 5585"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Trade Section","Mr. TANG Ping Wai","Insp of Telecommunications (Strategic Commodities)6","2398 5584"
+"Office of the Communications Authority","Advisory and Spectrum Management Division,Trade Section","Mr. LAM Chiu Wah","Insp of Telecommunications (Strategic Commodities)7","3403 6058"
+"Office of the Communications Authority","Operations Branch,Enforcement Division","Mr. CHU Wing Keung, James","Sr Contr of Telecommunications (Enforcement)","2961 6700"
+"Office of the Communications Authority","Enforcement Division,Radio Monitoring Unit","Ms. CHAN Hoi Mee, Salina","Contr of Telecommunications (Monitoring)","2797 7668"
+"Office of the Communications Authority","Radio Monitoring Unit,Indoor Monitoring Team","Mr. SIU Chun Yuen","Asst Contr of Telecommunications (Monitoring)","2797 7662"
+"Office of the Communications Authority","Radio Monitoring Unit,Indoor Monitoring Team","Mr. LEUNG Ting Sing","Insp of Telecommunications (Monitoring)1","2797 7666"
+"Office of the Communications Authority","Radio Monitoring Unit,Indoor Monitoring Team","Mr. LIN Chun Ming","Insp of Telecommunications (Monitoring)2","2797 7685"
+"Office of the Communications Authority","Radio Monitoring Unit,Indoor Monitoring Team","Mr. CHING Chi Wah","Insp of Telecommunications (Monitoring)3","2797 7635"
+"Office of the Communications Authority","Radio Monitoring Unit,Indoor Monitoring Team","Mr. TANG Ming Shu","Insp of Telecommunications (Monitoring)4","2797 7688"
+"Office of the Communications Authority","Radio Monitoring Unit,Indoor Monitoring Team","Mr. LEUNG Chi Yung","Insp of Telecommunications (Technical Support)","2797 7612"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. NG Kar Lai, Patrick","Asst Contr of Telecommunications (Interference Investigation)","2797 7663"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. LO Kwok Kei","Insp of Telecommunications (Interference Investigation)1","2797 7667"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. LO Ping Kin","Insp of Telecommunciations (Interference Investigation)2","2797 7686"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. KAN Kwok Kuen","Insp of Telecommunications (Interference Investigation)3","2797 7632"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. YEE Yuk Kwan","Insp of Telecommunications (Interference Investigation)4","2797 7636"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. CHAN Kam On","Insp of Telecommunications (Interference Investigation)7","2797 7614"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. FU Yau Chi","Insp of Telecommunications (Interference Investigation)6","2797 7626"
+"Office of the Communications Authority","Radio Monitoring Unit,Interference Investigation Team","Mr. WONG Chi Cheung","Insp of Telecommunications (Interference Investigation)5","2797 7652"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Mr. FUNG Kin Cheung","Contr of Telecommunications (Inspection &amp; Licensing)","2961 6680"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Mr. YIU Hoi Ki, Willie","Asst Contr of Telecommunications (Inspection)","2961 6676"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Mr. LIU Po Shing","Insp of Telecommunications (Inspection)1","2961 6677"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Mr. LI Kwok Sing","Insp of Telecommunications (Inspection)2","2961 6721"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Ms. LI Yuk Ngo, Abby","SCO (Licensing)","2961 6671"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Mr. LIU Kai Man","Licensing Officer","2961 6332"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Ms. LO Ching Ming","CO (Licensing)","2961 6772"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Mrs. CHOW WU Wai Ling, Erica","Sr Adm Asst (Licensing)1","2961 6278"
+"Office of the Communications Authority","Enforcement Division,Inspection and Licensing Sub-Section","Ms. NG Lai Oi, Kitty","Sr Adm Asst (Licensing)2","2961 6282"
+"Office of the Communications Authority","Enforcement Division,Investigation and Prosecution Sub-Section","Mr. WOO Pak Ming","Contr of Telecommunications (Investigation &amp; Prosecution)","2961 6378"
+"Office of the Communications Authority","Enforcement Division,Investigation and Prosecution Sub-Section","Mr. KIANG Ping Fai","Asst Contr of Telecommunications (Investigation &amp; Prosecution)1","2961 6380"
+"Office of the Communications Authority","Enforcement Division,Investigation and Prosecution Sub-Section","Mr. KWOK Chi Fai","Asst Contr of Telecommunications (Investigation &amp; Prosecution)2","2961 6693"
+"Office of the Communications Authority","Enforcement Division,Investigation and Prosecution Sub-Section","Mr. LO Wing Lok","Insp of Telecommunications (Investigation &amp; Prosecution)1","2961 6383"
+"Office of the Communications Authority","Enforcement Division,Investigation and Prosecution Sub-Section","Mr. MAK Ping Chiu","Insp of Telecommunications (Investigation &amp; Prosecution)2","2961 6382"
+"Office of the Communications Authority","Enforcement Division,Investigation and Prosecution Sub-Section","Mr. TAM Wing Hong","Insp of Telecommunications (Investigation &amp; Prosecution)3","2961 6381"
+"Office of the Communications Authority","Enforcement Division,Regulatory and Training Sub-Section","Mr. TUNG King Yiu","Contr of Telecommunications (Regulatory &amp; Training)","2961 6308"
+"Office of the Communications Authority","Enforcement Division,Regulatory and Training Sub-Section","Mr. LEUNG Kwok Siu","Asst Contr of Telecommunications (Regulatory &amp; Training)1","2961 6318"
+"Office of the Communications Authority","Enforcement Division,Regulatory and Training Sub-Section","Mr. WONG Ka-wai, Henry","Asst Contr of Telecommunications (Regulatory &amp; Training)2","2961 6531"
+"Office of the Communications Authority","Enforcement Division,Regulatory and Training Sub-Section","Mr. LO Nam","Insp of Telecommunications (Regulatory &amp; Training)2","2961 6359"
+"Office of the Communications Authority","Enforcement Division,Regulatory and Training Sub-Section","Mr. CHOY Kin Kai","Insp of Telecommunications (Regulatory &amp; Training)3","2961 6537"
+"Office of the Communications Authority","Office of the Communications Authority,Market and Competition Branch"," Miss HUI Ching Chi, Elaine","Deputy Dir-Gen (Telecommunications) (Ag) / Asst Dir (Market &amp; Competition)","2961 6709"
+"Office of the Communications Authority","Market and Competition Branch,Market and Competition Division 1","Ms. LAI Yuen Shan, Helen","Head, Market &amp; Competition 1","2961 6797"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Mr. YOUNG Chin Hung, Desmond","Prin Regulatory Affairs Mgr (Market &amp; Competition 11)","2961 6605"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Ms. CHENG Pui Yan, Pancy","Sr Regulatory Affairs Mgr (Market &amp; Competition 11)","2961 6301"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Mr. TSANG Chun Tung, Derrick","Regulatory Affairs Mgr (Market &amp; Competition 11)2","2961 6529"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Ms. LO Ching Man, Sherrine","Regulatory Affairs Mgr (Market &amp; Competition 11)3","2961 6325"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Ms. TAM Kit Yung, Caren","Regulatory Affairs Mgr (Market &amp; Competition 11)4","2961 6254"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Mr. AU-YEUNG Hon Lun, Allen","Regulatory Affairs Offr (Market &amp; Competition 11)1","2961 6574"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Mr. CHUI Ka Ming, Edmond","Senior Customer Service Offr (Market &amp; Competition 11)","2961 6546"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 11","Miss CHUK Yi Ling, Elaine","Customer Service Offr (Market &amp; Competition 11)","2961 6545"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 12","Dr. SHIU Moon Cheung, Gary","Prin Regulatory Affairs Mgr (Market &amp; Competition 12)","2961 6692"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 12","Miss WONG Fung Chu, Olive","Sr Regulatory Affairs Mgr (Market &amp; Competition 12)","2961 6526"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 12","Miss LI Ka Yi, Kyli","Regulatory Affairs Offr (Market &amp; Competition 12)1","2961 6252"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 12","Miss TSANG Ho Yee, Pauline","Regulatory Affairs Offr (Market &amp; Competition 12)2","2961 6261"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 13","Mr. LO Tsz Him, Andrew","Prin Regulatory Affairs Mgr (Market &amp; Competition 13)","2961 6373"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 13","Mr. WONG Wing Tat, Matthew","Sr Regulatory Affairs Mgr (Market &amp; Competition 13)","2961 6696"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 13","Mr. TO Wang Ngai, Orion","Regulatory Affairs Mgr (Market &amp; Competition 13)1","2961 6460"
+"Office of the Communications Authority","Market and Competition Division 1,Market and Competition Section 13","Mr. YUNG Lik Tsing, Eric","Regulatory Affairs Mgr (Market &amp; Competition 13)2","2961 6432"
+"Office of the Communications Authority","Market and Competition Branch,Market and Competition Division 2","Mr. YEUNG King Hang, Kingsley","Head, Market &amp; Competition 2","2961 6695"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Mr. LEE Kam Wah","Sr Contr of Telecommunications (Market &amp; Competition 21)","2961 6791"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Mr. CHAN Shing Chung","Contr of Telecommunications (Market &amp; Competition 21)","2961 6539"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Mr. LI Wing Hong, Alvin","Sr Regulatory Affairs Mgr (Market &amp; Competition 21)","2961 6787"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Mr. TANG Chi Ming","Asst Contr of Telecommunications (Market &amp; Competition 21)","2961 6694"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Mr. WONG Yik Kwan, John","Regulatory Affairs Mgr (Market &amp; Competition 21)1","2961 6227"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Miss LAM Cheuk Ying, Natalie","Regulatory Affairs Mgr (Market &amp; Competition 21)2","2961 6572"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Mr. POON Po Tat","Insp of Telecommunications (Market &amp; Competition 21)1","2961 6306"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 21","Mr. FOK Wai Ho, Patrick","Insp of Telecommunications (Market &amp; Competition 21)2","2961 6307"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 22","Mr. HO Kun, Raymond","Prin Regulatory Affairs Mgr (Market &amp; Competition 22)","2961 6774"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 22","Ms. YU Cheuk Wai, Cherry","Sr Regulatory Affairs Mgr (Market &amp; Competition 22)","2961 6678"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 22","Ms. FUNG Yip Ying, Maggie","Regulatory Affairs Mgr (Market &amp; Competition 22)1","2961 6281"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 22","Mr. LUI Man Chung, Alex","Regulatory Affairs Mgr (Market &amp; Competition 22)2","2961 6652"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 22","Ms. PANG Wai Shan, Natalie","Regulatory Affairs Mgr (Market &amp; Competition 22)3","2961 6599"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 23","Mr. NG Sau Tak, Eddy","Prin Regulatory Affairs Mgr (Market &amp; Competition 23)","2961 6225"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 23","Ms. MA Yeung Yu, Yolanda","Sr Regulatory Affairs Mgr (Market &amp; Competition 23)","2961 6232"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 23","Mr. CHU Kwok Leung, Arnold","Regulatory Affairs Offr (Market &amp; Competition 23)1","2961 6426"
+"Office of the Communications Authority","Market and Competition Division 2,Market and Competition Section 23","Mr. TAM Kin Wai, Alan","Regulatory Affairs Offr (Market &amp; Competition 23)2","2961 6533"
+"Office of the Communications Authority","Market and Competition Branch,Market and Competition Division 3","","",""
+"Office of the Communications Authority","Office of the Communications Authority,Broadcasting Branch","Miss LO Kit Wai, Gloria","Asst Dir (Broadcasting)","2961 6788"
+"Office of the Communications Authority","Broadcasting Branch,CA Secretariat Division","Ms. SHUM Wai Mun, Elena","CEO (Newspaper &amp; Article Admin/Communications Authority)","2594 5863"
+"Office of the Communications Authority","Broadcasting Branch,CA Secretariat Division","Ms. WONG Ngan Fung, Ann","Chief Entertainment Standards Control Offr (Communications Authority)","2961 6410"
+"Office of the Communications Authority","Broadcasting Branch,CA Secretariat Division","Ms. LEUNG Ka Yee, Kathy","Entertainment Standards Control Offr (Communications Authority)1","2961 6411"
+"Office of the Communications Authority","Broadcasting Branch,CA Secretariat Division","Miss TSANG Yi Ching, Anna","Entertainment Standards Control Offr (Communications Authority)2","2961 6412"
+"Office of the Communications Authority","Broadcasting Branch,CA Secretariat Division","Miss LAM Joy Hei, Joanne","Broadcasting Affairs Offr (Communications Authority)","2961 6413"
+"Office of the Communications Authority","Broadcasting Branch,CA Secretariat Division","Ms. LUK Sau Chuen, Jenny","CO (Communications Authority)","2961 6414"
+"Office of the Communications Authority","Broadcasting Branch,Content Regulation Division","Mr. CHAN Chi Fai, Jimson","Prin Entertainment Standards Control Offr (Content Regulation)","2961 6568"
+"Office of the Communications Authority","Broadcasting Branch,Content Regulation Division","Miss TAI Siu Ting, Maggie","Ex Asst (Content Regulation)","2961 6704"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 1","Ms. HO Yin Fan, Fanny","Chief Entertainment Standards Control Offr (Content Regulation 1)","2961 6452"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 1","Miss WONG So Chi, Cherry","Entertainment Standards Control Offr (Content Regulation 1)1","2961 6429"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 1","Ms. CHOI Mei Han, Cindy","Entertainment Standards Control Offr (Content Regulation 1)2","2961 6431"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 1","Miss MAK Wai Lan, Olivia","Entertainment Standards Control Offr (Content Regulation 1)3","2961 6437"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 2","Ms. SO Mei fong, Dionne","Chief Entertainment Standards Control Offr (Content Regulation 2)","2961 6451"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 2","Miss KOU Mei Ping, Vicky","Entertainment Standards Control Offr (Content Regulation 2)1","2961 6435"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 2","Miss YEUNG Ching Yi, Sydney","Broadcasting Affairs Offr (Content Regulation 2)1","2961 6573"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 3","Ms. LAI Shuk Fun, Addy","Sr Broadcasting Affairs Offr (Content Regulation 3)","2961 6472"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 3","Mr. CHAN Kwong Fai","Entertainment Standards Control Offr (Content Regulation 3)2","2961 6430"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 3","Miss NG Ying Chui, Amy","Entertainment Standards Control Offr (Content Regulation 3)1","2961 6547"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 3","Miss TSE Hiu Yan, Cynthia","Broadcasting Affairs Offr (Content Regulation 3)1","2961 6473"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 4","Miss CHAN Pui Wah, Emily","Chief Entertainment Standards Control Offr (Content Regulation 4)","2961 6439"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 4","Miss LUI Chun Fung, Becky","Entertainment Standards Control Offr (Content Regulation 4)1","2961 6617"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 4","Ms. LIM Yee Mei, Karen","Sr Executive Assistant (Content Regulation 4)","2961 6571"
+"Office of the Communications Authority","Content Regulation Division,Content Regulation Section 4","Ms. TAM Pik Man, Lilian","Broadcasting Complaints Offr","2961 6329"
+"Office of the Communications Authority","Broadcasting Branch,Licence Administration Division 1","Mr. CHUI Kai Cheung, Edmond","Prin Entertainment Standards Control Offr (Licence Administration)1","2961 6518"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 11","Miss IP Wing Cheung, Queenie","Chief Entertainment Standards Control Offr (Licence Administration 11)","2961 6662"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 11","Mr. CHEUNG Tik Haang, Eric","Broadcasting Affairs Offr (Licence Administration 11)","2961 6421"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 12","Ms. LAM Chi Wai, Connie","Chief Entertainment Standards Control Offr (Licence Administration 12)","2961 6593"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 12","Mr. CHOY Yiu Shun, Wilson","Entertainment Standards Control Offr (Licence Administration 12)1","2961 6423"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 13","Miss NGAN Keung Yue, Jade","Chief Entertainment Standards Control Offr (Licence Administration 13)","2961 6592"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 13","Miss SIU Tien Yan, Esther","Entertainment Standards Control Offr (Licence Administration 13)1","2961 6425"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 13","Mr. TAM Tsz Kin, Ken","Entertainment Standards Control Offr (Licence Administration 13)2","2961 6442"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 14","Mr. WONG Tsz Yuen, Bryant","Sr Broadcasting Affairs Offr (Licence Administration 14)","2961 6651"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 14","Mr. MA Tin Luk, Martin","Broadcasting Affairs Offr (Licence Administration 14)1","2961 6404"
+"Office of the Communications Authority","Licence Administration Division 1,Licence Administration Section 14","Miss CHAN Kit Yu, Christina","Broadcasting Affairs Offr (Licence Administration 14)2","2961 6259"
+"Office of the Communications Authority","Broadcasting Branch,Licence Administration Division 2","Miss CHAN Wan Chi, Anissa","Prin Entertainment Standards Control Offr (Licence Administration)2","2961 6454"
+"Office of the Communications Authority","Licence Administration Division 2,Licence Administration Section 21","Miss CHOW Sau Fung, Kenix","Sr Broadcasting Affairs Offr (Licence Administration 21)","2961 6457"
+"Office of the Communications Authority","Licence Administration Division 2,Licence Administration Section 21","Mr. LAI Ka Kwan, Ken","Entertainment Standards Control Offr (Licence Administration 21)1","2961 6459"
+"Office of the Communications Authority","Licence Administration Division 2,Licence Administration Section 21","Mr. LAW Chi Ho, Jack","Entertainment Standards Control Offr (Licence Administration 21)2","2961 6458"
+"Office of the Communications Authority","Licence Administration Division 2,Licence Administration Section 22","Ms. WONG Pui Yin, Petrina","Senior Broadcasting Affairs Offr (Licence Administration 22)","2961 6309"
+"Office of the Communications Authority","Licence Administration Division 2,Licence Administration Section 22","Mr. LEE Tang For, Remus","Entertainmant Standards Control Offr (Licence Administration 22)1","2961 6456"
+"Office of the Communications Authority","Office of the Communications Authority,Support Branch","Mr. CHIU Chor Tat, Esmond","Asst Dir (Support)","2961 6521"
+"Office of the Communications Authority","Office of the Communications Authority,Support Branch","Ms. LI Yuk Yu, Josephine","EO (Support)","2961 6336"
+"Office of the Communications Authority","Support Branch,Development Division","Mr. CHEW Tze Shing","Chief Telecommunications Engr (Dev)","2961 6611"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Mr. LEUNG Chui Choi, Dennis","Prin Regulatory Affairs Mgr (External Affairs and Unsolicited Electronic Messages)","2961 6419"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Mr. TIN Ying Kit, Allen","Sr Regulatory Affairs Mgr (Unsolicited Electronic Messages)","2961 6371"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Miss NG Wing Yee, Winnie","Sr Regulatory Affairs Mgr (External Affairs)","2961 6738"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Miss LAU Fong, Kathryn","Chief Entertainment Standards Control Offr (Unsolicited Electronic Messages)","2961 6317"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Mr. LEE Yan Ting","Asst Contr of Telecommunications (Unsolicited Electronic Messages)","2961 6771"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Mr. WONG Ting, Bennet","Regulatory Affairs Mgr (Unsolicited Electronic Messages)","2961 6794"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Ms. LAU Kai Lam, Lucy","Regulatory Affairs Mgr (External Affairs)1","2961 6299"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Mr. LAM Ho Yin, Eric","Regulatory Affairs Mgr (External Affairs)2","2961 6654"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Miss LEE Sui Fan, Isa","Customer Service Mgr (Unsolicited Electronic Messages)","2961 6365"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Mr. LAU Yat Fan","Insp of Telecommunications (Unsolicited Electronic Messages)","2961 6369"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Miss NG Chau Yung, Yvonne","Senior Customer Service Offr (Unsolicited Electronic Messages)1","2961 6372"
+"Office of the Communications Authority","Development Division,External Affairs and Unsolicited Electronic Messages Section","Miss LI Ka Lai, Kelly","Senior Customer Service Offr (Unsolicited Electronic Messages)2","2961 6375"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Mr. LEUNG Wing Kee","Sr Telecommunications Engr (Broadcasting Support)","2961 6770"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Mr. CHAN Kin Leung, Michael","Sr Regulatory Affairs Mgr (Broadcasting Support)","2961 6743"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Dr. LEE Siu Wa, Yvonne","Telecommunications Engr (Broadcasting Support)2","2961 6357"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Ms. LO Sau Nga, Annie","Telecommunications Engr (Broadcasting Support)4","2961 6701"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Mr. LEE Mun Sang","Insp of Telecommunications (Broadcasting Support)1","2961 6358"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Mr. CHAN Kwok Leung, Gary","Insp of Telecommunications (Broadcasting Support)2","2961 6706"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Mr. CHUNG Yiu Man","Insp of Telecommunications (Broadcasting Support)3","2961 6630"
+"Office of the Communications Authority","Development Division,Broadcasting Support Section","Mr. FUNG Lap Hing, Stephen","Insp of Telecommunications (Broadcasting Support)4","2961 6713"
+"Office of the Communications Authority","Development Division,Information Technology Section","Mr. CHAN Ka Hei, Frank","Sr Infn Technology Mgr","2961 6757"
+"Office of the Communications Authority","Development Division,Information Technology Section","Mr. CHEN Yung","Infn Technology Mgr (Development)","2961 6756"
+"Office of the Communications Authority","Development Division,Information Technology Section","Ms. CHAN Miu Ling, Kimmy","Infn Technology Mgr (Infrastructure)1","2961 6201"
+"Office of the Communications Authority","Development Division,Information Technology Section","Mr. NG Cheuk Yeung, Kevin","Infn Technology Mgr (Infrastructure)2","2594 5858"
+"Office of the Communications Authority","Support Branch,Finance Division","Ms. CHAN Chiu Ling, Javy","Head, Finance","2961 6474"
+"Office of the Communications Authority","Support Branch,Finance Division","Mr. KWAN Tai Yuen, Vincent","Project Accountant (Special Duties)","2961 6292"
+"Office of the Communications Authority","Support Branch,Finance Division","Mr. LAM Ka Wing, Dick","TA (Fin)","2961 6496"
+"Office of the Communications Authority","Finance Division,Revenue Section","Ms. LAW Ching Yee, Gloria","Acct Offr I (Income)","2961 6613"
+"Office of the Communications Authority","Finance Division,Revenue Section","Ms. LUI Yuk Ping, Grace","CO (Revenue)","2961 6674"
+"Office of the Communications Authority","Finance Division,Revenue Section","Mr. CHAN Kwok Fai, Felix","Accounting Supervisor (Income)","2961 6355"
+"Office of the Communications Authority","Finance Division,Accounts Section","Ms. SIN Tsui Fung, Yvonne","Senior Accounting Supervisor (Accts)","2961 6728"
+"Office of the Communications Authority","Finance Division,Accounts Section","Mr. YUEN Chi Wan, Simon","Accounting Supervisor (Accts)","2961 6450"
+"Office of the Communications Authority","Finance Division,Supplies & OFNAA Section","Miss TSANG Chiu Ki, Kaylina","Acct Offr I (S&amp;O)","2961 6691"
+"Office of the Communications Authority","Finance Division,Supplies & OFNAA Section","Miss LOK Cheuk Yin, York","EO (S&amp;O)","2961 6346"
+"Office of the Communications Authority","Finance Division,Supplies & OFNAA Section","Ms. MOK Kwai Ha, Clara","Off Ex (S)","2961 6705"
+"Office of the Communications Authority","Finance Division,Supplies & OFNAA Section","Ms. SO Chit Mei","CO (S&amp;O)","2961 6401"
+"Office of the Communications Authority","Support Branch,Administrative Services Division","Ms. YIU Yuen Wah, Fanny","DS","2961 6697"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 1","Miss CHENG Hang Yee, Eva","Dep DS 1","2961 6665"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 1","Miss CHAN Fung San, Sandy","Asst. DS 1","2961 6659"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 1","Ms. WONG Yuet King, Michelle","Executive (Gen)2","2961 6208"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 1","Ms. LAM Yee Lak, Deborah","Ex Asst (Training)","2961 6727"
+"Office of the Communications Authority","Administrative Services Section 1,General Office","Miss TANG Siu Ying, Cannis","Sr Executive (Gen)","2961 6226"
+"Office of the Communications Authority","Administrative Services Section 1,General Office","Ms. CHU Yuet Ming, Amy","CO (Gen)","2961 6711"
+"Office of the Communications Authority","Administrative Services Section 1,General Office","Ms. HO Ching Han, Jenny","Sr. Adm Asst (Gen)","2961 6475"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 2","Ms. SIN Man Yin, Joan","Dep DS 2","2961 6602"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 2","Miss TSE Eva","Asst DS 2","2961 6670"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 2","Mr. CHENG Ming Lap, Matt","Executive (Per)1","2961 6644"
+"Office of the Communications Authority","Administrative Services Division,Administrative Services Section 2","Miss SZE Ka Hing, Karen","Executive (Per)2","2961 6362"
+"Office of the Communications Authority","Administrative Services Section 2,Personnel Registry","Ms. LAU Wai Sum, Sammi","SCO (Per)","2961 6729"
+"Office of the Communications Authority","Administrative Services Section 2,Personnel Registry","Miss TONG Yat Ching, Candy","CO (Per)","2961 6776"
+"Office of the Communications Authority","Administrative Services Section 2,Personnel Registry","Ms. MO Sau Fun, Fanny","Personnel Clerk","2961 6310"
+"Office of the Communications Authority","Administrative Services Division,Translation Section","Ms. YUNG Ching Yee, Jenny","Sr Official Languages Offr","2961 6725"
+"Office of the Communications Authority","Administrative Services Division,Translation Section","Ms. MAK Yuen Yee, Joanne","Official Languages Offr I (1)","2961 6235"
+"Office of the Communications Authority","Administrative Services Division,Translation Section","Miss TANG Bik Sim, Simmie","Official Languages Offr I (2)","2961 6331"
+"Office of the Communications Authority","Administrative Services Division,Translation Section","Miss LAM Hiu Wai, Bonnie","Official Languages Offr II (1)","2961 6237"
+"Office of the Communications Authority","Administrative Services Division,Translation Section","Miss LEUNG Tsz Ting","Official Languages Offr II (2)","2961 6304"
+"Office of the Communications Authority","Administrative Services Division,Translation Section","Miss KONG Tsz Yan, Karen","Official Languages Offr II (3)","2961 6646"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Miss FU Kar Man, Diana","Head, Public Affairs","2961 6752"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Miss WONG Mei Mei, Ellen","Public Affairs Mgr 1","2961 6750"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. CHAN Siu Ting, Cynthia","Public Affairs Mgr  2","2961 6751"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. CHEUNG Siu Wing, Venus","Public Affairs Mgr 3","2961 6229"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. FONG Ching Yee, Esther","Public Affairs Mgr 4","2961 6356"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. WONG Lai yee, Liz","Asst Public Affairs Mgr 1","2961 6233"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Miss LEE Lai Fong, Genesis","Asst Public Affairs Mgr 2","2961 6276"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Mr. LI Ching Yin, Oscar","Asst Public Affairs Mgr 3","2961 6749"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Miss LEUNG Kar Kee, Clara","Asst Public Affairs Mgr 4","2961 6455"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. CHENG Man Ting, Maggie","Customer Service Offr 1","2961 6333"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Miss HUI Wing Yan, Winnie","Customer Service Offr 3","2961 6333"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. LEUNG Lai Ling, Meg","Customer Service Offr 5","2961 6333"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. YEUNG Sze Lai, Kitty","Customer Service Offr 6","2961 6333"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Miss LAM Mei Kwan, Emily","Customer Service Offr 10","2961 6333"
+"Office of the Communications Authority","Support Branch,Public Affairs Division","Ms. TSANG Yuk Wing","Customer Service Offr 11","2961 6333"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Ms. WONG Tsz Mei, Jamay","Head, Consumer Affairs","2961 6798"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Miss YAU Pui Fan, Edith","Customer Service Mgr (Consumer Affairs Division)1","2961 6279"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Ms. DAI Oi Chi, Elsie","Customer Service Mgr (Consumer Affairs Division)2","2961 6542"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Mr. KOO Ka Po, Calvin","Customer Service Offr 2","2961 6333"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Miss LEE Yuk Ying, Ruby","Customer Service Offr 4","2961 6333"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Miss TING Hoi Yi, Holly","Customer Service Offr 7","2961 6333"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Ms. LEE Yan Yan, Dora","Customer Service Offr 9","2961 6333"
+"Office of the Communications Authority","Support Branch,Consumer Affairs Division","Miss LI Ho Ting, Sarah","Customer Service Offr 12","2961 6333"
+"Office of the Communications Authority","Office of the Communications Authority,Office for Film, Newspaper & Article Administration"," Miss LI Sau Fung, Natalie","Asst Dir (Film, Newspaper &amp; Article Adm)","2594 5892"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Ms. CHEUNG Wing Lim, Gloria","Prin Entertainment Standards Control Offr (Film)","2594 5787"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Ms. CHENG Ho Yan, Samantha","Entertainment Standards Control Offr (Film)1","2594 5761"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Miss LI Ho Yin, Abby","Entertainment Standards Control Offr (Film)2","2594 5798"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Ms. LI On Ha, Anna","Entertainment Standards Control Offr (Film)3","2594 5782"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Miss HOWELL Reeta , Janet","Entertainment Standards Control Offr (Film)4","2594 5708"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Miss CHENG Mabel","Entertainment Standards Control Offr (Film)5","2594 5764"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Ms. WONG Ka Man, Carmen","Ex Asst (Film)","2594 5788"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Film Division","Ms. LAU Wan Lan, Ann","CO (Film)","2954 5762"
+"Office of the Communications Authority","Office for Film, Newspaper & Article Administration,Newspaper and Article Administration Division","Ms. SHUM Wai Mun, Elena","CEO (Newspaper &amp; Article Admin/Communications Authority)","2594 5863"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 1","Mr. LIU Wai Man, Raymond","SEO (Newspaper &amp; Article Administration)1","2594 5831"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 1","Mr. HO Man Lung, Clark","EO (Article Administraion)1","2594 5845"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 1","Mr. CHAN Chun Kit, Tim","EO (Article Administration)2","2594 5838"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 1","Mr. NG Ching Hung, Ricky","CO (Article Administration)","2594 5853"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Ms. CHOI Siu Ping, Zoe","SEO(Newspaper &amp; Article Administration)2","2594 5843"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Mr. PUN Chung Chak, Michael","EO (Publicity &amp; Public Education) 1","2594 5859"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Ms. SO Wing Yan, Winnie","EO (Publicity &amp; Public Education)2","2594 5820"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Mr. SHEN Sim Hung, Andrew","CO (Newspaper Administration)","2594 5832"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Ms. CHUNG Cho Kwan, Becky","Project Offr 1","2594 5924"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Ms. CHING Lai Nga, Lilian","Project Offr 2","2594 5923"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Miss LEE Ying Yu, Winnie","Project Offr 3","2594 5856"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Miss HO Siu Yu, Nana","Project Offr 4","2594 5922"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Miss CHAN Chung Yuet, Yolanda","Project Offr 5","2594 5921"
+"Office of the Communications Authority","Newspaper and Article Administration Division,Newspaper and Article Administration Section 2","Ms. CHUNG Shuk Fong, Amy","Project Offr 6","2594 5861"

@@ -1,264 +1,172 @@
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="zh-hk">
-<head>
-<base href="/"/>
-<META HTTP-EQUIV="last_modified" CONTENT="NOW">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香港特別行政區政府及有關機構電話簿 - 免責聲明</title>
-<link type="text/css" rel="stylesheet" href="./css/reset.css">
-<link type="text/css" rel="stylesheet" href="./css/common.css">
-<link type="text/css" rel="stylesheet" href="./css/style.css">
-<link type="text/css" rel="stylesheet" title="style-mystyle" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-blue" href="./css/theme/blue.css">
-<link type="text/css" rel="alternate stylesheet" title="style-green" href="./css/theme/green.css">
-<link type="text/css" rel="alternate stylesheet" title="style-purple" href="./css/theme/purple.css">
-<link type="text/css" rel="alternate stylesheet" title="style-black" href="./css/theme/black.css">
-<script type="text/JavaScript" src="./js/jquery.js"></script>
-<script type="text/JavaScript" src="./js/jquery.cookie.js"></script>
-<script type="text/JavaScript" src="./js/gtd.js"></script>
-</head>
-<body class="chi">
-<div class="offscreen"><a href="#skipToContent">跳至內容</a></div>
-<table id="tbl_header">
-<tr>
-	<td class="col_banner"><img src="images/topbanner1_chi.gif" alt='香港特別行政區政府及有關機構電話簿'></td>
-	<td class="col_mail"><span class="mail"><span class="mailtotext">查詢電郵 : </span><a href="mailto:dir_enq@cso.gov.hk" class="mailtext">dir_enq@cso.gov.hk</a></span></td>
-	<td class="col_lang"><a href='/TelFileDownload?dept=LR&lang=ENG&fileType=csv' title="Display In English">English</a></td>
-</tr>
-</table>
-<TABLE id="tbl_menu_bar">
-  <TBODY>
-  <TR>
-    <td class="col_logo">
-    <IMG alt="政府資訊中心" 
-      src="images/hksar2.gif" width="45" height="41"></td>
-    <TD>
-    <div id="menu_tab">
-    <ul>
-    	<li><a href="https://www.directory.gov.hk/basic_search.jsp?lang=chi&amp;accept_disclaimer=yes" title='姓名搜尋'>姓名搜尋</a></li>
-    	<li><a href="https://www.directory.gov.hk/basic_service.jsp?lang=chi&amp;accept_disclaimer=yes" title='查詢搜尋'>查詢搜尋</a></li>
-    	<li><a href="index_CHI.html" class="active" title='電話表'>電話表</a></li>
-    </ul>
-    </div>    
-    </TD>
-    <td>
-    	<div id="menu_toolbar">
-	    	<ul>
-	    		<li>
-					<div id="mycolorPos">
-						<a id="mycolor" href="#"><strong>我的自訂色彩</strong></a>
-						<div id="mycolorDiv">
-							<table>
-								<tr>
-									<td><a id="style-purple" title="紫色風格" rel="style-purple" href="javascript:;"></a></td>
-									<td><a id="style-black" title="黑色風格" rel="style-black" href="javascript:;"></a></td>
-									<td><a id="style-green" title="綠色風格" rel="style-green" href="javascript:;"></a></td>
-									<td><a id="style-blue" title="藍色風格" rel="style-blue" href="javascript:;"></a></td>
-								</tr>
-							</table>
-						</div>
-					</div>
-	    		</li>
-	    		<li style="margin-right:15px;">										    			
-					<a id="fontSizeM" class="fontSize" rel="font-size-default" title="字型大小：原設定" href="javascript:;">A</a>
-					<a id="fontSizeL" class="fontSize" rel="font-size-larger" title="字型大小：較大" href="javascript:;">A</a>
-					<a id="fontSizeEx" class="fontSize" rel="font-size-largest" title="字型大小：最大" href="javascript:;">A</a>																								    	
-	    		</li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#disclaimer" title='免責聲明'>免責聲明</a></li>
-	    		<li><a href="https://www.directory.gov.hk/importance_notice_CHI.jsp#copyright" title='版權公告'>版權公告</a></li>
-	    	</ul>
-    	</div>
-    </td>    
-    </TR></TBODY>
-</TABLE>
-<div class="offscreen"><a name="skipToContent"></a></div>
-<div id="content_container">
-
-<table >
-	<tr>
-	<td align="center">
-		<table id="tbl_disclaimer" style="width:83%;text-align:left;">
-			<tr>
-				<td style="text-align: justify;text-justify: inter-ideograph;">
-					
-<style>
-
-table.ou td{	
-	vertical-align:top;	
-}
-
-table.ou td.num{
-	width:2em;
-}
-
-div.disclaimer_pt_wrapper:after{
-    content: '';
-    display: block;
-    clear: both;
-}
-
-div.disclaimer_pt_label{
-	float:left;	
-	display:inline-block;
-	
-}
-
-div.disclaimer_pt_content{
-	 padding-left:1.3em;	
-}
- 
-</style>						
-				<strong>免責聲明</strong>
-				<br><br>
-				<p>本網站提供的資料只供參考。香港特別行政區政府（“政府”）會盡力確保網站上的資料無誤，但對該等資料準確與否，政府不會作出明示或隱含的保證。政府有絕對酌情權增加、刪除、暫停登載或編輯各項資料而無須給予任何理由及事先通知。就該等資料的任何錯誤、遺漏或錯誤陳述或失實陳述(不論明示或隱含的)，政府不會承擔任何法律責任。對任何因使用或不當使用或依據本網站所提供的資料或未能使用該等資料而引致或所涉及的損失、毀壞或損害(包括但不限於相應而生的損失、毀壞或損害)，政府概不承擔任何法律責任、義務或責任。</p>
-				<br>
-				<strong><a id="copyright"></a>版權公告</strong>
-				<br><br>
-
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">1.</div>
-					<div class="disclaimer_pt_content">
-						本網站提供政府及有關機構的網上電話簿資料，旨在方便市民與政府及有關機構作公務上的通訊。本網站的內容，包括但不限於所有文本、圖像、圖畫、圖片、照片，以及數據或其他資料的編彙，均受版權保障，而政府擁有該版權，或是已獲版權擁有人的特許授權，為本文所設想的一切活動而處理該等內容及／或就該等內容再授特許。
-					</div>
-				</div>
-				
-				<br>
-				
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">2.</div>
-					<div class="disclaimer_pt_content">
-						瀏覽人士獲准下載、列印、複製、以表層連結方式建立超連結、重現、分發或以其他方式使用本網站的內容，但該等內容不得作下述用途，或在使用方面與下述用途有關連：
-					</div>
-				</div>
-				
-				<div style="padding-left:1.3em;">			
-					<table class="ou">
-					<tr>
-						<td class="num">(i)</td>
-						<td>進行任何直銷活動及／或發布或傳閱非應邀的宣傳或廣告資料的任何內容；</td>
-					</tr>
-					<tr>
-						<td class="num">(ii)</td>
-						<td>宣傳及／或推廣任何貨品及服務；以及</td>
-					</tr>
-					<tr>
-						<td class="num">(iii)</td>
-						<td>將任何內容出售或換取任何利益、得益、利潤或報酬。</td>
-					</tr>										
-					</table>
-					<p>(統稱“受限制用途”)</p>				
-				</div>
-				<br>			
-							
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">3.</div>
-					<div class="disclaimer_pt_content">
-						在不損害上文第2條的情況下，
-					</div>
-				</div>
-								
-				<br>
-				<div style="padding-left:1.3em">					
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(a)</div>
-						<div class="disclaimer_pt_content">
-							但凡下載、列印、複製、重現及／或分發本網站的內容，瀏覽人士須遵守以下條件：
-						</div>
-					</div>										
-					<div style="padding-left:1.5em">
-						<br>
-						<table class="ou">
-						<tr>
-							<td class="num">(i)</td>
-							<td>瀏覽人士所複製的副本（“瀏覽人士副本”），以及瀏覽人士副本的接收人其後所複製的副本（“其後副本”），必須註明有關內容來自“政府電話簿  (<a title="政府電話簿 " href="https://www.directory.gov.hk/?lang=chi">https://www.directory.gov.hk/</a>)”;</td>
-						</tr>
-						<tr>
-							<td class="num">(ii)</td>
-							<td>所有瀏覽人士副本及其後副本，必須註明政府是該等內容的版權擁有人；</td>
-						</tr>
-						<tr>
-							<td class="num">(iii)</td>
-							<td>瀏覽人士副本及其後副本，必須說明該等內容不得作受限制用途；以及</td>
-						</tr>
-						<tr>
-							<td class="num">(iv)</td>
-							<td>重現的內容必須準確，不可用以誤導他人，或侵犯政府的精神權利。</td>
-						</tr>															
-						</table>
-					</div>
-				</div>	
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(b)</div>
-						<div class="disclaimer_pt_content">
-							瀏覽人士獲准以表層連結的方式建立本網站的超連結，惟其網站不得將本網站的內容當作其本身網站的內容展示，或失實陳述本網站的內容，或誤導任何使用者有關本網站內容的來源或擁有權。
-						</div>
-					</div>									
-				</div>
-				<br>
-				<div style="padding-left:1em">
-					<div class="disclaimer_pt_wrapper">
-						<div class="disclaimer_pt_label">(c)</div>
-						<div class="disclaimer_pt_content">
-							若網站載有永久形式誹謗、誹謗性、色情、淫褻材料，或任何違反香港特別行政區法律或侵犯任何知識產權（包括但不限於版權）或精神權利的材料，政府概不准許該等網站連結到本網站。政府可按其獨有酌情權隨時要求任何網站刪除與本網站的任何連結。
-						</div>
-					</div>					
-				</div>
-				<br>
-				<div class="disclaimer_pt_wrapper">
-					<div class="disclaimer_pt_label">4.</div>
-					<div class="disclaimer_pt_content">
-						政府有權於任何時間撤回本文所述的准許而無須事先通知你。 
-					</div>
-				</div>
-					
-					<div style="padding-top:2em;padding-bottom:2em;text-align:center;margin:0 auto">
-						<input type="checkbox" id="acceptDisclaimer" name="acceptDisclaimer" value="acceptDisclaimer" style="vertical-align:top;"/>
-						<label for="acceptDisclaimer" style="display:inline-block;max-width:80%;text-align:justify;text-justify: inter-ideograph;">
-						本人確認已細閱及明白上述免責聲明及版權公告的內容，並會嚴格遵守有關條款。						
-						</label>
-					</div>								
-				</td>
-			</tr>
-		</table>
-				 
-		<form action="/ack_disclaimer_CHI.jsp" method="post">
-			<input type="hidden" name="isSubmit" value="Y">
-			<input type="hidden" name="originalRequestLink" value="%2FTelFileDownload%3Fdept%3DLR%26lang%3DENG%26fileType%3Dcsv">				
-			<table style="width:83%">			
-				<tr>
-					<td align="center">
-					<input type="submit" id=continue name="continue" value="繼續" style="margin-right:50px" disabled>
-					<input type="button" onclick="javascript:history.go(-1);" value="取消">					
-					</td>
-				</tr>
-			</table>
-		</form>
-	</td>
-	</tr>
-</table>
-
-	<div id="badges">
-		<ul id="conformance">
-			<li>
-				<a title="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" href="http://www.w3.org/WAI/WCAG2AA-Conformance">
-					<img alt="符合萬維網聯盟有關無障礙網頁設計指引中2A級別的要求" src="./images/wcag2AA.gif">
-				</a>
-			</li>
-			<li>
-				<a title="無障礙網頁嘉許計劃" href="http://www.webforall.gov.hk/tc/recognition_scheme">
-					<img alt="無障礙網頁嘉許計劃" src="./images/WA_Gold_Logo_chi.gif" >
-				</a>
-			</li>
-		</ul>
-	</div>
-</div>
-</body></html>
+"Organisation","Full Name","Post Title","Office Tel"
+"Land Registry","Ms. CHEUNG Mei Chu, Doris, JP","Land Registrar","2867 8001"
+"Land Registry","Mrs. FONG NG Suk Yee, Amy, JP","Registry Manager","2867 8002"
+""
+"Organisation","Service Name","Office Tel"
+"Land Registry","Enquiry","3105 0000"
+""
+"Organisation","Department","Full Name","Post Title","Office Tel"
+"Land Registry","Land Registry","Ms. CHEUNG Mei Chu, Doris, JP","Land Registrar","2867 8001"
+"Land Registry","Land Registry","Miss LOO Kit Yee, Kathie","Sr PS to Land Regr","2867 8011"
+"Land Registry","Land Registry","Mrs. FONG NG Suk Yee, Amy, JP","Registry Manager","2867 8002"
+"Land Registry","Land Registry","Mr. HUI Kwok Hung, Joseph","Deputy Principal Solicitor","2867 8022"
+"Land Registry","Land Registry","Ms. POON Suet Chung, Venelie","Business Mgr","2867 8010"
+"Land Registry","Land Registry,Deeds Registration and Departmental Services Branch","Mrs. FONG NG Suk Yee, Amy, JP","Registry Manager","2867 8002"
+"Land Registry","Deeds Registration and Departmental Services Branch,Management and Customer Services Division","Mr. YUEN Wai Chuen, Isaac","Dep Regy Mgr / Mgt &amp; Customer Services","2867 8050"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Ms. LAU Siu Man, Eva","Asst Regy Mgr / Adm","2867 2707"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Miss WONG Yuen Kwan, Wendy","Publicity Officer","2867 2656"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Ms. YAM Yin Kat, Katie","Land Regn Offr I / Adm 1","2867 5917"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Miss CHOW Yuen Shan, Cherie","Land Regn Offr I / Adm 2","2867 2775"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Ms. HO Shuk Ping, Alice","Land Regn Offr II / Adm 1","2867 5072"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Ms. WONG Pui Suen, Celeste","Land Regn Offr II / Adm 2","2867 5944"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Ms. FUNG Ho Hing","Stat Offr I","2867 4838"
+"Land Registry","Management and Customer Services Division,Customer Services and Administration Section","Ms. KU Wing Yee","CO / CSA","2867 4839"
+"Land Registry","Management and Customer Services Division,Training Unit","Ms. NG Ma Lee, Mary","Trg &amp; Dev Mgr","2111 5193"
+"Land Registry","Management and Customer Services Division,Training Unit","Ms. WONG Yuk Ching, Connie","Asst Trg &amp; Dev Mgr","2111 5195"
+"Land Registry","Management and Customer Services Division,Training Unit","Ms. HUI Kar Bo, Gloria","Land Regn Offr II / Trg Unit","2111 5197"
+"Land Registry","Management and Customer Services Division,Training Unit","Ms. NG Choi Fung, Onon","CO / Trg Unit","2111 5192"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Ms. YAM Mei King, Tina","DS","2867 8033"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Ms. LEE Sung Man, Tina","Dep DS / Human Resources","2867 8032"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Ms. LAU Suet Fan, Fancy","Dep DS / Adm","2867 5589"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Mr. YEUNG Sau Man, Simon","Asst DS / Human Resources (1)","2867 8031"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Mr. YUEN Chan Yiu, Martin","Asst DS / Human Resources (2)","2867 4267"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Mr. LI Sze Hang, Alex","Asst DS / Adm","2867 8028"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Miss NG Lai Kuen, Winnie","OLO I","2867 8027"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Ms. CHEUNG Lai Fong, Alice","Executive Assistant (2)","2867 4837"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Ms. AU Shuk Han, Idy","SCO / Human Resources","2867 8025"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Ms. LO Wai Ming","CO i/c / Appt","2867 8039"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Ms. CHOW Chui Mei, May","CO i/c / Per","2867 8063"
+"Land Registry","Deeds Registration and Departmental Services Branch,General Support Services Division","Mr. CHUNG Chi Kwong","CO i/c / Gen","2867 8060"
+"Land Registry","Deeds Registration and Departmental Services Branch,Registration Services Division","Mr. WAN Francis","Dep Regy Mgr / Reg 1","2867 3303"
+"Land Registry","Deeds Registration and Departmental Services Branch,Registration Services Division","Ms. LEUNG Wai Han, Alice","Dep Regy Mgr / Reg 2","2867 4821"
+"Land Registry","Registration Services Division,Registration Section (A)","Miss LAU Yun Ha, Kathy","Asst Regy Mgr / Reg A","2867 2897"
+"Land Registry","Registration Services Division,Registration Section (A)","Mr. YIU Cheuk Ting, Milton","Land Regn Offr I / Reg A1","2867 2880"
+"Land Registry","Registration Services Division,Registration Section (A)","Mr. CHAN Man Chung, Benson","Land Regn Offr I / Reg A2","2867 2879"
+"Land Registry","Registration Services Division,Registration Section (A)","Miss JIM Kwan Wai, Karin","Land Regn Offr II / Reg A1","2867 2878"
+"Land Registry","Registration Services Division,Registration Section (A)","Miss CHAN Chung Yan, Rachel","Land Regn Offr II / Reg A4","2867 2865"
+"Land Registry","Registration Services Division,Registration Section (A)","Miss LAU Sze Yan, Jenius","Land Regn Offr II / Reg A5","2867 5346"
+"Land Registry","Registration Services Division,Registration Section (A)","Miss LAI Hin Man, Carmen","Land Regn Offr II / Reg A6","2867 4376"
+"Land Registry","Registration Services Division,Registration Section (A)","Miss MOK Siu Chung, Jola","Land Regn Offr II / Reg A7","2867 4377"
+"Land Registry","Registration Services Division,Registration Section (A)","Ms. CHEUNG Wai Kuen, Pansy","SCO / Reg A &amp; B","2867 2919"
+"Land Registry","Registration Services Division,Registration Section (B)","Ms. WONG Wai Fong, Evian","Asst Regy Mgr / Reg B","2867 8051"
+"Land Registry","Registration Services Division,Registration Section (B)","Mr. CHOW Chun Ting, Dominic","Land Regn Offr I / Reg B1","2867 4769"
+"Land Registry","Registration Services Division,Registration Section (B)","Ms. LEE Ka Yee, Angel","Land Regn Offr I / Reg B2","2867 2893"
+"Land Registry","Registration Services Division,Registration Section (B)","Miss TSANG Hiu Ki, Hilda","Land Regn Offr II / Reg B1","2867 2825"
+"Land Registry","Registration Services Division,Registration Section (B)","Miss LI Mei Ting, Meifus","Land Regn Offr II / Reg B2","2867 2741"
+"Land Registry","Registration Services Division,Registration Section (B)","Miss FUNG Pui Yee, Christine","Land Regn Offr II / Reg B4","2867 2915"
+"Land Registry","Registration Services Division,Registration Section (B)","Miss WONG Hoi Ling, Eva","Land Regn Offr II / Reg B5","2867 5701"
+"Land Registry","Registration Services Division,Registration Section (B)","Miss CHAN Ying Tung, Christie","Land Regn Offr II / Reg B6","2867 2901"
+"Land Registry","Registration Services Division,Register Maintenance Section","Ms. TANG Sheung Lai, Karen","Asst Regy Mgr / Reg C","2867 2891"
+"Land Registry","Registration Services Division,Register Maintenance Section","Mrs. WONG CHUE Sau Mui, Yvonne","Land Regn Offr I / Reg C1","2867 2889"
+"Land Registry","Registration Services Division,Register Maintenance Section","Mr. CHEUNG Chun Tung, Duncan","Land Regn Offr I / Reg C2","2867 2890"
+"Land Registry","Registration Services Division,Register Maintenance Section","Ms. FONG Wing Ki, Chloe","Land Regn Offr I / Reg C3","2867 4820"
+"Land Registry","Registration Services Division,Register Maintenance Section","Miss NG Ngan Ling, Elaine","Land Regn Offr II / Reg C1","2867 2888"
+"Land Registry","Registration Services Division,Register Maintenance Section","Mr. HO Hang Sang, William","Land Regn Offr II / Reg C2","2867 4208"
+"Land Registry","Registration Services Division,Register Maintenance Section","Miss HUI Chi Ching, Chloe","Land Regn Offr II / Reg C4","2867 5730"
+"Land Registry","Registration Services Division,Register Maintenance Section","Mr. HUNG  Eric","Land Regn Offr II / Reg C6","2867 4443"
+"Land Registry","Registration Services Division,Register Maintenance Section","Ms. LEE Mei Wai, Margaret","SCO / Reg C1","2867 2892"
+"Land Registry","Registration Services Division,Register Maintenance Section","Ms. WONG Kit Shan, Amy","SCO / Reg C2","2867 4219"
+"Land Registry","Registration Services Division,Document Processing Section","Ms. TSOI Sau Man, Ella","Asst Regy Mgr / Reg D","2867 2881"
+"Land Registry","Registration Services Division,Document Processing Section","Miss WONG Ho Kei, Ceci","Land Regn Offr I / Reg D","2867 3399"
+"Land Registry","Registration Services Division,Document Processing Section","Mr. KWAN Siu Kwan, Alvin","Land Regn Offr II / Reg D","2867 2916"
+"Land Registry","Registration Services Division,Document Processing Section","Ms. CHAN Kuen Kuen, Meibo","SCO / Reg D","2867 4447"
+"Land Registry","Registration Services Division,Central Imaging Centre","Ms. LAW  Ming Lan, Sophia","Land Regn Offr I / CIC","2634 1180"
+"Land Registry","Registration Services Division,Central Imaging Centre","Ms. LUK Kar Kei, Regina","Land Regn Offr II / CIC","2634 1080"
+"Land Registry","Registration Services Division,Central Imaging Centre","Ms. HO Lai King, Queenie","SCO / CIC","2634 1182"
+"Land Registry","Deeds Registration and Departmental Services Branch,Search & Departmental Services Division","Mr. PANG Ka Fai","Dep Regy Mgr / Search Deptl Services","2867 2838"
+"Land Registry","Search & Departmental Services Division,Search Services Section","Ms. WONG Ka Man, Carmen","Double up 50% Asst Regy Mgr / Search Deptl Services / Land Regn Offr I / Search Deptl Services 1","2867 5924"
+"Land Registry","Search & Departmental Services Division,Search Services Section","Ms. NG Suet fun, Icy","Land Regn Offr II / Search Deptl Services 1","2867 5922"
+"Land Registry","Search & Departmental Services Division,Search Services Section","Mr. NG Chun Kit, Kenneth","Land Regn Offr II / Search Deptl Services 2","2867 2871"
+"Land Registry","Search & Departmental Services Division,Search Services Section","Mr. LI Kin Hang, Jerry","Land Regn Offr II / Search Deptl Services 3","2867 1562"
+"Land Registry","Search & Departmental Services Division,Search Services Section","Ms. SIN Lai Sung, Sandie","SCO / Search Deptl Services","2867 5818"
+"Land Registry","Search Services Section,Tai Po Search Office","Ms. CHAN Yin Yi, Jessica","CO / Tai Po","2653 5859"
+"Land Registry","Search Services Section,Yuen Long Search Office","Mr. WAH Tat Ho","CO / Yuen Long","2475 0341"
+"Land Registry","Search Services Section,Tsuen Wan Search Office","Ms. TANG Helen","CO / Tsuen Wan","2416 3505"
+"Land Registry","Search Services Section,Land Registry Archive","Miss WONG Cheuk Ying","ACO / Land Regy Archive","2158 6434"
+"Land Registry","Search Services Section,Search Services Help Desk","Miss WONG Kit Ying, Pamela","Double up 50% Asst Regy Mgr / Search Deptl Services / Land Regn Offr I / Search Deptl Services 2","3891 9095"
+"Land Registry","Search Services Section,Search Services Help Desk","Mr. MAK Ho, Michael","Land Regn Offr II / Search Deptl Services 4","3891 9096"
+"Land Registry","Search & Departmental Services Division,Reports-on-Title and Owners Incorporation Section","Ms. CHEUNG Lai Ching, Winnie","Asst Regy Mgr / RTO 1","2867 4378"
+"Land Registry","Search & Departmental Services Division,Reports-on-Title and Owners Incorporation Section","Miss TANG Wai Wing, Cynthia","Land Regn Offr I / RTO 1","2867 4318"
+"Land Registry","Search & Departmental Services Division,Reports-on-Title and Owners Incorporation Section","Ms. POON Lai Chun, Christine","Land Regn Offr I / RTO 4","2867 5904"
+"Land Registry","Search & Departmental Services Division,Reports-on-Title and Owners Incorporation Section","Miss LI Man Wai, Jenny","Land Regn Offr II / RTO 2","2867 5918"
+"Land Registry","Search & Departmental Services Division,Reports-on-Title and Owners Incorporation Section","Miss CHAN Cho Yee, Rainy","Land Regn Offr II / RTO 3","2867 5906"
+"Land Registry","Search & Departmental Services Division,Reports-on-Title and Owners Incorporation Section","Ms. TAI Ka Lai, Anna","Land Regn Offr II / RTO 4","2867 5923"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Ms. YIP So Ha, Florence","Asst Regy Mgr / RTO 2","3891 9013"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Mr. YEUNG Yuk Ming, Digga","Land Regn Offr I / RTO 2","3891 9014"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Ms. LAM Pui Lin, Connie","Land Regn Offr I / RTO 3","3891 9017"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Mr. LAI Cheuk Yin, Wilson","Land Regn Offr II / RTO 1","3891 9012"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Mr. LAM Ho Cheung, Andy","Land Regn Offr II / RTO 6","3891 9005"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Ms. LI Sin Lai, Emily","Land Regn Offr II / RTO 7","3891 9011"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Miss IP Miu Ting, Emanda","Land Regn Offr II / RTO 8","3891 9015"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Miss YEUNG Tsz Ying, Judy","Land Regn Offr II / RTO 9","3891 9010"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Mr. HUNG Ching Hei, David","Land Regn Offr II / RTO 10","3891 9016"
+"Land Registry","Reports-on-Title and Owners Incorporation Section,Reports-on-Title Office","Ms. LAM Wai Chun, Irene","SCO / RTO","3891 9018"
+"Land Registry","Deeds Registration and Departmental Services Branch,Information Technology Management Division","","",""
+"Land Registry","Information Technology Management Division,Deeds Registration/Information Technology Section","Ms. FOK Wai Kan, Emily","Senior Systems Manager(Deeds Regn/Infn Tech)","2867 8007"
+"Land Registry","Information Technology Management Division,Deeds Registration/Information Technology Section","Mr. LEUNG Chi Sing, Philip","Systems Manager / Infn Tech(1)","2867 3239"
+"Land Registry","Information Technology Management Division,Deeds Registration/Information Technology Section","Ms. CHAN Fung Yee, Whitney","Ag Systems Manager / Infn Tech(2)","2867 5257"
+"Land Registry","Information Technology Management Division,Deeds Registration/Information Technology Section","Mr. MAK Yat Kin, Kelvin","Con Project Mgr / Infn Tech(3)","2867 2777"
+"Land Registry","Information Technology Management Division,Deeds Registration/Information Technology Section","Mr. KWONG Sek Yuen","Land Regn Offr I / Infn Tech","2867 2873"
+"Land Registry","Information Technology Management Division,Deeds Registration/Information Technology Section","Ms. LAU Kin Lim, Corinna","CO / Infn Tech","2867 4220"
+"Land Registry","Information Technology Management Division,Title Registration Section","Mr. MAK Chun Wai, Andrew","Senior Systems Manager(Title Regn)","2867 4331"
+"Land Registry","Information Technology Management Division,Title Registration Section","Mr. POON Ho Shun, Andrew","Systems Manager / Title Regn(1)","2867 5425"
+"Land Registry","Information Technology Management Division,Title Registration Section","Mr. FONG Chi Wah, Edward","Con Project Mgr / Title Regn(2)","2867 4352"
+"Land Registry","Information Technology Management Division,Title Registration Section","Mr. FONG Wai Hing, Tony","Con Project Mgr / Title Regn(3)","2867 5888"
+"Land Registry","Information Technology Management Division,Title Registration Section","Mr. TSANG Kwok Hung, Patrick","Systems Manager / Title Regn(4)","2867 4448"
+"Land Registry","Information Technology Management Division,Title Registration Section","Mr. CHAN Sze Yan, Steven","Sr Comp. Operator","2634 1186"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Mr. POON Fai Yiu, Kenneth","Dep Regy Mgr / Title Regn 1","2867 5900"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Mrs. LAM TSE Shuk Yee, Cindy","Dep Regy Mgr / Title Regn  2","2867 8052"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Miss KO Sin Man, Shirley","CEO / Title Regn","2867 8066"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Miss CHEUNG Po Ling, Helen","Asst Regy Mgr / Title Regn 1","2867 5985"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Mrs. CHAN TSANG Pik Ling, Alison","Asst Regy Mgr / Title Regn 2","2867 2894"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Ms. CHAN Allan","Asst Regy Mgr / Title Regn 3","2867 5920"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Mr. TANG Man Kit, Henry","Asst Regy Mgr / Title Regn 4","2867 4425"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Mr. CHEUNG Wai Kuen, Andy","Asst Regy Mgr / Title Regn 5","2867 5948"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Ms. LO Wai Ching, Josette","Asst Regy Mgr / Title Regn 6","2867 5986"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Ms. CHANG Sau Har, Belinda","Land Regn Offr I / Title Regn 1","2867 2877"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Miss KWOK Ming Yee, Rita","Land Regn Offr I / Title Regn 2","2867 2570"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Mr. LUI Yiu Wai, Eddie","Land Regn Offr I / Title Regn 3","2867 4282"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Ms. HO Wai Sheung, Kathleen","Land Regn Offr I / Title Regn 4","2867 5826"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Ms. WONG Wai Yee, Rachel","Land Regn Offr I / Title Regn 5","2867 5947"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Miss CHONG Yee Man, Janet","Land Regn Offr I / Title Regn 6","2867 5987"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Ms. WU Sze Man, Vian","Land Regn Offr II / Title Regn 1 (Leave)","2867 5728"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Miss TANG CHAN Fonie, Carisma","Doubling-sideways 50% Land Regn Offr II / Title Regn 1 /  Land Regn Offr II / Title Regn 2","2867 3412"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Miss YUEN Ka Man, Carman","Doubling-sideways 50% Land Regn Offr II / Title Regn 1 / Land Regn Offr II / Title Regn 3","2867 5949"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Miss NG  Lai Ling","CO / Title Regn 1","2867 8071"
+"Land Registry","Deeds Registration and Departmental Services Branch,Title Registration Operation Division","Ms. LAW Ka Pik, Maria","CO / Title Regn 2","2867 5909"
+"Land Registry","Land Registry,Legal Services Branch","Mr. HUI Kwok Hung, Joseph","Deputy Principal Solicitor","2867 8022"
+"Land Registry","Legal Services Branch,Legal Services Division","Mr. LUK Kwan Wai, Wesley","Sr Solicitor 1","2867 8003"
+"Land Registry","Legal Services Branch,Legal Services Division","Ms. LEE Po Kwan, Shirley","Sr Solicitor 2","2867 4779"
+"Land Registry","Legal Services Branch,Legal Services Division","Ms. LIU Sheung Kiu, Louisa","Sr Solicitor 3","2867 8005"
+"Land Registry","Legal Services Branch,Legal Services Division","Ms. KIU Mei Kam, Queenie","Sr Solicitor 4","2867 5759"
+"Land Registry","Legal Services Branch,Legal Services Division","Miss CHAN Siu Ling, Urania","Sr Solicitor 5","2867 8006"
+"Land Registry","Legal Services Branch,Legal Services Division","Miss LAU Pui Ling, Pauline","Solicitor 1","2867 8076"
+"Land Registry","Legal Services Branch,Legal Services Division","Miss NG Kar Yan, Joyce","Solicitor 2","2867 5760"
+"Land Registry","Legal Services Branch,Legal Services Division","Mr. NG Sai Kai","Solicitor 3","2867 4345"
+"Land Registry","Legal Services Branch,Legal Services Division","Mr. CHAU Wing Hong, Eric","Solicitor 4","2867 5757"
+"Land Registry","Legal Services Branch,Legal Services Division","Mr. HUI Ying Shek, Stanley","Solicitor 5","2867 8077"
+"Land Registry","Legal Services Branch,Legal Services Division","Miss CHAN Hoi Yi, Angela","Solicitor 7","2867 5549"
+"Land Registry","Legal Services Branch,Legal Services Division","Ms. SUEN Ka Ling, Kitty","Solicitor 8","2867 8026"
+"Land Registry","Legal Services Branch,Legal Services Division","Miss YUEN Pui Yung, Susanna","Executive Officer II / LSB","2867 5953"
+"Land Registry","Land Registry,Financial Services Branch","Ms. POON Suet Chung, Venelie","Business Mgr","2867 8010"
+"Land Registry","Financial Services Branch,Financial Services Division","Ms. WONG Mei Chun, Peggy","Dep Business Mgr","2867 8009"
+"Land Registry","Financial Services Division,Financial Accounts Section","Ms. YEUNG Wai Shan, Kathleen","Acct Offr I / Financial Acct","2867 8015"
+"Land Registry","Financial Services Division,Financial Accounts Section","Miss WONG Kwan Yin, Jacqueline","Acct Offr II / Financial Acct","2867 4317"
+"Land Registry","Financial Services Division,Financial Accounts Section","Ms. WONG Sau Kiu, Sandy","SCO / FS(2)","2867 5825"
+"Land Registry","Financial Services Division,Financial Accounts Section","Miss KUNG Siu Ping, Kathy","CO / Exp","2867 8072"
+"Land Registry","Financial Services Division,Management Accounts & Subscribers' Accounts Section","Mr. TANG Yuet Sum, Samuel","Treasury Accountant","2867 8038"
+"Land Registry","Financial Services Division,Management Accounts & Subscribers' Accounts Section","Ms. LEE Pui Mei, Sandy","Acct Offr I / Mgt Acct","2867 8014"
+"Land Registry","Financial Services Division,Management Accounts & Subscribers' Accounts Section","Miss WONG Wai Ting, Joanna","Acct Offr II / Mgt Acct","2867 8053"
+"Land Registry","Financial Services Division,Management Accounts & Subscribers' Accounts Section","Ms. LAM Wai Ying, Carris","SCO / FS(1)","2867 8021"
+"Land Registry","Financial Services Division,Management Accounts & Subscribers' Accounts Section","Ms. CHAN Lai Kuen","CO / Rev","2867 8019"
+"Land Registry","Financial Services Division,Supplies Section","Mr. TSE Chi Wai, Will","Supplies Officer / FS","2867 5758"
+"Land Registry","Financial Services Division,Supplies Section","Ms. SOO Yuk Kuen","SS I","2867 8018"
+"Land Registry","Financial Services Division,Title Registration & Indemnity Fund Section","Mr. YIP Ting Yu","Contract Accountant","2867 8037"
+"Land Registry","Financial Services Division,Title Registration & Indemnity Fund Section","Miss TAM Wing Nga, Heidi","Acct Offr II / Title Regn","2867 1543"
+"Land Registry","Financial Services Division,Title Registration & Indemnity Fund Section","Ms. MA Yee Man, Christy","AE","2867 4200"
+"Land Registry","Financial Services Branch,Project Development Division","Miss LI Fong Kwan, Fion","Dep Regy Mgr / Project Dev","2867 2688"
+"Land Registry","Financial Services Branch,Project Development Division","Ms. MAK Kit Hing, Hayley","Asst Regy Mgr / Project Dev","2867 5710"
+"Land Registry","Financial Services Branch,Project Development Division","Mr. TSE Tak Sang, Dickson","Land Regn Offr I / Project Dev","2867 2563"
+"Land Registry","Financial Services Branch,Project Development Division","Miss WONG Kar Yan, Kathy","Land Regn Offr II / Project Dev 1","2867 5705"
+"Land Registry","Financial Services Branch,Project Development Division","Miss TSUI Ka Wing, Panda","Land Regn Offr II / Project Dev 2","2867 5704"
+"Land Registry","Financial Services Branch,Project Development Division","Mr. HO Vai Kun","ACO / Project Dev","2867 5700"
