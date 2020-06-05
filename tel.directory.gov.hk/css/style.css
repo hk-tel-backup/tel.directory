@@ -122,6 +122,7 @@ a.btn_return,a.btn_download, a.btn_return:hover,a.btn_download:hover{
 
 .tbl_dept_contact td.label{
 	width:150px;
+	vertical-align: top;
 }
 
 .tbl_dept_contact_list{
